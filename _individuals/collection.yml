@@ -1,0 +1,16 @@
+collections:
+  individuals:
+    output: true
+    order:
+      - overview.md
+      - Going Through Customs/.keep
+      - Going Through Customs/arrivals.md
+      - Going Through Customs/departure.md
+      - Going Through Customs/offences.md
+      - buying-over-the-internet.md
+      - gst-exemption-for-investment-precious-metals.md
+      - moving-to-singapore.md
+      - importing-personal-pets.md
+      - importing-dutiable-motor-vehicles.md
+      - home-brewed-beer-and-other-fermented-liquors.md
+      - transfer-of-remains-for-cremation-or-burial.md

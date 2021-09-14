@@ -1,0 +1,98 @@
+---
+title: Licensed Premises for Liquor & Tobacco Products
+permalink: /businesses/business-resources/directories-of-service-providers/licensed-premises-for-liquor-tobacco-products
+third_nav_title: Directories of Service Providers
+---
+
+# Licensed Premises for Liquor & Tobacco Products
+
+-   3R Bonded Warehouse Pte. Ltd.
+-   6DM (S) Pte. Ltd.
+-   ABV Logistics Pte Ltd
+-   Air Market Logistics (S) Pte. Ltd.Alfa International Pte. Ltd.
+-   Allport Cargo Services Logistics Pte. Limited
+-   Angra Wine & Spirits Importers Pte Ltd
+-   Ang Leong Huat (Pte.) Limited
+-   ANTS Logistics Pte Ltd
+-   Ariki Pte Ltd
+-   Ayzo Pte. Ltd.
+-   Beni Warehousing Pte. Ltd.
+-   Bollore Logistics Singapore Pte. Ltd.
+-   British-American Tobacco (Singapore) Private Limited
+-   Cellar Solution
+-   Century Wines & Spirits Pte. Ltd.
+-   Changi Airport Group (Singapore) Pte. Ltd
+-   Con-Lash Supplies Pte. Ltd.
+-   Culina Pte. Ltd.
+-   DFS Venture Singapore (Pte) Limited
+-   Distillery Industries (S) Pte. Ltd.
+-   DMPL Pte. Ltd.
+-   DNATA Singapore Pte. Ltd.
+-   Epicurean Nomads Pte Ltd
+-   Eurotrans Supplies Pte. Ltd.
+-   Everise Warehousing & Transportation (Pte) Ltd
+-   Fair Breeze Trading Pte Ltd
+-   Fine Art Logistics Natural Le Coultre Pte. Ltd.
+-   Fine Art Storage Services Pte. Ltd.
+-   Fuji Trading (Singapore) Private Limited
+-   GKE Warehousing & Logistics Pte Ltd
+-   HMS Far East Pte. Ltd.
+-   Hock Tong Bee (Private) Limited
+-   Infinite Supply Pte. Ltd.
+-   Interlocal Exim Pte Ltd
+-   Jay & B Trading Pte. Ltd.
+-   JH Warehouse (S) Pte. Ltd.
+-   Joo Long Transport & Stevedoring Pte Ltd
+-   Kaimay Trading Pte. Ltd.
+-   KDS Global Logistics (S) Pte. Ltd.
+-   Keppel Logistics Pte. Ltd.
+-   Kerry Logistics Centre (Tampines) Pte. Ltd.
+-   Kirei Japanese Food Supply Pte. Ltd.
+-   LC Warehousing Pte. Ltd.
+-   Letat Agencies (Pte.) Limited
+-   LF Logistics Services Pte. Ltd.
+-   Logistics Solutions Hub Pte. Ltd.
+-   Lubritrade Trading Pte Ltd
+-   Magnum Spirits & Wine Pte Ltd
+-   Maybev Pte. Ltd.
+-   MGB Logistics Pte. Ltd.
+-   New Port Duty Free Pte. Ltd.
+-   Oceanic Trading Co. Pte. Ltd.
+-   Octopus Investment Pte Ltd
+-   Pacific Beverages Pte. Ltd.
+-   Pacific Integrated Logistics Pte Ltd
+-   Pan Ocean Transport Pte. Ltd.
+-   Platinum Wines & Spirits Pte. Ltd.
+-   Premium Global Mobility
+-   Reliance Products Pte. Ltd.
+-   RS Bonded Logistics (S) Pte. Ltd.
+-   Sankyu (Singapore) Pte Ltd
+-   SATS Catering Pte Ltd
+-   Shin Tai Ho & Co (Pte) Ltd
+-   Singapore Airlines Limited
+-   Singapore Wine Vault Pte. Ltd.
+-   Sinwa (Singapore) Pte Ltd
+-   Storebest-SSHK Cold Logistics Pte. Ltd.
+-   SUTL Corporation Pte Ltd
+-   T.W.I Wines & Spirits Pte. Ltd
+-   TBL Asia Pacific Hub Pte. Ltd.
+-   Thai-Pore Enterprise Pte Ltd
+-   The Cellar Door Pte Ltd
+-   The Oaks Cellars Pte Ltd
+-   Toll (TZ) Pte. Ltd
+-   Triways Logistics (Singapore) Pte. Ltd.
+-   True Heritage Brew (Singapore) Pte. Ltd.
+-   Vinum Pte. Ltd.
+-   Warehouse and Logistics Solution Pte. Ltd.
+-   Warehouse Logistics Net Asia Pte Ltd
+-   Wine & Whisky Pte. Ltd.
+-   Wine Bond Pte. Ltd.
+-   Wine Culture Pte Ltd
+-   Wingglen Private Limited
+-   Wrist Far East (Singapore) Pte Ltd
+-   WYN2000 Transport & Container Services Pte Ltd
+-   XPO Logistics Worldwide Asia Pacific Pte. Ltd.
+-   YCH Global Logistics Pte Ltd
+-   Yen Investments Pte Ltd
+
+Download the list of licensed premises for liquor and tobacco products [here](/documents/businesses/Licensed-Premised-for-Liquor-Tobacco-Products-201119.pdf).

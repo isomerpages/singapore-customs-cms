@@ -72,34 +72,18 @@ $desktop: 960px + (2 * $gap) !default;
     -webkit-background-size: cover;
     background-size: cover;
   }
+
   &-gradient{
-    background: #b41e8e;
-    background: -moz-linear-gradient(45deg, #b41e8e 0%, #5c3f9e 50%, #0061af 100%);
-    background: -webkit-linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
-    background: linear-gradient(45deg, #b41e8e 0%,#5c3f9e 50%,#0061af 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b41e8e', endColorstr='#0061af',GradientType=1 );
+    background-color: $primary;
   }
   &-singpass{
-    background: #be2e7d; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #be2e7d 0%, #d64e54 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #be2e7d 0%,#d64e54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be2e7d', endColorstr='#d64e54',GradientType=1 ); /*IE6-9 fallback on horizontal gradient*/
+    background-color: $primary;
   }
   &-beeline{
-    background: #009d62; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #009d62 0%, #0094d3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #009d62 0%,#0094d3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009d62', endColorstr='#0094d3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+    background-color: $primary;
   }
   &-parkingsg{
-    background: #0164b6; /* Old browsers */
-    background: -moz-linear-gradient(45deg, #0164b6 0%, #04a4e3 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #0164b6 0%,#04a4e3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0164b6', endColorstr='#04a4e3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    background-color: $primary;
   }
 }
 
@@ -253,6 +237,65 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+// Dennis tweak to adjust font size of carousel in main page
+#main-content{
+  .owl-carousel{
+    .owl-item{
+      div.is-3{
+        h3{
+          word-break: break-word;
+          overflow-wrap: break-word;
+          font-size: 1.75rem;
+          line-height: 2rem;
+        }
+      }
+    }
+  }
+}
+// End of Dennis tweak to adjust font size of carousel in main page
+
+//Dennis tweak to make notification in main page not block the hero image
+#main-content{
+  .bp-notification{
+    position: relative;
+  }
+}
+//End of Dennis tweak to make notification in main page not block the hero image
+
+//Dennis tweak to reorder the news section above NTP
+/*#main-content {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.bg-hero {
+  order: 1;
+}
+
+#key-highlights {
+  order: 2;
+}
+
+.bp-section{
+  order: 4;
+}
+
+.bp-section {
+  &.bg-newssection {
+    order: 3;
+  }
+}
+*/
+//End of Dennis tweak to reorder the news section above NTP
+
 // Post-content
 .content {
 	h1, h2, h3, h4, h5 {
@@ -263,13 +306,54 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote {
 		border-left-color: $secondary;
+    border-left: 0;
+    padding: 1em 0 0 0;
 	}
 	blockquote > p {
 		color: $secondary;
+    font-size: smaller;
+    line-height: 1.5rem;
 	}
 	blockquote > ul {
 		color: $secondary;
 	}
+
+//Dennis tweak to ensure images on website will not display beyond original image size
+  img {
+    //width: auto; //Dennis uncommented this to fix blue box images showing too big in IE
+    max-width: max-content;
+  }
+//End of Dennis tweak to ensure images on website will not display beyond original image size
+
+// Dennis tweak to use tbody instead of tr for table row
+  table{
+    tbody {
+     border-color: #d6d6d6;
+     border-style: solid;
+     border-width: 0 0 2px; 
+    }
+    td{
+      border: 0;
+    }
+  }
+
+// End of Dennis tweak to use tbody instead of tr for table row
+
+// Dennis tweak to display table cell as a column in mobile
+    table.mobile-block{
+      tbody{
+        border-width: 0;
+      }
+    }
+    @media screen and (max-width: 600px){
+      table.mobile-block{
+        td{
+          display: block;
+        }
+      }
+    }
+// Dennis tweak to display table cell as a column in mobile
+
 }
 
 // Media category buttons - not used now but will be used in the future
@@ -335,3 +419,46 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+	  
+.bp-hero-body {
+	background: unset;
+}
+
+//Dennis tweak to not display pdf icon before all pdf links
+a[href$=".pdf"]:before {   
+    content: none;
+}
+
+a[href$=".pdf"]{
+  margin-left: 0;
+}
+//End of Dennis tweak to not display pdf icon before all pdf links
+
+//Dennis tweak to show list as responsive cards
+ul.card-list{
+  list-style-type: none;
+  li{
+    display: inline-block;
+    border: 1px solid #d6d6d6;
+    padding: 1rem;
+    margin: 0;
+    width: 250px;
+    height: 320px;
+    text-align: center;
+  }
+}
+//End of Dennis tweak to show list as responsive cards
+
+//Dennis tweak so that hero banner will not be too narrow on ipad
+@media screen and (min-width: 500px){
+  #main-content{
+    section.bp-hero{
+      .bp-hero-body{
+        .row{
+          min-height: 13rem;
+        }
+      }
+    }
+  }
+}
+//End of Dennis tweak so that hero banner will not be too narrow on ipad

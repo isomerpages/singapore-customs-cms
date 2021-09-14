@@ -1,0 +1,169 @@
+---
+title: Licensed Premises for Zero-GST Goods
+permalink: /businesses/business-resources/directories-of-service-providers/licensed-premises-for-zero-gst-goods
+third_nav_title: Directories of Service Providers
+---
+
+# Licensed Premises for Zero-GST Goods
+
+-   “K” Line Logistics (Singapore) Pte. Ltd.
+-   ACW Logistics Pte. Ltd.
+-   Addicon Logistics Management (S) Pte Ltd
+-   Agility International Logistics Pte. Ltd.
+-   AGX Logistics (S) Pte Ltd
+-   Air Market Logistics (S) Pte. Ltd.
+-   All Industrial Manufacturing Pte. Ltd.
+-   Allport Cargo Services Logistics Pte. Ltd.
+-   ALPS Logistics (S) Pte Ltd
+-   ANTS Logistics Pte Ltd
+-   APL Logistics Ltd
+-   AW Transport & Warehousing Pte Ltd
+-   BDP (Asia Pacific) Pte. Ltd.
+-   Beni Warehousing Pte. Ltd.
+-   Bertschi Singapore Pte. Ltd.
+-   Bok Seng Logistics Private Limited
+-   Bollore Logistics Singapore Pte. Ltd.
+-   Brink’s Global Services Pte. Ltd.
+-   C & P Holdings Pte Ltd
+-   C. Steinweg Warehousing (F.E.) Pte. Ltd.
+-   CBG Logistics (S) Pte. Ltd.
+-   Certis CISCO Security Pte. Ltd.
+-   CEVA Logistics Singapore Pte. Ltd.
+-   Cook South East Asia Pte. Ltd.
+-   Crown Worldwide Pte Ltd
+-   CST Container Services Pte Ltd
+-   CWT Commodities Logistics Pte Ltd
+-   CWT Pte. Limited
+-   Dascher (Singapore) Pte. Ltd.
+-   DG Packaging Pte. Ltd
+-   DHL Global Forwarding (Singapore) Pte. Ltd.
+-   DHL Supply Chain Singapore Pte. Ltd.
+-   DKSH Singapore Pte. Ltd.
+-   DNKH Logistics Pte. Ltd.
+-   DSV Solutions Pte. Ltd.
+-   Eng Lee Logistics Pte Ltd
+-   EOP21 Pte. Ltd.
+-   Euro Pac Logistics Pte. Ltd.
+-   Ever Glory Logistics Pte Ltd
+-   Ever Green Freight Forwarder
+-   Everise Warehousing & Transportation (Pte) Ltd
+-   Fine Art Logistics Natural Le Coultre Pte. Ltd.
+-   Fine Art Storage Services Pte. Ltd.
+-   Forcom Phase to Phase Pte. Ltd.
+-   Freight Links Logistics Pte. Ltd.
+-   GAC (Singapore) Pte Ltd
+-   Gebruder Weiss Pte. Ltd.
+-   Geodis Singapore Pte. Ltd.
+-   GKE Warehousing & Logistics Pte Ltd
+-   Global Specialised Services Pte. Ltd.
+-   GLTC Logistics Pte. Ltd.
+-   GMC Group Pte Ltd
+-   Goodlink Shipping Services Pte Ltd
+-   Griffin Kinetic Pte Ltd
+-   Groz-Beckert East Asia LLP
+-   H&M Metal Warehousing (S) Pte. Ltd.
+-   Halcon Primo Logistics Pte. Ltd.
+-   Hankyu Hanshin Express (Singapore) Pte. Ltd.
+-   Hawk Forwarders Pte Ltd
+-   Heah Long Seng Transport & Trading Pte Ltd
+-   Helu-trans (S) Private Limited
+-   Helutrans Artmove (S) Pte. Ltd.
+-   Hitachi Transport System (Asia) Pte. Ltd.
+-   HL Group (S) Pte. Ltd.
+-   Hock Teoh Huat Transport Private Limited
+-   I.M. Freight International
+-   Intas Pte Ltd
+-   Jacobson Global Logistics (Singapore) Pte. Limited
+-   JSI Logistics (S) Pte Ltd
+-   JVCKenwood Technologies Singapore Pte. Ltd.
+-   K.C. Dat (Singapore) Private Limited
+-   Katoen Natie Singapore (Jurong) Pte. Ltd.
+-   KDS Global Logistics (S) Pte. Ltd.
+-   Keppel Logistics Pte. Ltd.
+-   Kerry Logistics Centre (Tampines) Pte. Ltd.
+-   Kim Ee Logistics (Pte) Ltd
+-   Kuehne + Nagel Pte. Ltd.
+-   KWE-Kintetsu World Express (S) Pte Ltd
+-   Lai Hock Transport Packing Services Pte. Ltd.
+-   LF Logistics Services Pte. Ltd.
+-   Link Healthcare Singapore Pte. Ltd.
+-   Logwin Air + Ocean Singapore Pte. Ltd.
+-   Loomis International (SG) Pte. Ltd.
+-   Lotte Global Logistics (Singapore) Pte. Ltd.
+-   LQ Logistics Pte Ltd
+-   LTH Logistics (Singapore) Pte Ltd
+-   LV Shipping Singapore Pte. Ltd.
+-   Malca-Amit Singapore Pte. Ltd.
+-   Marquis Services Pte Ltd
+-   Masindo Logistic Pte. Ltd.
+-   Mentor Media Pte Ltd
+-   Mitsui & Co. Global Logistics (Asia) Pte. Ltd.
+-   Mitsui-Soko (Singapore) Pte Ltd
+-   Naigai Nitto Singapore Pte Ltd
+-   Nippon Express (Singapore) Pte Ltd
+-   Nissin Transport (S) Pte Ltd
+-   NNR Global Logistics (S) Pte. Ltd.
+-   OTT Logisitics Singapore Pte. Ltd.
+-   Oxford Alloys Asia Pacific Pte. Ltd.
+-   Pacific Integrated Logistics Pte Ltd
+-   Pan Asia Logistics Singapore Pte Ltd
+-   Pan Ocean Transport Pte. Ltd.
+-   Panalpina World Transport (Singapore) Pte. Ltd.
+-   Peck Tiong Choon Logistics Pte Ltd
+-   Poh Tiong Choon Logistics Limited
+-   Premium Logistics Pte. Ltd.
+-   Pumas Logistics Pte. Ltd.
+-   Quantinum Solutions (Singapore) Pte. Ltd.
+-   RAKS International Pte. Ltd.
+-   Realfast Marine (S) Pte. Ltd.
+-   Reliance Products Pte. Ltd.
+-   Rio Logistics (S) Pte. Ltd.
+-   S.E.T. Logistics Pte. Ltd.
+-   Sankyu (Singapore) Pte Ltd
+-   Schenker Singapore (Pte) Ltd
+-   Sea-Shore Transportation Pte Ltd
+-   Seo Eng Joo Frozen Food Pte Ltd
+-   Serial Microelectronics Pte Ltd
+-   SG Sagawa Ameroid Pte. Ltd.
+-   SH Cogent Logistics Pte Ltd
+-   Sharikat Logistics Pte. Ltd.
+-   Shimano (Singapore) Private Limited
+-   Shipping World Logistics Pte Ltd
+-   Sin Hin Hang Logisitcs Pte Ltd
+-   Singapore Precious Metals Exchange Pte. Ltd.
+-   SKF Asia Pacific Pte. Ltd.
+-   SKK Freight Services Pte Ltd
+-   SMJ Furnishings (S) Pte Ltd
+-   Soon Hoe Logistics Pte. Ltd.
+-   Speedmark Logistics Pte Ltd
+-   Spiral Transportation & Services Pte Ltd
+-   ST Logistics Pte. Ltd.
+-   Store + Deliver + Logistics Pte Ltd
+-   Sumitomo Warehouse (Singapore) Pte. Ltd.
+-   Sunbo Holdings Pte. Ltd.
+-   Sysmex Asia Pacific Pte. Ltd.
+-   Taiun (SIN) Pte. Ltd.
+-   Tanny Services Pte Ltd
+-   Teckwah Logistics Pte. Ltd.
+-   The National Forwarder (Singapore) Pte. Ltd.
+-   The Safe House SG Pte. Ltd.
+-   THT Logistics Pte. Ltd.
+-   Tiong Nam Logistics (S) Pte. Ltd.
+-   Toll Logistics (Asia) Limited
+-   Toshiba Logistics (Singapore) Pte. Ltd.
+-   Transit Air Cargo Singapore Pte Ltd
+-   Triways Logistics (Singapore) Pte. Ltd.
+-   UBTS Pte Ltd
+-   U-Freight Singapore Pte Ltd
+-   Uniserve EDGC Pte. Ltd.
+-   UTC Logistics Pte. Ltd.
+-   WHS Global Logistics Pte. Ltd.
+-   WYN2000 Transport & Container Services Pte Ltd
+-   XPO Logistics Worldwide Asia Pacific Pte. Ltd.
+-   Yamato Transport (S) Pte. Ltd.
+-   Yang Kee Logistics (Singapore) Pte. Ltd.
+-   YCH Global Logistics Pte Ltd
+-   Yusen Logistics (Singapore) Pte. Ltd.
+-   Zuellig Pharma Specialty Solutions Group Pte. Ltd.
+
+Download the list of licensed premises for Zero-GST goods [here](/documents/businesses/Licensed-Premises-for-ZeroGST-Goods-201119.pdf).

@@ -1,0 +1,9 @@
+collections:
+  registration-security-lodgement:
+    output: true
+    order:
+      - Security Lodgement/.keep
+      - Security Lodgement/what-is-the-amount-of-security-required.md
+      - Security Lodgement/how-to-lodge-security.md
+      - Security Lodgement/electronic-banker-s-guarantee-programme.md
+      - Security Lodgement/how-to-renew-extend-discharge-security.md

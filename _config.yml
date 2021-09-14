@@ -1,25 +1,27 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: Singapore Customs
+url: https://customs.gov.sg
+favicon: /images/favicon.png
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#20639b'
+  secondary-color: '#041D42'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#A2AAAD'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#20639B'
     - title: media-color-three
-      color: '#00838f'
+      color: '#990000'
     - title: media-color-four
-      color: '#00838f'
+      color: '#5B6B79'
     - title: media-color-five
-      color: '#00838f'
+      color: '#041D42'
 
-description: An Isomer site of the Singapore Government
+resources_name: news-and-media
 
+
+google_analytics: UA-70503404-1
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
@@ -38,11 +40,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://singapore-customs-staging.netlify.app/
+prod: https://singapore-customs-prod.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://customs-test-migrate-staging.netlify.app
-prod: https://customs-test-migrate-prod.netlify.app

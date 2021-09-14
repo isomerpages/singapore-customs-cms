@@ -1,0 +1,12 @@
+collections:
+  certificates-of-origin:
+    output: true
+    order:
+      - Certificates of Origin/.keep
+      - Certificates of Origin/how-to-apply-for-ordinary-certificate-of-origin-oco-or-preferrential-certificate-of-origin-pco.md
+      - Certificates of Origin/how-to-apply-for-a-back-to-back-preferential-certificate-of-origin.md
+      - Certificates of Origin/how-to-cancel-or-amend-a-certificate-of-origin-co-issued-by-customs.md
+      - Certificates of Origin/electronic-exchange-of-form-d-via-the-asean-single-window-asw.md
+      - Certificates of Origin/electronic-origin-data-exchange-system-eodes-with-china.md
+      - Certificates of Origin/best-practices-and-offences.md
+      - Certificates of Origin/asean-wide-self-certification-scheme.md

@@ -1,0 +1,121 @@
+collections:
+  businesses:
+    output: true
+    order:
+      - overview.md
+      - New Traders And Registration Services/.keep
+      - New Traders And Registration Services/overview.md
+      - New Traders And Registration Services/registration-services.md
+      - Importing Goods/.keep
+      - Importing Goods/overview.md
+      - Importing Goods/controlled-prohibited-goods-for-import.md
+      - Importing Goods/overlanded-and-shortlanded-goods.md
+      - Importing Goods/import-procedures.md
+      - Importing Goods/temporary-import-scheme.md
+      - Importing Goods/importing-dutiable-motor-vehicles.md
+      - Exporting Goods/.keep
+      - Exporting Goods/overview.md
+      - Exporting Goods/controlled-and-prohibited-goods-for-export.md
+      - Exporting Goods/export-procedures.md
+      - Transhipping Goods/.keep
+      - Transhipping Goods/overview.md
+      - Transhipping Goods/controlled-and-prohibited-goods-for-transhipment.md
+      - Transhipping Goods/transhipment-procedures.md
+      - National Single Window/.keep
+      - National Single Window/overview.md
+      - National Single Window/tradenet.md
+      - National Single Window/networked-trade-platform.md
+      - ASEAN Customs Transit System (ACTS)/.keep
+      - ASEAN Customs Transit System (ACTS)/overview.md
+      - ASEAN Customs Transit System (ACTS)  /.keep
+      - ASEAN Customs Transit System (ACTS)  /registration-and-acts-declaration.md
+      - International Data Exchange/.keep
+      - International Data Exchange/asean-customs-declaration-document-acdd.md
+      - Valuation, Duties, Taxes & Fees/.keep
+      - Valuation, Duties, Taxes & Fees/overview.md
+      - Valuation, Duties, Taxes & Fees/establishing-customs-value-for-imports.md
+      - Valuation, Duties, Taxes & Fees/duties-and-dutiable-goods.md
+      - Valuation, Duties, Taxes & Fees/goods-and-services-tax-gst.md
+      - Valuation, Duties, Taxes & Fees/refund-of-duties-gst.md
+      - Valuation, Duties, Taxes & Fees/application-for-customs-ruling-on-valuation.md
+      - Valuation, Duties, Taxes & Fees/permits-documentation-and-other-fees.md
+      - Valuation, Duties, Taxes & Fees/singapore-duty-paid-cigarette-sdpc-mark.md
+      - Valuation, Duties, Taxes & Fees/e-learning-resources.md
+      - Harmonised System (HS) Classification of Goods/.keep
+      - Harmonised System (HS) Classification of Goods/understanding-hs-classification.md
+      - Harmonised System (HS) Classification of Goods/find-my-harmonised-system-code.md
+      - Harmonised System (HS) Classification of Goods/classifying-my-products.md
+      - Harmonised System (HS) Classification of Goods/application-for-customs-ruling-on-classification-of-goods.md
+      - Certificates of Origin/.keep
+      - Certificates of Origin/overview.md
+      - Certificates of Origin/claiming-preferential-tariff-treatment-for-dutiable-imports.md
+      - Certificates of Origin/application-for-customs-ruling-on-origin-determination-of-goods.md
+      - Customs' Schemes, Licences & Framework/.keep
+      - Customs' Schemes, Licences & Framework/overview.md
+      - Customs' Schemes, Licences & Framework/trade-first.md
+      - Customs' Schemes, Licences & Framework/air-store-bond-scheme.md
+      - Customs' Schemes, Licences & Framework/apex-licence.md
+      - Customs' Schemes, Licences & Framework/bonded-truck-scheme.md
+      - Customs' Schemes, Licences & Framework/cargo-agent-s-import-authorisation-scheme.md
+      - Customs' Schemes, Licences & Framework/chemical-weapons-convention-cwc-licence.md
+      - Customs' Schemes, Licences & Framework/company-declaration-scheme.md
+      - Customs' Schemes, Licences & Framework/consolidated-declaration.md
+      - Customs' Schemes, Licences & Framework/container-freight-warehouse-licence.md
+      - Customs' Schemes, Licences & Framework/duty-free-shop-scheme.md
+      - Customs' Schemes, Licences & Framework/excise-factory-scheme.md
+      - Customs' Schemes, Licences & Framework/industrial-exemption-factory-scheme.md
+      - Customs' Schemes, Licences & Framework/kimberley-process-certification-scheme.md
+      - Customs' Schemes, Licences & Framework/licensed-warehouse-scheme.md
+      - Customs' Schemes, Licences & Framework/petroleum-and-biodiesel-blends-licences.md
+      - Customs' Schemes, Licences & Framework/secure-trade-partnership-stp-stp-plus.md
+      - Customs' Schemes, Licences & Framework/export-transhipment-and-transit.md
+      - Customs' Schemes, Licences & Framework/zero-gst-warehouse-scheme.md
+      - Customs' Schemes, Licences & Framework/iras-scheme.md
+      - trade-security-in-singapore.md
+      - Strategic Goods Control/.keep
+      - Strategic Goods Control/overview.md
+      - Strategic Goods Control/strategic-goods-control-list.md
+      - Strategic Goods Control/permit-and-registration-requirements.md
+      - Strategic Goods Control/import-certificate-and-delivery-verification.md
+      - Strategic Goods Control/sanctioned-lists-and-red-flags.md
+      - Strategic Goods Control /.keep
+      - Strategic Goods Control /courses-events.md
+      - Strategic Goods Control/resources.md
+      - Strategic Goods Control/useful-links.md
+      - Chemical Weapons Convention (CWC)/.keep
+      - Chemical Weapons Convention (CWC)/introduction.md
+      - Chemical Weapons Convention (CWC)/announcement.md
+      - Chemical Weapons Convention (CWC)/legislation.md
+      - Chemical Weapons Convention (CWC)/controlled-chemicals.md
+      - Chemical Weapons Convention (CWC)/licensing-requirements.md
+      - Chemical Weapons Convention (CWC)/importing-of-na-cwc-controlled-items.md
+      - Chemical Weapons Convention (CWC)/exporting-of-na-cwc-controlled-items.md
+      - Chemical Weapons Convention (CWC)/declarations.md
+      - Chemical Weapons Convention (CWC)/inspections.md
+      - Chemical Weapons Convention (CWC)/offences.md
+      - Chemical Weapons Convention (CWC)/glossary.md
+      - Chemical Weapons Convention (CWC)/useful-links.md
+      - united-nations-security-council-sanctions.md
+      - border-enforcement-of-intellectual-property-rights.md
+      - Compliance/.keep
+      - Compliance/overview.md
+      - Compliance/self-compliance.md
+      - Compliance/customs-compliance-toolkit.md
+      - Compliance/e-learning-for-handling-of-lcl-consolidated-cargoes.md
+      - Compliance/post-clearance-audit.md
+      - Compliance/offences-penalties.md
+      - Compliance/voluntary-disclosure-programme.md
+      - Acts and Subsidiary Legislation/.keep
+      - Acts and Subsidiary Legislation/overview.md
+      - Acts and Subsidiary Legislation/customs-act.md
+      - Acts and Subsidiary Legislation/goods-and-services-tax.md
+      - Acts and Subsidiary Legislation/regulation-of-imports-and-exports-act.md
+      - Acts and Subsidiary Legislation/free-trade-zones-act.md
+      - Acts and Subsidiary Legislation/strategic-goods-control-act.md
+      - Acts and Subsidiary Legislation/chemical-weapons-prohibition-act.md
+      - Business Resources/.keep
+      - Business Resources/country-region-port-code-search.md
+      - Business Resources/strategic-goods-control-list.md
+      - Business Resources/directories-of-service-providers.md
+      - Business Resources/courses-and-events.md
+      - Business Resources/e-learning.md
