@@ -473,5 +473,5 @@ ul.jekyllcodex_accordion > li > input:checked + label {font-weight: bold;}
 ul.jekyllcodex_accordion > li > input:checked + label + div {display: block;}
 ul.jekyllcodex_accordion > li > label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
 ul.jekyllcodex_accordion > li > input:checked + label::before {transform: rotate(-45deg);}
-ul.jekyllcodex_accordion > li > ul > li { list-style-type: disc; border-top: 0; }
-ul.jekyllcodex_accordion > li > ol > li { list-style-type: decimal; border-top: 0; }
+ul.jekyllcodex_accordion > li > div > ul > li { list-style-type: disc; border-top: 0; }
+ul.jekyllcodex_accordion > li > div > ol > li { list-style-type: decimal; border-top: 0; }
