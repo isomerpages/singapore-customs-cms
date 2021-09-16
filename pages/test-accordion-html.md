@@ -2,9 +2,10 @@
 title: Test accordion html
 permalink: /test-accordion-html
 ---
+Line before the new accordion
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
+    <input id="accordion1" type="checkbox">
     <label for="accordion1">Simple</label>
     <div>
       <p>This is a simple one line item</p>
@@ -12,7 +13,7 @@ permalink: /test-accordion-html
 	</li>
     
   <li>
-    <input type="checkbox" id="accordion2">
+    <input id="accordion2" type="checkbox">
     <label for="accordion2">Multi-line Block</label>
     <div>
       <p>This is line 1</p>
@@ -22,7 +23,7 @@ permalink: /test-accordion-html
   </li>
   
   <li>
-    <input type="checkbox" id="accordion3">
+    <input id="accordion3" type="checkbox">
     <label for="accordion3">Multi-line Folded</label>
     <div>
       <p>
@@ -33,7 +34,7 @@ permalink: /test-accordion-html
   </li>
     
   <li>
-    <input type="checkbox" id="accordion4">
+    <input id="accordion4" type="checkbox">
     <label for="accordion4">Ordered List</label>
     <div>
       <ol>
@@ -45,7 +46,7 @@ permalink: /test-accordion-html
   </li>
     
   <li>
-    <input type="checkbox" id="accordion5">
+    <input id="accordion5" type="checkbox">
     <label for="accordion5">Unordered List</label>
     <div>
       <ul>
@@ -56,3 +57,5 @@ permalink: /test-accordion-html
     </div>
   </li>
 </ul>
+
+Line after the new accordion
