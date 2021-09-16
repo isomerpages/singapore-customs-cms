@@ -1,7 +1,8 @@
 ---
-title: Test accordion
-permalink: /test-accordion
+title: Test accordion html
+permalink: /test-accordion-html
 ---
+
 # Accordion Sample
 
 This is the line before accordion
