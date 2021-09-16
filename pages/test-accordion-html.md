@@ -5,7 +5,7 @@ permalink: /test-accordion-html
 Line before the new accordion
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion1" type="checkbox">
+    <input type="checkbox" id="accordion1">
     <label for="accordion1">Simple</label>
     <div>
       <p>This is a simple one line item</p>
@@ -13,7 +13,7 @@ Line before the new accordion
 	</li>
     
   <li>
-    <input id="accordion2" type="checkbox">
+    <input type="checkbox" id="accordion2">
     <label for="accordion2">Multi-line Block</label>
     <div>
       <p>This is line 1</p>
@@ -23,7 +23,7 @@ Line before the new accordion
   </li>
   
   <li>
-    <input id="accordion3" type="checkbox">
+    <input type="checkbox" id="accordion3">
     <label for="accordion3">Multi-line Folded</label>
     <div>
       <p>
@@ -34,7 +34,7 @@ Line before the new accordion
   </li>
     
   <li>
-    <input id="accordion4" type="checkbox">
+    <input type="checkbox" id="accordion4">
     <label for="accordion4">Ordered List</label>
     <div>
       <ol>
@@ -46,7 +46,7 @@ Line before the new accordion
   </li>
     
   <li>
-    <input id="accordion5" type="checkbox">
+    <input type="checkbox" id="accordion5">
     <label for="accordion5">Unordered List</label>
     <div>
       <ul>
