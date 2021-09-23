@@ -10,8 +10,7 @@ Line before the new accordion
     <div>
       <p>This is a simple one line item</p>
     </div>
-	</li>
-    
+	</li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Multi-line Block</label>
@@ -21,7 +20,6 @@ Line before the new accordion
         This is line 3</p>
     </div>
   </li>
-  
   <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Multi-line Folded</label>
@@ -32,7 +30,6 @@ Line before the new accordion
       </p>
     </div>
   </li>
-    
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Ordered List</label>
@@ -58,4 +55,23 @@ Line before the new accordion
   </li>
 </ul>
 
-Line after the new accordion
+To add new accordion, simply copy the text below
+```
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+```
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
