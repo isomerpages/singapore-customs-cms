@@ -2,11 +2,7 @@
 title: Importing Dutiable Motor Vehicles 
 permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles
 third_nav_title: Importing Goods
-accordion:
-  - title: Customs Control*
-    content: <br> Goods are deemed to be under customs control when they are in any free trade zone, Government warehouse, licensed warehouse, bottling warehouse, post office or any place from which they may not be removed except with the permission of the proper officer of Singapore Customs. <br>
-  - title: Free Trade Zone^
-    content: <br>  A Free Trade Zone (FTZ) is a demarcated area meant to facilitate entrepot trade and transhipment activities; where goods may be landed, handled, stored, re-exported or brought into Singapore. Duties and/or GST are not levied on goods brought into the FTZ until they are removed from the FTZ for use or sale in Singapore. <br>
+
 ---
 
 # Guide to Importing Dutiable Motor Vehicles
@@ -46,7 +42,21 @@ Once the In-payment (Duty and GST) permit is approved, the importer may use the 
 
 Importers who wish to register their imported cars for usage on public roads should check with the LTA on their registration requirements and fees.
 
-{% include accordion.html %}
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Customs Control*</label>
+    <div>
+      <p>Goods are deemed to be under customs control when they are in any free trade zone, Government warehouse, licensed warehouse, bottling warehouse, post office or any place from which they may not be removed except with the permission of the proper officer of Singapore Customs.</p>
+    </div>
+  </li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Free Trade Zone^</label>
+    <div>
+      <p>A Free Trade Zone (FTZ) is a demarcated area meant to facilitate entrepot trade and transhipment activities; where goods may be landed, handled, stored, re-exported or brought into Singapore. Duties and/or GST are not levied on goods brought into the FTZ until they are removed from the FTZ for use or sale in Singapore.</p>
+    </div>
+</ul>
 
 ## For more information on: 
 
