@@ -2,5 +2,4 @@ collections:
   new-folder:
     output: true
     order:
-      - Subfolder test/.keep
       - Example Title.md
