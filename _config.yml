@@ -42,8 +42,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
 
-staging: https://singapore-customs-staging.netlify.app/
-prod: https://singapore-customs-prod.netlify.app/
+staging: https://customs-test-migrate-staging.netlify.app
+prod: https://customs-test-migrate-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
