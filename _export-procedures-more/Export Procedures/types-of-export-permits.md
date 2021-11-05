@@ -13,7 +13,7 @@ third_nav_title: Export Procedures
 |              | Temporary Consignments <br>Export of Goods under Temporary Import Scheme \(TIS\)<br>- For exhibition with sales or auctions <br>- For other purposes <br>- For repair <br>- Re-imported goods      | <br><br>TCS<br>TCO<br> TCR<br> TCI |
 
 
-Obtain a  [complete list](/documents/businesses/complete-list-trade-nett.pdf) of TradeNet permit declaration types.
+Obtain a  [complete list](/files/businesses/complete-list-trade-nett.pdf) of TradeNet permit declaration types.
 
 All Customs permit applications must be submitted via TradeNet, accessible through:
 
@@ -29,9 +29,9 @@ Each permit application typically costs S$2.88. If you are engaging a declaring 
 
 ## TradeNet Unavailability
 
-In the event of TradeNet unavailability announced by Singapore Customs, exporters who are unable to obtain an approved permit should use a  [Letter of Undertaking](/documents/businesses/lou-template-for-tn-unavailability-6aug15-(2).docx)  for the clearance of their goods. The exporter will have to obtain a permit within 3 days from the date TradeNet is restored.
+In the event of TradeNet unavailability announced by Singapore Customs, exporters who are unable to obtain an approved permit should use a  [Letter of Undertaking](/files/businesses/lou-template-for-tn-unavailability-6aug15-(2).docx)  for the clearance of their goods. The exporter will have to obtain a permit within 3 days from the date TradeNet is restored.
 
-For export, transhipment or bringing in transit of strategic goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability, exporters should use a  [Letter of Undertaking for strategic goods](/documents/businesses/lou-for-strategic-goods.docx)for clearance of their goods.
+For export, transhipment or bringing in transit of strategic goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability, exporters should use a  [Letter of Undertaking for strategic goods](/files/businesses/lou-for-strategic-goods.docx)for clearance of their goods.
 
 ## Further information
 

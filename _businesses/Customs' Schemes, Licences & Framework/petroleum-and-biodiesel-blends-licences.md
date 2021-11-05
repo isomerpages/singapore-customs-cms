@@ -69,7 +69,7 @@ An annual licence fee is payable when the Petroleum and Biodiesel Blends Licence
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 

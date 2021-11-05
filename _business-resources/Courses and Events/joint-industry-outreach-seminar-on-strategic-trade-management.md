@@ -48,13 +48,13 @@ Registration for this event is now  **CLOSED**
 
 ### Seminar Materials
 
--   [Agenda](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Agenda for Joint Industry Outreach Seminar_9 Sep 2016(2).pdf)
--   [Overview of Export Control Reform](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Overview of Export Control Reform.pdf)
--   [German Export Controls - Licenses and Conditions therefor](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - German Export Controls - Licenses and Conditions Thereof.pdf)
--   [Export Control and Sanctions Prosecutions of Corporations](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Export Control and Sanctions Prosecutions of Corporations.pdf)
--   [Understanding the Control, Implementing the Solution](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Understanding the Control Implementing the Solution Seatronics Pte Ltd ICP.pdf)
--   [Strategic Goods Control and Self-Compliance](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Strategic Goods Control and Self-Compliance.pdf)
--   [Blue Lantern End-Use Monitoring Program](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Blue Lantern End-Use Monitoring Program.pdf)
+-   [Agenda](/files/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Agenda for Joint Industry Outreach Seminar_9 Sep 2016(2).pdf)
+-   [Overview of Export Control Reform](/files/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Overview of Export Control Reform.pdf)
+-   [German Export Controls - Licenses and Conditions therefor](/files/businesses/TSSB/Joint Industry Outreach Seminar 2016 - German Export Controls - Licenses and Conditions Thereof.pdf)
+-   [Export Control and Sanctions Prosecutions of Corporations](/files/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Export Control and Sanctions Prosecutions of Corporations.pdf)
+-   [Understanding the Control, Implementing the Solution](/files/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Understanding the Control Implementing the Solution Seatronics Pte Ltd ICP.pdf)
+-   [Strategic Goods Control and Self-Compliance](/files/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Strategic Goods Control and Self-Compliance.pdf)
+-   [Blue Lantern End-Use Monitoring Program](/files/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Blue Lantern End-Use Monitoring Program.pdf)
 
 ----------
 

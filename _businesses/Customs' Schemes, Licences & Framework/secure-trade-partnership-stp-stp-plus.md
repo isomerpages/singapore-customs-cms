@@ -38,14 +38,14 @@ In addition, STP-Plus certified companies will enjoy these benefits:
 
 Singapore Customs has signed and operationalised MRAs with:
 
--   [Canada (2010)](/documents/businesses/mediarelease-scsignsmras.pdf)
--   [Republic of Korea (2010)](/documents/businesses/mediarelease-scsignsmras-(1).pdf)
--   [Japan (2011)](/documents/businesses/sinjpnmramediarelease-website.pdf)
--   [People's Republic of China (2012)](/documents/businesses/chinasporemramediarelease-webcopy-2.pdf)
--   [Chinese Taipei (2013)](/documents/businesses/tsmracircular.pdf)
--   [Hong Kong Special Administrative Region of the People's Republic of China (2014)](/documents/businesses/mediarelease27jun2014.pdf)
--   [United States (2014)](/documents/businesses/media-release-1dec14.pdf)
--   [Australia (2019)](/documents/businesses/sgp-aus-mra.pdf)
+-   [Canada (2010)](/files/businesses/mediarelease-scsignsmras.pdf)
+-   [Republic of Korea (2010)](/files/businesses/mediarelease-scsignsmras-(1).pdf)
+-   [Japan (2011)](/files/businesses/sinjpnmramediarelease-website.pdf)
+-   [People's Republic of China (2012)](/files/businesses/chinasporemramediarelease-webcopy-2.pdf)
+-   [Chinese Taipei (2013)](/files/businesses/tsmracircular.pdf)
+-   [Hong Kong Special Administrative Region of the People's Republic of China (2014)](/files/businesses/mediarelease27jun2014.pdf)
+-   [United States (2014)](/files/businesses/media-release-1dec14.pdf)
+-   [Australia (2019)](/files/businesses/sgp-aus-mra.pdf)
 -   [New Zealand (2019)](/news-and-media/circulars/2019-07-25-Circular122019.pdf)
 -   [Thailand (2019)](/news-and-media/circulars/2019-08-26-Circular162019.pdf)
 
@@ -53,12 +53,12 @@ Exports from an STP-Plus certified company to these MRA partners will be recogni
 
 Singapore Customs continues to engage like-minded customs administrations to expand our list of MRA partners, and bring about greater benefits to the trading community.
 
-Please refer to the  [Factsheet on Mutual Recognition](/documents/businesses/Factsheet on MRA (updated June 2020).pdf)  for more details on the procedures to enjoy the benefits under the MRAs.
+Please refer to the  [Factsheet on Mutual Recognition](/files/businesses/Factsheet on MRA (updated June 2020).pdf)  for more details on the procedures to enjoy the benefits under the MRAs.
 
 ## STP and STP-Plus Certified Companies
 
--   [STP certified companies](/documents/businesses/SEB/STP Companies 01Aug21.pdf)
--   [STP-Plus certified companies](/documents/businesses/SEB/STP-Plus Companies 01Aug21.pdf)
+-   [STP certified companies](/files/businesses/SEB/STP Companies 01Aug21.pdf)
+-   [STP-Plus certified companies](/files/businesses/SEB/STP-Plus Companies 01Aug21.pdf)
 
 ## How to Qualify?
 
@@ -68,13 +68,13 @@ To qualify for the STP, the company must:
 -   Have good compliance records with Singapore Customs
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Intermediate” and “Premium” bands to qualify for the STP and STP-Plus certifications respectively
 
-Click  [here](/documents/businesses/SEB/STP Handbook Jan 2021.pdf) for the Handbook on Secure Trade Partnership
+Click  [here](/files/businesses/SEB/STP Handbook Jan 2021.pdf) for the Handbook on Secure Trade Partnership
 
 ## How to Apply?
 
 **Step 1**: Complete the Application Form for STP at this link:  [www.go.gov.sg/stp-application](http://www.go.gov.sg/stp-application).
 
-**Step 2**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx) and relevant Annexes. 
+**Step 2**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx) and relevant Annexes. 
 
 **Step 3**: Prepare these additional supporting documents:
 

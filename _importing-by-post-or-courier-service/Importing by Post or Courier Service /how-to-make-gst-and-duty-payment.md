@@ -8,11 +8,9 @@ third_nav_title: Importing by Post or Courier Service
 
 ### For Postal Parcels
 
-**At the ICA counter at Singapore Post Centre:** Payment can be made by NETS, CashCard, Visa/MasterCard or Inter-Bank GIRO.
+With effect from 1 November 2021, collection of parcel and payment of the GST and duty of the items at SingPost Centre are no longer available. A push notification will be sent via SingPost mobile app and/or SMS/email/letter to customers to make the payment. Customers can pay via Amex, MasterCard, Visa, NETS and Cash via the SingPost app, SAM kiosks or at any post offices. Please refer to [SingPost's website](http://www.singpost.com/) for more information on the payment modes.
 
-**Delivery by Singapore Post:** Payment can be made by GIRO, cash, or cheque. To pay by GIRO, the addressee must first sign up for the Singapore Post GIRO scheme.
-
-Alternatively, you can also apply for a Customs permit for clearance and payment of the postal parcels, and present the permit to ICA (for collection at SPC) or Singapore Post (for delivery) as proof of payment for the relevant GST and/or duty charges for your parcel.
+You may be required to apply for a customs permit for clearance and submit as part of the supporting documents to SingPost, if applicable.
 
 ### For Courier Parcels
 

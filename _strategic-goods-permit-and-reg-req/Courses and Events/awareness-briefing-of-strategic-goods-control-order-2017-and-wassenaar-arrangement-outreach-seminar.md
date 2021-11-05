@@ -58,14 +58,14 @@ Highlights:
 
 Presentation Materials:
 
-1.  [Introduction to the Wassenaar Arrangement](/documents/businesses/2-Singapore-Introduction-to-the-WA.pptx)
+1.  [Introduction to the Wassenaar Arrangement](/files/businesses/2-Singapore-Introduction-to-the-WA.pptx)
 
-2.  [WA Lists and List Review](/documents/businesses/3-introduction-to-the-wa-lists--eg-chair.ppt)
+2.  [WA Lists and List Review](/files/businesses/3-introduction-to-the-wa-lists--eg-chair.ppt)
 
-3.  [Major Changes to the Lists between 2012 and 2016](/documents/businesses/4-changes-made-to-the-lists-20122016.ppt)
+3.  [Major Changes to the Lists between 2012 and 2016](/files/businesses/4-changes-made-to-the-lists-20122016.ppt)
 
-4.  [WA Best Practices and Industry Engagement](/documents/businesses/singapore-2017--hos--wa-best-practices-and-industry-engagement-updated--6-july-950am.pptx)
+4.  [WA Best Practices and Industry Engagement](/files/businesses/singapore-2017--hos--wa-best-practices-and-industry-engagement-updated--6-july-950am.pptx)
 
-5.  [Overview of Singapore's Strategic Goods Control](/documents/businesses/5-overview-of-singapores-strategic-goods-controlfinal.pdf)
+5.  [Overview of Singapore's Strategic Goods Control](/files/businesses/5-overview-of-singapores-strategic-goods-controlfinal.pdf)
 
-6.  [Strategic Goods (Control) Order (SGCO) Awareness Briefing](/documents/businesses/sgco-2017-awareness-briefing-12-jul-2017.pdf)
+6.  [Strategic Goods (Control) Order (SGCO) Awareness Briefing](/files/businesses/sgco-2017-awareness-briefing-12-jul-2017.pdf)

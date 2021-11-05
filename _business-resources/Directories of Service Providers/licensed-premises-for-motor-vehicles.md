@@ -38,4 +38,4 @@ third_nav_title: Directories of Service Providers
 -   Wearnes Automotive Pte. Ltd.
 -   XPO Logistics Worldwide Asia Pacific Pte. Ltd.
 
-Download the list of licensed premises for motor vehicles [here](/documents/businesses/Licensed-Premises-for-MotorVehicles-201119.pdf).
+Download the list of licensed premises for motor vehicles [here](/files/businesses/Licensed-Premises-for-MotorVehicles-201119.pdf).

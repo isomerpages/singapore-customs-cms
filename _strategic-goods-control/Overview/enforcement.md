@@ -20,7 +20,7 @@ Documentary checks and audits are conducted on past shipments. Customs officers 
 
 Enforcement action is carried out based on specific intelligence and risk profiling. Singapore works closely with foreign governments to share intelligence and exchange information on strategic goods offences, in a manner consistent with our respective laws. Customs takes a serious view of strategic goods offences and will not hesitate to take enforcement actions.
 
-You are reminded to exercise due diligence if you are involved in activities relating to the transfer or brokering of strategic goods or strategic goods technology. To ensure compliance with the Strategic Goods (Control) Act (SGCA) and its subsidiary legislations, you are advised to implement an internal compliance programme as outlined in the  [Strategic Trade Scheme Handbook](/documents/businesses/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf).
+You are reminded to exercise due diligence if you are involved in activities relating to the transfer or brokering of strategic goods or strategic goods technology. To ensure compliance with the Strategic Goods (Control) Act (SGCA) and its subsidiary legislations, you are advised to implement an internal compliance programme as outlined in the  [Strategic Trade Scheme Handbook](/files/businesses/strategic-trade-scheme-handbook-updated-1-oct-2019.pdf).
 
 Members of the public with information on illegal dealings in strategic goods and technology may contact us at 1800-2330000 or email  [customs_intelligence@customs.gov.sg](mailto:customs_intelligence@customs.gov.sg).
 

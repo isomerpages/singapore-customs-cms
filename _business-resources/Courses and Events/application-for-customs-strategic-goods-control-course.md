@@ -42,12 +42,12 @@ REGISTRATIONS FOR THIS SEMINAR HAVE CLOSED
 
 ## Seminar Materials:
 
--   [Seminar Agenda](/documents/businesses/TSSB/Joint Outreach Seminar 2015 - Seminar Agenda.pdf)
--   [Strategic Trade Management - A Private Sector Perspective](/documents/businesses/TSSB/Joint Outreach Seminar 2015 - Strategic Trade Management.pdf)
--   [International Trade - Related Credit Card Fraud](/documents/businesses/TSSB/Joint Outreach Seminar 2015 - International Trade - Related Credit Card Fraud.pdf)
--   [Managing U.S. Export Control Requirements as a Non - U.S. Entity: Understanding and Mitigating Compliance Risks for the Logistics Industry](/documents/businesses/TSSB/Joint Outreach Seminar 2015 - Managing US Export Control Requirements.pdf)
--   [Shield America](/documents/businesses/TSSB/Joint Outreach Seminar 2015 - Shield America.pdf)
--   [Exercising Due Diligence When Making Customs Declarations](/documents/businesses/TSSB/Joint Outreach Seminar 2015 - Exercising Due Diligence.pdf)
+-   [Seminar Agenda](/files/businesses/TSSB/Joint Outreach Seminar 2015 - Seminar Agenda.pdf)
+-   [Strategic Trade Management - A Private Sector Perspective](/files/businesses/TSSB/Joint Outreach Seminar 2015 - Strategic Trade Management.pdf)
+-   [International Trade - Related Credit Card Fraud](/files/businesses/TSSB/Joint Outreach Seminar 2015 - International Trade - Related Credit Card Fraud.pdf)
+-   [Managing U.S. Export Control Requirements as a Non - U.S. Entity: Understanding and Mitigating Compliance Risks for the Logistics Industry](/files/businesses/TSSB/Joint Outreach Seminar 2015 - Managing US Export Control Requirements.pdf)
+-   [Shield America](/files/businesses/TSSB/Joint Outreach Seminar 2015 - Shield America.pdf)
+-   [Exercising Due Diligence When Making Customs Declarations](/files/businesses/TSSB/Joint Outreach Seminar 2015 - Exercising Due Diligence.pdf)
 
 ----------
 

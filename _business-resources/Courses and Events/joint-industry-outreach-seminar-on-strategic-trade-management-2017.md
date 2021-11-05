@@ -42,18 +42,18 @@ To register, please email Zhang Zhixin at  _Zhixin_ZHANG_from.TP@customs.gov.sg_
 
 Seminar Materials
 
--   [Agenda](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Agenda.pdf)
+-   [Agenda](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Agenda.pdf)
     
--   [What to Expect at a BIS End-use Check](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - What to expect at BIS End Use Check.pdf)
+-   [What to Expect at a BIS End-use Check](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - What to expect at BIS End Use Check.pdf)
     
--   [Exports to Iran under the Joint Comprehensive Plan of Action](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Exports to Iran under the Joint Comprehensive Plan.pdf)
+-   [Exports to Iran under the Joint Comprehensive Plan of Action](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Exports to Iran under the Joint Comprehensive Plan.pdf)
     
--   [Sharing by General Electric on ICP](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by General Electric on ICP.pdf)
+-   [Sharing by General Electric on ICP](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by General Electric on ICP.pdf)
     
--   [Sharing by NEC Corporation](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by NEC Corporation.pdf)
+-   [Sharing by NEC Corporation](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by NEC Corporation.pdf)
     
--   [Sharing by CISTEC](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by CISTEC.pdf)
+-   [Sharing by CISTEC](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by CISTEC.pdf)
     
--   [Strategic Trade Control in Singapore](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Strategic Trade Control in Singapore.pdf)
+-   [Strategic Trade Control in Singapore](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Strategic Trade Control in Singapore.pdf)
     
--   [Sustaining the Future with Compliance](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sustaining the Future with Compliance.pdf)
+-   [Sustaining the Future with Compliance](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sustaining the Future with Compliance.pdf)

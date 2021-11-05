@@ -7,7 +7,7 @@ third_nav_title: Apply Update Renew Terminate Declaring Agent
 
 # Compliance to Registration Requirements
 
-   Registered DAs and Declarants must abide by the [Terms and Conditions for DAs](/documents/businesses/TCsDAfinal.pdf) and [Terms and Conditions for Declarants](/documents/businesses/TCsDeclarantfinalwithoutacknowledgement.pdf) respectively. These terms and conditions set out the responsibilities and due diligence expected of DAs and Declarants. More information can be found on [Circular No. 10/2010](/news-and-media/circulars/2010-07-22-Circular102010.pdf) and [Circular No. 12/2013](/news-and-media/circulars/2013-10-07-Circular122013.pdf).
+   Registered DAs and Declarants must abide by the [Terms and Conditions for DAs](/files/businesses/TCsDAfinal.pdf) and [Terms and Conditions for Declarants](/files/businesses/TCsDeclarantfinalwithoutacknowledgement.pdf) respectively. These terms and conditions set out the responsibilities and due diligence expected of DAs and Declarants. More information can be found on [Circular No. 10/2010](/news-and-media/circulars/2010-07-22-Circular102010.pdf) and [Circular No. 12/2013](/news-and-media/circulars/2013-10-07-Circular122013.pdf).
     
    Non-compliance to the terms and conditions is an offence. Singapore Customs may impose penalties in the form of suspension or revocation of an entity’s status, downgrading of banding and the associated benefits, composition sums, court fines and/or jail term.
     

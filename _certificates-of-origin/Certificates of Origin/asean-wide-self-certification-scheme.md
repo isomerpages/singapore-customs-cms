@@ -38,7 +38,7 @@ Upon successful registration as a CE, the CE may proceed to self-certify and mak
 
 Need more information on how AWSC works, the benefits of AWSC, and the criteria for companies to become a CE. Here are some resources which might be useful: 
 
-- Our latest [handbook](/documents/businesses/Handbook%20on%20the%20implementation%20of%20the%20ASEAN%20WIDE%20SELF%20(final).pdf) on the AWSC under ATIGA
+- Our latest [handbook](/files/businesses/Handbook%20on%20the%20implementation%20of%20the%20ASEAN%20WIDE%20SELF%20(final).pdf) on the AWSC under ATIGA
 
 - [Infographic](https://asean.org/storage/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/storage/2012/05/04-AWSC-Brochure.pdf) by ASEAN
 

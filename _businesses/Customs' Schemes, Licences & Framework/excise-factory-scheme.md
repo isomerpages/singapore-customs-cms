@@ -72,7 +72,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
@@ -138,4 +138,4 @@ Find out more about  [Permit Declaration](/businesses/new-traders-and-registrati
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
-Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/documents/businesses/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf)  for more information.
+Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/businesses/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf)  for more information.

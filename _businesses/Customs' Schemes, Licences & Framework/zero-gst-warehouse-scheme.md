@@ -12,7 +12,7 @@ The Zero-GST Warehouse Scheme (ZGS) allows approved companies to store  **import
 
 GST is payable when these goods are removed from the zero-GST warehouse for local use or consumption. GST is not payable when these goods are removed for export, or when supply or sale of these goods takes place while they are in the warehouse.
 
-You may refer to an  [overview of the procedures](/documents/businesses/overview2.doc)  for storing non-dutiable imports in zero-GST warehouses.
+You may refer to an  [overview of the procedures](/files/businesses/overview2.doc)  for storing non-dutiable imports in zero-GST warehouses.
 
 ## Types of Licences under ZGS
 
@@ -26,7 +26,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the  [Zero-GST Warehouse Scheme Handbook](/documents/businesses/SEB/Zero-GST Warehouse Scheme Handbook (Jul 2021).pdf)  (Chapter 2.10).
+A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the  [Zero-GST Warehouse Scheme Handbook](/files/businesses/SEB/Zero-GST Warehouse Scheme Handbook (Jul 2021).pdf)  (Chapter 2.10).
 
 ## How to Qualify?
 
@@ -51,7 +51,7 @@ With effect from 1 Jan 2018, to mitigate money laundering and terrorism financin
 -   Obtain, maintain and update information on identity of the person(s) with control over the listed goods and the person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 -   Conduct screening, maintain and update the screening records of customers who deposit the goods, person(s) with control over the listed goods and person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 
-You may refer to the HS Codes and HS descriptions for listed goods [here](/documents/businesses/list-of-listed-goods.pdf).
+You may refer to the HS Codes and HS descriptions for listed goods [here](/files/businesses/list-of-listed-goods.pdf).
 
 ## Filing of Suspicious Transaction Report
 
@@ -105,7 +105,7 @@ Goods that are not fit for use may be destroyed under Customs’ supervision. [F
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
@@ -128,3 +128,8 @@ Alternatively, for urgent scheme-related matters, please contact us via our hotl
 ## Application for Changes to Schemes for Existing Licensees
 
 You may complete your [applications for changes to schemes for existing licensees or to update records](https://form.gov.sg/#!/605462a0f26f5c0012448021) online.
+
+## Authorisation of Declaring Agent (DA) for Licensed Premises
+
+DAs can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DAs.
+In order to authorise a DA, the licensed premises operator is required to complete the [Application for the Authorisation of DAs for Licensed Premises] (https://www.customs.gov.sg/eservices/customs-forms-and-service-links) form and submit it via email to [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg). The processing time of the application is 2 working days.

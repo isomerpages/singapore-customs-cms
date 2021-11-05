@@ -42,5 +42,5 @@ You should proceed to amend the field in the export permit electronically via Tr
 
 The CO that has been previously issued under this export permit should be cancelled in accordance to the revised cancellation procedures found in [Notice 19/2020](/news-and-media/notices/2020-12-31-N.pdf). Subsequently, you can proceed to apply for a pure CO application with the details you have amended in the export permit.
 
-Trade may also refer to this [handbook](/documents/businesses/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Jan_2021.pdf) for more information on how to apply for a CO via Tradenet. 
+Trade may also refer to this [handbook](/files/businesses/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Jan_2021.pdf) for more information on how to apply for a CO via Tradenet. 
 

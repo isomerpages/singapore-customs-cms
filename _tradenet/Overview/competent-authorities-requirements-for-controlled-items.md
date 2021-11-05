@@ -26,7 +26,7 @@ You may refer to the lists below for the Harmonized System (HS) codes of control
 
 -   For the latest AHTN2017 HS codes, please refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}
     
--   [Competent Authorities’ Help Desks](/documents/businesses/PSB/TN Team/annex-e-ca-helpdesk-list.pdf)
+-   [Competent Authorities’ Help Desks](/files/businesses/PSB/TN Team/annex-e-ca-helpdesk-list.pdf)
     
 
 **Step 2**: Determine the category the controlled item fall under, whether it is:
@@ -38,7 +38,7 @@ You may refer to the lists below for the Harmonized System (HS) codes of control
 -   Fully controlled & non-dutiable
     
 
-**Step 3**: Comply with the specific [CA's requirements](/documents/businesses/PSB/TN Team/annex-d-competent-authorities-requirements.pdf) to avoid delays in processing, and obtain approval from the CA.
+**Step 3**: Comply with the specific [CA's requirements](/files/businesses/PSB/TN Team/annex-d-competent-authorities-requirements.pdf) to avoid delays in processing, and obtain approval from the CA.
 After submitting the permit application, you may be required to fax immediately to the CAs the relevant supporting documents with the Unique Reference Number quoted on the top right hand corner of each document.
 
 For applications to the Controller of Undesirable Publications, the supporting documents **must be** attached to the permit application.
@@ -96,7 +96,7 @@ For applications to the Controller of Undesirable Publications, the supporting d
 -   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](/businesses/national-single-window/tradenet/competent-authorities-requirements/icdv)
 -   [Import of Mastering Equipment and Replication Equipment](/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment)
 -   [Kimberley Process Certification Scheme](/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---kimberley-process-certification-scheme)
--   [National Authority (Chemical Weapons Convention)](/documents/about-us/cwc-ca-requirements.docx)
+-   [National Authority (Chemical Weapons Convention)](/files/about-us/cwc-ca-requirements.docx)
 -   [Strategic Goods Control](/businesses/national-single-window/tradenet/competent-authorities-requirements/strategic-goods-control)
 -   [United Nations Security Council (UNSC) Sanctions](/businesses/united-nations-security-council-sanctions/)
 

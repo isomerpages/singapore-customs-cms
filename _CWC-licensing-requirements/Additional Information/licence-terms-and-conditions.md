@@ -6,7 +6,7 @@ third_nav_title: Additional Information
 
 # Licence Terms and Conditions
 
-You are required to abide by the [terms and conditions](/documents/businesses/Terms-and-Conditions-of-the-NACWC-licence.pdf) stated in the CWC licence.
+You are required to abide by the [terms and conditions](/files/businesses/Terms-and-Conditions-of-the-NACWC-licence.pdf) stated in the CWC licence.
 
 Please also note the following storage requirements for premises that store or handle scheduled chemicals:
 

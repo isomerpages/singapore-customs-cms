@@ -38,10 +38,10 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 
   | No. | Forms | Related Links |
   |---|---|---|
-  | i | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](/documents/businesses/OMB/trade-marks-form-1.docx) (23.3KB) |
-  | ii | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](/documents/businesses/OMB/copyright-form-1.docx) (26.5KB) |
-  | iii | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](/documents/businesses/trade-marks-form-2.docx) (21.8KB) |
-  | iv | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](/documents/businesses/copyright-form-2.docx) (22.7KB) |
+  | i | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](/files/businesses/OMB/trade-marks-form-1.docx) (23.3KB) |
+  | ii | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](/files/businesses/OMB/copyright-form-1.docx) (26.5KB) |
+  | iii | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](/files/businesses/trade-marks-form-2.docx) (21.8KB) |
+  | iv | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](/files/businesses/copyright-form-2.docx) (22.7KB) |
 
 
  2\. The Notice shall be accompanied by:
@@ -61,9 +61,9 @@ Template of Documents:
 
 | No. | Forms |  Related Links |
 |---|---|---|
-| 1 |  Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Word Doc](/documents/businesses/sample-of-guarantee-template-trade-marks-act-and-copyright-act.docx) (23.1KB) |
-| 2 |  Letter of Undertaking under Trade Marks Act | [Word Doc](/documents/businesses/letter-of-undertaking-under-trade-marks-act.docx) (17.9KB) |
-| 3 | Letter of Undertaking under Copyright Act | [Word Doc](/documents/businesses/letter-of-undertaking-under-copyright-act.docx) (18.9KB) |
+| 1 |  Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Word Doc](/files/businesses/sample-of-guarantee-template-trade-marks-act-and-copyright-act.docx) (23.1KB) |
+| 2 |  Letter of Undertaking under Trade Marks Act | [Word Doc](/files/businesses/letter-of-undertaking-under-trade-marks-act.docx) (17.9KB) |
+| 3 | Letter of Undertaking under Copyright Act | [Word Doc](/files/businesses/letter-of-undertaking-under-copyright-act.docx) (18.9KB) |
 
 ### For more information on border enforcement measures under the Trade Marks Act and the Copyright Act, please refer to the following:
 

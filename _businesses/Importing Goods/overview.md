@@ -51,7 +51,7 @@ Do check if the goods you intend to import are controlled goods or goods subject
 
 You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, the name of the CA will be indicated next to its HS code. You may check directly with the respective CAs on their licensing requirements.
 
-If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} of the product, you may apply for an  [official classification ruling](/documents/businesses/SCA004-(2).doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} of the product, you may apply for an  [official classification ruling](/files/businesses/SCA004-(2).doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
 ## Step 3: Apply for Inter-Bank GIRO
 You or your Declaring Agent must maintain an Inter-Bank GIRO (IBG) with Singapore Customs to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Custom from your bank account to Singapore Customs directly.
@@ -120,4 +120,4 @@ GST relief and permit waiver is granted on **non-controlled** and **non-dutiable
 ## Step 7: Retain your Trade Documents
 Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of the permit application approval.
 
-These documents can be stored as physical hardcopies or as  [images](/documents/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf). You are required to produce these supporting documents to Singapore Customs upon request.
+These documents can be stored as physical hardcopies or as  [images](/files/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf). You are required to produce these supporting documents to Singapore Customs upon request.

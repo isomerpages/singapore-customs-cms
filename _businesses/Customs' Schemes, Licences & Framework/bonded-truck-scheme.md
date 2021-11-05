@@ -44,7 +44,7 @@ To qualify for the BTS, the company must-
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 

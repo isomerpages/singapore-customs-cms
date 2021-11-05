@@ -21,7 +21,7 @@ There are four categories of dutiable goods in Singapore:
 -   **Tobacco products**, including cigarettes and cigars
     -   With effect from 1 July 2020, all cigarettes and other tobacco products imported into, sold, offered for sale or distributed in Singapore must comply with the new Standardised Packaging (SP) requirements. For further information, you may refer to Health Sciences Authority (HSA)’s [website](https://www.hsa.gov.sg/tobacco-regulation/overview) or contact Ministry of Health (MOH) through email at [moh_info@moh.gov.sg](maito:moh_info@moh.gov.sg). 
     -   Importation of cigarettes and / or tobacco products that do not comply with the SP requirements is not allowed, and these cigarettes and / or tobacco products will be disposed of at the checkpoints. 
-    -   Travellers have to ensure that their cigarettes and / or tobacco products comply with the SP requirements before making a declaration and payment via the Customs@SG mobile app or web portal. Do note that no refund will be given for duty and Goods and Services Tax (GST) already prepaid via the [Customs@SG mobile or web portal](/eservices/customs-sg-mobile-and-web-application/) for cigarettes and / or tobacco products that do not comply with the SP requirements.
+    -   Travellers have to ensure that their cigarettes and / or tobacco products comply with the SP requirements before making a declaration and payment via the Customs@SG mobile app or web portal. Do note that no refund will be given for duty and Goods and Services Tax (GST) already prepaid via the [Customs@SG web application](/eservices/customs-sg-web-application/) for cigarettes and / or tobacco products that do not comply with the SP requirements.
 -   **Motor vehicles**, including motorised bicycles
 -   **Motor fuel**, including motor spirits, diesel products and compressed natural gas (CNG)
 
@@ -33,7 +33,7 @@ All goods imported into Singapore are subject to GST.
 Payment of Duties and GST can be made via the following payment modes:
 
 -   All major credit cards (MasterCard, Visa and American Express), mobile wallets, NETS and Cashcard at the Singapore Customs Tax Payment Office
--   Visa or Master credit cards on the  [Customs@SG Mobile App and Web Application](/eservices/customs-sg-mobile-and-web-application/)
+-   Visa or Master credit cards on the  [Customs@SG Web Application](/eservices/customs-sg-web-application/)
 
 
 ***

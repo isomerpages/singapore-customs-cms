@@ -21,7 +21,7 @@ The table below indicates the activities that require an ADAA.
 | Storage | X| X | X |  
 | Local Sales/Distribution | X | X | X |  
 
-√ : indicates that ADAA is required. <br> See [full list](/documents/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf) of scheduled chemicals. 
+√ : indicates that ADAA is required. <br> See [full list](/files/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf) of scheduled chemicals. 
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
 

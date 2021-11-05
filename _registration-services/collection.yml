@@ -6,7 +6,6 @@ collections:
       - Registration Services/activate-update-terminate-customs-account.md
       - Registration Services/apply-for-inter-bank-giro-ibg.md
       - Registration Services/security-lodgement.md
-      - Registration Services /.keep
-      - Registration Services /authorise-a-declaring-agent.md
+      - Registration Services/authorise-a-declaring-agent.md
       - Registration Services/apply-update-renew-terminate-declaring-agent-da-account-and-declarant.md
       - Registration Services/register-claimants.md

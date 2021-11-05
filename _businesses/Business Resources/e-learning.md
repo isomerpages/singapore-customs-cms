@@ -21,8 +21,8 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 5. | Customs Forms and Services | [Web Link](/eservices/customs-forms-and-service-links) |
 | 6. | Application for the Authorization of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}  |
 | 7. | Application for Claimant | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP){:target="_blank"} |
-| 8. | Responsiblities of Declaring Agent and Declarant | [PDF](/documents/businesses/PSB/TN Team/Module_1_-_responsibility_of_declaring_agent_and_declarant.pdf) |
-| 9. | Product Specific Terms in TradeNet | [PDF](/documents/businesses/PSB/TN Team/Module_1_-_product_specific_terms_for_the_use_of_TradeNet.pdf) |
+| 8. | Responsiblities of Declaring Agent and Declarant | [PDF](/files/businesses/PSB/TN Team/Module_1_-_responsibility_of_declaring_agent_and_declarant.pdf) |
+| 9. | Product Specific Terms in TradeNet | [PDF](/files/businesses/PSB/TN Team/Module_1_-_product_specific_terms_for_the_use_of_TradeNet.pdf) |
 | 10. | Courses and Events | [Web Link](/businesses/business-resources/courses-and-events) |
 
 
@@ -37,7 +37,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 5. | Duty Free Shop Scheme | [Web Link](/businesses/customs-schemes-licences-framework/duty-free-shop-scheme) |
 | 6. | Excise Factory Scheme | [Web Link](/businesses/customs-schemes-licences-framework/excise-factory-scheme) |
 | 7. | Industrial Exemption Factory Scheme | [Web Link](/businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme) |
-| 8. | Import - Tax Suspension Schemes | [PDF](/documents/businesses/PSB/TN Team/Module_2_-_tax_suspension_schemes.pdf) |
+| 8. | Import - Tax Suspension Schemes | [PDF](/files/businesses/PSB/TN Team/Module_2_-_tax_suspension_schemes.pdf) |
 | 9. | Temporary Import Scheme | [Web Link](/businesses/importing-goods/temporary-import-scheme) |
 
 |No. | [Original CO](/businesses/certificates-of-origin/overview) | Related Link |
@@ -50,7 +50,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 | No.| Manufacturer | Related Link |
 |--|--|--|
-|1. | Application for Registration as a Manufacturer | [PDF](/documents/eservices/SC-A-006_v11.doc) |
+|1. | Application for Registration as a Manufacturer | [PDF](/files/eservices/SC-A-006_v11.doc) |
 |2. | Letter of Undertaking for Manufacturer Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}|
 
 |[Free Trade Agreement (FTAs)](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} | 
@@ -85,7 +85,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 | No. | Title | Related Link |
 |--|--|--|
-| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF](/documents/businesses/stcced-2018-apr-20.pdf) |
+| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF](/files/businesses/stcced-2018-apr-20.pdf) |
 | 2. | Competent Authorities' Requirements for Controlled Items | [Web Link](/businesses/national-single-window/overview/competent-authorities-requirements) |
 | 3. | HSCA Product Code Search | [Web Link](/eservices/harmonized-system-competent-authority-product-code-search-engine) |
 
@@ -97,9 +97,9 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 1. | Login to TradeNet | [Web Link](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"} |
 | 2. | What you need to know about TradeNet | [Web Link](/businesses/national-single-window/tradenet) |
 | 3. | Controlled & Prohibited Goods for Import | [Web Link](/businesses/importing-goods/controlled-and-prohibited-goods-for-import) |
-| 4. | List of Message and Declaration types for permit application | [PDF](/documents/businesses/PSB/TN Team/Module_5_-_list_of_message_and_declaration_types_for_permit_applications.pdf) |
-| 5. | Types of Permit Applications | [PDF](/documents/businesses/PSB/TN Team/Module_5_-_types_of_permit_applications.pdf) |
-| 6. | Important Permit Fields | [PDF](/documents/businesses/PSB/TN Team/Module_5_-_important_permit_fields_table.pdf) |
-| 7. | List of Non-Amendable Permit Fields | [PDF](/documents/about-us/annexb_04102013.pdf) |
-| 8. | Sample CCP | [PDF](/documents/about-us/SampleCCPOriginal1.pdf) |
+| 4. | List of Message and Declaration types for permit application | [PDF](/files/businesses/PSB/TN Team/Module_5_-_list_of_message_and_declaration_types_for_permit_applications.pdf) |
+| 5. | Types of Permit Applications | [PDF](/files/businesses/PSB/TN Team/Module_5_-_types_of_permit_applications.pdf) |
+| 6. | Important Permit Fields | [PDF](/files/businesses/PSB/TN Team/Module_5_-_important_permit_fields_table.pdf) |
+| 7. | List of Non-Amendable Permit Fields | [PDF](/files/about-us/annexb_04102013.pdf) |
+| 8. | Sample CCP | [PDF](/files/about-us/SampleCCPOriginal1.pdf) |
 

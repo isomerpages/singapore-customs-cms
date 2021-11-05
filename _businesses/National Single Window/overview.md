@@ -18,4 +18,4 @@ TradeNet is Singapore’s National Single Window for trade declaration. It provi
 
 Today, Traders submit permit applications through TradeNet Frontend solutions to TradeNet for Singapore Customs to process, and TradeNet returns the approved permit to the trader via the TradeNet Frontend. With NTP, the approved TradeNet permit can be directly returned in structured data format to the trader’s NTP data repository for data reuse for other service transactions via NTP. Both TradeNet and NTP currently exist in parallel.
 
-![Trade Declaration Experience with NTP](/documents/businesses/PSB/TN Team/Trade Declaration Experience with NTP.png)
+![Trade Declaration Experience with NTP](/files/businesses/PSB/TN Team/Trade Declaration Experience with NTP.png)

@@ -22,9 +22,9 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2021](https://sso.agc.gov.sg/SL-Supp/S564-2021/Published/20210802?DocDate=20210802){:target="_blank"}, effective from 1 October 2021. 
 
-You may refer to the  [amendment table](/documents/businesses/TSSB/Amendment-table-for-Strategic-Goods-Control-Order-2021.pdf) for more information on the changes made to the Strategic Goods (Control) Order 2020, under the Strategic Goods (Control) Order 2021.
+You may refer to the  [amendment table](/files/businesses/TSSB/Amendment-table-for-Strategic-Goods-Control-Order-2021.pdf) for more information on the changes made to the Strategic Goods (Control) Order 2020, under the Strategic Goods (Control) Order 2021.
 
-You may also wish to visit our  [Frequently Asked Questions](/documents/businesses/TSSB/FAQs-for-Strategic-Goods-Control-Order-2021.pdf) on the updates to the Strategic Goods (Control) Order 2021.
+You may also wish to visit our  [Frequently Asked Questions](/files/businesses/TSSB/FAQs-for-Strategic-Goods-Control-Order-2021.pdf) on the updates to the Strategic Goods (Control) Order 2021.
 
 **Strategic Goods (Control) (Brokering) Order**
 
@@ -32,7 +32,7 @@ Singapore has updated the categories of goods and technology which require a bro
 
 **Useful Resources:**
 
--   [Strategic Goods (Control) Bill Second Reading Speech](/documents/businesses/nov2002-2ndreading.pdf)
+-   [Strategic Goods (Control) Bill Second Reading Speech](/files/businesses/nov2002-2ndreading.pdf)
 -   [Strategic Goods Control Circulars](/news-and-media/circulars/){:target="_blank"}
 -   [Frequently Asked Questions (FAQs)](https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx){:target="_blank"}
 

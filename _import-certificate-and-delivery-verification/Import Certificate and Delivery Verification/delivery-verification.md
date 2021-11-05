@@ -23,10 +23,10 @@ This refers to verifying the delivery of the goods under the IC when they are im
 
 For verification of partial delivery, please upload:
 
--   Copy of the  [Statement for Partial Delivery Verification](/documents/businesses/PSB/Statement for Partial Delivery Verification.docx)
+-   Copy of the  [Statement for Partial Delivery Verification](/files/businesses/PSB/Statement for Partial Delivery Verification.docx)
 -   Copy of the import permit(s)
 -   Bill of Lading or Air Waybill
--   Copy of the [Importer Declaration Letter](/documents/businesses/PSB/Importer Declaration Letter.docx)
+-   Copy of the [Importer Declaration Letter](/files/businesses/PSB/Importer Declaration Letter.docx)
 -   Export Licence (and its English translation) from the originating country
 -   Business transaction documents (for example, invoice, packing list, delivery order)
 
@@ -41,7 +41,7 @@ For verification of complete delivery, please upload:
 -   Importer's ICDV
 -   Copy of the import permit(s)
 -   Bill of Lading or Air Waybill
--   Copy of the  [Importer Declaration Letter](/documents/businesses/PSB/Importer Declaration Letter.docx)
+-   Copy of the  [Importer Declaration Letter](/files/businesses/PSB/Importer Declaration Letter.docx)
 -   Export Licence (and its English translation) from the originating country
 -   Business transaction documents (for example, invoice, packing list, delivery order)
 

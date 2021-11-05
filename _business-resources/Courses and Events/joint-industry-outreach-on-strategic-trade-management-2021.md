@@ -9,7 +9,7 @@ third_nav_title: Courses and Events
 ![banner.png](https://user-images.githubusercontent.com/74533654/126924009-88f650ae-803d-4f88-9015-32c393dd519d.png)
 
 
-**REGISTRATION IS NOW OPEN**
+**REGISTRATION IS NOW CLOSED**
 
 Joint Industry Outreach Seminar on Strategic Trade Management 2021
 
@@ -53,4 +53,27 @@ Highlights:
 - U.S. export controls, sanctions and emerging technology updates
 - Panel discussions by government agencies and local companies
 
+Presentation materials:
+- [Agenda](/files/businesses/TSSB/Agenda.pdf)
+- [Opening remarks by Mr Rafik Mansour, Chargé d’Affaires, U.S. Embassy, Singapore](https://www.youtube.com/watch?v=V1b6zksq-g0)
+- [Day 1 - 1st Panel Discussion: Foreign Policy-Based Controls Promoting Human Rights & Democracy (BIS)](/files/businesses/TSSB/Day 1 - 1st Panel Discussion_Foreign Policy-Based Controls Promoting Human Rights and Democracy.pdf)
+- [Day 1 - 1st Panel Discussion: Military End-Use and End-User and Related Country Policy (BIS)](/files/businesses/TSSB/Day 1 - 1st Panel Discussion_Military End-Use and End-User and Related Country Policy.pdf)
+- [Day 1 - 1st Panel Discussion: Emerging Technology Updates (BIS)](/files/businesses/TSSB/Day 1 - 1st Panel Discussion_Emerging Technology Updates.pdf)
+- [Day 1 - 2nd Panel Discussion: Cyber Threats and Managing Risks to the Supply Chain (CISA)](/files/businesses/TSSB/Day 1 - 2nd Panel Discussion_Cyber Threats and Managing Risks to the Supply Chain_CISA.pdf)
+- [Day 1 - 2nd Panel Discussion: Cyber Threats and Managing Risks to the Supply Chain (Horangi Cyber Security)](/files/businesses/TSSB/Day 1 - 2nd Panel Discussion_Cyber Threats and Managing Risks to the Supply Chain_Horangi Cyber Security.pdf)
+- [Day 1 - 2nd Panel Discussion: Cyber Frauds in SE Asia (FBI)](/files/businesses/TSSB/Day 1 - 2nd Panel Discussion_Cyber Frauds in SE Asia_FBI.pdf)
+- [Day 1 - 3rd Panel Discussion: Update on Japan's Export Controls (Japan)](/files/businesses/TSSB/Day 1 - 3rd Panel Discussion_Update on Japan's Export Controls_Japan.pdf)
+- [Day 1 - 3rd Panel Discussion: Developments in Strategic Trade Regulations and Controls (Germany)](/files/businesses/TSSB/Day 1 - 3rd Panel Discussion_Developments in Strategic Trade Regulations and Controls_Germany.pdf)
+- [Day 1 - 3rd Panel Discussion: Strategic Export Controls in the EU (Netherlands)](/files/businesses/TSSB/Day 1 - 3rd Panel Discussion_Strategic Export Controls in the EU_Netherlands.pdf)
+- [Day 1 - 3rd Panel Discussion: Export Licensing Procedures in the Republic of Korea (Korea)](/files/businesses/TSSB/Day 1 - 3rd Panel Discussion_Export Licensing Procedures in the Republic of Korea.pdf)
+- [Day 2 - 4th Panel Discussion: Strategic Trade Management Act Updates (Philippines)](/files/businesses/TSSB/Day 2 - 4th Panel Discussion_Strategic Trade Management Act Updates_Philippines.pdf)
+- [Day 2 - 4th Panel Discussion: Updates on Singapore's Strategic Trade Controls (Singapore)](/files/businesses/TSSB/Day 2 - 4th Panel Discussion- Updates on SIngapore' Strategic Trade Controls.pdf)
+- [Day 2 - 4th Panel Discussion: Strategic Trade Controls Updates in Malaysia (Malaysia)](/files/businesses/TSSB/Day 2 - 4th Panel Discussion_Strategic Trade Controls Updates in Malaysia.pdf)
+- [Day 2 - 5th Panel Discussion: Managing Supply Chain Risks and Internal Compliance Plan Best Practices](/files/businesses/TSSB/Day 2 - 5th Panel Discussion_Managing Supply Chain Risks and Internal Compliance Plan Best Practices.pdf)
+- [Day 2 - 6th Panel Discussion: Intangible Technology Transfer and Trade Secrets (Hokkaido University)](/files/businesses/TSSB/Day 2 - 6th Panel Discussion_Intangible Technology Transfer and Trade Secrets_Hokkaido University.pdf)
+- [Day 2 - 6th Panel Discussion: ITT and IPR, and Trade Secrets in a Research or Academic Environment (USPTO)](/files/businesses/TSSB/Day 2 - 6th Panel Discussion_ITT and IPR, and Trade Secrets concerns in a research or academic environment_USPTO.pdf)
+- [Day 2 - 6th Panel Discussion: Intangible Technology Transfer (Celestica)](/files/businesses/TSSB/Day 2 - 6th Panel Discussion_Intangible Technology Transfer_Celestica.pdf)
 
+Full Video of the Seminar (2 part video):
+- [Day 1](https://www.youtube.com/watch?v=f1PqS4tr07o){:target="_blank"}
+- [Day 2](https://www.youtube.com/watch?v=8qS8ulBgcQM&t=7360s){:target="_blank"}

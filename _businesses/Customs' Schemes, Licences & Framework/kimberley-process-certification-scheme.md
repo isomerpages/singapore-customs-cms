@@ -8,7 +8,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 ## What is it?
 
-The Kimberley Process Certification Scheme (KPCS) is an international scheme to stop the trade of "conflict diamonds” and to ensure that diamond purchases do not finance violence by rebel movements and their allies seeking to undermine legitimate governments. Singapore has been a Kimberley Process (KP)  [participant](/documents/businesses/cir072004.pdf)  since 2004.
+The Kimberley Process Certification Scheme (KPCS) is an international scheme to stop the trade of "conflict diamonds” and to ensure that diamond purchases do not finance violence by rebel movements and their allies seeking to undermine legitimate governments. Singapore has been a Kimberley Process (KP)  [participant](/files/businesses/cir072004.pdf)  since 2004.
 
 Find out more about the [KPCS](https://www.kimberleyprocess.com/)  and [list of KP participants](http://www.kimberleyprocess.com/en/kp-participants-and-observers).
 

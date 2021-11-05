@@ -2,17 +2,17 @@ collections:
   temporary-import-scheme:
     output: true
     order:
-      - Temporary Import /.keep
-      - Temporary Import /qualifying-goods-and-purposes.md
-      - Temporary Import /permit-application-procedures.md
-      - Temporary Import /temporary-import-of-scientific-or-technical-goods.md
-      - Temporary Import /temporary-import-duration-and-extension.md
-      - Temporary Import /additional-requirements.md
-      - Temporary Export /.keep
-      - Temporary Export /qualifying-goods-and-purposes.md
-      - Temporary Export /permit-application-procedures.md
-      - Temporary Export /temporary-export-duration-and-extension.md
-      - Temporary Export /additional-requirements.md
+      - Temporary Import/.keep
+      - Temporary Import/qualifying-goods-and-purposes.md
+      - Temporary Import/permit-application-procedures.md
+      - Temporary Import/temporary-import-of-scientific-or-technical-goods.md
+      - Temporary Import/temporary-import-duration-and-extension.md
+      - Temporary Import/additional-requirements.md
+      - Temporary Export/.keep
+      - Temporary Export/qualifying-goods-and-purposes.md
+      - Temporary Export/permit-application-procedures.md
+      - Temporary Export/temporary-export-duration-and-extension.md
+      - Temporary Export/additional-requirements.md
       - Alternatives to the Temporary Import Scheme/.keep
       - Alternatives to the Temporary Import Scheme/temporary-importation-exportation-of-hand-carried-non-commercial-goods.md
       - Alternatives to the Temporary Import Scheme/ata-carnet.md

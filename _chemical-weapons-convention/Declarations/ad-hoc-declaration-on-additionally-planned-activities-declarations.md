@@ -22,7 +22,7 @@ The table below indicates the activities that may be reported in an AH.
 | Local Sales/Distribution | X | X | X |
 
 √ : indicates that ADPA is required.   
-See [full list](/documents/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf) of scheduled chemicals.
+See [full list](/files/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf) of scheduled chemicals.
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
 

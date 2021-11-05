@@ -108,7 +108,7 @@ Generally, you are required to retain all the relevant supporting documents rela
 
 You may be required to produce these supporting documents to Singapore Customs upon request.
 
-You may also use an image system to store [images](/documents/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf) of the documents without retaining the physical copy. Please read the  [guidelines](/news-and-media/notices/46_Notice_05_2015_Ver1.pdf) here for storing images of trade documents.
+You may also use an image system to store [images](/files/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf) of the documents without retaining the physical copy. Please read the  [guidelines](/news-and-media/notices/46_Notice_05_2015_Ver1.pdf) here for storing images of trade documents.
 
 ***
 

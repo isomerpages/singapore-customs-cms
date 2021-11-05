@@ -8,9 +8,9 @@ third_nav_title: Export Procedures
 
 ## Permit Amendment
 
-You may amend an approved permit via TradeNet if it is within the permit’s validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click [here](/documents/businesses/PSB/TN Team/annex-b-fields-not-allowed-for-amendment.pdf) for the non-exhaustive list of non-amendable fields.
+You may amend an approved permit via TradeNet if it is within the permit’s validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click [here](/files/businesses/PSB/TN Team/annex-b-fields-not-allowed-for-amendment.pdf) for the non-exhaustive list of non-amendable fields.
 
-Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the [sample of an amended Cargo Clearance Permit](/documents/businesses/PSB/TN Team/sample-CCP-Amendment.pdf).
+Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the [sample of an amended Cargo Clearance Permit](/files/businesses/PSB/TN Team/sample-CCP-Amendment.pdf).
 
 ## Permit Cancellation
 

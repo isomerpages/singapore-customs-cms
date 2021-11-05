@@ -17,7 +17,7 @@ The Licensed Warehouse (LW) Scheme allows approved companies to store imported d
 
 Duty and GST will be payable when these goods are removed from the licensed warehouse for local use or consumption. Duty and GST are not payable when these goods are removed for export, or when supply or sale of these goods takes place while they are in the warehouse.
 
-You may refer to an  [overview of the procedures](/documents/businesses/overview1.doc)  for storing dutiable imports in licensed warehouses.
+You may refer to an  [overview of the procedures](/files/businesses/overview1.doc)  for storing dutiable imports in licensed warehouses.
 
 ## Types of Licences under the LW Scheme
 
@@ -31,7 +31,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](/documents/businesses/SEB/LW Handbook 2021.pdf)  (Chapter 2.8).
+A summary of the benefits for the 3 LW licence types can be found in the  [Licensed Warehouse Scheme Handbook](/files/businesses/SEB/LW Handbook 2021.pdf)  (Chapter 2.8).
 
 ## How to Qualify?
 
@@ -91,7 +91,7 @@ Goods that are not fit for human consumption may be destroyed under Customs’ s
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
+**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
 
 **Step 2**: Prepare these supporting documents:
 
@@ -114,6 +114,11 @@ Alternatively, for urgent scheme-related matters, please contact us via our hotl
 ## Application for Changes to Schemes for Existing Licensees
 
 You may complete your [applications for changes to schemes for existing licensees or to update records](https://form.gov.sg/#!/605462a0f26f5c0012448021) online.
+
+## Authorisation of Declaring Agent (DA) for Licensed Premises
+
+DAs can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DAs.
+In order to authorise a DA, the licensed premises operator is required to complete the [Application for the Authorisation of DAs for Licensed Premises] (https://www.customs.gov.sg/eservices/customs-forms-and-service-links) form and submit it via email to [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg). The processing time of the application is 2 working days.
 
 ## Errors and Offences
 

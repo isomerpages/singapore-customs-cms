@@ -47,7 +47,7 @@ The following information must be declared in the CCP application:
 9.  Vessel Name or Vehicle Registration Number; and
 10.  Arrival Date.
 
-A list of BCA product codes is available  [here](/documents/about-us//BCAcodes.pdf). Please use the respective product codes when making declaration for import permits.
+A list of BCA product codes is available  [here](/files/about-us//BCAcodes.pdf). Please use the respective product codes when making declaration for import permits.
 
 To import your first consignment from a new source, please submit the following documents, please submit the following documents to BCA by fax at 63344250 or in your TradeNet CCP application:
 

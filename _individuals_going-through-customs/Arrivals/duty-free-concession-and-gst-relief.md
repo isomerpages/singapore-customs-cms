@@ -84,7 +84,7 @@ Goods granted GST import relief include new articles, souvenirs, gifts and food 
 
 Travellers are required to pay GST on the value of the goods  that exceeds the amount of GST import relief granted to them.
 
-For convenience, you may make an advance declaration and payment of GST using our  [Customs@SG mobile app or web portal](/eservices/customs-sg-mobile-and-web-application/). Alternatively, you can declare and pay  the GST for your goods at the Customs Tax Payment Office.
+For convenience, you may make an advance declaration and payment of GST using our  [Customs@SG web application](/eservices/customs-sg-web-application/). Alternatively, you can declare and pay  the GST for your goods at the Customs Tax Payment Office.
 
 ## Reminder
 

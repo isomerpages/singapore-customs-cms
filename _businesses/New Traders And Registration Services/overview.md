@@ -6,7 +6,7 @@ third_nav_title: New Traders And Registration Services
 
 # Quick Guide for New Traders and Registration Services
 
-## [Permit Application Overview Guide](/documents/businesses/PSB/Permit Application Overview Guide.pdf)
+## [Permit Application Overview Guide](/files/businesses/PSB/Permit Application Overview Guide.pdf)
 
 ## Activating a Customs Account
 

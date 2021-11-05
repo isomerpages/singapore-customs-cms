@@ -17,7 +17,7 @@ The amount of security required for a permit application is dependent on the mov
 
 
 
-|Movement Type|Goods Type: Non-Dutiable Goods |[Selected Goods](/documents/businesses/SelectedGoods.pdf)|Non-Selected Goods|
+|Movement Type|Goods Type: Non-Dutiable Goods |[Selected Goods](/files/businesses/SelectedGoods.pdf)|Non-Selected Goods|
 |--|--|--|--|
 | **Inward Movement** <br> [Temporary Import (TI) of Goods for Approved Purposes](/businesses/importing-goods/temporary-import-scheme) | GST Registered Entity |50% of potential GST|30% of potential GST|
 | **Inward Movement** <br> [Temporary Import (TI) of Goods for Approved Purposes](/businesses/importing-goods/temporary-import-scheme) | Non-GST Registered Entity |100% of potential GST|50% of potential GST|

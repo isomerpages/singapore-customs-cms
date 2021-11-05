@@ -36,18 +36,18 @@ The goods in the HS are arranged in order of their degree of manufacture. The sa
     
 In every case, the goods must first be classified in the appropriate 4-digit HS heading, followed by the appropriate 1-dash subheading, and the appropriate 2-dash subheading and so on. You should  **not**  proceed directly to the lower-level subheadings without first determining the appropriate heading.
     
-When classifying your products, one will need to apply the  [General Interpretative Rules (GIR)](/documents/businesses/generalrulesfortheinterpretation.pdf)  which provide a step-by-step basis for the classification of goods and to ensure uniform interpretation of the Harmonised System (HS) nomenclature.  _(Note: GIR must be applied in sequential order)._
+When classifying your products, one will need to apply the  [General Interpretative Rules (GIR)](/files/businesses/generalrulesfortheinterpretation.pdf)  which provide a step-by-step basis for the classification of goods and to ensure uniform interpretation of the Harmonised System (HS) nomenclature.  _(Note: GIR must be applied in sequential order)._
     
-Click  [here](/documents/businesses/apply-gir.pdf)  for guiding questions on how to apply GIR.
+Click  [here](/files/businesses/apply-gir.pdf)  for guiding questions on how to apply GIR.
 
     
 ## ASEAN Harmonised Tariff Nomenclature (AHTN)
     
 The ASEAN Harmonised Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature used by all ASEAN member countries. The AHTN facilitates trade among ASEAN member countries through consistent and uniform interpretation in the classification of goods. It is based on the 6-digit Harmonised Commodity Description and Coding System Nomenclature developed by WCO.
 
-The last amendment to AHTN was done in 2017 where all 233 sets of 2017 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in  [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2018.](/documents/businesses/STCCED 2018_Feb 21.pdf)
+The last amendment to AHTN was done in 2017 where all 233 sets of 2017 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in  [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2018.](/files/businesses/STCCED 2018_Feb 21.pdf)
     
-Further to the awareness briefing on AHTN 2017 held on 21 May 2018, you may view the slides [here](/documents/businesses/AHTN-2017-21-May-HSC.pdf) for highlights on the key amendments.
+Further to the awareness briefing on AHTN 2017 held on 21 May 2018, you may view the slides [here](/files/businesses/AHTN-2017-21-May-HSC.pdf) for highlights on the key amendments.
 
 ## Course and Self-Learning Resources
 
@@ -57,14 +57,14 @@ If you wish to pick up basic skills on the Harmonised System (HS) classification
 
 **Handy Guides on HS Classification**
 
-Download handy guide on [How to determine HS code](/documents/businesses/How-to-determine-HS-code.pdf).
+Download handy guide on [How to determine HS code](/files/businesses/How-to-determine-HS-code.pdf).
 
-Download handy guide on [How to read the HS](/documents/businesses/How-to-read-the-HS.pdf).
+Download handy guide on [How to read the HS](/files/businesses/How-to-read-the-HS.pdf).
 
 
 **E-learning Modules**
 
-If you wish to learn classification of products from across more than 30 HS Chapters, try our [Multiple Choice Questions (MCQs)](/documents/businesses/MCQs.pdf).
-Categories in the MCQ questions includes products ranging from food and beverages to chemical preparations to plastic articles, and machines. Please click on this [link](/documents/businesses/Answers-to-MCQs-(1).pdf) for answers and classification rationale.
+If you wish to learn classification of products from across more than 30 HS Chapters, try our [Multiple Choice Questions (MCQs)](/files/businesses/MCQs.pdf).
+Categories in the MCQ questions includes products ranging from food and beverages to chemical preparations to plastic articles, and machines. Please click on this [link](/files/businesses/Answers-to-MCQs-(1).pdf) for answers and classification rationale.
 
 

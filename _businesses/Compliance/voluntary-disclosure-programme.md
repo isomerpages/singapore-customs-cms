@@ -26,8 +26,8 @@ Please make a VDP submission using the Voluntary Disclosure form by logging in v
 | Types of Voluntary Disclosure | Supporting Documents Required |
 |--|--|
 | **All disclosures** | Permit <br>   Invoice <br>  Packing list <br>  Bill of Lading or Air Waybill <br>   Other applicable documents |
-| **Disclosure involving Strategic Goods** | [VDP-SGCA Non-Compliance](/documents/businesses/VDP-SGC-non-compliance.doc) |
-| **Disclosure involving rules of origin under Singapore’s free trade agreements** | [VDP-FTA or ROO Non-Compliance](/documents/businesses/VDP-FTA-ROO-non-compliance.doc) |
+| **Disclosure involving Strategic Goods** | [VDP-SGCA Non-Compliance](/files/businesses/VDP-SGC-non-compliance.doc) |
+| **Disclosure involving rules of origin under Singapore’s free trade agreements** | [VDP-FTA or ROO Non-Compliance](/files/businesses/VDP-FTA-ROO-non-compliance.doc) |
 
 Please note that your submission may be rejected if there is an omission in any information and/or document required.
 

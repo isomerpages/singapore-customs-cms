@@ -77,4 +77,4 @@ Please note that amendments to and/or cancellation of TradeNet permit applicatio
 
 ## For more information:
 a)  [Circular 14/2020: Live operation for the electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)](/news-and-media/circulars/2020-12-31-Circular142020.pdf)<br>
-b)  [Frequently Asked Questions](/documents/businesses/International Data Exchange/ACDD/Annex A - ACDD FAQ.pdf)
+b)  [Frequently Asked Questions](/files/businesses/International Data Exchange/ACDD/Annex A - ACDD FAQ.pdf)

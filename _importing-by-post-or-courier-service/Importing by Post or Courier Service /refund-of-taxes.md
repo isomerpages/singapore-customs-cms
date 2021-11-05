@@ -17,7 +17,7 @@ You can make a claim for refund in writing for an overpayment or erroneous payme
 |---|---|---|
 | Air Freight  | TradeNet permits  |  Declaring Agent of the TradeNet permit |
 | Air Courier  |  Courier Service <br> (e.g. DHL, FedEx, UPS & TNT) |  Courier service company |
-|  Post (registered / ordinary mail) or Speedpost (Express Mail Service / Ordinary parcel) services | Singapore Post <br> ICA counter at Singapore Post Centre  |  Singapore Post <br> Directly to Singapore Customs using [“Application for Refund of Duty/GST”](/documents/businesses/application-for-refund-of-duty-or-gst-form-5nov2018.doc) form |
+|  Post (registered / ordinary mail) or Speedpost (Express Mail Service / Ordinary parcel) services | Singapore Post <br> ICA counter at Singapore Post Centre  |  Singapore Post <br> Directly to Singapore Customs using [“Application for Refund of Duty/GST”](/files/businesses/application-for-refund-of-duty-or-gst-form-5nov2018.doc) form |
 
 Your refund claim should be supported by the following supporting documents (where applicable):
 

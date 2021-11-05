@@ -17,7 +17,7 @@ Please note that your postal parcel may be held by ICA/SingPost for the followin
 -   the postal parcel contains prohibited goods; and/or
 -   the postal parcel contains goods of a total CIF value exceeding S$400 and does not have an invoice attached to it at the time of arrival.
 
-In the event that your postal parcel has been held by ICA/SingPost, you will receive a Letter of Notification from SingPost which will advise you on the follow-up action required.
+In the event that your postal parcel has been held by ICA/SingPost, you will receive a notification letter from SingPost which will advise you on the follow-up action required.
 
 ## For Courier Parcels
 

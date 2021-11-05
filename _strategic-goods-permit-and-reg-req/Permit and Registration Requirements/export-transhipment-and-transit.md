@@ -39,11 +39,11 @@ The 7 ICP elements are:
 
 *The appointed strategic goods control officer(s)/administrator(s) must be based in Singapore or remain contactable via a Singapore contact. The personnel must also be familiar with the SGCA and its Regulations and other related domestic legislations.
 
-You may refer to Annex A of the  [STS Handbook](/documents/businesses/SEB/STS Handbook 2021.pdf) for more details.
+You may refer to Annex A of the  [STS Handbook](/files/businesses/SEB/STS Handbook 2021.pdf) for more details.
 
 ## Applying for Bulk Permit
 
-You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/stsbulkpermitapplication-form) and submitting the form, [TradeFIRST Self-Assessment Checklist](/documents/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
+You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/stsbulkpermitapplication-form) and submitting the form, [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
 
 Once the application is received, an officer will be assigned as Singapore Customs’ contact point to the company for the assessment.
 
@@ -65,4 +65,4 @@ A Bulk Permit holder must:
 -   Ensure that any goods or technology transfer made under the Bulk Permit is not transferred to United Nations Security Council–sanctioned countries or entities
 -   Maintain records of strategic goods transactions for at least 5 years
 
-Please refer to Section 4.9 of the  [STS Handbook](/documents/businesses/SEB/STS Handbook 2021.pdf)
+Please refer to Section 4.9 of the  [STS Handbook](/files/businesses/SEB/STS Handbook 2021.pdf)

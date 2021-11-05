@@ -45,20 +45,20 @@ Highlights:
 
 Presentation materials:
 
--   [Agenda](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - Agenda.pdf)
--   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Australia)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - Australia.pdf)
--   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Japan)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - Japan.pdf)
--   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (US)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - US.pdf)
--   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Philippines)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Philippines.pdf)
--   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Malaysia)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Malaysia.pdf)
--   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Singapore)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Singapore.pdf)
--   [3rd Panel Discussion: Private Sector Best Practices for Compliance (CAPTCIS)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - CAPTCIS.pdf)
--   [3rd Panel Discussion: Private Sector Best Practices for Compliance (NEC Corporation)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - NEC.pdf)
--   [3rd Panel Discussion: Private Sector Best Practices for Compliance (DSM Dyneema)](/documents/businesses/TSSB/Joint Industry Outreach Seminar - 3rd Panel - DSM.pdf)
--   [3rd Panel Discussion: Private Sector Best Practices for Compliance (Rockwell Automation)](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - Rockwell Automation.pdf)
+-   [Agenda](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - Agenda.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Australia)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - Australia.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (Japan)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - Japan.pdf)
+-   [1st Panel Discussion: Developments in Strategic Trade Regulations and Controls (US)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 1st Panel - US.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Philippines)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Philippines.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Malaysia)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Malaysia.pdf)
+-   [2nd Panel Discussion: Strategic Trade Regulations and Controls in ASEAN (Singapore)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 2nd Panel - Singapore.pdf)
+-   [3rd Panel Discussion: Private Sector Best Practices for Compliance (CAPTCIS)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - CAPTCIS.pdf)
+-   [3rd Panel Discussion: Private Sector Best Practices for Compliance (NEC Corporation)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - NEC.pdf)
+-   [3rd Panel Discussion: Private Sector Best Practices for Compliance (DSM Dyneema)](/files/businesses/TSSB/Joint Industry Outreach Seminar - 3rd Panel - DSM.pdf)
+-   [3rd Panel Discussion: Private Sector Best Practices for Compliance (Rockwell Automation)](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - 3rd Panel - Rockwell Automation.pdf)
 -   [United States - Red Flag Indicators](https://www.bis.doc.gov/index.php/all-articles/23-compliance-a-training/51-red-flag-indicators){:target="_blank"}
--   [Japan's Controls on Intangible Transfer of Technology](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - Japans Controls on ITT.pdf)
--   [China's Export Control System](/documents/businesses/TSSB/Joint Industry Outreach Seminar 2019 - China.pdf)
+-   [Japan's Controls on Intangible Transfer of Technology](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - Japans Controls on ITT.pdf)
+-   [China's Export Control System](/files/businesses/TSSB/Joint Industry Outreach Seminar 2019 - China.pdf)
 
 Full Video of the Seminar (4 part video):
 

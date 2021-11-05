@@ -38,7 +38,7 @@ The Key Personnel of an entity has to register his particulars with:
 
 An Authorised Personnel has to be authorised by the Declaring Entity and its Key Personnel to make the Claimant application on behalf of the Declaring Entity.
 
-The registration will be processed within three working days upon receipt of the full set of supporting documents as stated in the forms. The application for registration as well as the continued registration with Customs is subject to the [terms and conditions](/documents/businesses/claimant-organisation-tcs.pdf) imposed by the Director-General of Singapore Customs.
+The registration will be processed within three working days upon receipt of the full set of supporting documents as stated in the forms. The application for registration as well as the continued registration with Customs is subject to the [terms and conditions](/files/businesses/claimant-organisation-tcs.pdf) imposed by the Director-General of Singapore Customs.
 
 Upon successful registration of the Claimants, we will send a notification by email to the Primary Contact (or the Secondary Contact should transmission to your Primary Contact fails) registered in your entity’s Customs Account.
 

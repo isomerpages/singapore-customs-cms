@@ -25,4 +25,4 @@ To transmit an e-ATIGA Form D, the exporter must first be registered with Singap
 
 To register, please fill in the application form to register for the ASW [here](https://form.gov.sg/5d1330b145677e0011c1c97a).
 
-You may also find an infographic of the process [here](/documents/businesses/asw-infograhic-myanmar-lao.pdf).
+You may also find an infographic of the process [here](/files/businesses/asw-infograhic-myanmar-lao.pdf).

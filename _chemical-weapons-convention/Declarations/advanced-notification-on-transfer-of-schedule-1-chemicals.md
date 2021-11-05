@@ -6,7 +6,7 @@ third_nav_title: Declarations
 
 # Advanced Notification on Transfer of Schedule 1 Chemicals
 
-Licensees that intend to  **import**,  **export**, or  **locally transfer** any  [Schedule 1 chemical](/documents/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf)  must give notification to NA(CWC) before and after the transfer has been completed.
+Licensees that intend to  **import**,  **export**, or  **locally transfer** any  [Schedule 1 chemical](/files/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf)  must give notification to NA(CWC) before and after the transfer has been completed.
 
 ## Timeline for submission:
 

@@ -2,12 +2,11 @@ collections:
   transhipment-procedures-requirements:
     output: true
     order:
-      - Transhipment Requirements /.keep
-      - Transhipment Requirements /controlled-prohibited-goods.md
-      - Transhipment Requirements /vessel-registration-requirement.md
-      - Transhipment Requirements /applying-for-a-customs-permit.md
-      - Transhipment Requirements  /.keep
-      - Transhipment Requirements  /depositing-goods-in-free-trade-zones-pending-transhipment.md
-      - Transhipment Requirements /transhipment-of-class-ii-dangerous-cargo.md
-      - Transhipment Requirements /retaining-your-trade-documents.md
-      - Transhipment Requirements  /documentation-for-clearance-of-goods.md
+      - Transhipment Requirements/.keep
+      - Transhipment Requirements/controlled-prohibited-goods.md
+      - Transhipment Requirements/vessel-registration-requirement.md
+      - Transhipment Requirements/applying-for-a-customs-permit.md
+      - Transhipment Requirements/depositing-goods-in-free-trade-zones-pending-transhipment.md
+      - Transhipment Requirements/transhipment-of-class-ii-dangerous-cargo.md
+      - Transhipment Requirements/retaining-your-trade-documents.md
+      - Transhipment Requirements/documentation-for-clearance-of-goods.md

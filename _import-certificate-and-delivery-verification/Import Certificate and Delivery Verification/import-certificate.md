@@ -49,8 +49,8 @@ Please note that each application will typically be processed within 2 working d
 
 The supporting documents for your IC application include:
 
--   An  [Exporter Declaration Letter](/documents/businesses/PSB/Exporter Declaration Letter.docx)  that an IC is required
--   An  [End-User Declaration Letter](/documents/businesses/PSB/End-User Declaration Letter.docx) that the goods to be imported are for the end user’s own use, if the end-user is a local party
+-   An  [Exporter Declaration Letter](/files/businesses/PSB/Exporter Declaration Letter.docx)  that an IC is required
+-   An  [End-User Declaration Letter](/files/businesses/PSB/End-User Declaration Letter.docx) that the goods to be imported are for the end user’s own use, if the end-user is a local party
 -   An  [End-User Statement](https://www.customs.gov.sg/eservices/customs-forms-and-service-links), if the end-user is a foreign party
 -   If you are re-exporting the goods from Singapore, an export licence (and its English translation) from the exporting country, or a confirmation from the exporting country that they do not control the re-export of the goods
 -   Technical specifications of the goods to be imported (for example, operating instructions, manuals, brochures, data sheets, catalogues)
@@ -106,9 +106,9 @@ If you did _not_ indicate  in your IC application that the goods are for re-expo
 
 You should notify us in writing immediately on any change in information for your IC.
 
-If you are selling or transferring the imported goods to another person, please complete this  [Transfer of Ownership Letter](/documents/businesses/PSB/Transfer of Ownership Letter.docx) and submit it at least 14 days before the sale or transfer.
+If you are selling or transferring the imported goods to another person, please complete this  [Transfer of Ownership Letter](/files/businesses/PSB/Transfer of Ownership Letter.docx) and submit it at least 14 days before the sale or transfer.
 
-The new owner of the goods should also submit a  [New Ownership Declaration Letter](/documents/businesses/PSB/New Ownership Declaration Letter.docx) that the goods are for their use only.
+The new owner of the goods should also submit a  [New Ownership Declaration Letter](/files/businesses/PSB/New Ownership Declaration Letter.docx) that the goods are for their use only.
 
 ## Cancelling your IC
 

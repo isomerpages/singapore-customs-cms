@@ -70,4 +70,4 @@ The Key Personnel or Authorised Personnel authorised by the Key Personnel can al
 
 ## Terms and Conditions
 
-[Terms and Conditions for Declaring Entities](/businesses/TCsDEfinal.pdf)
+[Terms and Conditions for Declaring Entities](/files/businesses/TCsDEfinal.pdf)

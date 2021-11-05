@@ -19,13 +19,13 @@ More information on the electronic transmission of Form D via the ASW can be fou
 
 With effect from 1 May 2020, China has implemented full electronic transmission of Preferential Certificate of Origin (PCO) for acceptance on goods from Singapore under the Electronic Origin Data Exchange System (EODES). To assist your customers in China to enjoy a seamless clearance of the goods, exporters and their appointed declaring agents/freight forwarders are encouraged to leverage on the International Connectivity Preferential Certificate of Origin (IC PCO) service on Networked Trade Platform (NTP). More information on how you could sign up for the IC PCO service can be found in [Notice 18/2019](/news-and-media/notices/2019-10-15-N.pdf) under News and Media > Notices.
 
-For more information on EODES, you may wish to download the [handbook](/documents/businesses/Transmission and Receipt of Electronic Preferential Certificate of Origin via Networked Trade Platform (Mar 2021).pdf). 
+For more information on EODES, you may wish to download the [handbook](/files/businesses/Transmission and Receipt of Electronic Preferential Certificate of Origin via Networked Trade Platform (Mar 2021).pdf). 
 
 ## What is an ordinary Certificate of Origin?
 
 A Certificate of Origin (CO) helps to attest the origin of goods. There are two types of COs, namely ordinary COs and preferential COs. An ordinary CO, also known as a non-preferential CO, is a trade document that helps to identify the origin of the good.
 
-You may refer to this [handbook](/documents/businesses/handbook-on-the-rules-of-origin-for-oco.pdf) for more information on the rules of origin for ordinary COs.
+You may refer to this [handbook](/files/businesses/handbook-on-the-rules-of-origin-for-oco.pdf) for more information on the rules of origin for ordinary COs.
 
 ## What is a preferential Certificate of Origin (PCO)?
 
@@ -33,12 +33,12 @@ A preferential CO allows your buyer to pay lower or no customs duty when you exp
 
 These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
 
-- [Handbook on rules of origin for preferential Certificates of Origin](/documents/businesses/Handbook_on_ROO_for_PCO_Aug2021(TTSB).pdf)
+- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/Handbook_on_ROO_for_PCO_Aug2021(TTSB).pdf)
     
-- [Handbook on the rules of origin for Schemes of Preference](/documents/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf)
+- [Handbook on the rules of origin for Schemes of Preference](/files/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf)
     
 
-You may use the [FTA Cost Statement Calculator](/documents/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
+You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
 
 ## Who can issue an Ordinary Certificate of Origin (OCO)?
 
