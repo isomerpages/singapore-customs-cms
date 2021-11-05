@@ -1,5 +1,5 @@
 collections:
-  individuals_going-through-customs:
+  individuals-going-through-customs:
     output: true
     order:
       - Arrivals/.keep
