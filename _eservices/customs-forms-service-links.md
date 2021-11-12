@@ -179,7 +179,7 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Activate / Update / Terminate Customs Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
-| 2. | Application for Inter-Bank GIRO | [Web Link](https://go.gov.sg/sc-a-020ver12) |
+| 2. | Application for Inter-Bank GIRO | [Word Doc](https://go.gov.sg/sc-a-020ver12) (80KB) |
 | 3. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)
 | 4. | Application for the Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](/files/eservices/DeclaringAgents-Licensed-Premises.doc) (316KB) |
 | 5. | Apply / Update / Renew / Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
