@@ -2,7 +2,6 @@
 title: Customs Forms & Service Links
 permalink: /eservices/customs-forms-and-service-links
 ---
-
 # Customs Forms & Service Links
 
 Please note that Application for Certificate of Free Sales, Import Certificate as well as Delivery Verification and Landing Certificate are now under "Networked Trade Platform eServices".
@@ -180,7 +179,7 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Activate / Update / Terminate Customs Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
-| 2. | Application for Inter-Bank GIRO | [Word Doc](/files/eservices/Inter-Bank-Giro.doc) (78KB) |
+| 2. | Application for Inter-Bank GIRO | [Word Doc](/files/eservices/SC-A-020Ver12.docx) (80KB) |
 | 3. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)
 | 4. | Application for the Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](/files/eservices/DeclaringAgents-Licensed-Premises.doc) (316KB) |
 | 5. | Apply / Update / Renew / Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
@@ -256,6 +255,3 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | 1. | Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmit ACDD | [Web Link](https://form.gov.sg/5fc60a46ea38000011cc5e29) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
-
-
-
