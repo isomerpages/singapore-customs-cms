@@ -64,21 +64,20 @@ See full list of scheduled chemicals [here](/files/businesses/Guide_to_NACWC_Lic
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Unscheduled Discrete Organic Chemicals (DOCs)</label>
-    <div><br>
+    <div>
       <p>An unscheduled discrete organic chemical (DOCs) refers to any chemical that belongs to the class of chemical compounds consisting of all compounds of carbon, except for its oxides, sulfides and metal carbonates. It is identifiable by name, structural formula (if known), and Chemical Abstracts Service (CAS) Registry Number (if assigned). It excludes</p>
 <p>- Oligomers and polymers whether or not containing phosphorus, sulfur or fluorine<br>
 - Chemicals containing only carbon and metal<br>
 - Carbon monoxide and carbon dioxide (referred to as “oxides of carbon” in the above definition)<br>
 - Carbon disulfide or carbonyl sulfide (referred to as “sulfides of carbon” in the above definition)<br></p>
 <p>There are 2 types of DOCs</p>
-<br>
 <p>- PSF-containing DOCs (Those that contain phosphorus, sulphur or fluorine)<br>
 - Non PSF-containing DOCs (Those that do not contain phosphorus, sulphur or fluorine)</p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion2">Determining if your product is controlled</label>
+    <label for="accordion5">Determining if your product is controlled</label>
     <div>
        <p>Please refer to the <a href="https://www.customs.gov.sg/documents/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf" target="new">list of scheduled chemicals</a> to check if your product is controlled by the NA(CWC).</p>
      <p>You may also check using the description of the goods, Harmonized System (HS) code or Competent Authority (CA) product code on this <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" target="new">search engine</a>. If the HS code is subject to control, the name of the CA and the chemical(s) that the CA controls will be indicated. You may check directly with the respective CAs on their licensing requirements.</p>
@@ -101,3 +100,4 @@ Singapore 307987</li>
       </ol>
     </div>
   </li>
+	</ul>
