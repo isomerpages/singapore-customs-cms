@@ -91,14 +91,14 @@ See full list of scheduled chemicals [here](/files/businesses/Guide_to_NACWC_Lic
 - Intended use of product</p>
 
 <p>For submission of multiple files, please zip the documents and submit as a single file in the appropriate form. For files that are larger than 7MB, you may submit your supporting documents via</p>
-<p><ol>
+<p><ol type="1">
   <li>Email - customs_nacwc@customs.gov.sg</li>
   <li>Mail -<br>
 Singapore Customs<br>
 National Authority (Chemical Weapons Convention)<br>
 55 Newton Road #06-02<br>
 Revenue House<br>
-Singapore 307987<br></li></ol>
+Singapore 307987<br></ol>
  </div>
   </li>
 </ul>
