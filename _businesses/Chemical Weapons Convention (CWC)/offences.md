@@ -4,11 +4,23 @@ permalink: /businesses/chemical-weapons-convention/offences
 third_nav_title: Chemical Weapons Convention (CWC)
 accordion:
   - title: Do
-    content: <br> ✔ Ensure you obtain a valid CWC licence before you engage in any controlled activities with scheduled chemicals. <br> ✔ Check if the scheduled chemicals are also controlled under other regulations. For example, export of scheduled chemicals above certain concentration thresholds would require the strategic goods export permit. <br> ✔ Check the list of OPCW [Member States](https://www.opcw.org/about-us/member-states){:target="_blank"} and the relevant import and export restrictions for the scheduled chemicals in these Member States. <br> ✔ Perform checks to ensure that the end-user is a legitimate customer and not a sanctioned entity. <br> ✔ Ensure you apply for the correct permit type and fill up all the mandatory fields.
+    content: <br> ✔ Ensure you obtain a valid CWC licence before you engage in any
+      controlled activities with scheduled chemicals. <br> ✔ Check if the
+      scheduled chemicals are also controlled under other regulations. For
+      example, export of scheduled chemicals above certain concentration
+      thresholds would require the strategic goods export permit. <br> ✔ Check
+      the list of OPCW [Member
+      States](https://www.opcw.org/about-us/member-states){:target="_blank"} and
+      the relevant import and export restrictions for the scheduled chemicals in
+      these Member States. <br> ✔ Perform checks to ensure that the end-user is
+      a legitimate customer and not a sanctioned entity. <br> ✔ Ensure you apply
+      for the correct permit type and fill up all the mandatory fields.
   - title: Do Not
-    content: <br> ✖ Assume the same controls apply to all scheduled chemicals. These chemicals are grouped under three different schedules with different degrees of controls depending on their purity, type of activities, and the countries receiving or supplying the chemicals.
+    content: <br> ✖ Assume the same controls apply to all scheduled chemicals. These
+      chemicals are grouped under three different schedules with different
+      degrees of controls depending on their purity, type of activities, and the
+      countries receiving or supplying the chemicals.
 ---
-
 # Offences
 
 Singapore Customs is the National Authority (NA) for the implementation of the Chemical Weapons Convention (CWC).
@@ -51,4 +63,24 @@ You may view more information on prescribed offences and penalties under the Cus
 
 You are accountable as a trader or declaring agent dealing with controlled chemicals. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
-{% include accordion.html %}
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Do</label>
+    <div>
+     <p><ul>
+  <li>Ensure you obtain a valid CWC licence before you engage in any controlled activities with scheduled chemicals.</li>
+  <li>Check if the scheduled chemicals are also controlled under other regulations. For example, export of scheduled chemicals above certain concentration thresholds would require the strategic goods export permit.</li>
+  <li>Check the list of OPCW <a href="https://www.opcw.org/about-us/member-states" target="new">Member States</a> and the relevant import and export restrictions for the scheduled chemicals in these Member States.</li>
+<li>Perform checks to ensure that the end-user is a legitimate customer and not a sanctioned entity.</li>
+<li>Ensure you apply for the correct permit type and fill up all the mandatory fields.</li>
+</ul></div></li>  
+  <li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Do Not</label>
+    <div>
+    <p><ul>
+<li>Assume the same controls apply to all scheduled chemicals. These chemicals are grouped under three different schedules with different degrees of controls depending on their purity, type of activities, and the countries receiving or supplying the chemicals.</li></p>
+ </div>
+  </li>
+</ul>
