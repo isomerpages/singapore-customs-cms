@@ -48,24 +48,21 @@ The organiser/local freight forwarder/local Declaring Agent/exhibitor must [e-fi
 
 The importer, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the operation.
 
-AB-An e-file application must be made to Company Compliance Branch for customs clearance of the goods from the Class II Bonded Warehouse or Container Freight Warehouse.
-
-B2-An e-file application must be made to Company Compliance Branch for supervision of unstuffing of containers (website:http://www.customs.gov.sg).
-
-D3-An e file application must be made To Company Compliance Branch for supervision of unstuffing and/or loading of containers. (website:http://www.customs.gov.sg)
-
-K2-An e file application must be made to Company Compliance Branch for escort/supervision of destruction of liquors, tobacco or dutiable m/vehicles.
-
+|  |  |
+|--|--|
+| AB | An e-file application must be made to Company Compliance Branch for customs clearance of the goods from the Class II Bonded Warehouse or Container Freight Warehouse. |
+| B2 | An e-file application must be made to Company Compliance Branch for supervision of unstuffing of containers (website:http://www.customs.gov.sg).|
+| D3 | An e file application must be made To Company Compliance Branch for supervision of unstuffing and/or loading of containers. (website:http://www.customs.gov.sg)|
+| K2 | An e file application must be made to Company Compliance Branch for escort/supervision of destruction of liquors, tobacco or dutiable m/vehicles.|
 
 * For import/transhipment of containerised consignments, affixed with Customs Red Seal. 
 
 Officers at the entry points may seal any package or container before releasing the goods. Such sealed goods must be unpacked or unstuffed under Customs’ Supervision.
 
-1. Sealed for inspection	-
-The importer, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the operation.
-    
-2.NOD Case -	
-For container issued with a Notice of Discrepancy (NOD), the importer / haulier to call Permits Compliance Branch at 6908 1817 / 6908 1834 during office hours (Monday to Friday: 8 a.m.to 5 p.m.) if they have further enquiries.
+|  |  |
+|--|--|
+| Sealed for inspection | The importer, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the operation.|
+| NOD Case | For container issued with a Notice of Discrepancy (NOD), the importer / haulier to call Permits Compliance Branch at 6908 1817 / 6908 1834 during office hours (Monday to Friday: 8 a.m.to 5 p.m.) if they have further enquiries.|
 
 * For import of containerised consignments under Carnet.
 
@@ -75,9 +72,11 @@ For goods that would be imported and re-exported in containers, the foreign enti
 
 Permits imposed with any of the following permit conditions, the exporter, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the intended operation.
 
-D6- An e file application must be made to Company Compliance Branch for supervision of stuffing of containers for export. (website:http://www.customs.gov.sg)
+|  |  |
+|--|--|
+| D6 | An e file application must be made to Company Compliance Branch for supervision of stuffing of containers for export. (website:http://www.customs.gov.sg)|
+| D7 | An e-file application must be made to Company Compliance Branch for inspection of the goods. (website:http://www.customs.gov.sg).|
 
-D7- An e-file application must be made to Company Compliance Branch for inspection of the goods. (website:http://www.customs.gov.sg)
 
 
 
