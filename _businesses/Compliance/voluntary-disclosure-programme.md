@@ -27,6 +27,15 @@ iv)	Permits under the Temporary Import/Export Scheme (II or OO prefix permits).
 
 2)	Failure to produce permit/goods at the 2nd checkpoint within 24 hours from the time of release at the 1st checkpoint.
 
+3)	Failure to comply with permit condition A6 to cancel unutilised expired permits (excludes ME, EX, IE and OX prefix permits).
+ 
+4)	Failure to declare export permit or wrong export permit declared under Temporary Import Scheme (e.g. OD permit declared instead of corresponding OO permit).
+ 
+5)	Incorrect declaration involving errors in quantity for permits under Temporary Import Scheme (II or OO prefix permits).
+ 
+6)	Failure to comply with permit conditions AB, B2, D3, D6, D7, F9 or K2 to submit e-file application for Customs' supervision.
+
+
 
 
 ## How do I Make a Disclosure?
