@@ -3,7 +3,6 @@ title: Voluntary Disclosure Programme
 permalink: /businesses/compliance/voluntary-disclosure-programme
 third_nav_title: Compliance
 ---
-
 # Voluntary Disclosure Programme
 
 Under the Voluntary Disclosure Programme (VDP), individuals and companies are encouraged to voluntarily disclose their declaration errors and omissions.
@@ -15,9 +14,20 @@ Disclosure applies to all types of offences under laws and regulations administe
 You are eligible for this programme if your disclosure is:
 
 -   Complete, with all relevant information submitted and,
--   Made before notification or commencement of audit checks and investigations
+-   Submitted before notification or commencement of audit checks and/or investigations by Singapore Customs.
 
 There is no fixed time period for making a voluntary disclosure.
+
+Please be informed the following scenarios are not eligible for VDP submission:
+1)	Failure to produce any of the following permits at checkpoints for clearance: 
+i)	Transhipment permits (IT, OT, TT, TW or IR prefix permits);
+ii)	Export and Transhipment permits approved for strategic goods (XO or XP prefix permits) under STS Tier 1;
+iii)	Permits under the Approved Premises/Scheme (II or OO prefix permits); and
+iv)	Permits under the Temporary Import/Export Scheme (II or OO prefix permits).
+
+2)	Failure to produce permit/goods at the 2nd checkpoint within 24 hours from the time of release at the 1st checkpoint.
+
+
 
 ## How do I Make a Disclosure?
 
