@@ -55,7 +55,7 @@ The importer, haulier or declarant must submit an online Application for Customs
 | D3 | An e file application must be made To Company Compliance Branch for supervision of unstuffing and/or loading of containers. (website:http://www.customs.gov.sg)|
 | K2 | An e file application must be made to Company Compliance Branch for escort/supervision of destruction of liquors, tobacco or dutiable m/vehicles.|
 
-**For import/transhipment of containerised consignments, affixed with Customs Red Seal. **
+**For import/transhipment of containerised consignments, affixed with Customs Red Seal.**
 
 Officers at the entry points may seal any package or container before releasing the goods. Such sealed goods must be unpacked or unstuffed under Customs’ Supervision.
 
