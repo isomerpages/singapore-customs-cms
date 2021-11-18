@@ -42,7 +42,7 @@ You must produce the permits to the checkpoint officers for verification at the 
 
 Officers at the entry points may affix a seal onto a package or container before releasing the goods. The sealed goods would be unstuffed under Customs supervision.
 
-The organiser/local freight forwarder/local Declaring Agent/exhibitor must [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} for Customs supervision of unstuffing at least 1 working day before the intended unstuffing operation. 
+The organiser/local freight forwarder/local Declaring Agent/exhibitor must [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} for Customs supervision of unstuffing at least one working day before the intended unstuffing operation. 
 
 **For import/transhipment of containerised/conventional consignments, imposed with permit conditions for Customs Supervision.**
 
