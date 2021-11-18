@@ -22,7 +22,7 @@ Please be informed the following scenarios are not eligible for VDP submission:
 1)	Failure to produce any of the following permits at checkpoints for clearance:  
 i) Transhipment permits (IT, OT, TT, TW or IR prefix permits);  
 ii)	Export and Transhipment permits approved for strategic goods (XO or XP prefix permits) under STS Tier 1;  
-iii)	Permits under the Approved Premises/Scheme (II or OO prefix permits); and
+iii)	Permits under the Approved Premises/Scheme (II or OO prefix permits); and<br>
 iv)	Permits under the Temporary Import/Export Scheme (II or OO prefix permits).
 
 2)	Failure to produce permit/goods at the 2nd checkpoint within 24 hours from the time of release at the 1st checkpoint.
