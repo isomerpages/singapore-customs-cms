@@ -4,11 +4,36 @@ permalink: /businesses/Importing-goods/import-procedures/
 third_nav_title: Importing Goods
 accordion:
   - title: Do
-    content: <br> ✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes. <br> ✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items. <br> ✔ Know the contents of each consignment you import and clarify with relevant parties if needed. <br> ✔ Ensure you provide all supporting documents and information for permit applications to your Declaring Agents. <br> ✔ Include freight and insurance charges in the declared value of imported goods. <br> ✔ Declare any additional goods (for example, samples, gifts and free-of-charge items). <br> ✔ Ensure the product details (for example, Harmonized System (HS) code, quantity, description) are correctly declared. <br> ✔ Ensure you and your Declaring Agents and freight forwarders comply with all the permit conditions. <br> ✔ Apply for Customs supervision for unstuffing of container if the container is affixed with the Customs red seal. <br> ✔ Keep your supporting documents for a minimum of 5 years.
+    content: <br> ✔ Inform Singapore Customs if there is any change in your
+      company’s particulars to ensure you receive timely updates on regulatory
+      changes. <br> ✔ Know the import procedures and declaration requirements
+      before you import. Check with the relevant Competent Authority on the
+      requirements to import controlled items. <br> ✔ Know the contents of each
+      consignment you import and clarify with relevant parties if needed. <br> ✔
+      Ensure you provide all supporting documents and information for permit
+      applications to your Declaring Agents. <br> ✔ Include freight and
+      insurance charges in the declared value of imported goods. <br> ✔ Declare
+      any additional goods (for example, samples, gifts and free-of-charge
+      items). <br> ✔ Ensure the product details (for example, Harmonized System
+      (HS) code, quantity, description) are correctly declared. <br> ✔ Ensure
+      you and your Declaring Agents and freight forwarders comply with all the
+      permit conditions. <br> ✔ Apply for Customs supervision for unstuffing of
+      container if the container is affixed with the Customs red seal. <br> ✔
+      Keep your supporting documents for a minimum of 5 years.
   - title: Do Not
-    content: <br> ✖ Make a declaration without verifying the authenticity of all the supporting documents. <br> ✖ Use a pro-forma invoice for permit application. <br> ✖ Declare a nominal value for samples, gifts or free-of-charge items. You should declare the value based on the transaction value of identical or similar goods or other acceptable valuation methods. <br> ✖ Declare the country of the port of loading as the country of origin, when the goods actually originate from another country. <br> ✖ Share your TradeNet user ID and password with other persons. <br> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.
+    content: <br> ✖ Make a declaration without verifying the authenticity of all the
+      supporting documents. <br> ✖ Use a pro-forma invoice for permit
+      application. <br> ✖ Declare a nominal value for samples, gifts or
+      free-of-charge items. You should declare the value based on the
+      transaction value of identical or similar goods or other acceptable
+      valuation methods. <br> ✖ Declare the country of the port of loading as
+      the country of origin, when the goods actually originate from another
+      country. <br> ✖ Share your TradeNet user ID and password with other
+      persons. <br> ✖ Use your company’s UEN to import goods not belonging to
+      you unless you are acting as a consolidator for customers without a UEN.
+      In doing so, you are responsible for complying with all the regulatory
+      requirements.
 ---
-
 # Import Procedures
 
 All goods imported into Singapore are regulated under the Customs Act, the Goods and Services Tax (GST) Act and the Regulation of Imports and Exports Act.
@@ -51,7 +76,7 @@ Taxable companies should also check with the [Inland Revenue Authority of Singap
 
 **Visit links below for more information on Importing requirements:** 
 
--   [Controlled & Prohibited Goods](/businesses/importing-goods/import-procedures/controlled-prohibited-goods)
+-   [Controlled &amp; Prohibited Goods](/businesses/importing-goods/import-procedures/controlled-prohibited-goods)
     
 -   [Obtain a Customs Import Permit](/businesses/importing-goods/import-procedures/apply-customs-import-permit)
     
@@ -72,7 +97,7 @@ Taxable companies should also check with the [Inland Revenue Authority of Singap
 -   [Sealing and Unstuffing](/businesses/importing-goods/import-procedures/sealing-and-unstuffling)
     
 
-## Errors & Offences
+## Errors &amp; Offences
 
 Importers may be penalised if they do not comply with the requirements imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and their subsidiary legislation.
 
@@ -124,7 +149,18 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
-{% include accordion.html %}
+<ul class="jekyllcodex_accordion">
+	<li>
+			<input id="accordion1">
+									<label for="accordion1">Do</label>
+									<div><p>✔This</p></div>
+	</li>
+	<li>
+			<input id="accordion2">
+									<label for="accordion2">Do Not</label>
+									<div><p>✖This</p></div>
+	</li>
+</ul>
 
 ## For more information on:
 
@@ -135,4 +171,4 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 | [![](/images/importing-goods/IP5.jpg)](/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports) | [![](/images/importing-goods/IP6.jpg)](/businesses/importing-goods/import-procedures/importing-trade-samples)  | [![](/images/importing-goods/IP7.jpg)](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service) | [![](/images/importing-goods/IP8.jpg)](/businesses/importing-goods/import-procedures/importing-of-pets-for-commercial-purpose)|
 | [![](/images/importing-goods/IP9.jpg)](/businesses/importing-goods/import-procedures/importing-of-personal-pets)  | [![](/images/importing-goods/IP10.jpg)](/businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms) | [![](/images/importing-goods/IP11.jpg)](/businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials) | [![](/images/importing-goods/IP12.jpg)](/businesses/importing-goods/import-procedures/importing-duty-exempted-motor-vehicles-and-gst-exempted-boats) |
 | [![](/images/importing-goods/IP13.jpg)](/businesses/importing-goods/import-procedures/importing-empty-freight-containers-pallets-and-packing)|  [![](/images/importing-goods/IP14.jpg)](/businesses/importing-goods/import-procedures/importing-ethyl-alcohol)| [![](/images/importing-goods/IP15.jpg)](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling)| [![](/images/importing-goods/IP16.jpg)](/businesses/importing-goods/import-procedures/re-importing-shut-out-goods) |
-| [![](/images/importing-goods/IP17.jpg)](/businesses/importing-goods/import-procedures/re-importing-of-goods-sent-overseas-for-activities) | [![](/images/importing-goods/IP18.jpg)](/businesses/importing-goods/import-procedures/importing-used-household-articles-and-personal-effects) | [![](/images/importing-goods/IP19.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places) |  |
+| [![](/images/importing-goods/IP17.jpg)](/businesses/importing-goods/import-procedures/re-importing-of-goods-sent-overseas-for-activities) | [![](/images/importing-goods/IP18.jpg)](/businesses/importing-goods/import-procedures/importing-used-household-articles-and-personal-effects) | [![](/images/importing-goods/IP19.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places) |  |</sup>
