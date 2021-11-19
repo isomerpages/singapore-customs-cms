@@ -35,7 +35,7 @@ The organiser/local freight forwarder/local declaring agent/exhibitor must [e-fi
 
 **For import/transhipment of containerised/conventional consignments, imposed with permit conditions for Customs Supervision.**
 
-The importer, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the operation.
+The importer, haulier or declarant must submit an online Application for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) {:target="_blank"} to Singapore Customs at least one working day before the operation.
 
 |  |  |
 |--|--|
@@ -50,16 +50,16 @@ Officers at the entry points may seal any package or container before releasing 
 
 |  |  |
 |--|--|
-| Sealed for inspection | The importer, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the operation.|
+| Sealed for inspection | The importer, haulier or declarant must submit an online Application for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} to Singapore Customs at least one working day before the operation.|
 | NOD Case | For container issued with a Notice of Discrepancy (NOD), the importer / haulier to call Permits Compliance Branch at 6908 1817 / 6908 1834 during office hours (Monday to Friday: 8 a.m.to 5 p.m.) if they have further enquiries.|
 
 **For import of containerised consignments under Carnet.** 
 
-For goods that would be imported and re-exported in containers, the foreign entity or its locally appointed freight forwarding agent must apply for Customs Supervision of respective unstuffing and stuffing of the goods at least one  working day in advance before the intended operation.
+For goods that would be imported and re-exported in containers, the foreign entity or its locally appointed freight forwarding agent must apply for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) {:target="_blank"} of respective unstuffing and stuffing of the goods at least one  working day in advance before the intended operation.
 
 **For temporary export/re-export of containerised/conventional consignments under Temporary Import Scheme**
 
-Permits imposed with any of the following permit conditions, the exporter, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the intended operation.
+Permits imposed with any of the following permit conditions, the exporter, haulier or declarant must submit an online Application for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) {:target="_blank"} to Singapore Customs at least one working day before the intended operation.
 
 |  |  |
 |--|--|
