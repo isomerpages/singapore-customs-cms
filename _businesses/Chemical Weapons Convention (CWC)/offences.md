@@ -69,9 +69,9 @@ You are accountable as a trader or declaring agent dealing with controlled chemi
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Do</label>
     <div><ul>
-  <li>Ensure you obtain a valid CWC licence before you engage in any controlled activities with scheduled chemicals.</li>
-  <li>Check if the scheduled chemicals are also controlled under other regulations. For example, export of scheduled chemicals above certain concentration thresholds would require the strategic goods export permit.</li>
-  <li>Check the list of OPCW <a href="https://www.opcw.org/about-us/member-states" target="new">Member States</a> and the relevant import and export restrictions for the scheduled chemicals in these Member States.</li><br>
+<li>Ensure you obtain a valid CWC licence before you engage in any controlled activities with scheduled chemicals.</li>
+<li>Check if the scheduled chemicals are also controlled under other regulations. For example, export of scheduled chemicals above certain concentration thresholds would require the strategic goods export permit.</li>
+<li>Check the list of OPCW <a href="https://www.opcw.org/about-us/member-states" target="new">Member States</a> and the relevant import and export restrictions for the scheduled chemicals in these Member States.</li><br>
 <li>Perform checks to ensure that the end-user is a legitimate customer and not a sanctioned entity.</li><br>
 <li>Ensure you apply for the correct permit type and fill up all the mandatory fields.</li>
 </ul></div> 
