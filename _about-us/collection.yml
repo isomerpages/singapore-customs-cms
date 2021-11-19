@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - overview.md
       - customs-advisory-council.md
       - our-commitment-to-quality-service.md
       - our-international-participation.md
       - careers.md
+      - Contact Us.md
       - awards-achievements.md
