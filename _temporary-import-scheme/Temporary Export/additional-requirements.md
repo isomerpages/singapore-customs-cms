@@ -55,7 +55,7 @@ Officers at the entry points may seal any package or container before releasing 
 
 **For import of containerised consignments under Carnet.** 
 
-For goods that would be imported and re-exported in containers, the foreign entity or its locally appointed freight forwarding agent must apply for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) {:target="_blank"} of respective unstuffing and stuffing of the goods at least one  working day in advance before the intended operation.
+For goods that would be imported and re-exported in containers, the foreign entity or its locally appointed freight forwarding agent must apply for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} of respective unstuffing and stuffing of the goods at least one  working day in advance before the intended operation.
 
 **For temporary export/re-export of containerised/conventional consignments under Temporary Import Scheme**
 
