@@ -40,8 +40,8 @@ The importer, haulier or declarant must submit an online Application for [Custom
 |  |  |
 |--|--|
 | AB | An e-file application must be made to Company Compliance Branch for customs clearance of the goods from the Class II Bonded Warehouse or Container Freight Warehouse. |
-| B2 | An e-file application must be made to Company Compliance Branch for supervision of unstuffing of containers (website:http://www.customs.gov.sg).|
-| D3 | An e file application must be made To Company Compliance Branch for supervision of unstuffing and/or loading of containers. (website:http://www.customs.gov.sg)|
+| B2 | An e-file application must be made to Company Compliance Branch for supervision of unstuffing of containers (website: [https://www.customs.gov.sg/](https://www.customs.gov.sg/)).|
+| D3 | An e file application must be made To Company Compliance Branch for supervision of unstuffing and/or loading of containers. (website: [https://www.customs.gov.sg/](https://www.customs.gov.sg/))|
 | K2 | An e file application must be made to Company Compliance Branch for escort/supervision of destruction of liquors, tobacco or dutiable m/vehicles.|
 
 **For import/transhipment of containerised consignments, affixed with Customs Red Seal.**
@@ -63,8 +63,8 @@ Permits imposed with any of the following permit conditions, the exporter, hauli
 
 |  |  |
 |--|--|
-| D6 | An e file application must be made to Company Compliance Branch for supervision of stuffing of containers for export. (website:http://www.customs.gov.sg)|
-| D7 | An e-file application must be made to Company Compliance Branch for inspection of the goods. (website:http://www.customs.gov.sg).|
+| D6 | An e file application must be made to Company Compliance Branch for supervision of stuffing of containers for export. (website: [https://www.customs.gov.sg/](https://www.customs.gov.sg/))|
+| D7 | An e-file application must be made to Company Compliance Branch for inspection of the goods. (website: [https://www.customs.gov.sg/](https://www.customs.gov.sg/)).|
 
 ## Unauthorised Breakage of Customs Seals
 
