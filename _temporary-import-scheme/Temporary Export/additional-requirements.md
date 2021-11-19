@@ -1,9 +1,8 @@
 ---
 title: Additional Requirements
 permalink: /businesses/importing-goods/temporary-import-scheme/additional-requirements-export
-third_nav_title: Temporary Export 
---- 
-
+third_nav_title: Temporary Export
+---
 # Additional Requirements
 
 ## Controlled Goods
@@ -32,7 +31,46 @@ You must produce the permits to the checkpoint officers for verification at the 
 
 Officers at the entry points may affix a seal onto any package or container before releasing the goods. These sealed goods must be unstuffed under Customs supervision.
 
-The organiser/local freight forwarder/local declaring agent/exhibitor must [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} for Customs supervision of unstuffing at least 1 working day before the intended operation. [Fees](/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees) will be charged for the supervision.
+The organiser/local freight forwarder/local declaring agent/exhibitor must [e-file](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} for Customs supervision of unstuffing at least one working day before the intended operation. 
+
+**For import/transhipment of containerised/conventional consignments, imposed with permit conditions for Customs Supervision.**
+
+The importer, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the operation.
+
+|  |  |
+|--|--|
+| AB | An e-file application must be made to Company Compliance Branch for customs clearance of the goods from the Class II Bonded Warehouse or Container Freight Warehouse. |
+| B2 | An e-file application must be made to Company Compliance Branch for supervision of unstuffing of containers (website:http://www.customs.gov.sg).|
+| D3 | An e file application must be made To Company Compliance Branch for supervision of unstuffing and/or loading of containers. (website:http://www.customs.gov.sg)|
+| K2 | An e file application must be made to Company Compliance Branch for escort/supervision of destruction of liquors, tobacco or dutiable m/vehicles.|
+
+**For import/transhipment of containerised consignments, affixed with Customs Red Seal.**
+
+Officers at the entry points may seal any package or container before releasing the goods. Such sealed goods must be unpacked or unstuffed under Customs’ Supervision.
+
+|  |  |
+|--|--|
+| Sealed for inspection | The importer, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the operation.|
+| NOD Case | For container issued with a Notice of Discrepancy (NOD), the importer / haulier to call Permits Compliance Branch at 6908 1817 / 6908 1834 during office hours (Monday to Friday: 8 a.m.to 5 p.m.) if they have further enquiries.|
+
+**For import of containerised consignments under Carnet.** 
+
+For goods that would be imported and re-exported in containers, the foreign entity or its locally appointed freight forwarding agent must apply for Customs Supervision of respective unstuffing and stuffing of the goods at least one  working day in advance before the intended operation.
+
+**For temporary export/re-export of containerised/conventional consignments under Temporary Import Scheme**
+
+Permits imposed with any of the following permit conditions, the exporter, haulier or declarant must submit an online Application for Customs Supervision to Singapore Customs at least one working day before the intended operation.
+
+|  |  |
+|--|--|
+| D6 | An e file application must be made to Company Compliance Branch for supervision of stuffing of containers for export. (website:http://www.customs.gov.sg)|
+| D7 | An e-file application must be made to Company Compliance Branch for inspection of the goods. (website:http://www.customs.gov.sg).|
+
+
+
+
+
+
 
 ## Unauthorised Breakage of Customs Seals
 
