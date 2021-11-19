@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/Customs-homepage-logo.jpg
-
 links:
   - title: Home
     url: /
@@ -37,9 +30,8 @@ links:
       - title: Customs@SG Web Application
         url: /eservices/customs-sg-web-application/
       - title: Manifest Reconciliation Statement (MRS) Scheme
-        url: /eservices/manifest-reconciliation-statement-scheme/ 
-  - title: Contact Us 
-    url: /contact-us/
+        url: /eservices/manifest-reconciliation-statement-scheme/
+  - title: Contact Us
+    url: /about-us/contact-us
   - title: FAQ
     url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
-
