@@ -35,7 +35,7 @@ The organiser/local freight forwarder/local declaring agent/exhibitor must [e-fi
 
 **For import/transhipment of containerised/conventional consignments, imposed with permit conditions for Customs Supervision.**
 
-The importer, haulier or declarant must submit an online Application for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) {:target="_blank"} to Singapore Customs at least one working day before the operation.
+The importer, haulier or declarant must submit an online Application for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} to Singapore Customs at least one working day before the operation.
 
 |  |  |
 |--|--|
@@ -59,18 +59,12 @@ For goods that would be imported and re-exported in containers, the foreign enti
 
 **For temporary export/re-export of containerised/conventional consignments under Temporary Import Scheme**
 
-Permits imposed with any of the following permit conditions, the exporter, haulier or declarant must submit an online Application for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp) {:target="_blank"} to Singapore Customs at least one working day before the intended operation.
+Permits imposed with any of the following permit conditions, the exporter, haulier or declarant must submit an online Application for [Customs Supervision](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} to Singapore Customs at least one working day before the intended operation.
 
 |  |  |
 |--|--|
 | D6 | An e file application must be made to Company Compliance Branch for supervision of stuffing of containers for export. (website:http://www.customs.gov.sg)|
 | D7 | An e-file application must be made to Company Compliance Branch for inspection of the goods. (website:http://www.customs.gov.sg).|
-
-
-
-
-
-
 
 ## Unauthorised Breakage of Customs Seals
 
