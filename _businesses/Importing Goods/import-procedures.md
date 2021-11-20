@@ -151,7 +151,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 
 <ul class="jekyllcodex_accordion">
 	<li>
-			<input id="accordion1">
+			<input type="checkbox" id="accordion1">
 									<label for="accordion1">Do</label>
 									<div>
 												<p>
@@ -160,7 +160,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 									</div>
 	</li>
 	<li>
-			<input id="accordion2">
+			<input type="checkbox" id="accordion2">
 									<label for="accordion2">Do Not</label>
 									<div>
 											<p>
