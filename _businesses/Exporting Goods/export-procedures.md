@@ -118,10 +118,7 @@ The table shows the period to submit your export permit application for the vari
 		</thead>
 </table>
 
-
-                                                                                              |
-
-
+                                                                                           
 <sup>^Bulk petroleum and chemicals are those loaded directly into an oil/chemical tanker without any additional form of packing. It excludes petroleum and chemicals transported in ISO tanks and drums, as there are fixed quantities for these modes of export.
     
     
