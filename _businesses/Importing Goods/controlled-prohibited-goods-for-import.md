@@ -64,8 +64,9 @@ Please refer to the table below for the list of prohibited goods that you are no
 				<br>
 				<br>
 7. Seditious and treasonable materials
- 			</td></td>
+			</td>
       <td>Info-communications Media Development Authority of Singapore</td>
+		</tr>
     <tr>
 			<td>
 1. Chewing tobacco (loose leaf chewing tobacco, plug chewing tobacco, twist chewing tobacco, tobacco bits intended for chewing
@@ -101,7 +102,7 @@ Please refer to the table below for the list of prohibited goods that you are no
 	    <tr>
       <td>Controlled drugs listed under 4th Schedule of Misuse of Drugs Regulation</td>
       <td>Health Products Regulation Group, Health Sciences Authority</td>
-				</td>
+				</tr>
     </tr>
 		  </tbody>
 </table> 
