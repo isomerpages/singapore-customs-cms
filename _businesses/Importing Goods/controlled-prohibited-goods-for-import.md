@@ -103,7 +103,6 @@ Please refer to the table below for the list of prohibited goods that you are no
       <td>Controlled drugs listed under 4th Schedule of Misuse of Drugs Regulation</td>
       <td>Health Products Regulation Group, Health Sciences Authority</td>
 				</tr>
-    </tr>
 		  </tbody>
 </table> 
 
