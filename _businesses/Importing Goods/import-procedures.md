@@ -129,17 +129,64 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
 
 ##  Penalties Upon Conviction for Key Offences
 
-|Offence| Penalty Upon Conviction |
-|--|--|
-| **Making an incorrect declaration.** <br><br>(Section 128(1)(a)of the Customs Act) | A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both. |
-| **Making an incorrect or incomplete declaration on the value of goods imported into or manufactured in Singapore for the purpose of assessment of duty or GST.** <br><br>(Section 128(1)(c)of the Customs Act) | A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both. |
-| **Failure to make a declaration of goods imported into, exported from or transhipped in Singapore.** <br><br>(Section 128B(1)(a) of the Customs Act)| A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both. |
-| **Failure to make a declaration of the value of goods imported into or manufactured in Singapore for the purpose of the assessment of duty or GST.** <br><br>(Section 128B(1)(b) of the Customs Act) |  A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both.|
-| **Failure or refusal to produce trade documents upon demand by Singapore Customs.** <br><br>(Section 128C of the Customs Act) |  A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both.|
-| **Failure to comply with conditions imposed by Singapore Customs on the removal of goods from customs control.** <br><br>(Section 27(1)(c) of the Customs Act)| A fine not exceeding S$5,000. |
-| **Making a false declaration.** <br><br>(Section 28(1)(a) of the RIEA)  | A fine not exceeding S$10,000, or imprisonment not exceeding 2 years, or both. |
-| **Importing, exporting or transhipping goods without permit.** <br><br>(Regulation 3(1) of the Regulation of Imports and Exports Regulations [RIER])| First conviction:<br><br>A fine not exceeding S$100,000 or 3 times the value of the goods, whichever is greater, or imprisonment not exceeding 2 years, or both.<br><br>Second or subsequent conviction:<br><br>A fine not exceeding S$200,000 or 4 times the value of the goods, whichever is greater, or imprisonment not exceeding 3 years, or both. |
-| **Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods.** <br><br>(Regulation 16(4) of the Customs (Container) Regulations) | A fine not exceeding S$5,000 |
+<table>
+  <thead>
+    <tr>
+      <th>Offence</th>
+      <th>Penalty Upon Conviction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+			<td><b>Making an incorrect declaration.</b>
+				<br><br>(Section 128(1)(a)of the Customs Act)</td>
+      <td>A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both.</td>
+    </tr>		
+    <tr>
+      <td><b>Making an incorrect or incomplete declaration on the value of goods imported into or manufactured in Singapore for the purpose of assessment of duty or GST.</b>
+			<br><br>(Section 128(1)(c)of the Customs Act)</td>
+      <td>A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both.</td>
+    </tr>		
+    <tr>
+      <td><b>Failure to make a declaration of goods imported into, exported from or transhipped in Singapore</b>
+			<br><br>(Section 128B(1)(a) of the Customs Act)</td>
+      <td>A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both.</td>
+    </tr>	
+    <tr>
+      <td><b>Failure to make a declaration of the value of goods imported into or manufactured in Singapore for the purpose of the assessment of duty or GST.</b>
+			<br><br>(Section 128B(1)(b) of the Customs Act)</td>
+      <td>A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both.</td>
+    </tr>
+		    <tr>
+					<td><b>Failure or refusal to produce trade documents upon demand by Singapore Customs.</b>
+						<br><br>(Section 128C of the Customs Act)</td>
+      <td>A fine not exceeding S$10,000, or the equivalent of the amount of the customs duty, excise duty or GST payable, whichever is the greater amount, or imprisonment for a term not exceeding 12 months, or both.</td>
+    </tr> 
+		    <tr>
+      <td><b>Failure to comply with conditions imposed by Singapore Customs on the removal of goods from customs control.</b>
+					<br><br>(Section 27(1)(c) of the Customs Act)</td>
+      <td>A fine not exceeding S$5,000.</td>
+    </tr> 
+		    <tr>
+					<td><b>Making a false declaration.</b>
+					<br><br>(Section 28(1)(a) of the RIEA)</td>
+      <td>A fine not exceeding S$10,000, or imprisonment not exceeding 2 years, or both.</td>
+    </tr>
+		        <tr>
+							<td><b>Importing, exporting or transhipping goods without permit</b>
+					<br><br>(Regulation 3(1) of the Regulation of Imports and Exports Regulations [RIER])</td>
+      <td>First conviction:
+				<br><br>A fine not exceeding S$100,000 or 3 times the value of the goods, whichever is greater, or imprisonment not exceeding 2 years, or both.
+				<br><br>Second or subsequent conviction:
+				<br><br>A fine not exceeding S$200,000 or 4 times the value of the goods, whichever is greater, or imprisonment not exceeding 3 years, or both.</td>
+    </tr> 
+		        <tr>
+      <td><b>Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods.</b>
+							<br><br>(Regulation 16(4) of the Customs (Container) Regulations)</td>
+      <td>A fine not exceeding S$5,000.</td>
+    </tr> 
+		  </tbody>
+</table>
 
 <sup>Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](/businesses/acts-and-subsidiary-legislation/overview).
 
