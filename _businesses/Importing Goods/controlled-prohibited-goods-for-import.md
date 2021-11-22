@@ -23,13 +23,14 @@ Please refer to the table below for the list of prohibited goods that you are no
     <tr>
 			<td>Chewing gum (excluding Health Sciences Authority approved oral dental and medicinal chewing gum) </td>
       <td>Singapore Customs</td>
-		</tr>		
+		</tr>
+		<br>
     <tr>
 			<td>1. Pistol or revolver - shaped cigarette lighters
 			<br>
 			<br>2. Fire Crackers</td>
       <td>Arms & Explosives Division, General Licensing Division, Police Licensing & Regulatory Department, Singapore Police Force</td>
-    </tr>		
+    </tr>	
     <tr>
       <td>
 1. Rhinoceros horn (worked, unworked or prepared and the any part, power or waste of such horn)
