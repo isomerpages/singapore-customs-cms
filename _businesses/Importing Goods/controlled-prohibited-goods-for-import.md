@@ -24,7 +24,6 @@ Please refer to the table below for the list of prohibited goods that you are no
 			<td>Chewing gum (excluding Health Sciences Authority approved oral dental and medicinal chewing gum) </td>
       <td>Singapore Customs</td>
 		</tr>
-		<br>
     <tr>
 			<td>1. Pistol or revolver - shaped cigarette lighters
 			<br>
@@ -102,7 +101,7 @@ Please refer to the table below for the list of prohibited goods that you are no
       <tr>
       <td>Controlled drugs listed under 4th Schedule of Misuse of Drugs Regulation</td>
       <td>Health Products Regulation Group, Health Sciences Authority</td>
-		</tr><td></td>
+		</tr>
 		  </tbody>
 </table> 
 
