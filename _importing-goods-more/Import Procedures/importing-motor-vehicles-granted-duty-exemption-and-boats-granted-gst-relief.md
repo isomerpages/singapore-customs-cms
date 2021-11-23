@@ -68,8 +68,6 @@ In general, importing motor vehicles for local use incurs  [Goods and Services T
 
 However, there are selected types of motor vehicles that are granted duty exemption and boats that are granted GST relief respectively. Please click on the tabs below to find out more.
 
-{% include accordion.html %}
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -86,14 +84,11 @@ However, there are selected types of motor vehicles that are granted duty exempt
 			<br>- Applicant must comply with all requirements laid down by SG Enable;
 			<br>- Each applicant is entitled to only one duty-free vehicle;
 			<br>- Applicant is not entitled to purchase a new duty-free vehicle until after 6 years; and
-			<br>- Must not be disposed to a person not entitled to duty exemption, otherwise excise duty will be applicable.
-			</br>
+			<br>- Must not be disposed to a person not entitled to duty exemption, otherwise excise duty will be applicable.</br>
     <p><b>Off-Road Racing Cars and Motorcycles</b>
 			<br>- Must not be registered for use on public roads;
-			<br>
-- Must be registered as off-road racing cars or motorcycles by the LTA; and	
-			<br>
-- Must not be disposed for use other than racing without approval from Singapore Customs.</br>
+			<br>- Must be registered as off-road racing cars or motorcycles by the LTA; and	
+			<br>- Must not be disposed for use other than racing without approval from Singapore Custom
 <p>While excise duty is exempted, GST applies to the import of these selected motor vehicles. If the conditions of Singapore Customs or the Land Transport Authority are not met, the applicant would have to pay the excise duty in full.</p>
 <p>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at here and here.</p>
     </div>
