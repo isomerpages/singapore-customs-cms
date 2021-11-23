@@ -111,12 +111,4 @@ However, there are selected types of motor vehicles that are granted duty exempt
 	<br>- “VEHRAC” for off-road racing cars/motorcycles</p>
     </div>
   </li>
-<li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Boats under GST Relief</label>
-    <div>
-      <p>Self-propelled pleasure boats that enter Singapore on a temporary basis, under the power of its own engine or sail, for the purpose of pleasure, recreational sports, racing or other similar events, are granted GST relief and can be imported without a permit.</p>
-			<p>The pleasure boat must depart Singapore once the purpose has been accomplished. GST is payable if the boat is subsequently sold, disposed or transferred locally.</p>
-    </div>
-  </li>  
 	</ul>
