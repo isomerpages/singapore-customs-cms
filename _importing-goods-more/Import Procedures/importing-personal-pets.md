@@ -87,8 +87,6 @@ An importer who is transferring residence to Singapore (including returning Sing
     -   The pet(s) have been in his ownership for a period of not less than 3 months; 
     
 -   The pet(s) are imported within 6 months of the pet owner’s first arrival in Singapore.
- 
- {% include accordion.html %}
   
 <ul class="jekyllcodex_accordion1">
   <li>
