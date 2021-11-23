@@ -70,14 +70,14 @@ However, there are selected types of motor vehicles that are granted duty exempt
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
+		<input type="checkbox" id="accordion1">
     <label for="accordion1">Duty-Exempted Motor Vehicles</label>
     <div>
       <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:</p>
 			<p><b>Vintage Cars</b>
-				<br>-Must be pre-1940 models;<br>-Must be given additional registration fee exemption by the Land Transport Authority (LTA)
+				<br>-Must be pre-1940 models;<br>-Must be <a href="https://www.lta.gov.sg/content/ltagov/en.html">given additional registration fee exemption by the Land Transport Authority (LTA)</a>
 		<br>-Must not be registered for use on public roads; and
-				<br>-Must not be resold in Singapore or disposed in any manner without approval from Singapore Customs.</br>
+		<br>-Must not be resold in Singapore or disposed in any manner without approval from Singapore Customs.
 		<p><b>Motor Vehicles for Disabled Individuals</b>
 			<br>- Must be purchased by an individual approved under the Disabled Persons Scheme;
 			<br>- Must be given additional registration fee exemption by LTA;
@@ -111,4 +111,11 @@ However, there are selected types of motor vehicles that are granted duty exempt
 	<br>- “VEHRAC” for off-road racing cars/motorcycles</p>
     </div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Boats under GST Relief</label>
+    <div>
+      <p>Self-propelled pleasure boats that enter Singapore on a temporary basis, under the power of its own engine or sail, for the purpose of pleasure, recreational sports, racing or other similar events, are granted GST relief and can be imported without a permit.</p>
+      <p>The pleasure boat must depart Singapore once the purpose has been accomplished. GST is payable if the boat is subsequently sold, disposed or transferred locally.</p>
+    </div>
 	</ul>
