@@ -1,8 +1,7 @@
 ---
 title: Border Enforcement of Intellectual Property Rights
 permalink: /businesses/border-enforcement-of-intellectual-property-rights/quick-guide-for-copyright-and-trade-mark-owners-and-licensees
---- 
-
+---
 # Quick Guide for Copyright and Trade Mark Owners and Licensees
 
 ## Seizure on request (Lodgement of Notice)
@@ -39,9 +38,9 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
   | No. | Forms | Related Links |
   |---|---|---|
   | i | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](/files/businesses/OMB/trade-marks-form-1.docx) (23.3KB) |
-  | ii | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](/files/businesses/OMB/copyright-form-1.docx) (26.5KB) |
+  | ii | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](https://go.gov.sg/crf12021) |
   | iii | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](/files/businesses/trade-marks-form-2.docx) (21.8KB) |
-  | iv | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](/files/businesses/copyright-form-2.docx) (22.7KB) |
+  | iv | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](https://go.gov.sg/crf22021) |
 
 
  2\. The Notice shall be accompanied by:
