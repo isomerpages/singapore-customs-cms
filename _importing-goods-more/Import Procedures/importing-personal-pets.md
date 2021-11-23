@@ -119,8 +119,7 @@ An importer who is transferring residence to Singapore (including returning Sing
 			<p>A pet owner who hand-carries his personal pets from overseas and not eligible for GST relief shall proceed to the Customs Duty Office for the assessment and payment of GST. For more details, please refer to the above <b>table on the procedures and requirements.</b>
 				<p>Click here for a [step-by-step](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore) guide to pet immigration in Singapore.
 </div>
-  </li>
-  </li>  
+  </ul>
 		
 ## Customs Duty Office Operating Hours
 Our Customs Duty offices are available during the following timings. Please plan your arrival within the operating hours:
