@@ -38,7 +38,7 @@ Please refer to the table below for the list of prohibited goods that you are no
       <td>National Parks Board</td>
     </tr>	
     <tr>
-      <td>Telecommunication equipment <br> [Examples of prohibited telecommunication equipment](https://www.imda.gov.sg/ProhibitedEquipment)		<br>
+      <td>Telecommunication equipment <br> <a href="https://www.imda.gov.sg/ProhibitedEquipment">Examples of prohibited telecommunication equipment</a>		<br>
       <br>
 1.   Scanning receivers		
 				<br>
