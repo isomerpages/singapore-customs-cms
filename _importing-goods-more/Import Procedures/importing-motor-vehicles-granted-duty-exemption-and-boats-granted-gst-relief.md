@@ -93,4 +93,31 @@ However, there are selected types of motor vehicles that are granted duty exempt
 <p>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/redirection.html">here</a> and <a href="https://www.lta.gov.sg/content/ltagov/en.html">here</a>.</p>
 		</div>
 		</li>
+	<li>
+	<input type="checkbox" id="accordion2">
+    <label for="accordion2">Application for Duty Exemption on Selected Motor Vehicles</label>
+    <div>
+			<p><br>1) Prior to the importation of the motor vehicle from overseas or removal from licensed warehouse, you or your appointed freight handling agent must submit the following supporting documents to customs_documentation@customs.gov.sg for Singapore Customs’ assessment of your eligibility for duty exemption
+			<p>
+				- Cover letter stating purpose of request
+				<br>- Land Transport Authority (LTA)’s approval letter (if applicable)
+<br>- Commercial invoice
+<br>- Packing list
+<br>- Bill of lading
+<br>- Identification information of the applicant
+				<p>
+				2) Upon confirmation of your eligibility, you or your appointed freight handling agent should obtain Customs In-Payment (GST including Duty Exemption) permit via TradeNet before the actual import.</p>
+			<p>3) When obtaining the permit, the place of receipt code should be declared as
+				<br><br>
+				- “VEHVIN” for vintage cars
+				<br>
+				- “EXEMPT” for motor vehicles for disabled individuals
+				<br>
+				- “VEHRAC” for off-road racing cars/motorcycles</p>
+	</div>
+	</li>
 	</ul>
+				
+				
+				
+	
