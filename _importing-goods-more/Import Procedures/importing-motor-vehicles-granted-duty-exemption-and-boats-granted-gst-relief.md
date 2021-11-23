@@ -74,25 +74,27 @@ However, there are selected types of motor vehicles that are granted duty exempt
     <label for="accordion1">Duty-Exempted Motor Vehicles</label>
     <div>
 				 <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:"</p>
-			<p><b>Vintage Cars</b>
+			<p>
+				<b>Vintage Cars</b>
 				<br>-Must be pre-1940 models;<br>-Must be <a href="https://www.lta.gov.sg/content/ltagov/en.html">given additional registration fee exemption by the Land Transport Authority (LTA)</a>
 		<br>-Must not be registered for use on public roads; and
-		<br>-Must not be resold in Singapore or disposed in any manner without approval from Singapore Customs.</p>
-		<p><b>Motor Vehicles for Disabled Individuals</b>
-			<br>- Must be purchased by an individual approved under the <a href="https://www.lta.gov.sg/content/ltagov/en.html">Disabled Persons Scheme</a>;
+		<br>-Must not be resold in Singapore or disposed in any manner without approval from Singapore Customs
+				<br>
+			<p><b>Motor Vehicles for Disabled Individuals</b><br>- Must be purchased by an individual approved under the <a href="https://www.lta.gov.sg/content/ltagov/en.html">Disabled Persons Scheme</a>;
 			<br>- Must be given additional registration fee exemption by LTA;
 			<br>- Applicant must comply with all requirements laid down by SG Enable;
 			<br>- Each applicant is entitled to only one duty-free vehicle;
 			<br>- Applicant is not entitled to purchase a new duty-free vehicle until after 6 years; and
-			<br>- Must not be disposed to a person not entitled to duty exemption, otherwise excise duty will be applicable.</br></p>
+			<br>- Must not be disposed to a person not entitled to duty exemption, otherwise excise duty will be applicable.
     <p><b>Off-Road Racing Cars and Motorcycles</b>
 			<br>- Must not be registered for use on public roads;
 			<br>- Must be registered as off-road racing cars or motorcycles by the LTA; and	
-			<br>- Must not be disposed for use other than racing without approval from Singapore Custom</br>
+			<br>- Must not be disposed for use other than racing without approval from Singapore Custom
 <p>While excise duty is exempted, GST applies to the import of these selected motor vehicles. If the conditions of Singapore Customs or the Land Transport Authority are not met, the applicant would have to pay the excise duty in full.</p>
 <p>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/redirection.html">here</a> and <a href="https://www.lta.gov.sg/content/ltagov/en.html">here</a>.
 	</p>
 	</div>
+	</li>
 	<li>
 	<input type="checkbox" id="accordion2">
     <label for="accordion2">Application for Duty Exemption on Selected Motor Vehicles</label>
