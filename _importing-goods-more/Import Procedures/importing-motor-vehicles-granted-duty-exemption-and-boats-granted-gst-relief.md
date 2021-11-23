@@ -104,13 +104,11 @@ However, there are selected types of motor vehicles that are granted duty exempt
 	<br>- Packing list
 	<br>- Bill of lading
 	<br>- Identification information of the applicant
-	</br>
 	<p>2) Upon confirmation of your eligibility, you or your appointed freight handling agent should obtain Customs In-Payment (GST including Duty Exemption) permit via TradeNet before the actual import</p>
 	<p>3) When obtaining the permit, the place of receipt code should be declared as</p>
 	<p>- “VEHVIN” for vintage cars
 	<br>- “EXEMPT” for motor vehicles for disabled individuals
-	<br>- “VEHRAC” for off-road racing cars/motorcycles</br>
-	</p>
+	<br>- “VEHRAC” for off-road racing cars/motorcycles</p>
     </div>
   </li>
 <li>
