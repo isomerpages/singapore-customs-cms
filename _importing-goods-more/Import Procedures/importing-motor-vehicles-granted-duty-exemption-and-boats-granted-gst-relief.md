@@ -117,7 +117,3 @@ However, there are selected types of motor vehicles that are granted duty exempt
 	</div>
 	</li>
 	</ul>
-				
-				
-				
-	
