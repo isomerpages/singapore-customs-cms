@@ -79,7 +79,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 		<br>-Must not be registered for use on public roads; and
 		<br>-Must not be resold in Singapore or disposed in any manner without approval from Singapore Customs.
 		<p><b>Motor Vehicles for Disabled Individuals</b>
-			<br>- Must be purchased by an individual approved under the Disabled Persons Scheme;
+			<br>- Must be purchased by an individual approved under the <a href="https://www.lta.gov.sg/content/ltagov/en.html">Disabled Persons Scheme</a>;
 			<br>- Must be given additional registration fee exemption by LTA;
 			<br>- Applicant must comply with all requirements laid down by SG Enable;
 			<br>- Each applicant is entitled to only one duty-free vehicle;
@@ -90,32 +90,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 			<br>- Must be registered as off-road racing cars or motorcycles by the LTA; and	
 			<br>- Must not be disposed for use other than racing without approval from Singapore Custom
 <p>While excise duty is exempted, GST applies to the import of these selected motor vehicles. If the conditions of Singapore Customs or the Land Transport Authority are not met, the applicant would have to pay the excise duty in full.</p>
-<p>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at here and here.</p>
+<p>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/redirection.html">here</a> and <a href="https://www.lta.gov.sg/content/ltagov/en.html">here</a>.</p>
 		</div>
 		</li>
-		<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Application for Duty Exemption on Selected Motor Vehicles</label>
-    <div>
-			<br>1) Prior to the importation of the motor vehicle from overseas or removal from licensed warehouse, you or your appointed freight handling agent must submit the following supporting documents to customs_documentation@customs.gov.sg for Singapore Customs’ assessment of your eligibility for duty exemption</br>
-      <p>- Cover letter stating purpose of request
-	<br>- Land Transport Authority (LTA)’s approval letter (if applicable)
-	<br>- Commercial invoice
-	<br>- Packing list
-	<br>- Bill of lading
-	<br>- Identification information of the applicant
-	<p>2) Upon confirmation of your eligibility, you or your appointed freight handling agent should obtain Customs In-Payment (GST including Duty Exemption) permit via TradeNet before the actual import</p>
-	<p>3) When obtaining the permit, the place of receipt code should be declared as</p>
-	<p>- “VEHVIN” for vintage cars
-	<br>- “EXEMPT” for motor vehicles for disabled individuals
-	<br>- “VEHRAC” for off-road racing cars/motorcycles</p>
-    </div>
-  </li>
-	<li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Boats under GST Relief</label>
-    <div>
-      <p>Self-propelled pleasure boats that enter Singapore on a temporary basis, under the power of its own engine or sail, for the purpose of pleasure, recreational sports, racing or other similar events, are granted GST relief and can be imported without a permit.</p>
-      <p>The pleasure boat must depart Singapore once the purpose has been accomplished. GST is payable if the boat is subsequently sold, disposed or transferred locally.</p>
-    </div>
 	</ul>
