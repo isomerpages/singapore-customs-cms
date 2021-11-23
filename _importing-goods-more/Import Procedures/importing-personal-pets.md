@@ -115,7 +115,7 @@ An importer who is transferring residence to Singapore (including returning Sing
       <p><b>Clearance of Hand-carried Personal Pets</b>
 				<p>If the application is approved, the pet owner will receive an approval email on his successful GST relief application, which must be presented to the checkpoint officer at the Customs Duty Office for their verification on the day of the pet owner’s arrival.
 			<p>A pet owner who hand-carries his personal pets from overseas and not eligible for GST relief shall proceed to the Customs Duty Office for the assessment and payment of GST. For more details, please refer to the above <b>table on the procedures and requirements.</b>
-				<p>Click here for a [step-by-step](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore) guide to pet immigration in Singapore.
+				<p>Click here for a [step-by-step](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore) guide to pet immigration in Singapore.</p>
 </div>
   </ul>
 		
