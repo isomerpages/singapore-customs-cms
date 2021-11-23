@@ -68,12 +68,12 @@ In general, importing motor vehicles for local use incurs  [Goods and Services T
 
 However, there are selected types of motor vehicles that are granted duty exemption and boats that are granted GST relief respectively. Please click on the tabs below to find out more.
 
-<ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion1">
   <li>
 		<input type="checkbox" id="accordion1">
     <label for="accordion1">Duty-Exempted Motor Vehicles</label>
     <div>
-				 <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:</p>
+				 <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:"</p>
 			<p><b>Vintage Cars</b>
 				<br>-Must be pre-1940 models;<br>-Must be <a href="https://www.lta.gov.sg/content/ltagov/en.html">given additional registration fee exemption by the Land Transport Authority (LTA)</a>
 		<br>-Must not be registered for use on public roads; and
