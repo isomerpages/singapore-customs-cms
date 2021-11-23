@@ -77,14 +77,14 @@ However, there are selected types of motor vehicles that are granted duty exempt
 			<p><b>Vintage Cars</b>
 				<br>-Must be pre-1940 models;<br>-Must be <a href="https://www.lta.gov.sg/content/ltagov/en.html">given additional registration fee exemption by the Land Transport Authority (LTA)</a>
 		<br>-Must not be registered for use on public roads; and
-		<br>-Must not be resold in Singapore or disposed in any manner without approval from Singapore Customs.
+		<br>-Must not be resold in Singapore or disposed in any manner without approval from Singapore Customs.</p>
 		<p><b>Motor Vehicles for Disabled Individuals</b>
 			<br>- Must be purchased by an individual approved under the <a href="https://www.lta.gov.sg/content/ltagov/en.html">Disabled Persons Scheme</a>;
 			<br>- Must be given additional registration fee exemption by LTA;
 			<br>- Applicant must comply with all requirements laid down by SG Enable;
 			<br>- Each applicant is entitled to only one duty-free vehicle;
 			<br>- Applicant is not entitled to purchase a new duty-free vehicle until after 6 years; and
-			<br>- Must not be disposed to a person not entitled to duty exemption, otherwise excise duty will be applicable.</br>
+			<br>- Must not be disposed to a person not entitled to duty exemption, otherwise excise duty will be applicable.</br></p>
     <p><b>Off-Road Racing Cars and Motorcycles</b>
 			<br>- Must not be registered for use on public roads;
 			<br>- Must be registered as off-road racing cars or motorcycles by the LTA; and	
