@@ -73,7 +73,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 		<input type="checkbox" id="accordion1">
     <label for="accordion1">Duty-Exempted Motor Vehicles</label>
     <div>
-      <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:</p>
+				 <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:</p>
 			<p><b>Vintage Cars</b>
 				<br>-Must be pre-1940 models;<br>-Must be <a href="https://www.lta.gov.sg/content/ltagov/en.html">given additional registration fee exemption by the Land Transport Authority (LTA)</a>
 		<br>-Must not be registered for use on public roads; and
@@ -88,11 +88,10 @@ However, there are selected types of motor vehicles that are granted duty exempt
     <p><b>Off-Road Racing Cars and Motorcycles</b>
 			<br>- Must not be registered for use on public roads;
 			<br>- Must be registered as off-road racing cars or motorcycles by the LTA; and	
-			<br>- Must not be disposed for use other than racing without approval from Singapore Custom
+			<br>- Must not be disposed for use other than racing without approval from Singapore Custom</br>
 <p>While excise duty is exempted, GST applies to the import of these selected motor vehicles. If the conditions of Singapore Customs or the Land Transport Authority are not met, the applicant would have to pay the excise duty in full.</p>
-<p>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/redirection.html">here</a> and <a href="https://www.lta.gov.sg/content/ltagov/en.html">here</a>.</p>
-		</div>
-		</li>
+<p>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/redirection.html">here</a> and <a href="https://www.lta.gov.sg/content/ltagov/en.html">here</a>.
+	</p>
 	<li>
 	<input type="checkbox" id="accordion2">
     <label for="accordion2">Application for Duty Exemption on Selected Motor Vehicles</label>
