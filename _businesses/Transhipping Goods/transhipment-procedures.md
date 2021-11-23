@@ -4,11 +4,34 @@ permalink: /businesses/transhipping-goods/transhipment-procedures
 third_nav_title: Transhipping Goods
 accordion:
   - title: Do
-    content: <br> ✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes. <br><br> ✔ Know the transhipment procedures and declaration requirements before you tranship goods. Check with the relevant Competent Authority on requirements to tranship controlled items. <br><br> ✔ Know the contents you are transhipping for each consignment by clarifying with the forwarder or other relevant parties. <br><br> ✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders. <br><br> ✔ Ensure product details such as the Harmonized System (HS) code, quantity and description are correctly declared. <br><br> ✔ Remind drivers to produce the goods and related permit for clearance at the checkpoints declared. Remarks such as “Customs Endorsement Required” could be stamped on a prominent place on the permit. <br><br> ✔ Keep your supporting documents for a minimum of 5 years. <br>
+    content: <br> ✔ Inform Singapore Customs if there is any change in your
+      company’s particulars to ensure you receive timely updates on regulatory
+      changes. <br><br> ✔ Know the transhipment procedures and declaration
+      requirements before you tranship goods. Check with the relevant Competent
+      Authority on requirements to tranship controlled items. <br><br> ✔ Know
+      the contents you are transhipping for each consignment by clarifying with
+      the forwarder or other relevant parties. <br><br> ✔ Ensure you provide the
+      necessary supporting documents and information for permit declarations to
+      your declaring agents and freight forwarders. <br><br> ✔ Ensure product
+      details such as the Harmonized System (HS) code, quantity and description
+      are correctly declared. <br><br> ✔ Remind drivers to produce the goods and
+      related permit for clearance at the checkpoints declared. Remarks such as
+      “Customs Endorsement Required” could be stamped on a prominent place on
+      the permit. <br><br> ✔ Keep your supporting documents for a minimum of 5
+      years. <br>
   - title: Do Not
-    content: <br> ✖ Manipulate (for example, re-pack or re-label) the goods during the inter-gateway movement. <br><br> ✖ Use transhipment procedures for unauthorised purposes (for example, temporarily bringing goods from FTZ into customs territory for exhibition or other use). <br><br> ✖ Make a declaration without verifying the authenticity of all supporting documents. <br><br> ✖ Share your TradeNet user ID and password with other persons. <br><br> ✖ Use your company’s Unique Entity Number (UEN) to tranship goods not belonging to you unless you are acting as a handling agent for overseas customers (without an UEN). In doing so, you also undertake the responsibility to ensure that all regulatory requirements are complied with. <br>
+    content: <br> ✖ Manipulate (for example, re-pack or re-label) the goods during
+      the inter-gateway movement. <br><br> ✖ Use transhipment procedures for
+      unauthorised purposes (for example, temporarily bringing goods from FTZ
+      into customs territory for exhibition or other use). <br><br> ✖ Make a
+      declaration without verifying the authenticity of all supporting
+      documents. <br><br> ✖ Share your TradeNet user ID and password with other
+      persons. <br><br> ✖ Use your company’s Unique Entity Number (UEN) to
+      tranship goods not belonging to you unless you are acting as a handling
+      agent for overseas customers (without an UEN). In doing so, you also
+      undertake the responsibility to ensure that all regulatory requirements
+      are complied with. <br>
 ---
-
 # Transhipment Procedures
 
 The transhipment and transit of goods through Singapore are regulated under the Customs Act, the Regulation of Imports and Exports Act, the Strategic Goods (Control) Act, and other legislations enforced by the relevant Competent Authorities.
@@ -83,11 +106,39 @@ You may refer to more information on the offences and penalties under the Custom
 You are accountable as a Transhipment Agent and Declaring Agent for the transhipment and inter-gateway movement of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
 {% include accordion.html %}
-   
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Do</label>
+    <div>
+      <p>✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
+			<p>✔ Know the transhipment procedures and declaration requirements before you tranship goods. Check with the relevant Competent Authority on requirements to tranship controlled items.</p>
+			<p>✔ Know the contents you are transhipping for each consignment by clarifying with the forwarder or other relevant parties.</p>
+			<p>✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders.</p>
+			<p>✔ Ensure product details such as the Harmonized System (HS) code, quantity and description are correctly declared.</p>
+			<p>✔ Remind drivers to produce the goods and related permit for clearance at the checkpoints declared. Remarks such as “Customs Endorsement Required” could be stamped on a prominent place on the permit.</p>
+			<p>✔ Keep your supporting documents for a minimum of 5 years.</p>
+    </div>
+	</li>
+	<li>
+		    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Do Not</label>
+    <div>
+      <p>✖ Manipulate (for example, re-pack or re-label) the goods during the inter-gateway movement.</p>
+			<p>✖ Use transhipment procedures for unauthorised purposes (for example, temporarily bringing goods from FTZ into customs territory for exhibition or other use).</p>
+			<p>✖ Manipulate (for example, re-pack or re-label) the goods during the inter-gateway movement.</p>
+			<p>✖ Use transhipment procedures for unauthorised purposes (for example, temporarily bringing goods from FTZ into customs territory for exhibition or other use).</p>
+			<p>✖ Make a declaration without verifying the authenticity of all supporting documents.</p>
+			<p>✖ Share your TradeNet user ID and password with other persons.</p>
+			<p>✖ Use your company’s Unique Entity Number (UEN) to tranship goods not belonging to you unless you are acting as a handling agent for overseas customers (without an UEN). In doing so, you also undertake the responsibility to ensure that all regulatory requirements are complied with.</p>
+			</div>
+	</li>
+	</ul>
+				
 ## For more information on: 
 
 {:.mobile-block}
 |  |  |  |  | 
 |--|--|--| -- | 
-|[ ![](/images/transhipment-procedures/TP1.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/transhipment-procedures/TP3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/transhipment-procedures/TP4.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/transhipment-procedures/TP2.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places) | 
-
+|[ ![](/images/transhipment-procedures/TP1.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/transhipment-procedures/TP3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/transhipment-procedures/TP4.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/transhipment-procedures/TP2.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places) |
