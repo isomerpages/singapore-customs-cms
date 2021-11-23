@@ -1,14 +1,40 @@
 ---
-title: Temporary Import Scheme 
+title: Temporary Import Scheme
 permalink: /businesses/importing-goods/temporary-import-scheme
 third_nav_title: Importing Goods
 accordion:
-  - title: Do 
-    content: <br>    ✔ Check if goods are controlled by any Competent Authority and seek their approval before the temporary importation of goods. <br><br>  ✔ Ensure you  [lodge sufficient security](/businesses/registration-matters/registration-procedures/security-lodgement)  in the form of Banker’s Guarantee (BG), Finance Company Guarantee or an Insurance Bond to cover the amount of security required and the security has sufficient validity to cover the total temporary import period declared. <br><br> ✔ Ensure goods brought in under the TIS are re-exported no later than the temporary importation End-Date indicated on the approved Singapore Customs Inward permit or the final date allowed for re-exportation/re-importation under the ATA Carnet. <br><br> ✔ Ensure that you comply with the permit condition <br><br>   -   D6 condition - “An E-file application must be made to Company Compliance Branch for supervision of stuffing/unstuffing of container.” <br><br> ✔ Ensure you declare the correct permit type for goods to be re-exported under the TIS with the relevant supporting documents. <br><br> ✔ Ensure there is sufficient number of vouchers and counterfoils attached together with the ATA Carnet to cover the movement of the goods. <br><br> ✔ Ensure there is proper endorsement on the front page and the counterfoils of the ATA Carnet. <br><br> ✔ Ensure to apply for customs supervision of stuffing of the container containing goods exported under ATA Carnet or inspection of all goods exported under TIS (refer to permit conditions). <br><br>
+  - title: Do
+    content: <br>    ✔ Check if goods are controlled by any Competent Authority and
+      seek their approval before the temporary importation of goods. <br><br>  ✔
+      Ensure you  [lodge sufficient
+      security](/businesses/registration-matters/registration-procedures/security-lodgement)  in
+      the form of Banker’s Guarantee (BG), Finance Company Guarantee or an
+      Insurance Bond to cover the amount of security required and the security
+      has sufficient validity to cover the total temporary import period
+      declared. <br><br> ✔ Ensure goods brought in under the TIS are re-exported
+      no later than the temporary importation End-Date indicated on the approved
+      Singapore Customs Inward permit or the final date allowed for
+      re-exportation/re-importation under the ATA Carnet. <br><br> ✔ Ensure that
+      you comply with the permit condition <br><br>   -   D6 condition - “An
+      E-file application must be made to Company Compliance Branch for
+      supervision of stuffing/unstuffing of container.” <br><br> ✔ Ensure you
+      declare the correct permit type for goods to be re-exported under the TIS
+      with the relevant supporting documents. <br><br> ✔ Ensure there is
+      sufficient number of vouchers and counterfoils attached together with the
+      ATA Carnet to cover the movement of the goods. <br><br> ✔ Ensure there is
+      proper endorsement on the front page and the counterfoils of the ATA
+      Carnet. <br><br> ✔ Ensure to apply for customs supervision of stuffing of
+      the container containing goods exported under ATA Carnet or inspection of
+      all goods exported under TIS (refer to permit conditions). <br><br>
   - title: Do Not
-    content: <br>   ✖ Remove any GST suspended goods for export or local consumption without the proper permits. <br><br> ✖ Remove the Customs seal affixed to the container containing goods imported under the TIS without prior approval from Singapore Customs. You are required to apply for customs supervision of unstuffing of such sealed containers. <br><br> ✖ Sell goods brought in under an ATA Carnet beyond the final date allowed for re-exportation without paying the GST to Singapore Customs. <br><br>
+    content: <br>   ✖ Remove any GST suspended goods for export or local consumption
+      without the proper permits. <br><br> ✖ Remove the Customs seal affixed to
+      the container containing goods imported under the TIS without prior
+      approval from Singapore Customs. You are required to apply for customs
+      supervision of unstuffing of such sealed containers. <br><br> ✖ Sell goods
+      brought in under an ATA Carnet beyond the final date allowed for
+      re-exportation without paying the GST to Singapore Customs. <br><br>
 ---
-
 # Temporary Import Scheme 
 The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
@@ -80,9 +106,33 @@ More information on the offences and penalties under the Customs Act [here](/ind
 
 You are accountable as a trader or Declaring Agent for the goods imported under the TIS. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
-{% include accordion.html %}
+ <ul class="jekyllcodex_accordion1">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Do</label>
+    <div>
+      <p>✔ Check if goods are controlled by any Competent Authority and seek their approval before the temporary importation of goods.This is a simple one line item</p>
+			<p>✔  Ensure you lodge sufficient security in the form of Banker’s Guarantee (BG), Finance Company Guarantee or an Insurance Bond to cover the amount of security required and the security has sufficient validity to cover the total temporary import period declared.</p>
+			<p>✔ Ensure goods brought in under the TIS are re-exported no later than the temporary importation End-Date indicated on the approved Singapore Customs Inward permit or the final date allowed for re-exportation/re-importation under the ATA Carnet.</p>
+			<p>✔ Ensure that you comply with the permit condition</p>
+			<p>- D6 condition - “An E-file application must be made to Company Compliance Branch for supervision of stuffing/unstuffing of container.”</p>
+			<p>✔ Ensure you declare the correct permit type for goods to be re-exported under the TIS with the relevant supporting documents.</p>
+			<p>✔ Ensure there is sufficient number of vouchers and counterfoils attached together with the ATA Carnet to cover the movement of the goods.</p>
+			<p>✔ Ensure there is proper endorsement on the front page and the counterfoils of the ATA Carnet.</p>
+			<p>✔ Ensure to apply for customs supervision of stuffing of the container containing goods exported under ATA Carnet or inspection of all goods exported under TIS (refer to permit conditions).</p>
+    </div>
+  </li> 
+	  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion2">Do Not</label>
+    <div>
+      <p>✖ Remove any GST suspended goods for export or local consumption without the proper permits.</p>
+			<p>✖ Remove the Customs seal affixed to the container containing goods imported under the TIS without prior approval from Singapore Customs. You are required to apply for customs supervision of unstuffing of such sealed containers.</p>
+			<p>✖ Sell goods brought in under an ATA Carnet beyond the final date allowed for re-exportation without paying the GST to Singapore Customs.</p>
+    </div>
+  </li> 
+ 
  
 ## For more information on: 
  
   [![](/images/importing-goods/TIS.jpg)](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event)
-
