@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 description: ""
 ---
-# Get in touch with Singapore Customs
+ # Get in touch with Singapore Customs
 
 **Main Office**<br>
 55 Newton Road <br>
@@ -52,5 +52,5 @@ VIEW MAP
 |**Singapore Customs Academy**||
 |[customs_academy@customs.gov.sg](customs_academy@customs.gov.sg)
 
-**Send us your feedback**
-If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form](/feedback/).
+**Send us your feedback** <br>
+If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form](/feedback/). 
