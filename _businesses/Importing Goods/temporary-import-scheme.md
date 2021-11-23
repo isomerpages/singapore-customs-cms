@@ -112,7 +112,7 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
     <label for="accordion1">Do</label>
     <div>
       <p>✔ Check if goods are controlled by any Competent Authority and seek their approval before the temporary importation of goods.This is a simple one line item</p>
-			<p>✔  Ensure you lodge sufficient security in the form of Banker’s Guarantee (BG), Finance Company Guarantee or an Insurance Bond to cover the amount of security required and the security has sufficient validity to cover the total temporary import period declared.</p>
+			<p>✔  Ensure you <a href="https://www.customs.gov.sg/businesses/registration-matters/registration-procedures/security-lodgement">lodge sufficient security</a> in the form of Banker’s Guarantee (BG), Finance Company Guarantee or an Insurance Bond to cover the amount of security required and the security has sufficient validity to cover the total temporary import period declared.</p>
 			<p>✔ Ensure goods brought in under the TIS are re-exported no later than the temporary importation End-Date indicated on the approved Singapore Customs Inward permit or the final date allowed for re-exportation/re-importation under the ATA Carnet.</p>
 			<p>✔ Ensure that you comply with the permit condition</p>
 			<p>- D6 condition - “An E-file application must be made to Company Compliance Branch for supervision of stuffing/unstuffing of container.”</p>
