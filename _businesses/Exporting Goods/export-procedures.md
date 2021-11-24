@@ -214,7 +214,7 @@ You are accountable as an exporter or declaring agent for the export of your goo
 			<p>✖ Make a declaration without verifying the authenticity of all supporting documents.</p>
 			<p>✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status.</p>
 			<p>✖ Share your TradeNet user ID and password with other persons.</p>
-			<p>✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/">Customs Circular No. 12/2013</a> Customs Circular No. 12/2013 for more information on the responsibilities of an exporter.</p>
+			<p>✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/">Customs Circular No. 12/2013</a> for more information on the responsibilities of an exporter.</p>
     </div>
   </li>
 	</ul>
