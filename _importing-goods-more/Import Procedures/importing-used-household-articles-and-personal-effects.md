@@ -139,7 +139,6 @@ If your employment pass is still being processed by the Ministry of Manpower (MO
 <p>If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
 <p>
 These supporting documents and the online DOF should be emailed to customs_documentation@customs.gov.sg.</p>
-				</li>
         <li> Check the status of your DOF application <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">here</a>.</li>
         <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 5 working days of receiving Customs’ approval of GST relief.</li>
         <li>If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit.</li>
@@ -148,8 +147,8 @@ These supporting documents and the online DOF should be emailed to customs_docum
     </div>
   </li>
 	  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">
 Taking Delivery of the Personal Effects</label>
     <div>
       <p>After obtaining the approved Customs In-Non-Payment (GST Relief) permit, your appointed agent must collect the goods on your behalf.</p>
@@ -173,15 +172,13 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
         <li>Proof of employment overseas (e.g., work permit visa, employment pass, letter of appointment)</li>
       </ul>
     </div>
-  </li>
 <li><b>Returning Singaporeans & Permanent Residents studying overseas</b></li>
     <div>
       <ul>
-        <li>Copy of passport or identity card (NRIC)</li>
+				<li>Copy of passport or identity card (NRIC)</li>
         <li>Proof of overseas study (e.g., student visa, student pass)</li>
       </ul>
-    </div>
-  </li>				
+    </div>				
 <li><b>Foreigners transferring residence</b></li>
    <div>
       <ul>
@@ -190,7 +187,6 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
 				<li>Other supporting documents (e.g., letter of employment or a letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower)</li>
       </ul>
     </div>
-  </li>
 	</ul>
     </div>
   </li>
