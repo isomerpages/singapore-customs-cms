@@ -4,11 +4,37 @@ permalink: /businesses/certificates-of-origin/overview
 third_nav_title: Certificates of Origin
 accordion:
   - title: Do
-    content: <br> ✔ Ensure you are a registered manufacturer with Singapore Customs if you intend to apply for a CO with Singapore Customs. <br><br> ✔ Familiarise yourself with the origin criteria for your goods (the criteria could vary across different Free Trade Agreements and Schemes of Preferences). <br><br> ✔ Verify that the Singapore-origin goods which you wish to apply for a preferential CO are manufactured in Singapore and that it met the required origin criteria under the relevant Free Trade Agreements and Schemes of Preferences. <br><br> ✔ Ensure the materials or components which you have classified as Singapore origin in your cost statement are indeed manufactured in Singapore. <br><br> ✔ Ensure that manufacturing cost statements submitted to Singapore Customs are accurate and up-to-date. Inform Singapore Customs if there are changes to your production methods and costing. Renew your manufacturing cost statement 2 months before the expiry date. <br><br> ✔ Ensure the CO covers all items for which preferential tariff treatment is to be claimed. <br><br> ✔ Retain copies of preferential COs/origin declaration and all supporting documents according to the time period stated in the respective Free Trade Agreements. <br><br> ✔ Send your employees to attend courses conducted by the Singapore Customs Academy, particularly SC103 (Rules of Origin/Free Trade Agreements) and OP002 (Outreach for Newly Registered Manufacturers). <br><br> ✔ Cooperate with Singapore Customs for request on documentation checks or access to your production facility. <br><br> ✔ Have clear procedures to notify Singapore Customs upon discovery of a possible error in origin declaration. <br><br>  
+    content: <br> ✔ Ensure you are a registered manufacturer with Singapore Customs
+      if you intend to apply for a CO with Singapore Customs. <br><br> ✔
+      Familiarise yourself with the origin criteria for your goods (the criteria
+      could vary across different Free Trade Agreements and Schemes of
+      Preferences). <br><br> ✔ Verify that the Singapore-origin goods which you
+      wish to apply for a preferential CO are manufactured in Singapore and that
+      it met the required origin criteria under the relevant Free Trade
+      Agreements and Schemes of Preferences. <br><br> ✔ Ensure the materials or
+      components which you have classified as Singapore origin in your cost
+      statement are indeed manufactured in Singapore. <br><br> ✔ Ensure that
+      manufacturing cost statements submitted to Singapore Customs are accurate
+      and up-to-date. Inform Singapore Customs if there are changes to your
+      production methods and costing. Renew your manufacturing cost statement 2
+      months before the expiry date. <br><br> ✔ Ensure the CO covers all items
+      for which preferential tariff treatment is to be claimed. <br><br> ✔
+      Retain copies of preferential COs/origin declaration and all supporting
+      documents according to the time period stated in the respective Free Trade
+      Agreements. <br><br> ✔ Send your employees to attend courses conducted by
+      the Singapore Customs Academy, particularly SC103 (Rules of Origin/Free
+      Trade Agreements) and OP002 (Outreach for Newly Registered Manufacturers).
+      <br><br> ✔ Cooperate with Singapore Customs for request on documentation
+      checks or access to your production facility. <br><br> ✔ Have clear
+      procedures to notify Singapore Customs upon discovery of a possible error
+      in origin declaration. <br><br>
   - title: Do Not
-    content: <br> ✖ Make an origin declaration without ensuring that the goods meet the origin criteria under the respective Free Trade Agreements or Schemes. <br><br> ✖ Agree to requests from customers to make incorrect origin declarations. <br><br> ✖ Re-label the country of origin on the goods or its packaging. <br><br>
+    content: <br> ✖ Make an origin declaration without ensuring that the goods meet
+      the origin criteria under the respective Free Trade Agreements or Schemes.
+      <br><br> ✖ Agree to requests from customers to make incorrect origin
+      declarations. <br><br> ✖ Re-label the country of origin on the goods or
+      its packaging. <br><br>
 ---
-
 # Certificates of Origin
 
 **NOTICE:**
@@ -67,10 +93,38 @@ All Preferential COs are issued only by Singapore Customs.
 
 ## Best Practices
 
-You are accountable as an exporter or declaring agent for the export of goods and compliance with the Rules of Origin requirements. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
+You are accountable as an exporter or declaring agent for the export of your goods. We encourage you to take note of the following Dos and Don’ts:
 
-{% include accordion.html %}
-
+	
+  <ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Do</label>
+    <div>
+      <p>✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
+			<p>✔ Know the export procedures and declaration requirements before you export.</p>
+			<p>✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders.</p>
+			<p>✔ Ensure your declaring agents and freight forwarders understand and properly execute your instructions.</p>
+			<p>✔ Know the contents of each consignment you export and clarify with relevant parties if needed.</p>
+			<p>✔ Keep your supporting documents for a minimum of 5 years.</p>
+			<p>✔ Check with the relevant Competent Authority on their requirements to export controlled items.</p>
+			<p>✔ Ensure product details (for example, HS code, quantity) are correctly declared.</p>
+			<p>✔ Ensure you comply with all permit conditions stated in the permit.</p>
+			<p>✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition.</p>
+    </div>
+  </li>
+		<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Do Not</label>
+    <div>
+      <p>✖ Deny Singapore Customs officers’ requests to enter your premises or to check your documents.</p>
+			<p>✖ Make a declaration without verifying the authenticity of all supporting documents.</p>
+			<p>✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status.</p>
+			<p>✖ Share your TradeNet user ID and password with other persons.</p>
+			<p>✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/">Customs Circular No. 12/2013</a> for more information on the responsibilities of an exporter.</p>
+    </div>
+  </li>
+	</ul>
 ## Offences
 
 Companies may be penalised under the Regulation of Imports and Exports Act (RIEA) if they do not comply with requirements relating to rules of origin.
@@ -99,7 +153,3 @@ For minor offences under the RIEA, Singapore Customs may offer to compound the o
 | **Incorrect trade descriptions** <br>(Section 28A(1)(a) of the RIEA)<br><br> **Failure to comply with requirements of the Director-General for the issue of preferential CO** <br>(Regulation 24B(4) of the RIER) | First conviction:<br>A fine not exceeding S$100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 2 years or to both.<br><br>Second or subsequent conviction:<br>A fine not exceeding S$200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 3 years or to both. |
 
 You may view more information on the prescribed offences and penalties under the [RIEA and RIER](/businesses/acts-and-subsidiary-legislation/overview).
-
-
-
-
