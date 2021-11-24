@@ -105,7 +105,6 @@ You may refer to more information on the offences and penalties under the Custom
 
 You are accountable as a Transhipment Agent and Declaring Agent for the transhipment and inter-gateway movement of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
 
-{% include accordion.html %}
 
 <ul class="jekyllcodex_accordion">
   <li>
