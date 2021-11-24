@@ -194,29 +194,33 @@ Please view the tabs below for more information on re-importing goods under diff
       <br>Local or GST-paid goods that entered the free trade zone (FTZ) for storage or other purposes, and subsequently moved back to customs territory, are considered new imports and will be subject to GST.
 			<br><br>You should obtain the Customs In-Payment (GST) permit to cover the re-import, and produce it with supporting documents (such as commercial invoice and company letter) to the checkpoint officers at the entry point.
 			<br><br>Taxable companies registered with the <a href="https://www.iras.gov.sg/">Inland Revenue Authority of Singapore (IRAS) </a>  may claim the GST levied from IRAS. The company may submit the Customs OUT (Direct) permit, together with all relevant records (for example, Bill of Lading, commercial invoices, packing list, freight charges) to IRAS during the company’s monthly or quarterly accounting returns.
+			<br><br>Those who wish to store local or GST-paid goods in the Airport Logistics Park of Singapore (ALPS) may apply for the <a href="https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/company-declaration-scheme">Company Declaration Sheme</a>.
+			<br><br>Under this scheme, approved operators are allowed to remove local goods or goods (previously covered by permits) that are GST-paid or GST accounted for from ALPS into customs territory using a Company Declaration form, in lieu of Customs permits. GST will not be payable on these goods again.
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">Returning Damaged or Rejected Goods</label>
     <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
-    </div>
-  </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
-    <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
+			      <br>Exported goods rejected by overseas buyers due to damages, quality issues or other reasons may be re-imported without paying GST, subject to the following conditions
+			<br><br>- Re-import of liquor and tobacco products are not allowed;
+			<br>- A Customs OUT (Direct) permit has been obtained to cover the export;
+			<br>- The GST and/or duty payments have been made;
+			<br>- The GST and/or duty previously paid on the goods has not been claimed from IRAS or refunded by Singapore Customs; and
+			<br>- The goods were re-imported in the same state without any alteration or reprocessing while abroad
+			<br><br><b>For Taxable Companies</b>
+			<br><br>Taxable companies registered with the <a href="https://www.iras.gov.sg/">Inland Revenue Authority of ingapore (IRAS)</a> may obtain an In-Payment (GST) permit to cover the re-import of their goods, and claim the GST levied from IRAS.
+			<br><br>The company must submit the Customs OUT (Direct) permit, and all relevant records (for example, Bill of Lading, commercial invoices, packing list, freight charges) to IRAS during the company’s monthly or quarterly accounting returns.
+      <br><br><b>For Non-Taxable Companies</b>
+      <br><br>The company can write to customs_documentation@customs.gov.sg (attn to - Permits Officer) with the following supporting documents for our assessment
+      <br><br>- A covering letter from the importer confirming that they <b>have not and will not</b> claim input or output tax from IRAS. It should be signed by someone on a managerial position and above from the Finance/Accounts department. The letter must be on the company’s letterhead and be accompanied with a company stamp.
+      <br>- Export and import commercial invoices/packing list
+      <br>- Export and import Bill of Lading/Airway Bill
+      <br>- Previous import and export permit(s)
+      <br>- Proof that the re-imported goods are the same goods exported earlier
+      <br><br>Full GST and/or duty will be payable upon re-import for companies that export goods overseas but have omitted to
+      <br><br>- Obtain the Customs OUT (Direct) permit; <b>and/or</b>
+      <br>- Present the permit, goods and supporting documents to the checkpoint officers for verification
     </div>
   </li>
 </ul>
