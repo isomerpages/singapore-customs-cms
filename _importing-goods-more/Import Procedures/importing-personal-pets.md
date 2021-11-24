@@ -120,8 +120,7 @@ An importer who is transferring residence to Singapore (including returning Sing
 </div>
 	</li>
   </ul>
-	<br>
-	
+
 ## Customs Duty Office Operating Hours
 Our Customs Duty offices are available during the following timings. Please plan your arrival within the operating hours:
 
