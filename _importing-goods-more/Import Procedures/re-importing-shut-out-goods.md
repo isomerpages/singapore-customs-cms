@@ -140,13 +140,11 @@ The importer or the appointed freight handling agent should follow the steps in 
 	<p>2) When obtaining the permit, please take note of the following -
 		<p>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
 			<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.</p>
-    </div>
-  </li>
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">GST Relief for Re-Importing Non-Dutiable Shut-out Goods Previously Under Transhipment with Inter-Gateway Movement ( i.e. Transhipment from first Checkpoint to second CheckPoint, and Shut-out from Second CheckPoint) Into a Zero GST Warehouse</label>
     <div>
-<br>1) <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/">Obtain</a> a Customs In-Non-Payment (Approved Premises/Schemes) permit via TradeNet before the importation of non-dutiable goods into a Zero GST warehouse.</p>
+<br>1) <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/">Obtain</a> a Customs In-Non-Payment (Approved Premises/Schemes) permit via TradeNet before the importation of non-dutiable goods into a Zero GST warehouse.<br>
 	<p>2) When obtaining the permit, please take note of the following -
 <br>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
 <br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.</p>
