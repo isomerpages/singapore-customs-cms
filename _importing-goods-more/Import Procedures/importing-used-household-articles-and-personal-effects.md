@@ -106,8 +106,6 @@ Before you import your goods, please also see the lists of [controlled and prohi
 
 ## How to Apply for GST Relief
 
-{% include accordion.html %}
-
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion4">
@@ -161,11 +159,18 @@ To apply for GST relief, the owner should complete the “Application for GST Re
       <ul>
 				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b>
 - Copy of passport or identity card (NRIC)					
-- Proof of employment overseas (e.g., work permit visa, employment pass, letter of appointment)
+- Proof of employment overseas (e.g., work permit visa, employment pass, letter of appointment)</li>
 				
-				</li>
-				<li><b>Returning Singaporeans & Permanent Residents studying overseas</b></li>
-				<li><b>Foreigners transferring residence</b></li>
-      </ul>
+<li><b>Returning Singaporeans & Permanent Residents studying overseas</b></li>
+
+- Copy of passport or identity card (NRIC)				
+- Proof of overseas study (e.g., student visa, student pass)
+				
+<li><b>Foreigners transferring residence</b></li>
+
+- Copy of passport
+- Proof of transfer of residence to Singapore (e.g., employment pass, dependant pass, student pass)
+- Other supporting documents (e.g., letter of employment or a letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower)
+	</ul>
     </div>
   </li>
