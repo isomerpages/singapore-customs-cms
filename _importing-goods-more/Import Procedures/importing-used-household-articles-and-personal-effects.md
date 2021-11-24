@@ -168,11 +168,19 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
 				Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets</a>" form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
       <ul>
 				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b>
-- Copy of passport or identity card (NRIC)					
-- Proof of employment overseas (e.g., work permit visa, employment pass, letter of appointment)</li>
+					<li>
+    <input type="checkbox" id="accordion5">
+    <div>
+      <ul>
+        <li>Copy of passport or identity card (NRIC)</li>
+        <li>Proof of employment overseas (e.g., work permit visa, employment pass, letter of appointment)</li>
+      </ul>
+    </div>
+  </li>
+
 				
 <li><b>Returning Singaporeans & Permanent Residents studying overseas</b></li>
-
+				  
 - Copy of passport or identity card (NRIC)				
 - Proof of overseas study (e.g., student visa, student pass)
 				
