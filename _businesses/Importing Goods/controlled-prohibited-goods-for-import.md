@@ -38,7 +38,9 @@ Please refer to the table below for the list of prohibited goods that you are no
       <td>National Parks Board</td>
     </tr>	
     <tr>
-      <td>Telecommunication equipment <br> <a href="https://www.imda.gov.sg/ProhibitedEquipment">Examples of prohibited telecommunication equipment</a>		<br>
+      <td>Telecommunication equipment 
+				<br>(<a href="https://www.imda.gov.sg/ProhibitedEquipment">Examples of prohibited telecommunication equipment</a>)
+				<br>
       <br>
 1.   Scanning receivers		
 				<br>
@@ -93,12 +95,10 @@ Please refer to the table below for the list of prohibited goods that you are no
 			<br>
 10. Gutkha, khaini and zarda			</td>
       <td>Tobacco Regulation Branch, Health Sciences Authority</td>
-    </tr>   
-	    <tr>
+    </tr> 
       <tr>
       <td>Controlled drugs listed under 4th Schedule of Misuse of Drugs Regulation</td>
       <td>Health Products Regulation Group, Health Sciences Authority</td>
-		</tr>
 		</tr>
 		  </tbody>
 </table> 
