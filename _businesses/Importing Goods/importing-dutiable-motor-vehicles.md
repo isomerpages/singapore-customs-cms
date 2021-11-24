@@ -67,7 +67,10 @@ Importers who wish to register their imported cars for usage on public roads sho
     <div>
       <p>A Free Trade Zone (FTZ) is a demarcated area meant to facilitate entrepot trade and transhipment activities; where goods may be landed, handled, stored, re-exported or brought into Singapore. Duties and/or GST are not levied on goods brought into the FTZ until they are removed from the FTZ for use or sale in Singapore.</p>
     </div>
+		</li>
 </ul>
+
+
 
 ## For more information on: 
 
