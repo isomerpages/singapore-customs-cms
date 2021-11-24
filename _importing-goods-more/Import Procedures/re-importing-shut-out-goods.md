@@ -114,7 +114,7 @@ The importer or the appointed freight handling agent should follow the steps in 
     <input type="checkbox" id="accordion1">
     <label for="accordion1">GST Relief for Re-Importing Non-Dutiable Shut-out Goods within 24 hours of entering FTZ or Authorised Pier/Place into Customs Territory ( not previously Released from a Zero GST Warehouse, not under the Temporary Import Scheme and not under Transhipment with Inter-Gateway Movement)</label>
     <div>
-      <br>The importer or his appointed freight handling agent is required to produce the following supporting documents to the checkpoint officers for verification during cargo clearance -</br>
+      <br>The importer or his appointed freight handling agent is required to produce the following supporting documents to the checkpoint officers for verification during cargo clearance -
 		<p>- A cover letter stating reasons for the re-importation;
 			<br>- Delivery note;
 			<br>- Commercial invoice; and
