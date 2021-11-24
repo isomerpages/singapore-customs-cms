@@ -126,3 +126,4 @@ However, there are selected types of motor vehicles that are granted duty exempt
       <p>The pleasure boat must depart Singapore once the purpose has been accomplished. GST is payable if the boat is subsequently sold, disposed or transferred locally.</p>
     </div>
 	</li>
+	</ul>
