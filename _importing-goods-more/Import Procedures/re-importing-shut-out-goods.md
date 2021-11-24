@@ -128,8 +128,8 @@ The importer or the appointed freight handling agent should follow the steps in 
 <br>1) <a href="https://www.imda.gov.sg/ProhibitedEquipment">Obtain</a> a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.
 			<p>2) When obtaining the permit, please take note of the following -
 			<p>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
-				<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.
-			<p>3) Produce the permit and supporting documents (for example, commercial invoice, packing list and Bill of Lading) to the checkpoint officers for verification during cargo clearance.</p></br>
+<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.
+			<p>3) Produce the permit and supporting documents (for example, commercial invoice, packing list and Bill of Lading) to the checkpoint officers for verification during cargo clearance.</p>
     </div>
   </li>
   <li>
