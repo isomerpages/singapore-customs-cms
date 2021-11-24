@@ -108,7 +108,6 @@ Please refer to  [Circular No. 02/2015](/news-and-media/circulars/2015-01-19-Cir
 
 The importer or the appointed freight handling agent should follow the steps in the tables below for the application of GST relief for re-importing local (GST-paid) non-dutiable goods from a FTZ or authorised pier/place.
 
-{% include accordion.html %}
 
 <ul class="jekyllcodex_accordion">
   <li>
