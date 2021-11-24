@@ -68,10 +68,10 @@ In general, importing motor vehicles for local use incurs  [Goods and Services T
 
 However, there are selected types of motor vehicles that are granted duty exemption and boats that are granted GST relief respectively. Please click on the tabs below to find out more.
 
-<ul class="jekyllcodex_accordion1">
+<ul class="jekyllcodex_accordion">
   <li>
-		<input type="checkbox" id="accordion1">
-    <label for="accordion1">Duty-Exempted Motor Vehicles</label>
+		<input type="checkbox" id="accordion2">
+    <label for="accordion2">Duty-Exempted Motor Vehicles</label>
     <div>
 				 <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:"</p>
 			<p>
