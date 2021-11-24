@@ -62,7 +62,7 @@ accordion:
       boat must depart Singapore once the purpose has been accomplished. GST is
       payable if the boat is subsequently sold, disposed or transferred locally.
 ---
-# Importing Motor Vehicles Granted Duty Exemption and Boats Granted GST Relief Test2
+# Importing Motor Vehicles Granted Duty Exemption and Boats Granted GST Relief
 
 In general, importing motor vehicles for local use incurs  [Goods and Services Tax (GST)](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst) and  [duty]( /businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods), while the import of pleasure boats for local use incurs GST only.
 
