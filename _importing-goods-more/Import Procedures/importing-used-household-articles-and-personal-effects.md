@@ -151,3 +151,21 @@ These supporting documents and the online DOF should be emailed to customs_docum
       <p>At the entry point, please produce the goods, Customs In-Non Payment (GST Relief) permit and supporting documents to the checkpoint officers for clearance.</p>
     </div>
   </li>
+	  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Accompanied Personal Effects</label>
+    <div>
+			<p>This refers to goods that are hand-carried in the owner’s accompanied baggage upon his or her arrival in Singapore.
+
+To apply for GST relief, the owner should complete the “Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets” form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
+      <ul>
+				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b>
+- Copy of passport or identity card (NRIC)					
+- Proof of employment overseas (e.g., work permit visa, employment pass, letter of appointment)
+				
+				</li>
+				<li><b>Returning Singaporeans & Permanent Residents studying overseas</b></li>
+				<li><b>Foreigners transferring residence</b></li>
+      </ul>
+    </div>
+  </li>
