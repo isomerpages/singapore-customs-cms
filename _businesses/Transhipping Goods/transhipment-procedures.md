@@ -124,8 +124,6 @@ You are accountable as a Transhipment Agent and Declaring Agent for the tranship
 		    <input type="checkbox" id="accordion2">
     <label for="accordion2">Do Not</label>
     <div>
-      <p>✖ Manipulate (for example, re-pack or re-label) the goods during the inter-gateway movement.</p>
-			<p>✖ Use transhipment procedures for unauthorised purposes (for example, temporarily bringing goods from FTZ into customs territory for exhibition or other use).</p>
 			<p>✖ Manipulate (for example, re-pack or re-label) the goods during the inter-gateway movement.</p>
 			<p>✖ Use transhipment procedures for unauthorised purposes (for example, temporarily bringing goods from FTZ into customs territory for exhibition or other use).</p>
 			<p>✖ Make a declaration without verifying the authenticity of all supporting documents.</p>
