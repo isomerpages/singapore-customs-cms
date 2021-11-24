@@ -199,24 +199,34 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 <ul class="jekyllcodex_accordion">
 	<li>
 			<input type="checkbox" id="accordion1">
-									<label for="accordion1">Do</label>
-									<div>
-												<p>
-														✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p> <p> ✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items. </p><p> ✔ Know the contents of each consignment you import and clarify with relevant parties if needed. </p><p> ✔ Ensure you provide all supporting documents and information for permit applications to your Declaring Agents. </p><p> ✔ Include freight and insurance charges in the declared value of imported goods. </p><p> ✔ Declare any additional goods (for example, samples, gifts and free-of-charge items). </p><p> ✔ Ensure the product details (for example, Harmonized System (HS) code, quantity, description) are correctly declared. </p><p> ✔ Ensure you and your Declaring Agents and freight forwarders comply with all the permit conditions. </p><p> ✔ Apply for Customs supervision for unstuffing of container if the container is affixed with the Customs red seal. <br> <p>✔ Keep your supporting documents for a minimum of 5 years.
-												</p>
-									</div>
-	</li>
-	<li>
-			<input type="checkbox" id="accordion2">
-									<label for="accordion2">Do Not</label>
-									<div>
-											<p>
-													✖ Make a declaration without verifying the authenticity of all the supporting documents. </p><p> ✖ Use a pro-forma invoice for permit application. </p><p> ✖ Declare a nominal value for samples, gifts or free-of-charge items. You should declare the value based on the transaction value of identical or similar goods or other acceptable valuation methods. </p><p> ✖ Declare the country of the port of loading as the country of origin, when the goods actually originate from another country. </p><p> ✖ Share your TradeNet user ID and password with other persons. </p><p> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.</p>
+			<label for="accordion1">Do</label>
+			<div>
+					<p>	✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
+				<p> ✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items. </p>
+				<p> ✔ Know the contents of each consignment you import and clarify with relevant parties if needed. </p>
+				<p> ✔ Ensure you provide all supporting documents and information for permit applications to your Declaring Agents. </p>
+				<p> ✔ Include freight and insurance charges in the declared value of imported goods. </p>
+				<p> ✔ Declare any additional goods (for example, samples, gifts and free-of-charge items). </p>
+				<p> ✔ Ensure the product details (for example, Harmonized System (HS) code, quantity, description) are correctly declared. </p>
+				<p> ✔ Ensure you and your Declaring Agents and freight forwarders comply with all the permit conditions. </p>
+				<p> ✔ Apply for Customs supervision for unstuffing of container if the container is affixed with the Customs red seal. </p>
+				<p>✔ Keep your supporting documents for a minimum of 5 years.</p>
+				</div>
+				</li>
+				<li>
+				<input type="checkbox" id="accordion2">
+				<label for="accordion2">Do Not</label>
+				<div>
+				<p>✖ Make a declaration without verifying the authenticity of all the supporting documents. </p>
+					<p> ✖ Use a pro-forma invoice for permit application. </p>
+					<p> ✖ Declare a nominal value for samples, gifts or free-of-charge items. You should declare the value based on the transaction value of identical or similar goods or other acceptable valuation methods. </p>
+					<p> ✖ Declare the country of the port of loading as the country of origin, when the goods actually originate from another country. </p>
+					<p> ✖ Share your TradeNet user ID and password with other persons. </p>
+					<p> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.</p>
 		</div>
 	</li>
-	</ul>
-	
-***
+</ul>
+
 	
 ## For more information on:
 
