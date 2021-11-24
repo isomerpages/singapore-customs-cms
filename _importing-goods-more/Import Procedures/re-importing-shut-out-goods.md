@@ -146,17 +146,17 @@ The importer or the appointed freight handling agent should follow the steps in 
     <input type="checkbox" id="accordion4">
     <label for="accordion4">GST Relief for Re-Importing Non-Dutiable Shut-out Goods Previously Under Transhipment with Inter-Gateway Movement ( i.e. Transhipment from first Checkpoint to second CheckPoint, and Shut-out from Second CheckPoint) Into a Zero GST Warehouse</label>
     <div>
-      <br>1) <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/">Obtain</a> a Customs In-Non-Payment (Approved Premises/Schemes) permit via TradeNet before the importation of non-dutiable goods into a Zero GST warehouse.</p>
+<br>1) <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/">Obtain</a> a Customs In-Non-Payment (Approved Premises/Schemes) permit via TradeNet before the importation of non-dutiable goods into a Zero GST warehouse.</p>
 	<p>2) When obtaining the permit, please take note of the following -
-		<br>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
-		<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.</p>
+<br>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
+<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.</p>
     </div>
   </li>  
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">No GST Relief for Importing Non-Dutiable Shut-out Goods ( Including those previously imported under the Temporary Import Scheme) into Customs Territory</label>
     <div>
-			<br>1) Non-dutiable shut-out goods will not have GST relief upon re-importation or importation into Customs territory.</p>
+<br>1) Non-dutiable shut-out goods will not have GST relief upon re-importation or importation into Customs territory.</p>
 	<p>2) The importer or his agent is required to obtain an In-Payment (GST) permit for non-dutiable goods via TradeNet before the re-importation or importation.</p>
     </div>
   </li>
