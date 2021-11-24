@@ -88,10 +88,10 @@ An importer who is transferring residence to Singapore (including returning Sing
     
 -   The pet(s) are imported within 6 months of the pet owner’s first arrival in Singapore.
   
-<ul class="jekyllcodex_accordion1">
+<ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Procedures for Personal Pets Imported as Manifested Cargoes</label>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Procedures for Personal Pets Imported as Manifested Cargoes</label>
     <div>
       <br>For personal pets that are imported as manifested cargoes (i.e. unaccompanied pets that are imported using commercial cargo forwarding services), the pet owner or his freight forwarding agent must obtain NParks AVS’ approval before submitting an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts (DOF)</a> to Singapore Customs for an assessment of eligibility for GST relief. For enquiries on the status of the DOF application, please click <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">here</a>.
 			<br><br>If the DOF application is approved, the pet owner, his freight forwarding agents or pet clearing agent may inform their appointed Declaring Agent to obtain the Customs In-Non-Payment (GST Relief) permit within 5 working days from the approval date of the DOF. A list of freight forwarding agents can be obtained <a href="https://www.customs.gov.sg/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents">here</a>. Please refer to the details on <a href="https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees">Documentation and Other Fees</a>.
