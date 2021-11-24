@@ -124,11 +124,11 @@ The importer or the appointed freight handling agent should follow the steps in 
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">GST Relief for Re-Importing Non-Dutiable Shut-out Goods after 24 hours of entering FTZ or Authorised Pier/Place into Customs Territory ( not previously Released from a Zero GST Warehouse, not under the Temporary Import Scheme and not under Transhipment with Inter-Gateway Movement)</label>
-    <div>
-      <br>1) <a href="https://www.imda.gov.sg/ProhibitedEquipment">Obtain</a> a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.</p>
+		<div>
+<br>1) <a href="https://www.imda.gov.sg/ProhibitedEquipment">Obtain</a> a Customs In-Non Payment (Shut-Out) permit via TradeNet before the re-importation.</p>
       <p>2) When obtaining the permit, please take note of the following -
-				<p>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
-	<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.</p>
+<p>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
+<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.</p>
 	<p>3) Produce the permit and supporting documents (for example, commercial invoice, packing list and Bill of Lading) to the checkpoint officers for verification during cargo clearance.</p>
     </div>
   </li>
@@ -136,7 +136,7 @@ The importer or the appointed freight handling agent should follow the steps in 
     <input type="checkbox" id="accordion3">
     <label for="accordion3">GST Relief for Re-Importing Non-Dutiable Shut-out Goods Previously Released from a Zero GST Warehouse, into a Zero GST Warehouse</label>
     <div>
-      <br>1) <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/">Obtain</a>  a Customs In-Non-Payment (Shut-out) permit via TradeNet before the re-importation of non-dutiable goods into a Zero GST warehouse.</p>
+      <br>1) <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/">Obtain</a>  a Customs In-Non-Payment (Shut-out) permit via TradeNet before the re-importation of non-dutiable goods into a Zero GST warehouse.
 	<p>2) When obtaining the permit, please take note of the following -
 		<p>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
 			<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.</p>
