@@ -151,4 +151,3 @@ These supporting documents and the online DOF should be emailed to customs_docum
       <p>At the entry point, please produce the goods, Customs In-Non Payment (GST Relief) permit and supporting documents to the checkpoint officers for clearance.</p>
     </div>
   </li>
-	
