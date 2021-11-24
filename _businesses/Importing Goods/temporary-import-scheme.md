@@ -106,7 +106,7 @@ More information on the offences and penalties under the Customs Act [here](/ind
 
 You are accountable as a trader or Declaring Agent for the goods imported under the TIS. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
- <ul class="jekyllcodex_accordion1">
+ <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Do</label>
@@ -123,14 +123,16 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
     </div>
   </li> 
 	  <li>
-    <input type="checkbox" id="accordion1">
+    <input type="checkbox" id="accordion2">
     <label for="accordion2">Do Not</label>
     <div>
       <p>✖ Remove any GST suspended goods for export or local consumption without the proper permits.</p>
 			<p>✖ Remove the Customs seal affixed to the container containing goods imported under the TIS without prior approval from Singapore Customs. You are required to apply for customs supervision of unstuffing of such sealed containers.</p>
 			<p>✖ Sell goods brought in under an ATA Carnet beyond the final date allowed for re-exportation without paying the GST to Singapore Customs.</p>
     </div>
-  </li> 
+  </li>
+	</ul>
+	
  
  
 ## For more information on: 
