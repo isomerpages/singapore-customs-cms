@@ -70,8 +70,8 @@ However, there are selected types of motor vehicles that are granted duty exempt
 
 <ul class="jekyllcodex_accordion">
   <li>
-		<input type="checkbox" id="accordion2">
-    <label for="accordion2">Duty-Exempted Motor Vehicles</label>
+		<input type="checkbox" id="accordion1">
+    <label for="accordion1">Duty-Exempted Motor Vehicles</label>
     <div>
 				 <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:"</p>
 			<p>
