@@ -116,7 +116,6 @@ Before you import your goods, please also see the lists of [controlled and prohi
       <ol>
         <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts (DOF)</a> to Singapore Customs for an assessment of your eligibility for GST relief.</li>
         <li>Submit the following supporting documents to Singapore Customs for proof of transfer of residence to Singapore
-    <input type="checkbox" id="accordion5">
     <div>
       <ul>
         <li>Extract of passport particulars</li>
@@ -128,7 +127,6 @@ Before you import your goods, please also see the lists of [controlled and prohi
   </li>
 <p>
 If your employment pass is still being processed by the Ministry of Manpower (MOM), you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
-				 <input type="checkbox" id="accordion5">
     <div>
       <ul>
         <li>A copy of your employment pass application received by MOM; or</li>
@@ -150,8 +148,9 @@ These supporting documents and the online DOF should be emailed to customs_docum
     </div>
   </li>
 	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Taking Delivery of the Personal Effects</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">
+Taking Delivery of the Personal Effects</label>
     <div>
       <p>After obtaining the approved Customs In-Non-Payment (GST Relief) permit, your appointed agent must collect the goods on your behalf.</p>
       <p>For goods imported by sea, please collect them from the PSA port area. For goods brought in by air, please collect them from the Changi Airfreight Centre.</p>
@@ -168,7 +167,6 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
 				Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets</a>" form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
       <ul>
 				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b></li>
-    <input type="checkbox" id="accordion5">
     <div>
       <ul>
         <li>Copy of passport or identity card (NRIC)</li>
@@ -177,7 +175,6 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
     </div>
   </li>
 <li><b>Returning Singaporeans & Permanent Residents studying overseas</b></li>
-				    <input type="checkbox" id="accordion5">
     <div>
       <ul>
         <li>Copy of passport or identity card (NRIC)</li>
@@ -186,8 +183,7 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
     </div>
   </li>				
 <li><b>Foreigners transferring residence</b></li>
-   <input type="checkbox" id="accordion5">
-    <div>
+   <div>
       <ul>
         <li>Copy of passport</li>
         <li>Proof of transfer of residence to Singapore (e.g., employment pass, dependant pass, student pass)</li>
