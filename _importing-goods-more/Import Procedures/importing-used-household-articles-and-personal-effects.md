@@ -132,8 +132,7 @@ If you are not in Singapore, your employer or next-of-kin can provide a letter o
 
 These supporting documents and the online DOF should be emailed to customs_documentation@customs.gov.sg.
 				</li>
-        <li> Check the status of your DOF application here.
-</li>
+        <li> Check the status of your DOF application <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">here</a>.</li>
         <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 5 working days of receiving Customs’ approval of GST relief.</li>
         <li>If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit.</li>
         <li>If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agen to obtain the In-Payment (GST) permit to import your personal effects.</li>
@@ -155,7 +154,7 @@ These supporting documents and the online DOF should be emailed to customs_docum
     <div>
 			<p>This refers to goods that are hand-carried in the owner’s accompanied baggage upon his or her arrival in Singapore.
 
-To apply for GST relief, the owner should complete the “Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets” form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
+To apply for GST relief, the owner should complete the GET THE LINK “Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets”</a> form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
       <ul>
 				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b>
 - Copy of passport or identity card (NRIC)					
