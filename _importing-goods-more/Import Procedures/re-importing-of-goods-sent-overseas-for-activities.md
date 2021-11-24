@@ -173,7 +173,7 @@ Please view the tabs below for more information on re-importing goods under diff
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-	<label for="accordion2"><b>Returning Goods with Replacement or New Additional Parts</b></label>
+	<label for="accordion2">Returning Goods with Replacement or New Additional Parts</label>
     <div>
       <br>For goods (bona fide trade samples and goods manufactured, assembled or produced in Singapore) that are temporarily exported and have undergone any manipulation or processing while overseas, re-importing these goods will incur GST and/or duties.
 	<p>For the re-importation of <b>non-dutiable goods </b>temporarily exported for repair where new parts (whether as replacement or in addition to the original parts) are added, GST relief granted is only applicable to the remaining original parts of the article re-imported and shall be contingent on the repairer certifying the details and values of the new parts added and upon payment of the GST on such added parts. However, if the repair has been carried out for no charge by the repairer on goods covered by a warranty or guarantee agreement, the relief hereby granted shall also apply to the new parts added. In the case of the re-import of any goods by a non-taxable person, the GST should be paid previously, and has not been refunded.
