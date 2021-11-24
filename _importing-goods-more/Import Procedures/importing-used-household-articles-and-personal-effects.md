@@ -142,4 +142,13 @@ These supporting documents and the online DOF should be emailed to customs_docum
       </ol>
     </div>
   </li>
+	  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Taking Delivery of the Personal Effects</label>
+    <div>
+      <p>After obtaining the approved Customs In-Non-Payment (GST Relief) permit, your appointed agent must collect the goods on your behalf.</p>
+      <p>For goods imported by sea, please collect them from the PSA port area. For goods brought in by air, please collect them from the Changi Airfreight Centre.</p>
+      <p>At the entry point, please produce the goods, Customs In-Non Payment (GST Relief) permit and supporting documents to the checkpoint officers for clearance.</p>
+    </div>
+  </li>
 	
