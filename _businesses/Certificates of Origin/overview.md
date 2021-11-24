@@ -147,9 +147,8 @@ For minor offences under the RIEA, Singapore Customs may offer to compound the o
     
 **Penalties upon conviction for key offences**
 
-|Offence|Penalty Upon Conviction|
+| Offence | Penalty Upon Conviction |
 |--|--|
-| **Making a false declaration** <br>(Section 28(1)(a) of the RIEA) | A fine not exceeding S$10,000 or imprisonment for a term not exceeding 2 years or both. |
-| **Incorrect trade descriptions** <br>(Section 28A(1)(a) of the RIEA)<br><br> **Failure to comply with requirements of the Director-General for the issue of preferential CO** <br>(Regulation 24B(4) of the RIER) | First conviction:<br>A fine not exceeding S$100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 2 years or to both.<br><br>Second or subsequent conviction:<br>A fine not exceeding S$200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 3 years or to both. |
+| **Making a false declaration.** <br> _(Section 28(1)(a) of the RIEA)_ <br><br>**Incorrect Trade Descriptions.** <br> _(Section 28A(1)(a) of the RIEA)_<br><br>**Failure to comply with requirements of the Director-General for the issue of preferential CO**<br>_(Regulation 24B(4) of the RIER)_  | A fine not exceeding S$10,000, or imprisonment not exceeding 2 years, or both. <br><br> First conviction: A fine not exceeding S$100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 2 years or to both. <br><br> Second or subsequent conviction:A fine not exceeding S$200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 3 years or to both.
 
-You may view more information on the prescribed offences and penalties under the [RIEA and RIER](/businesses/acts-and-subsidiary-legislation/overview).
+Learn more about the prescribed offences and penalties under the [Customs Act](/businesses/acts-and-subsidiary-legislation/overview) and the [RIEA](/businesses/acts-and-subsidiary-legislation/overview).
