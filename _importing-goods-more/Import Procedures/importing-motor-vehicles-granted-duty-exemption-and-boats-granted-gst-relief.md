@@ -71,7 +71,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 <ul class="jekyllcodex_accordion">
   <li>
 		<input type="checkbox" id="accordion2">
-    <label for="accordion2">Duty-Exempted Motor Vehicles TEST 1</label>
+    <label for="accordion2">Duty-Exempted Motor Vehicles TEST 2</label>
     <div>
 				 <p>“Selected types of motor vehicles or those for specific use are exempted from excise duty (but still subject to GST payment), subject to the following conditions:"</p>
 			<p>
@@ -93,8 +93,6 @@ However, there are selected types of motor vehicles that are granted duty exempt
 <p>While excise duty is exempted, GST applies to the import of these selected motor vehicles. If the conditions of Singapore Customs or the Land Transport Authority are not met, the applicant would have to pay the excise duty in full.</p>
 <p>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/redirection.html">here</a> and <a href="https://www.lta.gov.sg/content/ltagov/en.html">here</a>.
 	</p>
-	</div>
-	</li>
 	<li>
 	<input type="checkbox" id="accordion2">
     <label for="accordion2">Application for Duty Exemption on Selected Motor Vehicles</label>
@@ -118,7 +116,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 				- “VEHRAC” for off-road racing cars/motorcycles</p>
 	</div>
 	</li>
-	<li>
+<li>
 	<input type="checkbox" id="accordion3">
     <label for="accordion3">Boats under GST Relief</label>
     <div>
