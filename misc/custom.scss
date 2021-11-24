@@ -332,9 +332,6 @@ $desktop: 960px + (2 * $gap) !default;
      border-style: solid;
      border-width: 0 0 2px; 
     }
-    td{
-      border: 0;
-    }
   }
 
 // End of Dennis tweak to use tbody instead of tr for table row
