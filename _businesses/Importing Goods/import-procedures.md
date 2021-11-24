@@ -215,9 +215,8 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 		</div>
 	</li>
 	</ul>
-	<br>
 	
-
+***
 	
 ## For more information on:
 
