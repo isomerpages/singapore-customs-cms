@@ -3,7 +3,6 @@ title: For Individuals or Parallel Importers
 permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles/individuals-or-pi
 third_nav_title: Guide to Importing Dutiable Motor Vehicles
 ---
-
 # For Individuals or Parallel Importers
 
 Once the vehicle has been purchased and shipped to Singapore, the importer may apply for an assessment of the vehicle’s customs value. An application has to be submitted for every imported unit of vehicle.
@@ -21,4 +20,7 @@ Please complete this [form (for Individual Importer)](https://form.gov.sg/5f7a63
 -   Payment documents for the purchase (for example, telegraphic transfer slip)
 -   Clear photos of the odometer (showing mileage), interior, exterior and engine/chassis number (for used vehicles)
 
-Note: Parallel importers are required to register with Singapore Customs before importing dutiable motor vehicles. If you are new to importing dutiable motor vehicles as a parallel importer, please submit your registration request via [Customs_TTSB@customs.gov.sg](mailto:Customs_TTSB@customs.gov.sg) before submitting the form. 
+Note: 
+
+* Parallel importers are required to register with Singapore Customs before importing dutiable motor vehicles. If you are new to importing dutiable motor vehicles as a parallel importer, please submit your registration request via [Customs_TTSB@customs.gov.sg](mailto:Customs_TTSB@customs.gov.sg) before submitting the form.
+* If you are importing electric vehicles, including electric motorcycles/ scooters, please write in to Customs_TTSB@customs.gov.sg to enquire about the additional requirements before importing. 
