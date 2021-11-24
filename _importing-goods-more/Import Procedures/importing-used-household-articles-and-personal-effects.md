@@ -114,7 +114,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 			 <p>This refers to shipments that are arranged for delivery by the shipping, airline or forwarding agent appointed by the owner of the personal effects.</p>
 			 <p>To apply, you or your appointed agent should:</p>
       <ol>
-        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts</a> to Singapore Customs for an assessment of your eligibility for GST relief.</li>
+        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts (DOF)</a> to Singapore Customs for an assessment of your eligibility for GST relief.</li>
         <li>Submit the following supporting documents to Singapore Customs for proof of transfer of residence to Singapore
 
 - Extract of passport particulars
@@ -122,7 +122,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 - Entry permit
 - Bill of lading/air waybill
 
-If your employment pass is still being processed by the Ministry of Manpower (MOM), you should still complete the DOF and submit to Singapore Customs
+If your employment pass is still being processed by the Ministry of Manpower (MOM), you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs
 					
 - A copy of your employment pass application received by MOM; or
 - A letter from your employer confirming your employment; together with
