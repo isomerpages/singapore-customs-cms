@@ -154,7 +154,8 @@ These supporting documents and the online DOF should be emailed to customs_docum
     <div>
 			<p>This refers to goods that are hand-carried in the owner’s accompanied baggage upon his or her arrival in Singapore.
 
-To apply for GST relief, the owner should complete the GET THE LINK “Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets”</a> form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
+To apply for GST relief, the owner should complete the "<a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links">
+				Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets</a>" form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
       <ul>
 				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b>
 - Copy of passport or identity card (NRIC)					
