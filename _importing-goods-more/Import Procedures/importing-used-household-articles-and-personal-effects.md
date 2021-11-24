@@ -167,8 +167,7 @@ These supporting documents and the online DOF should be emailed to customs_docum
 To apply for GST relief, the owner should complete the "<a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links">
 				Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets</a>" form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
       <ul>
-				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b>
-					<li>
+				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b></li>
     <input type="checkbox" id="accordion5">
     <div>
       <ul>
@@ -177,18 +176,25 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
       </ul>
     </div>
   </li>
-
-				
 <li><b>Returning Singaporeans & Permanent Residents studying overseas</b></li>
-				  
-- Copy of passport or identity card (NRIC)				
-- Proof of overseas study (e.g., student visa, student pass)
-				
+				    <input type="checkbox" id="accordion5">
+    <div>
+      <ul>
+        <li>Copy of passport or identity card (NRIC)</li>
+        <li>Proof of overseas study (e.g., student visa, student pass)</li>
+      </ul>
+    </div>
+  </li>				
 <li><b>Foreigners transferring residence</b></li>
-
-- Copy of passport
-- Proof of transfer of residence to Singapore (e.g., employment pass, dependant pass, student pass)
-- Other supporting documents (e.g., letter of employment or a letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower)
+   <input type="checkbox" id="accordion5">
+    <div>
+      <ul>
+        <li>Copy of passport</li>
+        <li>Proof of transfer of residence to Singapore (e.g., employment pass, dependant pass, student pass)</li>
+				<li>Other supporting documents (e.g., letter of employment or a letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower)</li>
+      </ul>
+    </div>
+  </li>
 	</ul>
     </div>
   </li>
