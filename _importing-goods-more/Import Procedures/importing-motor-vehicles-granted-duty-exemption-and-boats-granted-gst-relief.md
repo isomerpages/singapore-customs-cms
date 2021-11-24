@@ -99,7 +99,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 	<input type="checkbox" id="accordion2">
     <label for="accordion2">Application for Duty Exemption on Selected Motor Vehicles</label>
     <div>
-			<p><br>1) Prior to the importation of the motor vehicle from overseas or removal from licensed warehouse, you or your appointed freight handling agent must submit the following supporting documents to customs_documentation@customs.gov.sg for Singapore Customs’ assessment of your eligibility for duty exemption
+			<p><br>1) Prior to the importation of the motor vehicle from overseas or removal from <a href="https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme">licensed warehouse</a>, you or your appointed freight handling agent must submit the following supporting documents to <a href="mailto:customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a> for Singapore Customs’ assessment of your eligibility for duty exemption
 			<p>
 				- Cover letter stating purpose of request
 				<br>- Land Transport Authority (LTA)’s approval letter (if applicable)
@@ -125,4 +125,5 @@ However, there are selected types of motor vehicles that are granted duty exempt
       <p>Self-propelled pleasure boats that enter Singapore on a temporary basis, under the power of its own engine or sail, for the purpose of pleasure, recreational sports, racing or other similar events, are granted GST relief and can be imported without a permit.</p>
       <p>The pleasure boat must depart Singapore once the purpose has been accomplished. GST is payable if the boat is subsequently sold, disposed or transferred locally.</p>
     </div>
+	</li>
 	</ul>
