@@ -214,8 +214,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 													✖ Make a declaration without verifying the authenticity of all the supporting documents. </p><p> ✖ Use a pro-forma invoice for permit application. </p><p> ✖ Declare a nominal value for samples, gifts or free-of-charge items. You should declare the value based on the transaction value of identical or similar goods or other acceptable valuation methods. </p><p> ✖ Declare the country of the port of loading as the country of origin, when the goods actually originate from another country. </p><p> ✖ Share your TradeNet user ID and password with other persons. </p><p> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.</p>
 		</div>
 	</li>
-</ul>
-	
+	</ul>
 	<br>
 	
 
