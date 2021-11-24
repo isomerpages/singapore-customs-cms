@@ -26,8 +26,6 @@ sections:
           url: /businesses/new-traders-and-registration-services/overview
         - title: Customs Schemes & Licences
           url: /businesses/customs-schemes-licences-framework/overview
-        - title: Customs Forms & Service Links
-          url: /eservices/customs-forms-and-service-links
   - infopic:
       title: Networked Trade Platform
       subtitle: OUR SERVICES
