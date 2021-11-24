@@ -209,7 +209,7 @@ Please view the tabs below for more information on re-importing goods under diff
 			<br>- The GST and/or duty previously paid on the goods has not been claimed from IRAS or refunded by Singapore Customs; and
 			<br>- The goods were re-imported in the same state without any alteration or reprocessing while abroad
 			<br><br><b>For Taxable Companies</b>
-			<br><br>Taxable companies registered with the <a href="https://www.iras.gov.sg/">Inland Revenue Authority of ingapore (IRAS)</a> may obtain an In-Payment (GST) permit to cover the re-import of their goods, and claim the GST levied from IRAS.
+			<br><br>Taxable companies registered with the <a href="https://www.iras.gov.sg/">Inland Revenue Authority of Singapore (IRAS)</a> may obtain an In-Payment (GST) permit to cover the re-import of their goods, and claim the GST levied from IRAS.
 			<br><br>The company must submit the Customs OUT (Direct) permit, and all relevant records (for example, Bill of Lading, commercial invoices, packing list, freight charges) to IRAS during the company’s monthly or quarterly accounting returns.
       <br><br><b>For Non-Taxable Companies</b>
       <br><br>The company can write to customs_documentation@customs.gov.sg (attn to - Permits Officer) with the following supporting documents for our assessment
