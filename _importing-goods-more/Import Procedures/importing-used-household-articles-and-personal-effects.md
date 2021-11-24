@@ -116,21 +116,31 @@ Before you import your goods, please also see the lists of [controlled and prohi
       <ol>
         <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts (DOF)</a> to Singapore Customs for an assessment of your eligibility for GST relief.</li>
         <li>Submit the following supporting documents to Singapore Customs for proof of transfer of residence to Singapore
-
-- Extract of passport particulars
-- Employment pass
-- Entry permit
-- Bill of lading/air waybill
-
-If your employment pass is still being processed by the Ministry of Manpower (MOM), you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs
-					
-- A copy of your employment pass application received by MOM; or
-- A letter from your employer confirming your employment; together with
-- A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your employment pass is not approved or if your employment is subsequently not taken up.
-
-If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.
-
-These supporting documents and the online DOF should be emailed to customs_documentation@customs.gov.sg.
+    <input type="checkbox" id="accordion5">
+    <div>
+      <ul>
+        <li>Extract of passport particulars</li>
+        <li>Employment pass</li>
+        <li>Entry permit</li>
+        <li> Bill of lading/air waybill</li>
+      </ul>
+    </div>
+  </li>
+<p>
+If your employment pass is still being processed by the Ministry of Manpower (MOM), you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
+				 <input type="checkbox" id="accordion5">
+    <div>
+      <ul>
+        <li>A copy of your employment pass application received by MOM; or</li>
+        <li>Employment pass</li>
+        <li>A letter from your employer confirming your employment; together with</li>
+        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your employment pass is not approved or if your employment is subsequently not taken up.
+</li>
+      </ul>
+    </div>
+<p>If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
+<p>
+These supporting documents and the online DOF should be emailed to customs_documentation@customs.gov.sg.</p>
 				</li>
         <li> Check the status of your DOF application <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">here</a>.</li>
         <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 5 working days of receiving Customs’ approval of GST relief.</li>
