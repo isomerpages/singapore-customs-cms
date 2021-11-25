@@ -88,7 +88,7 @@ You may pay via Inter Bank Giro (IBG), NETS or credit card. Payment by NETS or c
 The origin determination process may take up to 30 days, depending on the complexity of the product and the completeness of the information furnished.</p>
 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Validity of Customs Ruling</label>
     <div>
 			<p> The issued Customs ruling will be valid at the time of issuance based on the Customs Act and its subsidiary legislation in force at the time of the issuance of the Customs ruling. All matters within the issued Customs ruling do not apply three years after the date of issuance, or the date a provision of the Customs Act (including its subsidiary legislation) is repealed or amended to the extent that the repeal or amendment changes the way that provision applies in this ruling, which ever comes earlier. The issued Customs ruling may also be withdrawn or rescinded on the grounds stated in paragraph 7(9) of the Schedule to the Customs Act.
 
