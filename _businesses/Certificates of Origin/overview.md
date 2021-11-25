@@ -121,10 +121,10 @@ Companies may be penalised under the Regulation of Imports and Exports Act (RIEA
 
 **Examples of common offences**
 
-  -   Making a false declaration
-        
-        -   Deliberate false declaration of country of origin
-        -   Declaring non-Singapore origin materials from local suppliers as Singapore-origin
+  -   Making a false declaration  
+
+        -    Deliberate false declaration of country of origin
+        -    Declaring non-Singapore origin materials from local suppliers as Singapore-origin
     
    -   Incorrect trade descriptions
         
