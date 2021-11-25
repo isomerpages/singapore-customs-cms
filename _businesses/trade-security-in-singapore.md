@@ -35,8 +35,8 @@ Singapore Customs also cooperates with its international counterparts to help pr
 
 Read about some of the regular enforcement operations conducted in the FTZs featured in Singapore Customs’ corporate magazine, inSYNC, here:
 
- - [Upholding The Security Of Free Trade Zone (page10)](/news-and-media/publications/2017-10-01-Issue47.pdf)
- - [Singapore Customs Foils Syndicates’ Attempts To Smuggle Duty-Unpaid Cigarettes Out Of Changi Airfreight Centre (page 5 & 6)](/news-and-media/publications/2018-01-01-Issue48.pdf)
+ - [Upholding The Security Of Free Trade Zone (page10)](/files/news-and-media/publications/2017-10-01-Issue47.pdf)
+ - [Singapore Customs Foils Syndicates’ Attempts To Smuggle Duty-Unpaid Cigarettes Out Of Changi Airfreight Centre (page 5 & 6)](/files/news-and-media/publications/2018-01-01-Issue48.pdf)
  
 ## Licensed facilities
 
@@ -56,7 +56,7 @@ Singapore Customs has implemented an enhanced regulatory ZGS to combat money-lau
 
 Regular inspections are conducted on these companies as part of the enhanced regime which serves to prevent companies from being inadvertently used as a conduit for money-laundering and terrorism-financing activities, allowing Singapore to operate as a secure trade hub.
 
-Read more about the inspections and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC: [Enhanced Regulatory Regime To Combat Money Laundering And Terrorist Financing Risks](/news-and-media/publications/2018-04-01-Issue49.pdf)
+Read more about the inspections and the enhanced regulatory regime in Singapore Customs’ corporate magazine, InSYNC: [Enhanced Regulatory Regime To Combat Money Laundering And Terrorist Financing Risks](/files/news-and-media/publications/2018-04-01-Issue49.pdf)
 
 ## Suspicious Transaction Report
 
