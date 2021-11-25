@@ -86,16 +86,16 @@ The customs value should be the sum of all the costs, which is S$450. All costs 
       <p>The ownership and risk of loss of the goods are transferred to the buyer when the goods are on board the vessel. If the goods are damaged or stolen during international transport, the buyer owns the goods and must file a claim based on insurance purchased by the seller.<br>
       <p>The buyer must clear customs and pay for all other costs at the country of import.</p>
     </div>
-  </li>  
+             </li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">^^Definition of Ex Works incoterms</label>
     <div>
       <p>Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer.</p>
       <p>The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.</p>
-    </div>
-</li>
-		
+			    </div>
+  </li>
+  <li>		
 
 
 ## Conditions for Transaction Value Method
