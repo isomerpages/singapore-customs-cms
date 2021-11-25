@@ -61,3 +61,8 @@ accordion:
 Please note that origin rulings are only applicable for use within Singapore. If your goods are imported into another country, please seek the advice of the relevant authority in the importing country.</p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">How To Apply?</label>
+    <div>
+			<p> 
