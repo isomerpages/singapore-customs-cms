@@ -41,7 +41,7 @@ The following fields are required to be entered exactly as stated in the approva
     f) CA/SC Code 1: Engine Number <br>
     g) CA/SC Code 2: Chassis Number <br>
 
-Another field required to declare is “CA/SC Code 3”. Please indicate the vehicle type – "N" for new vehicle, "U" for used vehicle or "T" for Taxi.
+In addition, please declare under “CA/SC Code 3” the vehicle type – "N" for new vehicle, "U" for used vehicle or "T" for Taxi.
 
 A declaring agent or freight forwarder can be appointed to submit the permit on the importer's behalf.
 
