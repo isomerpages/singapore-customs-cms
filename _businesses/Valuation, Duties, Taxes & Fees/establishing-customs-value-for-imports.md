@@ -80,7 +80,7 @@ The customs value should be the sum of all the costs, which is S$450. All costs 
     <input type="checkbox" id="accordion1">
     <label for="accordion1">^Definition of Cost, Insurance and Freight incoterms</label>
     <div>
-      <p>The Cost, Insurance and Freight (CIF) incoterms means the seller (exporter) is responsible for delivering the goods onto the vessel of transport and clearing customs at the country of export.<br>
+      <p>The Cost, Insurance and Freight (CIF) incoterms means the seller (exporter) is responsible for delivering the goods onto the vessel of transport and clearing customs at the country of export.</p>
       <p>The seller is also responsible for the international freight charges and purchasing insurance with the buyer (importer) named as the beneficiary.<br>
       <p>The buyer should note that under CIF, the seller is only required to obtain insurance on minimum cover. If the buyer wishes to have more insurance protection, he may make arrangements with the seller or arrange for extra insurance coverage on his own.<br>
       <p>The ownership and risk of loss of the goods are transferred to the buyer when the goods are on board the vessel. If the goods are damaged or stolen during international transport, the buyer owns the goods and must file a claim based on insurance purchased by the seller.<br>
@@ -93,10 +93,10 @@ The customs value should be the sum of all the costs, which is S$450. All costs 
     <div>
       <p>Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer.</p>
       <p>The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.</p>
-      </ul>
     </div>
-  </li>
-</ul>
+    </li>
+  <li>
+
 
 ## Conditions for Transaction Value Method
 
