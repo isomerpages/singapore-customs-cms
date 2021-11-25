@@ -56,7 +56,7 @@ accordion:
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Who Can Apply?</label>
     <div>
-			<p>If you are an importer importing stout/porter, beer including ale, medicated samsu and other samsu from these FTA Partners under one of Singapore’s Free Trade Agreements, you may apply for a Customs Ruling on Origin Determination of Imported Goods.
+			<p>If you are an importer importing stout/porter, beer including ale, medicated samsu and other samsu from these <a href="https://www.customs.gov.sg/businesses/certificates-of-origin/application-for-customs-ruling-on-origin-determination-of-goods" target="new"> FTA Partners</a> under one of Singapore’s Free Trade Agreements, you may apply for a Customs Ruling on Origin Determination of Imported Goods.
 
 Please note that origin rulings are only applicable for use within Singapore. If your goods are imported into another country, please seek the advice of the relevant authority in the importing country.</p>
     </div>
@@ -65,4 +65,33 @@ Please note that origin rulings are only applicable for use within Singapore. If
     <input type="checkbox" id="accordion2">
     <label for="accordion2">How To Apply?</label>
     <div>
-			<p> 
+			<p>You may submit the <a href="https://form.gov.sg/#!/5cb03416bc22ae0010760c72" target="new">Application For Customs Ruling on Classification of Goods</a> with the following supporting documents.
+				- Product catalogue/brochure
+- Product specification/datasheet
+- Manufacturing process
+- Documentation provided by the manufacturer/supplier to establish the originating status of the product.
+
+Each application is for the origin determination of ONE product. The contact details are enclosed in the application form.</P> 
+<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">How Much Does It Cost To Apply?</label>
+    <div>
+			<p> A fee of S$75 inclusive of Goods & Services Tax will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting documents.
+
+You may pay via Inter Bank Giro (IBG), NETS or credit card. Payment by NETS or credit card can be made at any SingPost branch.</p>
+<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">How Long Is The Process?</label>
+    <div>
+			<p> Singapore Customs will evaluate and determine the originating status of your product. You will receive a letter, indicating the applicant’s/company’s name and address, the product’s name and description, and our assessment of the originating status of your product.
+
+The origin determination process may take up to 30 days, depending on the complexity of the product and the completeness of the information furnished.</p>
+<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Multi-line Block</label>
+    <div>
+			<p> The issued Customs ruling will be valid at the time of issuance based on the Customs Act and its subsidiary legislation in force at the time of the issuance of the Customs ruling. All matters within the issued Customs ruling do not apply three years after the date of issuance, or the date a provision of the Customs Act (including its subsidiary legislation) is repealed or amended to the extent that the repeal or amendment changes the way that provision applies in this ruling, which ever comes earlier. The issued Customs ruling may also be withdrawn or rescinded on the grounds stated in paragraph 7(9) of the Schedule to the Customs Act.
+
+You may appeal for a review of the Customs Ruling issued. The appeal must be submitted within 10 working days from the date of issuance of the ruling. You have to state the grounds of appeal and submit all supporting documents to substantiate the appeal.
+
+Upon receipt of the appeal, Singapore Customs will conduct a review and inform you of the outcome via email.</P>
