@@ -93,8 +93,8 @@ The customs value should be the sum of all the costs, which is S$450. All costs 
 	Under the Ex Works (EXW) incoterms, the seller (exporter) makes the goods available to the buyer (importer) at the seller’s premises or at another named place. The seller’s obligations and risks are minimal. After the seller delivers the goods, the ownership and risk of loss of the goods are transferred to the buyer.<br>The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.
 	</p>
    </div>
- </li>  
- <li>
+ </li>
+</ul>
 
 
 ## Conditions for Transaction Value Method
