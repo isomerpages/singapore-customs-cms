@@ -95,8 +95,7 @@ The customs value should be the sum of all the costs, which is S$450. All costs 
       <p>The buyer is responsible for all transportation costs, duties and insurance of the goods to the country of import. The EXW price does not include the cost of delivering the goods to the port, loading onto the vessel and customs clearance at the country of export.</p>
     </div>
     </li>
-  <li>
-
+		
 
 ## Conditions for Transaction Value Method
 
