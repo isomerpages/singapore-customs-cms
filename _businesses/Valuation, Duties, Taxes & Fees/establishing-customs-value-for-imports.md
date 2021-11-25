@@ -97,6 +97,7 @@ The customs value should be the sum of all the costs, which is S$450. All costs 
     </li>
 		
 
+
 ## Conditions for Transaction Value Method
 
 Using the transaction value method by Singapore Customs is subject to these conditions:
@@ -104,9 +105,8 @@ Using the transaction value method by Singapore Customs is subject to these cond
 -   There must be evidence of a sale. Such evidence may be in the form of commercial invoices, sale contracts, purchase orders, etc
 -   There must not be restrictions on the use of the goods by the buyer
 -   The sale or price is not subject to conditions for which a value cannot be determined with respect to the goods being valued. Examples include:
-    
-    -   Seller establishes the price of the imported goods on condition that the buyer will also buy other goods in specified quantities
-    -   Price of semi-finished goods is established by the seller on condition that the buyer will give the seller a specified quantity of the finished goods
+-   Seller establishes the price of the imported goods on condition that the buyer will also buy other goods in specified quantities
+-   Price of semi-finished goods is established by the seller on condition that the buyer will give the seller a specified quantity of the finished goods
 -   It must be shown that the transaction value has not been affected by any relationship between the importer and supplier
 
 ## Other Valuation Methods
