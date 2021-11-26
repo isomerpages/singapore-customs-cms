@@ -1,0 +1,12 @@
+collections:
+  strategic-goods-permit-and-reg-req:
+    output: true
+    order:
+      - Permit and Registration Requirements/.keep
+      - Permit and Registration Requirements/export-transhipment-and-transit.md
+      - Permit and Registration Requirements/export-transhipment-and-transit.md
+      - Permit and Registration Requirements/intangible-transfer-of-technology-itt.md
+      - Permit and Registration Requirements/brokering.md
+      - Permit and Registration Requirements/preliminary-advice-for-strategic-goods-transaction.md
+      - Courses and Events/.keep
+      - Courses and Events/awareness-briefing-of-strategic-goods-control-order-2017-and-wassenaar-arrangement-outreach-seminar.md
