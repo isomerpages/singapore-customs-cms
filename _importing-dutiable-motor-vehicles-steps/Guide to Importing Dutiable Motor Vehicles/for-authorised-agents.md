@@ -13,4 +13,4 @@ Existing agents are required to submit Agent's Application for Product Code (SC-
 
 Please complete this  [form](https://form.gov.sg/5fcee9cad88081001113d220){:target="_blank"} and submit it with the supporting documents listed in Section E.
 
-Note: If you are importing electric vehicles, including electric motorcycles/ scooters, please write in to Customs_TTSB@customs.gov.sg to enquire about the additional requirements before importing.
+Note: If you are importing electric vehicles, including electric motorcycles/ scooters, please email us at Customs_TTSB@customs.gov.sg to enquire about the additional requirements before importing.
