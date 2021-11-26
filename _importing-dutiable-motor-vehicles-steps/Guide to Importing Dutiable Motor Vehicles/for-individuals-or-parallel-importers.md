@@ -23,4 +23,4 @@ Please complete this [form (for Individual Importer)](https://form.gov.sg/5f7a63
 Note: 
 
 * Parallel importers are required to register with Singapore Customs before importing dutiable motor vehicles. If you are new to importing dutiable motor vehicles as a parallel importer, please submit your registration request via [Customs_TTSB@customs.gov.sg](mailto:Customs_TTSB@customs.gov.sg) before submitting the form.
-* If you are importing electric vehicles, including electric motorcycles/ scooters, please write in to Customs_TTSB@customs.gov.sg to enquire about the additional requirements before importing. 
+* If you are importing electric vehicles, including electric motorcycles/ scooters, please email us at Customs_TTSB@customs.gov.sg to enquire about the additional requirements before importing.
