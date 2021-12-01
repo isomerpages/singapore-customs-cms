@@ -22,11 +22,11 @@ Example:
 | -  | 42021110  | Notebook carrying case, leather with maximum dimensions of 56cm x 45cm x 25cm  |
 
 
-You may refer to the lists below for the Harmonized System (HS) codes of controlled items under the various CAs’ control, and the contact information of the CAs:
+You may refer to the link below for the Harmonized System (HS) codes of controlled items under the various CAs’ control, and the contact information of the CAs:
 
 -   For the latest AHTN2017 HS codes, please refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}
     
--   [Competent Authorities’ Help Desks](/files/businesses/PSB/TN Team/annex-e-ca-helpdesk-list.pdf)
+
     
 
 **Step 2**: Determine the category the controlled item fall under, whether it is:
@@ -112,5 +112,3 @@ For applications to the Controller of Undesirable Publications, the supporting d
 
 -   [Arms and Explosives](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-Arms-and-explosives)
 -   [Public Entertainment & Liquor Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-public-entertainment-liquor-licensing)
-
-
