@@ -24,7 +24,7 @@ Example:
 
 You may refer to the link below for the Harmonized System (HS) codes of controlled items under the various CAs’ control, and the contact information of the CAs:
 
--   For the latest AHTN2017 HS codes, please refer to [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}
+-   [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}
     
 
     
