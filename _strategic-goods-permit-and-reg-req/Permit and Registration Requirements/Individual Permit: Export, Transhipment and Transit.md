@@ -4,67 +4,42 @@ permalink: /individual-permit-export-transhipment-and-transit
 third_nav_title: Permit and Registration Requirements
 description: ""
 ---
+# Individual Permit: Export, Transhipment and Transit
+
+A strategic goods permit (prefixed with either XO or XP) is required for the [export, transhipment or transit](/businesses/strategic-goods-control-1/overview/scope-of-control) {:target="_blank"} of strategic goods and related technology.
+
+You do not need a strategic goods permit for the transhipment and transit of strategic goods not listed in the Fourth and Fifth Schedules to the Strategic Goods (Control) Regulations (SGCR) if you fulfil the following exemption criteria:
+
+| **Activity** | **Criteria for Permit Exemption** |
+| -------- | -------- |
+| Transhipment of strategic goods not listed in the [Fourth Schedule to the SGCR ](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc4-XX-Sc4-) {:target="_blank"}   | 1. Goods are taken into free trade zone(s) [FTZ(s)] immediately after being brought into Singapore; <br><br> 2. Goods remain in an FTZ at all times or in 2 or more FTZs except when being transferred, before they are brought out of Singapore; and <br><br> 3. Goods remain in FTZ(s) for no more than<br><br>- 45 days, if brought in by sea<br>- 21 days, if brought in by air <br><br>Note: The transport mode by which the goods first enter Singapore will determine the applicable period to remain in the FTZ(s).    |
+|Transit of strategic goods not listed in the [Fifth Schedule to the SGCR](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc5-){:target="_blank"} | Goods remain in transit for no more than <br>- 45 days, if brought in by sea<br>- 21 days, if brought in by air |
+
+<br>
+
+The authorities have the powers to ask for documents or notifications even if a strategic goods permit is not required.
+
+### Catch-all Provision
+
+You will have to obtain an Individual Permit if you:
+* Have been notified by an authorised officer
+* Know; or have reasonable grounds to suspect that<br><br>the goods and technology are i**ntended or likely to be used, wholly or in part, for or in connection with the**:
 
 
-# Bulk Permit: Export, Transhipment and Transit
 
-The Bulk Permit is a single approval for the export, re-export, transhipment or transmission of strategic goods or their related technology. The Bulk Permit is valid for a period determined by Singapore Customs. It benefits businesses with a high transaction volume or short lead-time for order fulfilment.
+|  |  |  |
+| -------- | -------- | -------- |
+| - Development;<br>- Production;<br>- Handling;<br>- Operation;<br>- Maintenance;<br>- Storage;<br>- Detection;<br>- Identification; or<br>- Dissemination<br><br>of any nuclear, chemical or biological weapon | **OR**  | -Development;<br>- Production;<br>- Maintenance; or<br>- Storage<br><br>of missiles capable of delivering any nuclear, chemical or biological weapons     |
 
-As long as the transaction is within the scope of the approved Bulk Permit, its holders can apply for the TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents, instead of having to apply for an  [Individual Permit](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit) 5 working days before the shipment. This enables the Bulk Permit holder to enjoy greater certainty and efficiency in their operations.
+The “catch-all” provision applies even if the goods are not strategic goods or strategic goods technology.
 
+### Application for Individual Permits
+If you are transacting in strategic goods, you should [apply for an individual permit](/files/businesses/tn4-1proceduresforstspermits.pdf) ***at least 5 working days***:
 
-## Types of Bulk Permits
+* *before loading* the goods onto the conveyance to be brought out of Singapore for every e**xport, re-export or transhipment**; and
+* *before the arrival* of the conveyance on which the goods are to be **brought in transit** through Singapore<br><br>Most applications will be processed within 5 working days, after we have received the completed application forms and supporting documents. However, processing time may vary depending on the nature of the items, destination or party involved in the transaction. You should submit your application in advance to avoid any shipment delay.
 
-| Type of Permit | Permit Sub-Type |Types of Trade| Scope of Approval |
-|---|---|---|---|
-| Bulk Permit | Approval by specific entities |  Export / Re-export / Transhipment <br><br> Intangible transfer of technology | Pre-approved multiple products to multiple consignees/end-users |
-| Bulk Permit | Approval by destination countries |  Export / Re-export <br><br> Intangible transfer of technology | Pre-approved multiple products to multiple destination countries |
+### Contact Us
+You may contact us to clarify on the strategic goods permit processing requirements and other matters.
 
-## Qualifying for the Bulk Permit
-
-To qualify for the Bulk Permit, you must:
-
--   Be a  [registered](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} trader with Singapore Customs
--   Have good compliance records
--   Achieve at least an ‘Enhanced’ band under  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first)
--   Implement an effective internal compliance programme (ICP)
-
-The 7 ICP elements are:
-
--   Company’s commitment
--   Nomination of strategic goods control officer(s)*
--   Product screening
--   End-user screening
--   Record keeping
--   Awareness and training
--   Audits
-
-*The appointed strategic goods control officer(s)/administrator(s) must be based in Singapore or remain contactable via a Singapore contact. The personnel must also be familiar with the SGCA and its Regulations and other related domestic legislations.
-
-You may refer to Annex A of the  [STS Handbook](/files/businesses/SEB/STS Handbook 2021.pdf) for more details.
-
-## Applying for Bulk Permit
-
-You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/stsbulkpermitapplication-form) and submitting the form, [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
-
-Once the application is received, an officer will be assigned as Singapore Customs’ contact point to the company for the assessment.
-
-We will conduct a TradeFIRST assessment on the company during a site validation, which includes assessment on the effectiveness of the company’s ICP. We would inform the company on the application outcome, the TradeFIRST band which the company is placed in and provide the TradeFIRST assessment report to the company.
-
-## Applying for TradeNet Permit for Pre-approved Bulk Permit
-
-If your strategic goods transactions are pre-approved under the Bulk Permit, you should apply for a TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents.
-
-For the transfer of strategic goods such as arms, munitions and chemical weapons precursors which are also controlled by other  [Competent Authorities (CAs)](/businesses/National-Single-Window/Overview/Competent-Authorities-Requirements), you need to submit only one TradeNet permit application, as the application will also be routed to the relevant CAs for processing.
-
-## Key Responsibilities of a Bulk Permit Holder
-
-A Bulk Permit holder must:
-
--   Notify Singapore Customs of any changes made to your ICP, company structure, internal process or trade compliance team/Strategic Goods Control Officer (SGCO) within 14 days of the change
--   Ensure all transactions made under the Bulk Permit are within the scope of approval of the permit
--   Ensure the goods, technology or documents to be exported, re-exported, transhipped or transmitted under the Bulk Permit are not intended or likely to be used, wholly or in part, for, or in connection with, activities related to any nuclear, chemical or biological weapons; or missiles capable of delivering such weapons
--   Ensure that any goods or technology transfer made under the Bulk Permit is not transferred to United Nations Security Council–sanctioned countries or entities
--   Maintain records of strategic goods transactions for at least 5 years
-
-Please refer to Section 4.9 of the  [STS Handbook](/files/businesses/SEB/STS Handbook 2021.pdf)
+Email: customs_stgc@customs.gov.sg
