@@ -36,7 +36,7 @@ The “catch-all” provision applies even if the goods are not strategic goods 
 ### Application for Individual Permits
 If you are transacting in strategic goods, you should [apply for an individual permit](/files/businesses/tn4-1proceduresforstspermits.pdf) ***at least 5 working days***:
 
-* *before loading* the goods onto the conveyance to be brought out of Singapore for every e**xport, re-export or transhipment**; and
+* *before loading* the goods onto the conveyance to be brought out of Singapore for every **export, re-export or transhipment**; and
 * *before the arrival* of the conveyance on which the goods are to be **brought in transit** through Singapore<br><br>Most applications will be processed within 5 working days, after we have received the completed application forms and supporting documents. However, processing time may vary depending on the nature of the items, destination or party involved in the transaction. You should submit your application in advance to avoid any shipment delay.
 
 ### Contact Us
