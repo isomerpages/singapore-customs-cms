@@ -18,7 +18,7 @@ The permit procedures under the STS consist of:
 
 **Individual Permit**
 
--   [Individual Permit](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit){:target="_blank"}  to be applied  _at least 5 working days_  before every  **export, re-export, transhipment or transit of strategic goods**
+-   [Individual Permit](/individual-permit-export-transhipment-and-transit){:target="_blank"}  to be applied  _at least 5 working days_  before every  **export, re-export, transhipment or transit of strategic goods**
 -   [ITT permit](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt){:target="_blank"}  to be applied  _at least 7 working days_  before the  **transmission of strategic goods software or technology**
 
 **Bulk Permit**
