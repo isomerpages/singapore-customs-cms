@@ -16,7 +16,6 @@ You do not need a strategic goods permit for the transhipment and transit of str
 |Transit of strategic goods not listed in the [Fifth Schedule to the SGCR](https://sso.agc.gov.sg/SL/300-RG1?DocDate=20180904#Sc5-){:target="_blank"} | Goods remain in transit for no more than <br>- 45 days, if brought in by sea<br>- 21 days, if brought in by air |
 
 <br>
-
 The authorities have the powers to ask for documents or notifications even if a strategic goods permit is not required.
 
 ### Catch-all Provision
