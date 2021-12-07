@@ -3,12 +3,11 @@ title: Transfer Pricing Adjustments on Imports
 permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/transfer-pricing-adjustments-on-imports
 third_nav_title: Establishing Customs Value for Imports
 ---
-
 # Transfer Pricing Adjustments on Imports
 Transfer Pricing (TP) refers to the determination of transfer prices for transactions between related parties. Transfer prices for transactions between related parties must be determined in accordance with the arm’s length principle. 
 
 ## Other Dutiable Goods and Non-dutiable goods concerning GST
-You may refer to the [e-Tax Guide](https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/e-Tax_Guides/e-Tax%20Guide%20_GST_Transfer%20Pricing%20Adjustments.pdf){:target="_blank"} on details of TP adjustments on the Inland Revenue Authority of Singapore (IRAS) website.
+You may refer to the [e-Tax Guide](https://www.iras.gov.sg/media/docs/default-source/e-tax/e-tax-guide-_gst_transfer-pricing-adjustments_2nd-edition.pdf?sfvrsn=276be8af_2){:target="_blank"} on details of TP adjustments on the Inland Revenue Authority of Singapore (IRAS) website.
 
 ## Dutiable Motor Vehicles
 For TP relating to dutiable motor vehicles, companies have to allocate the upward or downward TP adjustments on a per unit basis for each motor vehicle and report the adjustments to Customs for verification before declaring the short payment permit(s) or claiming a refund of the overpaid excise duties. The documents required are as follows:
