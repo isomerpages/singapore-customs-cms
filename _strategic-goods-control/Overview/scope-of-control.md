@@ -9,7 +9,7 @@ third_nav_title: Overview
 
 ## Controlled Items
 
-The [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list) {:target="_blank"} specifies the items that are subject to controls under the  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002){:target="_blank"}.
+The [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list){:target="_blank"} specifies the items that are subject to controls under the  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002){:target="_blank"}.
 
 ## Catch-all Controls
 
