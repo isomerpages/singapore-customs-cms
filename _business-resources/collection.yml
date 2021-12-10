@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Directories of Service Providers/.keep
-      - Directories of Service
-        Providers/licensed-premises-for-petroleum-products.md
       - Directories of Service Providers/list-of-local-forwarding-agents.md
       - Courses and Events/.keep
       - Courses and
