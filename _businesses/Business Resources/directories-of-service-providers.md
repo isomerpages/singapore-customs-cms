@@ -14,13 +14,4 @@ third_nav_title: Business Resources
 | 5. | [List of Local Freight Forwarding Agents](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) |
 | 6. | [List of TradeNet Solution Providers](/businesses/national-single-window/overview/tradenet-solution-providers) |
 
-
-[Licensed premises for Zero-GST Goods](/files/businesses/SEB/Zero-GST%20Warehouse%20Scheme%20Handbook%20(Dec%202020).pdf)
-
-
-
-
-
-
-
-
+ 
