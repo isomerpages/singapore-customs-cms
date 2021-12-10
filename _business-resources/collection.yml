@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Directories of Service Providers/.keep
-      - Directories of Service Providers/licensed-premises-for-motor-vehicles.md
       - Directories of Service Providers/licensed-premises-for-zero-gst-goods.md
       - Directories of Service
         Providers/licensed-premises-for-petroleum-products.md
