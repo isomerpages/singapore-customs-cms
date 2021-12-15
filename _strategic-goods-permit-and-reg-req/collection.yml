@@ -2,11 +2,11 @@ collections:
   strategic-goods-permit-and-reg-req:
     output: true
     order:
-      - "Permit and Registration Requirements/Bulk Permit: Export, Transhipment
-        and Transit.md"
       - Permit and Registration Requirements/.keep
       - "Permit and Registration Requirements/Individual Permit: Export,
         Transhipment and Transit.md"
+      - "Permit and Registration Requirements/Bulk Permit: Export, Transhipment
+        and Transit.md"
       - Permit and Registration
         Requirements/intangible-transfer-of-technology-itt.md
       - Permit and Registration Requirements/brokering.md
