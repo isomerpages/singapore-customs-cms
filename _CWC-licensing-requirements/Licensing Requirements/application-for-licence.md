@@ -3,7 +3,6 @@ title: Application for Licence
 permalink: /businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence
 third_nav_title: Licensing Requirements
 ---
-
 # Application for Licence
 
 ## Who Should Apply?
@@ -17,9 +16,9 @@ Before applying, please check:
 -   The chemical falls under the  [list of scheduled chemicals](/files/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf)  or fits the definition of a DOC; and
 -   The activity which you intend to engage in is a  [controlled activity](/businesses/chemical-weapons-convention/licensing-requirements)
 
-## Processing time
+## Pre-licence Inspection
 
-The application will be processed within 10 working days once the complete application is received. A pre-licence inspection may be conducted at the facility before licence approval.
+A pre-licence inspection may be conducted at the facility before licence approval.
 
 ## Licence Validity
 
