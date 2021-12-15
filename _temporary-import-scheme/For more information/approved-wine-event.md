@@ -3,7 +3,6 @@ title: Approved Wine Event
 permalink: /businesses/importing-goods/temporary-import-scheme-2/approved-wine-event
 third_nav_title: For more information
 ---
-
 # Approved Wine Event
 
 Duty exemption and GST relief are granted to exhibitors who import wine for sampling purposes at approved events.
@@ -60,7 +59,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
 -   List of exhibitors that will import approved wines with exhibition booth number
 -   Exhibition site map
 
-3) Upon receiving our approval, you or your appointed freight forwarder and participating exhibitors that are established in Singapore should [register for a claimant account](/businesses/new-traders-and-registration-services/registration-services/register-claimants) with Customs.
+3) Upon receiving our approval, you or your appointed freight forwarder and participating exhibitors that are established in Singapore should <a href="https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/register-claimants">register for a claimant account</a> with Customs.
 
 4) Apply for an [In-Non Payment (GST Relief and/or Duty Exemption)](/businesses/importing-goods/import-procedures/types-of-import-permits) or INP (GTR) permit. The place of receipt code should be declared as “EXEMPT”.
 
