@@ -3,7 +3,6 @@ title: ASEAN-Wide Self-Certification Scheme
 permalink: /businesses/certificates-of-origin/AWSC
 third_nav_title: Certificates of Origin
 ---
-
 # ASEAN-Wide Self-Certification (AWSC) scheme
 
 ASEAN signed the First Protocol to amend the ASEAN Trade In Goods Agreement (ATIGA) so as to implement the ASEAN-Wide Self-Certification (AWSC) scheme which will be implemented on 20 September 2020.  Companies in Singapore will be able to participate in this scheme and benefit from the preferential tariff given under the ASEAN Trade in Goods Agreement (ATIGA) upon being approved as Certified Exporter (CE).
@@ -40,8 +39,4 @@ Need more information on how AWSC works, the benefits of AWSC, and the criteria 
 
 - Our latest [handbook](/files/businesses/Handbook%20on%20the%20implementation%20of%20the%20ASEAN%20WIDE%20SELF%20(final).pdf) on the AWSC under ATIGA
 
-- [Infographic](https://asean.org/storage/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/storage/2012/05/04-AWSC-Brochure.pdf) by ASEAN
-
-
-
-
+-  [Infographic](https://asean.org/wp-content/uploads/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/wp-content/uploads/2012/05/04-AWSC-Brochure.pdf) by [ASEAN](https://app.awsc.asean.org/)
