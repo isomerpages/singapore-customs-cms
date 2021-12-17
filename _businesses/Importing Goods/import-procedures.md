@@ -116,7 +116,7 @@ Amendments and cancellation are generally not allowed for import permits which h
 				</li>
       </ul>
     </div>
-  </li>
+
 <li>
 	<input type="checkbox" id="accordion2">
     <label for="accordion2">For errors made in a utilised Major Exporter permit, please take note of the following:</label>
