@@ -114,7 +114,6 @@ If the payment permit cannot be amended or cancelled, you may submit a refund re
         <li><b>Import permit is utilised</b><br>
 Amendments and cancellation are generally not allowed for import permits which have been utilised for clearance. If you have detected any errors in such permits where amendment or cancellation is not allowed, you may wish to lodge a <a href="https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme">Voluntary Disclosure</a> to Customs.</li>
 				</li>
-      </ul>
     </div>
 
 <li>
