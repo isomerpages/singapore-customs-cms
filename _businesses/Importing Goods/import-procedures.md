@@ -177,6 +177,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 </li>
 	</ul>
 	</div>	
+	</li>
 <li>
 	<input type="checkbox" id="accordion6">
     <label for="accordion6"> Failure to produce trade documents upon request by Singapore Customs:</label>
@@ -185,6 +186,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		<li>  Failure to produce documents such as invoice, bill of lading or certificate of origin for verification</li>
 	</ul>
 	</div>
+	</li>
 	<li>
 		<input type="checkbox" id="accordion7">
 	<label for="accordion7"> Failure to produce licence or customs permit for customs clearance/endorsement:</label>
@@ -193,6 +195,8 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		<li>Haulier failing to produce the goods and customs permit with supporting documents for endorsement at the checkpoint</li>
 		</ul>
 		</div>
+		<ul>
+			<li>
 		<input type="checkbox" id="accordion8">
 		<li><label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
 			<div>
@@ -302,7 +306,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 					<p> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.</p>
 		</div>
 	</li>
-</ul>
+				</ul></ul>
 
 	
 ## For more information on:
