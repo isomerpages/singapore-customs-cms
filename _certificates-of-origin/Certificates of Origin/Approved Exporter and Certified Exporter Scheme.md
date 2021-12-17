@@ -4,9 +4,6 @@ permalink: /businesses/certificates-of-origin/AWSC
 third_nav_title: Certificates of Origin
 description: ""
 ---
-
-
-
 # Authorised Self -Certification Regimes 
 The authorised self-certification regime is a trade facilitation initiative under the selected Free Trade Agreements (FTA) which allow authorised exporters who have demonstrated their capacity to comply with the origin requirements to self-certify the originating status of their goods. This would bring about greater convenience to businesses by saving time and eliminating the need to obtain a Certificate of Origin (CO). 
  
@@ -14,7 +11,14 @@ There are currently 2 authorised self-certification regimes administered by Sing
 -	ASEAN Wide Self Certification (AWSC) scheme under the ASEAN Trade in Good Agreement (ATIGA)
 -	Approved Exporter Scheme under the Regional Comprehensive Economic Partnership Agreement (RCEP)
 
-![](/images/AWSC%20benefits.jpg)
+# Benefits of Authorised Self-Certification Regimes
+
+![](/images/Benefits of Authorised Self Cert Regime_new.png)
+
+# How does an Authorised Self-Certification Regime work?
+
+
+
 
 # How to participate
 
