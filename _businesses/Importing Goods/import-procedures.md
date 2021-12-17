@@ -125,7 +125,8 @@ Amendments and cancellation are generally not allowed for import permits which h
       <ul>
 				<li><b>Information wrongly declared on an In-Non-Payment (Approved premises/ schemes) permit by an approved Major Exporter Scheme (MES) trader</b><br>
 If the permit was utilised for cargo clearance, the approved MES trader should inform the Inland Revenue Authority of Singapore (IRAS) of the correction(s) to be made during the MES trader’s periodic reporting in GST returns to IRAS. The corrections are to be supported by the relevant supporting documents (e.g. commercial invoices and appropriate shipping documents).
-</li>
+				</li></ul>
+	<ul>
 				<li><b>Wrong importer name and UEN declared</b><br>
 The declaring Agent (DA) needs to obtain a replacement In-Non-Payment "Approved Premises/Schemes" (INP-APS) permit with the correct MES trader declared as the importer. Thereafter, the DA should email a copy of the original permit and replacement permit together with the relevant supporting documents (e.g. commercial invoices and appropriate shipping documents) to Permits Unit, attention: Permits Officer, at <a href="mailto:customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a>
 					with the email subject title "Request to invalidate unused replacement permit for a permit with incorrect MES trader declared as the importer" to request for invalidation of the unused replacement permit. Only the importer’s name and UEN should be amended; all other permit fields should remain unchanged.
@@ -162,10 +163,8 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	<ul>
 	<li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li>
 <li>Free gifts provided by overseas supplier not declared in the GST Payment permit</li>
-		</li>
 </ul>
     </div>	
-		<ul>
 <li>
 	<input type="checkbox" id="accordion5">
     <label for="accordion5">Failure to make a declaration of goods imported into Singapore:</label>
@@ -301,7 +300,6 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 		</div>
 	</li>
 </ul>
-				</ul>
 
 	
 ## For more information on:
