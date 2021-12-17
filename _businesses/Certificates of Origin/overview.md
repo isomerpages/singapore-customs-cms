@@ -79,7 +79,7 @@ All Preferential COs are issued only by Singapore Customs.
 {:.mobile-block}
 
 |[![](/images/Picture1.jpg)](/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco)||[![](/images/Picture2.jpg)](/businesses/certificates-of-origin/how-to-apply-for-b2b)||[![](/images/Picture4.jpg)](/businesses/certificates-of-origin/ASW)||[![](/images/Picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|
-|[![](/images/)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)||[![](/images/](/businesses/certificates-of-origin/AECE)|
+|[![](/images/)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)||[![](/images/AECE.png](/businesses/certificates-of-origin/AECE)|
 
 ## Best Practices
 
