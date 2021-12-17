@@ -192,7 +192,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 				<ul>
 					<li>Unauthorised breakage of Customs red seal affixed on the container
 					</ul>
-		</div>
+		
 
 <br>For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature. <br>
 
@@ -267,7 +267,7 @@ Read more about the prescribed offences and penalties under the [Customs Act and
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
 <ul class="jekyllcodex_accordion">
-	<li>
+	<li>                                                                                                                                                                                                                           
 			<input type="checkbox" id="accordion1">
 			<label for="accordion1">Do</label>
 			<div>
