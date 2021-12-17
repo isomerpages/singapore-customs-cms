@@ -160,8 +160,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	<li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li>
 <li>Free gifts provided by overseas supplier not declared in the GST Payment permit</li>
 </ul>
-    </div>
-	
+    </div>	
 <li>
 	<input type="checkbox" id="accordion5">
     <label for="accordion5">Failure to make a declaration of goods imported into Singapore:</label>
@@ -170,8 +169,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		<li>Undeclared goods found inside container imported into Singapore
 </li>
 	</ul>
-	</div>
-	
+	</div>	
 <li>
 	<input type="checkbox" id="accordion6">
     <label for="accordion6"> Failure to produce trade documents upon request by Singapore Customs:</label>
@@ -193,15 +191,13 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 			<div>
 				<ul>
 					<li>Unauthorised breakage of Customs red seal affixed on the container
-</li>
 					</ul>
 		</div>
 
-For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature.
+<br>For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature. <br>
 
-***
 
-##  Penalties Upon Conviction for Key Offences
+## Penalties Upon Conviction for Key Offences
 
 <table>
   <thead>
@@ -261,10 +257,10 @@ For minor offences under the Customs Act and the RIEA, Singapore Customs may off
     </tr> 
 		  </tbody>
 </table>
-<br>
-<sup>Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](/businesses/acts-and-subsidiary-legislation/overview).</sup>
 
-***
+Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview).
+			
+			
     
 ## Best Practices
 
