@@ -17,7 +17,7 @@ For departure via other checkpoints, please note that HCES is not applicable.
 
 The HCES digital service on the NTP allows businesses exporting goods hand-carried out of Singapore via Changi International Airport to receive an electronic copy of the clearance status (digital clearance) of the goods. This electronic copy will serve as the endorsement of the HCES permit, which is one of the requisite documents to support the zero-rating of supplies of goods which are hand-carried out of Singapore via Changi International Airport. After clearing the hand-carried goods at the Customs counter at Changi Airport, businesses can expect to receive the digital clearance in PDF format in their company’s data repository in the NTP within approximately three working days of having the goods cleared at the checkpoint. To receive the digital clearance, businesses will need to have an NTP account and subscribe to the HCES digital service prior to the clearance of the goods. 
 
-Information on how to set up your NTP account can be found at <a href="www.ntp.gov.sg">www.ntp.gov.sg</a>. 
+Information on how to set up your NTP account can be found at <a href="https://www.ntp.gov.sg/home/">www.ntp.gov.sg</a>. 
 
 For more information on the Digital HCES Digital Service, please refer to Customs Notice No: <a href="https://www.customs.gov.sg/news-and-media/notices/">06/2019</a>.
 
