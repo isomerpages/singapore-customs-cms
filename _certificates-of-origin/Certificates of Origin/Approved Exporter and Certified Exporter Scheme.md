@@ -4,7 +4,6 @@ permalink: /businesses/certificates-of-origin/AECE
 third_nav_title: Certificates of Origin
 description: ""
 ---
-
 # Authorised Self -Certification Regimes 
 The authorised self-certification regime is a trade facilitation initiative under the selected Free Trade Agreements (FTA) which allow authorised exporters who have demonstrated their capacity to comply with the origin requirements to self-certify the originating status of their goods. This would bring about greater convenience to businesses by saving time and eliminating the need to obtain a Certificate of Origin (CO). 
  
@@ -32,7 +31,7 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 
 *For more details, please refer to the [ATIGA Operational Certification Procedures (OCP) Rule 12A Article 2](https://www.enterprisesg.gov.sg/-/media/esg/files/non-financial-assistance/for-companies/free-trade-agreements/asean-fta/legal-text/AFTA_Annex8_Amended_ATIGA_OCP_to_allow_AWSC_from_20Sep2020.pdf) and [RCEP Operational Certification Procedures (OCP) Article 3.21](https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/Chapter-Text/Chapter-3.pdf?la=en&hash=766D21BE82A0AF4073B5902A6A489BEEFBEC62DB)*
 
-## Step 2 – Apply and register with us as a Approved/Certified Exporter
+## Step 2 – Apply and register with us as an Approved/Certified Exporter
 
 ![](/images/Step 2.png)
 
@@ -46,7 +45,7 @@ Upon successful registration as an AE/CE, the AE/CE may proceed to self-certify 
 
 ## Useful Resources
 
-Need more information on how the various scheme work, the benefits, and the criteria for companies to become a AE/CE. Here are some resources which might be useful: 
+Need more information on how the various scheme work, the benefits, and the criteria for companies to become an AE/CE. Here are some resources which might be useful: 
 
 - Our latest [handbook](/files/businesses/Handbook on the implementation of the Authorised Self Certification Regime V2_final.pdf). 
 
