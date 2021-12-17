@@ -107,16 +107,18 @@ Importers may be penalised if they do not comply with the requirements imposed u
     <input type="checkbox" id="accordion1">
     <label for="accordion1">For errors made in an import permit, please take note of the following:</label>
 <div>
-      <ul>
+	<ul>
 				<li><b>Import permit is not utilised</b><br>
 					You may submit an <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation">amendment or cancellation</a> request via TradeNet and specify the reason for amendments (e.g. extend permit validity) or cancellation. Certain permit fields are not amendable if there are controlled, prohibited or dutiable goods involved. Please refer to the <a href="https://www.customs.gov.sg/businesses/national-single-window/overview/annexes-and-appendices">list of non-amendable fields</a> for more information. If you are unable to amend or cancel the permit, you may wish to lodge a <a href="https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme">Voluntary Disclosure</a> to Customs. 
-If the payment permit cannot be amended or cancelled, you may submit a refund request via TradeNet and specify the reason for refund. There is no need for you to submit a Voluntary Disclosure to Customs.</li>
+If the payment permit cannot be amended or cancelled, you may submit a refund request via TradeNet and specify the reason for refund. There is no need for you to submit a Voluntary Disclosure to Customs.
+		</li></ul>
+	<ul>
         <li><b>Import permit is utilised</b><br>
 Amendments and cancellation are generally not allowed for import permits which have been utilised for clearance. If you have detected any errors in such permits where amendment or cancellation is not allowed, you may wish to lodge a <a href="https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme">Voluntary Disclosure</a> to Customs.</li>
-				</li>
+				
 	</ul>
     </div>
-</li>
+</ul>
 <li>
 	<input type="checkbox" id="accordion2">
     <label for="accordion2">For errors made in a utilised Major Exporter permit, please take note of the following:</label>
