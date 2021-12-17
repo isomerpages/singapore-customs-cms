@@ -16,36 +16,37 @@ There are currently 2 authorised self-certification regimes administered by Sing
 ![](/images/Benefits of Authorised Self Cert Regime_new.png)
 
 # How does an Authorised Self-Certification Regime work?
+![](/images/How does Authroised Self Cert Regime Work.png)
 
-
-
-
+Exporters are required to apply to be part of the Authorised Self- Certification regime based on domestic regulation of the competent authority (CA). After which, this information provided by successfully registered exporters will be shared among the Parties of the FTA.  Customs authorities of Parties of the FTA will be able to access this information and undertake verification of Origin/Invoice Declaration submitted by the authorised exporters.
 # How to participate
-
 ## Step 1 – Eligibility 
 
 -	Exporters and exporters exporting goods in a back-to-back arrangement (B2B);
--	Know and understand the Rules of Origin in the ATIGA and has shown a substantial amount of experience in export procedures; 
+-	Exporters and exporters exporting goods in a back-to-back arrangement (B2B);
+-	Know and understand the Rules of Origin in the RCEP and ATIGA and has shown a substantial amount of experience in export procedures;
 -	Has no record of any Rules of Origin fraud and at the same time, has shown good compliance as measured by risk management rules;
 -	Has a sound bookkeeping and record-keeping system;
 -	Exporter must have a “manufacturer’s declaration”, and the manufacturer must be ready for a retroactive check and verification should the need arise.
 
-*For more details, please refer to the ATIGA Operational Certification Procedures (OCP) Rule 12A Article 2 via Enterprise Singapore’s website [here](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview)*
+*For more details, please refer to the ATIGA Operational Certification Procedures (OCP) Rule 12A Article 2 and RCEP Operational Certification Procedures (OCP) Article 3.21*
 
-## Step 2 – Apply and register with us as a Certified Exporter
+## Step 2 – Apply and register with us as a Approved/Certified Exporter
 
 ![](/images/AWSC%20CE.jpg)
 
-Submit the [“Application Form to be a Certified Exporter under AWSC”](https://www.customs.gov.sg/eservices/customs-forms-and-service-links)to Singapore Customs. 
+Submit the [“Application Form to be a Certified Exporter under AWSC”](https://form.gov.sg/61bb0b4c3ac2110012b3a943)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the “Application Form to be an Approved Exporter”.
 
-## Step 3 – Start your journey as a Certified Exporter
+The applicant/company will be informed of the outcome of the application within 7 working days from the date of receipt of the application form. If the application to be an AE and/or CE is successful, an Authorisation Letter will be issued to the company.
 
-Upon successful registration as a CE, the CE may proceed to self-certify and make an Origin Declaration only for the goods that the CE has been authorised to make for and fulfil the CE obligations set out in the ATIGA Operational Certification Procedures . 
+## Step 3 – Start your journey as an Approved/ Certified Exporter
+
+Upon successful registration as an AE/CE, the AE/CE may proceed to self-certify and make a Declaration of Origin/ Origin Declaration only for the goods that the AE/CE has been authorised to make for and fulfil the AE/CE obligations set out in the RCEP/ATIGA Operational Certification Procedures.
 
 ## Useful Resources
 
-Need more information on how AWSC works, the benefits of AWSC, and the criteria for companies to become a CE. Here are some resources which might be useful: 
+Need more information on how the various scheme work, the benefits, and the criteria for companies to become a AE/CE. Here are some resources which might be useful: 
 
-- Our latest [handbook](/files/businesses/Handbook%20on%20the%20implementation%20of%20the%20ASEAN%20WIDE%20SELF%20(final).pdf) on the AWSC under ATIGA
+- Our latest [handbook](/files/businesses/Handbook%20on%20the%20implementation%20of%20the%20ASEAN%20WIDE%20SELF%20(final).pdf). 
 
--  [Infographic](https://asean.org/wp-content/uploads/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/wp-content/uploads/2012/05/04-AWSC-Brochure.pdf) by [ASEAN](https://app.awsc.asean.org/)
+-  [Infographic](https://asean.org/wp-content/uploads/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/wp-content/uploads/2012/05/04-AWSC-Brochure.pdf) by [ASEAN](https://app.awsc.asean.org/) on AWSC. 
