@@ -171,20 +171,20 @@ If you are unable to amend the permit, you may wish to lodge a Voluntary Disclos
 		<li>  Failure to produce documents such as invoice, bill of lading or certificate of origin for verification</li>
 	</ul>
 	</div>
--   
-    
-    -   
--  
-    
-    - 
-
--   Failure to produce licence or customs permit for customs clearance/endorsement
-    
-    -   Haulier failing to produce the goods and customs permit with supporting documents for endorsement at the checkpoint
-
--   Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods
-    
-    -   Unauthorised breakage of Customs red seal affixed on the container
+	<li>
+	<label for="accordion7"> Failure to produce licence or customs permit for customs clearance/endorsement:</label>
+	<div>
+	<ul>
+		<li>Haulier failing to produce the goods and customs permit with supporting documents for endorsement at the checkpoint</li>
+		</ul>
+		</div>
+		<li><label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
+			<div>
+				<ul>
+					<li>Unauthorised breakage of Customs red seal affixed on the container
+</li>
+					</ul>
+		</div>
 
 For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature.
 
