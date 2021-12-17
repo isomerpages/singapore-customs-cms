@@ -29,7 +29,7 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 -	Has a sound bookkeeping and record-keeping system;
 -	Exporter must have a “manufacturer’s declaration”, and the manufacturer must be ready for a retroactive check and verification should the need arise.
 
-*For more details, please refer to the ATIGA Operational Certification Procedures (OCP) Rule 12A Article 2 and RCEP Operational Certification Procedures (OCP) Article 3.21*
+*For more details, please refer to the [ATIGA Operational Certification Procedures (OCP) Rule 12A Article 2](https://www.enterprisesg.gov.sg/-/media/esg/files/non-financial-assistance/for-companies/free-trade-agreements/asean-fta/legal-text/AFTA_Annex8_Amended_ATIGA_OCP_to_allow_AWSC_from_20Sep2020.pdf) and [RCEP Operational Certification Procedures (OCP) Article 3.21](https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/Chapter-Text/Chapter-3.pdf?la=en&hash=766D21BE82A0AF4073B5902A6A489BEEFBEC62DB)*
 
 ## Step 2 – Apply and register with us as a Approved/Certified Exporter
 
