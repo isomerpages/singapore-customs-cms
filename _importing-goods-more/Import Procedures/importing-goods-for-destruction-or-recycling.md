@@ -3,7 +3,6 @@ title: Importing Goods for Destruction or Recycling
 permalink: /businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling
 third_nav_title: Import Procedures
 ---
-
 # Importing Goods for Destruction or Recycling
 
 An importer is required to obtain an  **In-Payment permit**  to pay the duty and/or GST of goods that are imported into Singapore's Customs Territory for destruction or recycling. The duty and/or GST shall be based on the Cost, Insurance and Freight (CIF) value of the goods incurred by the importer at the time of importation.
@@ -19,7 +18,7 @@ For goods that are imported into Customs Territory for destruction or recycling,
 
 For scenarios (2) and (4) above, an importer or his appointed Declaring Agent must submit an official receipt issued by the place of destruction or recycling together with a copy of the permit to the Permits Compliance Branch of Singapore Customs for cases where an In-Non-Payment (Destruction) permit is required. The receipt and the copy of the permit must be submitted within 4 working days after the goods have been removed from the FTZ into Customs Territory.
 
-Please note that the importer must obtain the approval of the Competent Authority (CA)  **prior to the importation** of goods that are subject to control and adhere to the requirements of the CA.
+Please note that the goods may be imported into Customs Territory for disposal, subject to <a href="https://www.nea.gov.sg/">National Environmental Agency (NEA)</a>'s approval. The importer is required to obtain an approval letter from NEA for the disposal of your goods in Singapore prior to applying for an import permit to bring the goods into Customs Territory for disposal.
 
 ## Short-Payment
 
