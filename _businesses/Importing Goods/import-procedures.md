@@ -139,7 +139,7 @@ The declaring Agent (DA) needs to obtain a replacement In-Non-Payment "Approved 
 <div>
 <ul>
 	<li><b>A payment permit was taken up instead of an In-Non-Payment "Approved Premises/Schemes" (INP-APS) permit for a MES trader</b><br>
-The In-Non-Payment "Approved Premises/Schemes" (INP-APS) permit should be obtained at the time of importation. A replacement permit is not required as the In-Payment (IPT) permit had been utilised i.e. used for cargo clearance. If you are the DA and had paid the GST, you may approach the importer for the reimbursement of GST paid. The importer can claim the GST paid as input tax in his GST return to IRAS</li>	
+The In-Non-Payment "Approved Premises/Schemes" (INP-APS) permit should be obtained at the time of importation. A replacement permit is not required as the In-Payment (IPT) permit had been utilised i.e. used for cargo clearance. If you are the DA and had paid the GST, you may approach the importer for the reimbursement of GST paid. The importer can claim the GST paid as input tax in his GST return to IRAS.</li>	
 	<li><b>Wrong importer declared in an In-Payment permit</b><br>
 For a payment permit with the wrong importer details, a replacement payment permit with the correct importer’s UEN and name must be obtained for the said consignment. Please note that for incorrect foreign values declared, the <a href="https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates">exchange rates</a> to be declared shall be based on the initial permit. The importer or DA may submit a request for <a href="https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/refund-of-duties-and-gst">refund</a> of the duty and/or GST paid for the wrong permit via TradeNet and specify the reason for refund.</li>
 	<li><b>Wrong value of goods declared in an In-Payment permit</b><br>
@@ -152,7 +152,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 </ul>
 
 <b>Examples of Common Offences</b>
-<ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion2">
 <li>
 	<input type="checkbox" id="accordion4">
     <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore:</label>
