@@ -33,7 +33,7 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 
 ## Step 2 – Apply and register with us as a Approved/Certified Exporter
 
-![](/images/AWSC%20CE.jpg)
+![](/images/Step 2.png)
 
 Submit the [“Application Form to be a Certified Exporter under AWSC”](https://form.gov.sg/61bb0b4c3ac2110012b3a943)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the “Application Form to be an Approved Exporter”.
 
