@@ -162,8 +162,10 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	<ul>
 	<li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li>
 <li>Free gifts provided by overseas supplier not declared in the GST Payment permit</li>
+		</li>
 </ul>
     </div>	
+		<ul>
 <li>
 	<input type="checkbox" id="accordion5">
     <label for="accordion5">Failure to make a declaration of goods imported into Singapore:</label>
