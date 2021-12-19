@@ -195,6 +195,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		<li>Haulier failing to produce the goods and customs permit with supporting documents for endorsement at the checkpoint</li>
 		</ul>
 		</div>
+	</li>
 			<li>
 		<input type="checkbox" id="accordion8">
 		<li><label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
