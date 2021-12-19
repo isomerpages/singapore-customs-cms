@@ -280,7 +280,7 @@ Read more about the prescribed offences and penalties under the [Customs Act and
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
 <ul class="jekyllcodex_accordion">
-	<li>                                                                                                                                                                                                                           
+	<li>                                                                 
 			<input type="checkbox" id="accordion1">
 			<label for="accordion1">Do</label>
 			<div>
@@ -308,6 +308,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 					<p> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.</p>
 		</div>
 	</li>
+	</ul>
 	</ul>
 	
 	
