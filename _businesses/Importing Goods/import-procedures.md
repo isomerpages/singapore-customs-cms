@@ -203,6 +203,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 					<li>Unauthorised breakage of Customs red seal affixed on the container</li>
 					</ul>
 			</div>
+	</li>
 			</ul>
 		
 
