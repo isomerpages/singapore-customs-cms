@@ -312,7 +312,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 					<p> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.</p>
 		</div>
 	</li>
-				</ul></ul></ul>
+				</ul>
 
 	
 	
