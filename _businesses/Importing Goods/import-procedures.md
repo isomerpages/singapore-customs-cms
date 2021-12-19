@@ -168,7 +168,6 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 </ul>
     </div>
 	</li>
-	</ul>
 <li>
 	<input type="checkbox" id="accordion5">
     <label for="accordion5">Failure to make a declaration of goods imported into Singapore:</label>
@@ -179,7 +178,6 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</ul>
 	</div>	
 	</li>
-	</ul>
 <li>
 	<input type="checkbox" id="accordion6">
     <label for="accordion6"> Failure to produce trade documents upon request by Singapore Customs:</label>
@@ -189,7 +187,6 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</ul>
 	</div>
 	</li>
-	</ul>
 	<li>
 		<input type="checkbox" id="accordion7">
 	<label for="accordion7"> Failure to produce licence or customs permit for customs clearance/endorsement:</label>
@@ -198,14 +195,15 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		<li>Haulier failing to produce the goods and customs permit with supporting documents for endorsement at the checkpoint</li>
 		</ul>
 		</div>
-		<ul>
 			<li>
 		<input type="checkbox" id="accordion8">
 		<li><label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
 			<div>
 				<ul>
-					<li>Unauthorised breakage of Customs red seal affixed on the container
+					<li>Unauthorised breakage of Customs red seal affixed on the container</li>
 					</ul>
+			</div>
+			</ul>
 		
 
 <br>For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature. <br>
