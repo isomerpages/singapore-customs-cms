@@ -203,10 +203,9 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 					</ul>
 			</div>
 	</li>
-		
+		</ul>
 
-<br>For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature. <br>
-			
+For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature.
 
 
 
