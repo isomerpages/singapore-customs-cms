@@ -168,6 +168,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 </ul>
     </div>
 	</li>
+	</ul>
 <li>
 	<input type="checkbox" id="accordion5">
     <label for="accordion5">Failure to make a declaration of goods imported into Singapore:</label>
