@@ -179,6 +179,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</ul>
 	</div>	
 	</li>
+	</ul>
 <li>
 	<input type="checkbox" id="accordion6">
     <label for="accordion6"> Failure to produce trade documents upon request by Singapore Customs:</label>
@@ -188,6 +189,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</ul>
 	</div>
 	</li>
+	</ul>
 	<li>
 		<input type="checkbox" id="accordion7">
 	<label for="accordion7"> Failure to produce licence or customs permit for customs clearance/endorsement:</label>
