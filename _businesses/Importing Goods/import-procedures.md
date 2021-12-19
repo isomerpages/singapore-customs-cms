@@ -280,7 +280,7 @@ Read more about the prescribed offences and penalties under the [Customs Act and
 You are accountable as an importer or declaring agent for the import of goods. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
 
 <ul class="jekyllcodex_accordion">
-	<li>                                                                                                                                                                                                                           
+	<li>                                                 
 			<input type="checkbox" id="accordion1">
 			<label for="accordion1">Do</label>
 			<div>
