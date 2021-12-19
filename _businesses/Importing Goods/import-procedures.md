@@ -271,7 +271,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		  </tbody>
 </table>
 
-Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview). </ul>
+Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview).
 			
 			
     
