@@ -159,28 +159,6 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 <b>Examples of Common Offences</b>
 <ul class="jekyllcodex_accordion4">
 <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore</label>
-<div>
-  <ul>
-        <li>Omission of insurance charges in the value when declaring GST payment permit to import goods</li>
-		<li>Free gifts provided by overseas supplier not declared in the GST Payment permit</li></ul>
-    </div>
-  </li>
-	<li>
-  <input type="checkbox" id="accordion5">
-    <label for="accordion5">Failure to make a declaration of goods imported into Singapore</label>
-<div>
-      <ul>
-        <li>Undeclared goods found inside container imported into Singapore
-</li>
-        </ul>
-    </div>
-  </li>
-	
-//<b>Examples of Common Offences</b>
-<ul class="jekyllcodex_accordion2">
-<li>
 	<input type="checkbox" id="accordion4">
     <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore:</label>
 <div>
