@@ -162,7 +162,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	<input type="checkbox" id="accordion4">
     <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore:</label>
 <div>
-*  <ul><li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li></ul>
+<ul><li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li></ul>
 	<ul>
 		<li>Free gifts provided by overseas supplier not declared in the GST Payment permit</li></ul>
     </div>
@@ -310,7 +310,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 					<p> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.</p>
 		</div>
 	</li>
-				</ul>
+				</ul></ul></ul>
 
 	
 	
