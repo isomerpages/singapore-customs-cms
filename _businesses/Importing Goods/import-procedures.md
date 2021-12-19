@@ -167,6 +167,17 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		<li>Free gifts provided by overseas supplier not declared in the GST Payment permit</li></ul>
     </div>
   </li>
+	<li>
+  <input type="checkbox" id="accordion5">
+    <label for="accordion5">Failure to make a declaration of goods imported into Singapore</label>
+<div>
+      <ul>
+        <li>Undeclared goods found inside container imported into Singapore
+</li>
+        </ul>
+    </div>
+  </li>
+	
 //<b>Examples of Common Offences</b>
 <ul class="jekyllcodex_accordion2">
 <li>
