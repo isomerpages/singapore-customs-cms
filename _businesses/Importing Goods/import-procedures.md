@@ -162,7 +162,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	<input type="checkbox" id="accordion4">
     <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore:</label>
 <div>
-	<li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li>
+	<ul><li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li>
 	<li>Free gifts provided by overseas supplier not declared in the GST Payment permit</li></ul>
     </div>
 	</li>
@@ -203,7 +203,6 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 					</ul>
 			</div>
 	</li>
-			</ul>
 		
 
 <br>For minor offences under the Customs Act and the RIEA, Singapore Customs may offer to compound the offences for a sum not more than S$5,000 per offence. Offenders may be prosecuted if the offences committed are of a fraudulent or serious nature. <br>
@@ -309,7 +308,8 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 					<p> ✖ Use your company’s UEN to import goods not belonging to you unless you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements.</p>
 		</div>
 	</li>
-				</ul></ul>
+				</ul>
+</ul>
 
 	
 	
