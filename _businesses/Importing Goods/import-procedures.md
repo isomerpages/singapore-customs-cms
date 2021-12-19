@@ -293,7 +293,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		  </tbody>
 </table>
 
-Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview).
+Read more about the prescribed offences and penalties under the [Customs Act and the RIEA](https://www.customs.gov.sg/businesses/acts-and-subsidiary-legislation/overview). </ul>
 			
 			
     
@@ -332,6 +332,7 @@ You are accountable as an importer or declaring agent for the import of goods. Y
 	</li>
 				</ul></ul>
 
+	
 	
 ## For more information on:
 
