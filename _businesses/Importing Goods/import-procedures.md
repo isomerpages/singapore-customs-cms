@@ -284,7 +284,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 
 <ul class="jekyllcodex_accordion">
 	<li>                                                                 
-			<input id="accordion1" type="checkbox">
+			<input type="checkbox" id="accordion1">
 			<label for="accordion1">Do</label>
 			<div>
 					<p>	✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
@@ -300,7 +300,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 				</div>
 				</li>
 				<li>
-				<input id="accordion2" type="checkbox">
+				<input type="checkbox" id="accordion2">
 				<label for="accordion2">Do Not</label>
 				<div>
 				<p>✖ Make a declaration without verifying the authenticity of all the supporting documents. </p>
