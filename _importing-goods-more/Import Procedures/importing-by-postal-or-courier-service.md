@@ -3,12 +3,13 @@ title: Importing by Postal or Courier Service
 permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service
 third_nav_title: Import Procedures
 ---
-
 # Importing by Postal or Courier Service
 
 Goods (e.g. new or used articles, online purchases, gifts) imported by post or courier services are subject to payment of [Goods and Services Tax (GST)](/businesses/valuation-duties-taxes-fees/goods-and-services-tax-gst)  and/or  [duty](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods).
 
 GST relief is granted on goods imported by post or air, excluding intoxicating liquors and tobacco, with a total  [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports) not exceeding S$400. Please note that GST relief is not granted for goods imported by other transport modes, e.g. sea freight and land, unless specified. Please see [Quick Guide for Importers / How to Import Your Goods?](/businesses/importing-goods/overview) for more information.
+
+From 1 July 2020. all tobacco products imported into Singapore by Singapore Post must comply with Singapore's Standardised Packaging (SP) specifications. Non-SP-compliant tobacco products cannot be imported into Singapore and will be returned to country of origin. For more information, you may refer to <a href="https://www.hsa.gov.sg/tobacco-regulation/overview">Health Sciences Authority</a> (HSA)'s website.
 
 ## Things to Note for International Parcels Delivered by Post or Courier Service
 

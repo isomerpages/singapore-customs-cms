@@ -97,7 +97,7 @@ Taxable companies should also check with the [Inland Revenue Authority of Singap
 -   [Sealing and Unstuffing](/businesses/importing-goods/import-procedures/sealing-and-unstuffling)
     
 
-## Errors &amp; Offences
+## Errors & Offences
 
 Importers may be penalised if they do not comply with the requirements imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and their subsidiary legislation.
 

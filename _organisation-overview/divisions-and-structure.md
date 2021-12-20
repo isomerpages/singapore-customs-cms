@@ -2,7 +2,6 @@
 title: Divisions and Structure
 permalink: /about-us/organisation-overview/division-and-structure
 ---
-
 # Divisions and Branches
 
 The roles of the divisions of Singapore Customs are as follows:
@@ -36,16 +35,17 @@ The main roles of the Compliance Division include:
 
 - HR Development Branch
 - HR Management Branch
-- Learning & Engagement Branch
+- HR Planning Branch
+- Learning & Organisation Development Branch
 - Singapore Customs Academy
 
 The main roles of the HR Directorate include:
 
-- Attracting and retaining the best talent for Singapore Customs through the implementation of effective HR practices, and a leadership development and management system, to achieve organisational excellence
-- Developing staff competency through competency-based specialised training and knowledge management, and implementing staff engagement programmes to raise productivity, engage staff and achieve desired work culture
-- Institutionalising business-HR partnership by developing a good understanding of divisions’ needs and partnering them to co-create solutions to address key people issues
-- Serving as the primary interface with staff to meet their everyday HR needs, managing HR records and data, generating HR metrics and statistics and managing HR IT systems
-- Enabling Customs Officers, the business community and global counterparts to obtain training in customs knowledge and competencies
+- Attracting, retaining and developing talent for Singapore Customs
+- Developing staff capability and competencies
+- Implementing a total rewards and recognition system for staff
+- Enhancing employee experience and serving as the primary interface with staff on all HR related matters
+- Driving change management and to build a desired organisational culture
 
 ## Information Technology Directorate
 
@@ -99,7 +99,6 @@ The main roles of the Ops-Tech & Management Division include:
 
 -	Corporate Communications Branch
 -	International Relations Branch
--	Organisational Excellence & Planning Branch
 -	Policy & Research Branch
 
 The main roles of the Policy & Planning Division include:
