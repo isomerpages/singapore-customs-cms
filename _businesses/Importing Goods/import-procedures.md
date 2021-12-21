@@ -157,7 +157,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 </ul>
 
 <b>Examples of Common Offences</b>
-<ul class="jekyllcodex_accordion2">
+<ul class="jekyllcodex_accordion">
 <li>
 	<input id="accordion4" type="checkbox">
     <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore:</label>
@@ -178,16 +178,16 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</li>
 <li>
 	<input id="accordion6" type="checkbox">
-    <label for="accordion6"> Failure to produce trade documents upon request by Singapore Customs:</label>
+    <label for="accordion6">Failure to produce trade documents upon request by Singapore Customs:</label>
 <div>
 	<ul>
-		<li>  Failure to produce documents such as invoice, bill of lading or certificate of origin for verification</li>
+		<li>Failure to produce documents such as invoice, bill of lading or certificate of origin for verification</li>
 	</ul>
 	</div>
 	</li>
 	<li>
 		<input id="accordion7" type="checkbox">
-	<label for="accordion7"> Failure to produce licence or customs permit for customs clearance/endorsement:</label>
+	<label for="accordion7">Failure to produce licence or customs permit for customs clearance/endorsement:</label>
 	<div>
 	<ul>
 		<li>Haulier failing to produce the goods and customs permit with supporting documents for endorsement at the checkpoint</li>
@@ -196,7 +196,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</li>
 			<li>
 		<input id="accordion8" type="checkbox">
-		</li><li><label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
+		<label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
 			<div>
 				<ul>
 					<li>Unauthorised breakage of Customs red seal affixed on the container</li>
@@ -284,8 +284,8 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 
 <ul class="jekyllcodex_accordion">
 	<li>                                                                 
-			<input type="checkbox" id="accordion1">
-			<label for="accordion1">Do</label>
+			<input id="accordion9" type="checkbox">
+			<label for="accordion9">Do</label>
 			<div>
 					<p>	✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
 				<p> ✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items. </p>
@@ -300,8 +300,8 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 				</div>
 				</li>
 				<li>
-				<input type="checkbox" id="accordion2">
-				<label for="accordion2">Do Not</label>
+				<input id="accordion10" type="checkbox">
+				<label for="accordion10">Do Not</label>
 				<div>
 				<p>✖ Make a declaration without verifying the authenticity of all the supporting documents. </p>
 					<p> ✖ Use a pro-forma invoice for permit application. </p>
@@ -312,7 +312,6 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 		</div>
 	</li>
 	</ul>
-	
 	
 <header>
 	<h2>For more information on:
