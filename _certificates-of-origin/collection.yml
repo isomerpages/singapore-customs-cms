@@ -2,7 +2,6 @@ collections:
   certificates-of-origin:
     output: true
     order:
-      - Certificates of Origin/Informed Compliance .md
       - Certificates of Origin/.keep
       - Certificates of
         Origin/how-to-apply-for-ordinary-certificate-of-origin-oco-or-preferrential-certificate-of-origin-pco.md
