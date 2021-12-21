@@ -1,9 +1,8 @@
 ---
 title: Permit Amendments and Cancellation
 permalink: /businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation
-third_nav_title: Transhipment Procedures 
+third_nav_title: Transhipment Procedures
 ---
-
 # Permit Amendment and Cancellation
 
 ## Permit Amendment
@@ -11,6 +10,16 @@ third_nav_title: Transhipment Procedures
 You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](/files/businesses/PSB/TN Team/annex-b-fields-not-allowed-for-amendment.pdf)  for the list of non-amendable fields.
 
 Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](/files/businesses/PSB/TN Team/sample-CCP-Amendment.pdf).
+
+You are not allowed to amend an import permit:
+-   It has been used for cargo clearance;
+-   It has expired;
+-   The fields are non-amendable (Click for the list of non-amendable fields).
+
+You may extend the validity period of the payment permit after payment is received and before it expires.
+- For payment permits approved under the GF (payment by importer’s Inter-Bank Giro (IBG)) or G7 (payment by Declaring Agent’s IBG) condition, payment will be received 5 working days after the permit approval date. 
+-	For payment permits approved under the G1 (payment by cash or cheque at any UOB branch) condition, payment will be received 5 working days after the cheque/ cash has been deposited at the UOB bank. 
+
 
 ## Permit Cancellation
 
