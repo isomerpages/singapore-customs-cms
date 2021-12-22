@@ -4,10 +4,9 @@ date: 2021-11-22
 permalink: /news-and-media/publications/Statistics/
 layout: post
 ---
-
 # Statistics
 
-## [Revenue Statistics](https://go.gov.sg/revenuestats-oct21){:target="_blank"} 
+## [Revenue Statistics](https://go.gov.sg/revenuestats-nov21){:target="_blank"} 
 
 -   Yearly and monthly customs and excise duties collection for liquor, tobacco, motor vehicles and petroleum products and duty-paid releases for these products
 -   Goods and Services Tax (GST) collection for imported and locally manufactured goods
