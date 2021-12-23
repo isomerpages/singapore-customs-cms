@@ -1,9 +1,9 @@
 ---
-title: How to apply for Ordinary Certificate of origin (OCO) or Preferrential Certificate of Origin (PCO)
-permalink: /businesses/certificates-of-origin/how-to-apply-for-oco-or-pco 
+title: How to apply for Ordinary Certificate of origin (OCO) or Preferrential
+  Certificate of Origin (PCO)
+permalink: /businesses/certificates-of-origin/how-to-apply-for-oco-or-pco
 third_nav_title: Certificates of Origin
 ---
-
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
 **Step 1: Register your Manufacturing Premises**
@@ -20,7 +20,7 @@ The manufacturer's registration will be valid for 2 years from the date of your 
     
 After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
-The submission should be made using the latest [Manufacturing Cost Statement](/files/businesses/Manufacturing%20Cost%20Statement%20(October%202021).xlsx). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
+The submission should be made using the latest [Manufacturing Cost Statement template](https://go.gov.sg/coststatement). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
     
 The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     
@@ -28,7 +28,7 @@ The typical processing time for a Manufacturing Cost Statement is 7 working days
 
 Apply for a CO with export permit under the respective Free Trade Agreements or Schemes via TradeNet.
 
-You may refer to this [handbook](/files/businesses/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Jan_2021.pdf) for more information on how to apply for a CO and export permit via TradeNet.
+You may refer to this [handbook](/files/businesses/ttsb-roo/Handbook%20on%20PCO%20December%202021.pdf) for more information on how to apply for a CO and export permit via TradeNet.
     
 **Step 4: Collect the Certificate of Origin**
 
@@ -49,4 +49,3 @@ Please ensure that the information on the CO is accurate and tick the relevant c
 You can renew the manufacturing cost statements by submitting a letter of undertaking (LOU) via [e-filing](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp){:target="_blank"}.
 
 The letter would declare the goods of all models still qualify at the prevailing origin criterion(a) under the respective Free Trade Agreements or Schemes previously approved.
-

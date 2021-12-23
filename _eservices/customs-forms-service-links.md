@@ -121,7 +121,7 @@ Please submit the  **Declaration Cover For Reporting Template**  (_compulsory_),
 
 | No. | Forms | Related Link |
 |--|--|--|
-| 1. | All Free Trade Agreements* and Schemes, except USSFTA <br><br> _*For exports of Singapore origin goods under the GSFTA, please note that the procedural requirements for claiming preferential tariff treatment is still not yet finalised. As such, there may be potential operational issues when exporting under this Agreement such as rejection of the preferential Certificate of Origin when claiming preferential tariff rates with the GCC customs authorities._ <br><br> To download the latest Manufacting Cost Statement format, please click on the link.| [Excel Doc](/files/businesses/Manufacturing%20Cost%20Statement%20(October%202021).xlsx)|
+| 1. | All Free Trade Agreements* and Schemes, except USSFTA <br><br> _*For exports of Singapore origin goods under the GSFTA, please note that the procedural requirements for claiming preferential tariff treatment is still not yet finalised. As such, there may be potential operational issues when exporting under this Agreement such as rejection of the preferential Certificate of Origin when claiming preferential tariff rates with the GCC customs authorities._ <br><br> To download the latest Manufacting Cost Statement format, please click on the link.| [Link](https://go.gov.sg/coststatement)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
