@@ -4,9 +4,6 @@ permalink: /businesses/certificates-of-origin/how-to-apply-for-b2b
 third_nav_title: Certificates of Origin
 description: ""
 ---
-
-
-
 ## How to apply for back-to-back preferential Certificate of Origin with Singapore Customs?
 
 The back-to-back preferential CO is issued by Singapore Customs for the re-export of goods based on the preferential CO issued by the first exporting party. The goods must be imported into Singapore and meet the conditions for it to be issued.
@@ -36,6 +33,7 @@ Please refer to the legal text of the respective [Free Trade Agreements](https:/
 | 28               | Back-to-Back AIFTA Form AI |
 | 30               | Back-to-Back AANZFTA Form AANZ |
 | 32               | Back-to-Back AHKFTA Form AHK |
+| 34               | Back-to-Back RCEP Form RCEP
 
 The required supporting documents include:
 
@@ -46,6 +44,8 @@ The required supporting documents include:
 -   [Working sheet for partial consignments](/files/businesses/working-sheet-for-back-to-back-application.doc)
     
 -   Import permit (required only for application of Certificate Types 20, 28 and 32)
+
+-  Declaration Letter (required only for application of Certificate Type 34)
     
 You can attach the supporting documents with the export permit and preferential CO application via TradeNet.
 
