@@ -49,7 +49,7 @@ A preferential CO allows your buyer to pay lower or no customs duty when you exp
 
 These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
 
-- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/Handbook_on_ROO_for_PCO_Aug2021(TTSB).pdf)
+- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsbroo/Handbook on PCO December 2021.pdf)
     
 - [Handbook on the rules of origin for Schemes of Preference](/files/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf)
     
