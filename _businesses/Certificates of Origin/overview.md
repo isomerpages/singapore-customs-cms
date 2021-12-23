@@ -48,8 +48,8 @@ You may refer to this [handbook](/files/businesses/handbook-on-the-rules-of-orig
 A preferential CO allows your buyer to pay lower or no customs duty when you export your goods under a [Free Trade Agreement](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} or Schemes of Preferences. To check whether the goods are covered under the Free Trade Agreement or Schemes of Preferences and the preferential tariffs, you may refer to Enterprise Singapore's [Tariff Finder](https://mendel-online.com/#/signup/ESG){:target="_blank"} Tool to assist you.
 
 These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
-
-- [Handbook on rules of origin for preferential Certificates of Origin](/documents/businesses%2Fttsb-roo/Handbook on PCO December 2021.pdf)
+ 
+- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook%20on%20PCO%20December%202021.pdf)
     
 - [Handbook on the rules of origin for Schemes of Preference](/files/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf)
     
