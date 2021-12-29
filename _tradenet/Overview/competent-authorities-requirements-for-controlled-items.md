@@ -35,13 +35,10 @@ You may refer to the link below for the Harmonized System (HS) codes of controll
     
 -   Controlled & dutiable
     
--   Fully controlled & non-dutiable
     
 
 **Step 3**: Comply with the specific [CA's requirements](/files/businesses/PSB/TN Team/annex-d-competent-authorities-requirements.pdf) to avoid delays in processing, and obtain approval from the CA.
-After submitting the permit application, you may be required to fax immediately to the CAs the relevant supporting documents with the Unique Reference Number quoted on the top right hand corner of each document.
-
-For applications to the Controller of Undesirable Publications, the supporting documents **must be** attached to the permit application.
+Please remember to upload the relevant supporting documents required by the CAs in your TradeNet permit application. For example, CAs such as Controller of Undesirable Publications would require applications to be attached with the supporting documents before they process the permit applications.
 
 ### Competent Authorities' Specific Requirements
 
