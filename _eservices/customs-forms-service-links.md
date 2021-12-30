@@ -12,8 +12,8 @@ Please note that Application for Certificate of Free Sales, Import Certificate a
 |--|--|--|
 | 1. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp) |
 | 2. | Registration for Manufacturer/New Product Line | [Word Doc](/files/businesses/SC-A-006%20Manufacturers%20Registration%20%20-%20Aug21%20Version%2012.docx)|
-| 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/61bb0b4c3ac2110012b3a943) 
-| 4. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/61bb1a767eb32b0012e29033)
+| 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a) 
+| 4. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
