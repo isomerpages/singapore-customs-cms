@@ -338,7 +338,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 				</td>
 			</tr>
 			<tr>
-				<td><a href="/businesses/importing-goods/import-procedures/claiming-preferential-tariff-treatment-for-dutiable-imports"><img alt="" src="/images/importing-goods/IP5.jpg">
+				<td><a href="/businesses/certificates-of-origin/claiming-preferential-tariff-treatment-for-dutiable-imports"><img alt="" src="/images/importing-goods/IP5.jpg">
 					</a></td>
 				<td><a href="/businesses/importing-goods/import-procedures/importing-trade-samples"><img alt="" src="/images/importing-goods/IP6.jpg">
 					</a></td>

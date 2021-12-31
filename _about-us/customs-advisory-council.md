@@ -2,26 +2,25 @@
 title: Customs Advisory Council
 permalink: /about-us/customs-advisory-council/
 ---
-
 # Customs Advisory Council
 
 The Customs Advisory Council advises on strategic directions to advance Singapore Customs as a world-class customs organisation. The Council also functions as an active platform for Singapore Customs to solicit feedback and advice on industry trends, government policies and other matters that may affect Singapore Customs.
 
-Established in March 2000, the Council is chaired by Permanent Secretary (Finance) and consists of key representatives from the trade associations, the industry and the public sector.
+Established in March 2000, the Council is chaired by Second Permanent Secretary (Finance) and consists of key representatives from the trade associations, the industry and the public sector.
 
 ## Customs Advisory Council Members
 
 ### Chairman
 
-**Mrs Tan Ching Yee**  
-Permanent Secretary (Finance)  
+**Ms Lai Wei Lin**  
+Second Permanent Secretary (Finance)  
 Ministry of Finance
 
 ### Members
 
 **Professor Annie Koh**<br>
-Senior Academic Advisor<br>
-International Trading Institute, Singapore Management University<br> 
+Professor Emeritus of Finance (Practice)<br>
+Lee Kong Chian School of Business, Singapore Management University<br> 
 
 **Mr Dave Ng Wee Peng**  
 Chairman  
@@ -50,10 +49,6 @@ PSA International Pte Ltd
 **Mr Paul Teo**  
 First Deputy Chairman  
 SAAA@Singapore
-
-**Mr René  Piil Pedersen**<br>
-Managing Director<br>
-A.P. Moller Singapore Pte Ltd<br>
 
 **Mr Samuel Lee**<br>
 General Manager<br>
