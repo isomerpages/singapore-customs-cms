@@ -3,7 +3,6 @@ title: Excise Factory Scheme
 permalink: /businesses/customs-schemes-licences-framework/excise-factory-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
-
 # Excise Factory Scheme
 
 ## What is it?
@@ -34,9 +33,11 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 | Activity | Annual Licence Fee | minimum TradeFIRST Band to qualify |
 |----------|--------------------|------------------------------------|
 | To ferment or manufacture ale, beer, stout or porter, where the projected annual production volume (in the case of an application for the issue of a licence) or the past annual production volume (in the case of an application for renewal of a licence) is — |  |
-| (i) 1.8 million litres or more | $43,200 | Enhanced |
+| (i) 1.8 million litres or more | $31,600 | Enhanced |
 | (ii) less than 1.8 million litres | $8,400 | Standard |
-| To distill, ferment or manufacture any other intoxicating liquors | $28,000 | Enhanced |
+| To distill, ferment or manufacture any other intoxicating liquors |  |  |
+| (i) 400,000 litres or more | $23,500 | Enhanced |
+| (ii) less than 400,000 litres | $10,200 | Standard
 | To manufacture cigarettes | $120,000 | Enhanced |
 | To manufacture tobacco other than cigarettes | $1,800 | Enhanced | 
 | To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 | Standard |
