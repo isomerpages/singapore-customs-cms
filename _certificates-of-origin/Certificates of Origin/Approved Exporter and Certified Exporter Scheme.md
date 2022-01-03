@@ -23,7 +23,6 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 ## Step 1 – Eligibility 
 
 -	Exporters and exporters exporting goods in a back-to-back arrangement (B2B);
--	Exporters and exporters exporting goods in a back-to-back arrangement (B2B);
 -	Know and understand the Rules of Origin in the RCEP and ATIGA and has shown a substantial amount of experience in export procedures;
 -	Has no record of any Rules of Origin fraud and at the same time, has shown good compliance as measured by risk management rules;
 -	Has a sound bookkeeping and record-keeping system;
