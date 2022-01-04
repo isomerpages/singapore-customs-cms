@@ -7,10 +7,10 @@ third_nav_title: Import Procedures
 
 You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](/businesses/national-single-window/overview/annexes-and-appendices)  for the list of non-amendable fields.
 
-You are not allowed to amend an import permit:
+You are not allowed to amend an import permit if:
 -   It has been used for cargo clearance;
 -   It has expired;
--   The fields are non-amendable, you may wish to refer to the <a href = "https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/annex-b-fields-not-allowed-for-amendment.pdf">list of non-amendable fields</a>.
+-   The fields are non-amendable. Please click <a href = "https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/annex-b-fields-not-allowed-for-amendment.pdf">here</a> for the list of non-amendable fields.
 
 You may extend the validity period of the payment permit after payment is received and before it expires.
 - For payment permits approved under the GF (payment by importer’s Inter-Bank Giro (IBG)) or G7 (payment by Declaring Agent’s IBG) condition, payment will be received 5 working days after the permit approval date. 
