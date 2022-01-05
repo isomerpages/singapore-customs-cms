@@ -3,7 +3,6 @@ title: Zero-GST Warehouse Scheme
 permalink: /businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
-
 # Zero-GST Warehouse Scheme
 
 ## What is it?
@@ -105,7 +104,7 @@ Goods that are not fit for use may be destroyed under Customs’ supervision. [F
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist).
 
 **Step 2**: Prepare these supporting documents:
 
