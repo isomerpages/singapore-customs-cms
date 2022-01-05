@@ -127,7 +127,7 @@ For any Customs scheme applied successfully, your company will be subject to rev
 | Intermediate | Once in 2 Years |
 | Standard | Once in 2 Years |
 
-During the renewal process, your company is required to submit the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx)  and all relevant supporting documents, and undergo the on-site assessment again.
+During the renewal process, your company is required to submit the [TradeFIRST Self-Assessment Checklist ](https://go.gov.sg/tradefirstselfassessmentchecklist) and all relevant supporting documents, and undergo the on-site assessment again.
 
 Reviews may also be conducted at shorter intervals under special circumstances, such as for companies granted conditional approval with areas identified for improvement within a stipulated time period.
 
