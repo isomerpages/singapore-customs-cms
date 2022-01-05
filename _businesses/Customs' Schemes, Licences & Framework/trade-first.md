@@ -3,7 +3,6 @@ title: Trade FIRST
 permalink: /businesses/customs-schemes-licences-framework/trade-first
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
-
 # What is it?
 
 TradeFIRST stands for Trade Facilitation & Integrated Risk-based System. It is an integrated assessment framework that provides a holistic assessment of a company and determines the level of facilitation accorded.
@@ -163,4 +162,4 @@ The company should abide by these  [guidelines](/files/businesses/selfassessmtgu
 
 **Companies with Global or Regional Offices**
 
-TradeFIRST assessment us only applicable to the company's procedures conducted on its operating sites in Singapore. For example, comments on pre-employment verification criteria must pertain to Singapore's procedures and not the company's regional or global practices. 
+TradeFIRST assessment us only applicable to the company's procedures conducted on its operating sites in Singapore. For example, comments on pre-employment verification criteria must pertain to Singapore's procedures and not the company's regional or global practices.
