@@ -4,11 +4,27 @@ permalink: /businesses/customs-schemes-licences-framework/licensed-warehouse-sch
 third_nav_title: Customs' Schemes, Licences & Framework
 accordion:
   - title: Do
-    content: <br> ✔ Conduct regular briefing sessions to remind staff and clients on the requirements of the Licensed Warehouse Scheme. <br><br> ✔ Keep proper records of the time-in and time-out of any person visiting the warehouse for the collection of goods. <br><br> ✔ Assign a supervisory level staff to personally oversee the stuffing and unstuffing of containers. <br><br> ✔ Remind drivers, including those from an external transport company, that they should deliver dutiable goods for export directly to the checkpoint and not stop along the way at other locations to collect other goods. <br><br> ✔ Ensure drivers report to the designated lane at the checkpoint for customs clearance by Immigration and Checkpoints Authority officers. <br><br> ✔ Conduct regular stock checks and report any discrepancies detected to Singapore Customs. <br>
+    content: <br> ✔ Conduct regular briefing sessions to remind staff and clients on
+      the requirements of the Licensed Warehouse Scheme. <br><br> ✔ Keep proper
+      records of the time-in and time-out of any person visiting the warehouse
+      for the collection of goods. <br><br> ✔ Assign a supervisory level staff
+      to personally oversee the stuffing and unstuffing of containers. <br><br>
+      ✔ Remind drivers, including those from an external transport company, that
+      they should deliver dutiable goods for export directly to the checkpoint
+      and not stop along the way at other locations to collect other goods.
+      <br><br> ✔ Ensure drivers report to the designated lane at the checkpoint
+      for customs clearance by Immigration and Checkpoints Authority officers.
+      <br><br> ✔ Conduct regular stock checks and report any discrepancies
+      detected to Singapore Customs. <br>
   - title: Do Not
-    content: <br> ✖ Remove any duty-unpaid goods from the licensed premises without proper permits. <br><br> ✖ Break the Customs red seal and unstuff a container sealed with the Customs red seal without any Customs approval. <br><br> ✖ Store other types of goods (non-dutiable goods) in the licensed premises meant for duty-unpaid goods. (Except for LW Type III licensees) <br><br> ✖ Allow any unauthorised personnel to enter the licensed premises meant for duty unpaid goods. <br>  
+    content: <br> ✖ Remove any duty-unpaid goods from the licensed premises without
+      proper permits. <br><br> ✖ Break the Customs red seal and unstuff a
+      container sealed with the Customs red seal without any Customs approval.
+      <br><br> ✖ Store other types of goods (non-dutiable goods) in the licensed
+      premises meant for duty-unpaid goods. (Except for LW Type III licensees)
+      <br><br> ✖ Allow any unauthorised personnel to enter the licensed premises
+      meant for duty unpaid goods. <br>
 ---
-
 # Licensed Warehouse Scheme
 
 ## What is it?
@@ -91,7 +107,7 @@ Goods that are not fit for human consumption may be destroyed under Customs’ s
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist).
 
 **Step 2**: Prepare these supporting documents:
 
