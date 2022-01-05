@@ -3,7 +3,6 @@ title: Company Declaration Scheme
 permalink: /businesses/customs-schemes-licences-framework/company-declaration-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
-
 # Company Declaration Scheme
 
 ## What is it?
@@ -60,7 +59,7 @@ To qualify for the Company Declaration Scheme, the company must:
 
 ## How to Apply?
 
-**Step 1**: Complete the  [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST Self Assessment Checklist 1Jul2021.xlsx).
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist).
 
 **Step 2**: Prepare these supporting documents:
 
