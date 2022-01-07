@@ -3,9 +3,8 @@ title: Customs Act
 permalink: /businesses/acts-and-subsidiary-legislation/customs-act
 third_nav_title: Acts and Subsidiary Legislation
 ---
-
 # Customs Act
-The Customs Act (Chapter 70) is an Act relating to customs and excise duties.
+The Customs Act 1960 is an Act relating to customs and excise duties.
 
 Click on the links below to view the Customs Act and selected subsidiary legislation:
 
