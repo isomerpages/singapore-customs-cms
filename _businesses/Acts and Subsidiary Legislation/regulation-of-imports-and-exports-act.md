@@ -5,7 +5,7 @@ third_nav_title: Acts and Subsidiary Legislation
 ---
 # Regulation of Imports and Exports Act
 
-The Regulation of Imports and Exports Act (Chapter 272A) is an Act to provide for the regulation, registration and control of imports and exports and to make provisions for matters connected therewith.
+The Regulation of Imports and Exports Act 1995 is an Act to provide for the regulation, registration and control of imports and exports and to make provisions for matters connected therewith.
 
 Click on the links below to view the Regulation of Imports and Exports Act and selected subsidiary legislation: 
 
