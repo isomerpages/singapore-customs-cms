@@ -3,8 +3,6 @@ title: Declaration and Payment of Taxes
 permalink: /individuals/going-through-customs/arrivals/declaration-and-payment-of-taxes
 third_nav_title: Arrivals
 ---
-
-
 # Declaration and Payment of Taxes
 
 ## What to declare?
@@ -21,7 +19,7 @@ There are four categories of dutiable goods in Singapore:
 -   **Tobacco products**, including cigarettes and cigars
     -   With effect from 1 July 2020, all cigarettes and other tobacco products imported into, sold, offered for sale or distributed in Singapore must comply with the new Standardised Packaging (SP) requirements. For further information, you may refer to Health Sciences Authority (HSA)’s [website](https://www.hsa.gov.sg/tobacco-regulation/overview) or contact Ministry of Health (MOH) through email at [moh_info@moh.gov.sg](maito:moh_info@moh.gov.sg). 
     -   Importation of cigarettes and / or tobacco products that do not comply with the SP requirements is not allowed, and these cigarettes and / or tobacco products will be disposed of at the checkpoints. 
-    -   Travellers have to ensure that their cigarettes and / or tobacco products comply with the SP requirements before making a declaration and payment via the Customs@SG mobile app or web portal. Do note that no refund will be given for duty and Goods and Services Tax (GST) already prepaid via the [Customs@SG web application](/eservices/customs-sg-web-application/) for cigarettes and / or tobacco products that do not comply with the SP requirements.
+    -   Travellers have to ensure that their cigarettes and / or tobacco products comply with the SP requirements before making a declaration and payment via the [Customs@SG web application](/eservices/customs-sg-web-application/). Do note that no refund will be given for duty and Goods and Services Tax (GST) already prepaid via the [Customs@SG web application](/eservices/customs-sg-web-application/) for cigarettes and / or tobacco products that do not comply with the SP requirements.
 -   **Motor vehicles**, including motorised bicycles
 -   **Motor fuel**, including motor spirits, diesel products and compressed natural gas (CNG)
 
@@ -54,7 +52,7 @@ Proceed to the Red Channel if you are carrying:
 -   [Dutiable goods exceeding your duty-free concession or Goods exceeding your GST relief](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief); 
 -   [Controlled or restricted goods or Prohibited goods](/individuals/going-through-customs/arrivals/prohibited-and-controlled-goods)
 
-The Red Channel and the examination counters are manned by **the Immigration & Checkpoints Authority (ICA)**. Checks on persons, baggage and vehicles entering Singapore are conducted by ICA.
+The Red Channel and the examination counters are manned by **the Immigration &amp; Checkpoints Authority (ICA)**. Checks on persons, baggage and vehicles entering Singapore are conducted by ICA.
 
 ## What to do at the Red Channel
 
@@ -87,5 +85,3 @@ It is the responsibility of travellers to make an accurate and complete declarat
 
 Those who fail to do so can be fined and prosecuted in court. 
 <br> More information on customs offences is available [here.](/individuals/going-through-customs/offences)
-
-
