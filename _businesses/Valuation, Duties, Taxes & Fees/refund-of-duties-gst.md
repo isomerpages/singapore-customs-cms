@@ -30,15 +30,15 @@ You or your declaring agent can apply for an online refund through the Refund Mo
 
 When applying for refund via TradeNet, please remember to upload the following supporting documents in TradeNet Backend:
 
-    - Refund permit
-    - Replacement permit (if applicable)
-    - Commercial invoice
-    - Packing list
-    - Arrival notice/freight notification or delivery order
-    - Bill of Lading/Airway Bill
-    - GST/Duty computation
-    - Bank slip and bank statement (for payment made at the bank)
-    - Any other documents required by Singapore Customs to verify the claim
+* Refund permit
+* Replacement permit (if applicable)
+* Commercial invoice
+* Packing list
+* Arrival notice/freight notification or delivery order
+* Bill of Lading/Airway Bill
+* GST/Duty computation
+* Bank slip and bank statement (for payment made at the bank)
+* Any other documents required by Singapore Customs to verify the claim
 
 ---- 
 
