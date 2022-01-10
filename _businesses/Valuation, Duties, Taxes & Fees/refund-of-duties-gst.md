@@ -3,7 +3,6 @@ title: Refund of Duties & GST
 permalink: /businesses/valuation-duties-taxes-fees/refund-of-duties-and-gst
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
-
 # Refund of Duties & GST
 
 If there is any overpayment or wrong payment of duties or Goods and Services Tax (GST), you can make a claim for refund by writing to Singapore Customs for our assessment:
@@ -27,13 +26,10 @@ Common reasons for refund include:
 
 ## How to Apply for Refund
 
-You or your declaring agent can apply for an online refund and be notified of the outcome through the Refund Module in TradeNet.
+You or your declaring agent can apply for an online refund through the Refund Module in TradeNet.
 
-There are three possible outcomes:
+When applying for refund via TradeNet, please remember to upload the following supporting documents in TradeNet Backend:
 
--   Rejection: This could include requiring the taxable importer to claim from the  [Inland Revenue Authority of Singapore (IRAS)](https://www.iras.gov.sg/irashome/default.aspx){:target="_blank"}.
--   Approval: All successful refunds will be credited directly into the Inter-Bank GIRO (IBG) accounts of the payers who maintained IBG accounts with Singapore Customs.
--   Pending supporting documents: The applicant will receive a notification to submit the following supporting documents:
     - Refund permit
     - Replacement permit (if applicable)
     - Commercial invoice
