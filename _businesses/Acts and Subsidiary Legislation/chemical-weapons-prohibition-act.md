@@ -5,7 +5,7 @@ third_nav_title: Acts and Subsidiary Legislation
 ---
 # Chemical Weapons (Prohibition) Act
 
-The Chemical Weapons (Prohibition) Act (Chapter 37B) is an Act to give effect to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction concluded in Paris on 13th January 1993.
+The Chemical Weapons (Prohibition) Act 2000 is an Act to give effect to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction concluded in Paris on 13th January 1993.
 
 Click on the links below to view the Chemical Weapons (Prohibition) Act and selected subsidiary legislation:
 

@@ -2,7 +2,6 @@
 title: Trade Security In Singapore
 permalink: /businesses/trade-security-in-singapore/
 ---
-
 # Singapore's Trade Security
 
 To achieve a secure supply chain, it is important to keep illicit trade at bay.
@@ -60,7 +59,7 @@ Read more about the inspections and the enhanced regulatory regime in Singapore 
 
 ## Suspicious Transaction Report
 
-Under Section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Cap 65A, all traders, including freight forwarders and declaring agents, have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if they know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of their trade, profession, business or employment.
+Under Section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992, all traders, including freight forwarders and declaring agents, have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if they know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of their trade, profession, business or employment.
 
 Traders also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism-financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
 

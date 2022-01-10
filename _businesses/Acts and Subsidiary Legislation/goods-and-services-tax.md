@@ -3,10 +3,9 @@ title: Goods and Services Tax
 permalink: /businesses/acts-and-subsidiary-legislation/goods-and-services-tax
 third_nav_title: Acts and Subsidiary Legislation
 ---
-
 # Goods and Services Tax
 
-The Goods and Services Tax Act (Chapter 117A) is an Act to provide for the imposition and collection of goods and services tax and for matters connected therewith.
+The Goods and Services Tax Act 1993 is an Act to provide for the imposition and collection of goods and services tax and for matters connected therewith.
 
 Click on the links below to view the Goods and Services Tax Act and selected subsidiary legislation:
 
