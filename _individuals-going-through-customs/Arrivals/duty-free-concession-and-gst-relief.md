@@ -3,14 +3,12 @@ title: Duty Free Concession and GST Relief
 permalink: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
 third_nav_title: Arrivals
 ---
-
-
 # Duty-Free Concession and GST Relief
 
 ## Duty-Free Concession
 
 **Liquor Products**
-Travellers are entitled to duty-free concession for liquors if all the following conditions are met:
+Travellers and bona fide crew members are entitled to duty-free concession for liquors if all the following conditions are met:
 
 -   You are 18 years old or above;
 -   You have spent 48 hours or more outside Singapore immediately before arrival;
@@ -28,6 +26,17 @@ Travellers are given duty-free concession for liquors on one of the following op
 | D       |  -      | 2 Litres |   -      |
 | E       |  -      |    -     | 2 Litres |
 
+Bona fide crew members are given duty-free concession for liquors on one of the following options:
+
+| Option  | Spirits | Wine     | Beer     |
+|---------|---------|----------|----------|
+| A       | 0.25 Litre | 1 Litre  |    -     |
+| B       | 0.25 Litre |   -      | 1 Litre  |
+| C       | 0.25 Litre |   -      | -  |
+| D       |  -      | 1 Litre |   -      |
+| E       |  -      |    -     | 1 Litre |
+
+
 These options are also applicable for the following liquors:
 
 -   Liquors consumed for health reasons such as Yomeishu (wine), D.O.M (spirits), samsu (spirits)
@@ -43,15 +52,13 @@ Important Notes:
 
 -   Duty-free concessions are granted on liquor products purchased outside Singapore as well as those purchased at Duty-Free Shops (DFS) Singapore.
     
--   Bona fide crew members are granted duty-free concession on 0.25 litre of spirits and 1 litre of wine or 1 litre of beer.
-    
 -   Duty-free concessions are granted on liquor products for your personal consumption only. It is an offence to sell or give them away.
     
 -   There is no duty-free concession on liquor products for people arriving from Malaysia.
     
 -   If you are bringing in more than 10 litres of liquor products, a Customs permit would be required for clearance.
     
--   Travellers are required to pay the taxes on liquor products exceeding their duty-free concession and on goods carried for or on behalf of other persons. More information on the duty rates imposed [here](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods).
+-   Travellers are required to pay the taxes on liquor products exceeding their duty-free concession and on goods carried for or on behalf of other persons. Please refer to the [duty rates imposed on dutiable goods](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods) for more information. 
 
 **Cigarettes and Tobacco Products**
 There is no duty-free concession and Goods and Services Tax (GST) relief for cigarettes and tobacco products in Singapore.
