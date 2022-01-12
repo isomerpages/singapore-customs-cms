@@ -1,15 +1,14 @@
 ---
-title: Singapore Police Force - Arms and Explosives (A&E) - Police Licensing & Regulatory Department (PLRD)
+title: Singapore Police Force - Arms and Explosives (A&E) - Police Licensing &
+  Regulatory Department (PLRD)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-Arms-and-explosives
 third_nav_title: Competent Authorities Requirements
 ---
-
-
 # Singapore Police Force - Arms and Explosives (A&E) - Police Licensing & Regulatory Department (PLRD)
 
-## Arms and Explosives Act Chapter 13
+## Arms and Explosives Act 1913
 
-The import, export and transhipment of arms, explosives and explosives precursors are regulated under the Arms and Explosives Act Chapter 13.
+The import, export and transhipment of arms, explosives and explosives precursors are regulated under the Arms and Explosives Act 1913.
 
 “Arms” is defined as:
 
@@ -67,7 +66,7 @@ AED PLRD issues 2 types of licences – long term (valid for a period of 1 year 
 
 ## Offences
 
-Under Section 13(1) of the Arms and Explosives Act, Chapter 13, no person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed:
+Under Section 13(1) of the Arms and Explosives Act 1913, no person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed:
 
 -   have in his possession or under his control any gun, arms, explosives, poisonous or noxious gas or noxious substance;
     
@@ -89,7 +88,7 @@ Any person who, in contravention of this section:
 -   shall be guilty of an offence and be liable on conviction to a fine not exceeding $10,000 and imprisonment for a term not exceeding 3 years.
     
 
-Under Section 21A (1) of the Arms and Explosives Act, Chapter 13, no person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed, have in his possession or under his control, import, export, manufacture or deal in any explosive precursor.
+Under Section 21A (1) of the Arms and Explosives Act 1913, no person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed, have in his possession or under his control, import, export, manufacture or deal in any explosive precursor.
 
 Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction:
 
