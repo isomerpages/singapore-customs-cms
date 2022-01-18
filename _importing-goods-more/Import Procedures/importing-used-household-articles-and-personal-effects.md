@@ -139,7 +139,7 @@ If your employment pass is still being processed by the Ministry of Manpower (MO
 <p>If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
 <p>
 These supporting documents and the online DOF should be emailed to customs_documentation@customs.gov.sg.</p>
-        <li> Check the status of your DOF application <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">TradeNet</a>.</li>
+        <li> Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">TradeNet</a>.</li>
         <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 5 working days of receiving Customs’ approval of GST relief.</li>
         <li>If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit.</li>
         <li>If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects.</li>
