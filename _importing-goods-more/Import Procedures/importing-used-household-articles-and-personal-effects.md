@@ -143,7 +143,7 @@ These supporting documents and the online DOF should be emailed to customs_docum
         <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 5 working days of receiving Customs’ approval of GST relief.</li>
         <li>If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit.</li>
         <li>If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects.</li>
-				<p>For shipments imported via postal parcel, you need to submit an online DOF to Singapore Customs for an assessment of your eligibility for GST relief at least three working days before the personal effects are imported into Singapore. You do not have to apply for a In-Non Payment (GST relief) permit if your personal effects contained non-controlled goods and are imported via postal parcel. Upon approval of your application, you should immediately inform SingPost of Singapore Customs approval granted on your personal effects.</p>
+				<p>For shipments imported via postal parcel, you need to submit an online DOF to Singapore Customs for an assessment of your eligibility for GST relief at least three working days before the personal effects are imported into Singapore. You do not have to apply for a In-Non Payment (GST relief) permit if your personal effects contain non-controlled goods and are imported via postal parcel. Upon approval of your application, you should immediately inform SingPost of Singapore Customs approval granted on your personal effects.</p>
       </ol>
     </div>
   </li>
