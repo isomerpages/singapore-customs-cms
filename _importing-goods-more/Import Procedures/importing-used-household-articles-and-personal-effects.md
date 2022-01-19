@@ -139,10 +139,11 @@ If your employment pass is still being processed by the Ministry of Manpower (MO
 <p>If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
 <p>
 These supporting documents and the online DOF should be emailed to customs_documentation@customs.gov.sg.</p>
-        <li> Check the status of your DOF application <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">here</a>.</li>
+        <li> Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">TradeNet</a>.</li>
         <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 5 working days of receiving Customs’ approval of GST relief.</li>
         <li>If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit.</li>
-        <li>If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agen to obtain the In-Payment (GST) permit to import your personal effects.</li>
+        <li>If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects.</li>
+				<p>For shipments imported via postal parcel, you need to submit an online DOF to Singapore Customs for an assessment of your eligibility for GST relief at least three working days before the personal effects are imported into Singapore. You do not have to apply for a In-Non Payment (GST relief) permit if your personal effects contained non-controlled goods and are imported via postal parcel. Upon approval of your application, you should immediately inform SingPost of Singapore Customs approval granted on your personal effects.</p>
       </ol>
     </div>
   </li>
