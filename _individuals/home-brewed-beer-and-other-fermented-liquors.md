@@ -20,4 +20,4 @@ _Note:_
 *The term beer includes beer, ale, stout, porter, shandy and all other fermented liquors made from malt, cider and perry.  
 ^The term fermented liquors include wine, samsu etc manufactured by fermentation and not by distillation.
 
-Please note a manufacturing licence is required for commercial operations. You may be prosecuted for offences under Sections 63(1) and 64(1) of the Customs Act if you do not comply with the above conditions.
+Please note a manufacturing licence is required for commercial operations. You may be prosecuted for offences under Sections 63(1) and 64(1) of the Customs Act 1960 if you do not comply with the above conditions.
