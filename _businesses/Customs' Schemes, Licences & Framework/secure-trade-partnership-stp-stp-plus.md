@@ -58,7 +58,6 @@ Please refer to the  [Factsheet on Mutual Recognition](/files/businesses/Factshe
 
 -   [STP Certified Companies](/files/businesses/SEB/STP%20Certified%20Companies%20as%20at%207%20Dec%202021.pdf)
 -   [STP-Plus Certified Companies](/files/businesses/SEB/STP-Plus%20Certified%20Companies%20as%20at%2031%20Dec%202021.pdf)
--   [](/files/businesses/SEB/STP-Plus%20Certified%20Companies%20as%20at%2031%20Dec%202021.pdf)
 
 ## How to Qualify?
 
