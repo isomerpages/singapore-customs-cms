@@ -1,5 +1,5 @@
 ---
-title: 012022 TradeNet Extended Downtime
+title: 01/2022 TradeNet Extended Downtime
 date: 2022-01-07
 layout: file
 description: ""
