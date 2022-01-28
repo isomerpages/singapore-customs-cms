@@ -110,7 +110,7 @@ The TradeFIRST assessment process is shown in the following table:
 |  |  |
 |--|--|
 | **Step 1**  | The company receives the TradeFIRST Self-Assessment Checklist from Customs, with detailed information on the assessment framework, for the company’s self-assessment. |
-| **Step 2** | Company fills up the [TradeFIRST Self-Assessment Checklist ](https://go.gov.sg/tradefirstselfassessmentchecklist-jan22) and sends it to Customs with the relevant supporting documents test.|
+| **Step 2** | Company fills up the [TradeFIRST Self-Assessment Checklist ](https://go.gov.sg/tradefirstselfassessmentchecklist-jan22) and sends it to Customs with the relevant supporting documents.|
 | **Step 3** | On-site assessment will be scheduled and conducted, upon receipt of relevant supporting documents. |
 | **Step 4** | The company receives its application outcome, the band it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement (if any). |
 
