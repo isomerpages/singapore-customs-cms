@@ -3,7 +3,6 @@ title: Exporting of NA(CWC) Controlled Items
 permalink: /businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
-
 # Exporting of NA(CWC) Controlled Items
 
 A  [Chemical Weapons Convention licence](/businesses/chemical-weapons-convention/licensing-requirements) is required before any export of items controlled by the  [NA(CWC)](/businesses/chemical-weapons-convention/introduction).
@@ -36,7 +35,7 @@ If the export is not subject to the restrictions below, you may apply for an exp
 
 **The following restrictions apply to exports of scheduled chemicals to [non-Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}.** 
 
-| Schdeule | Schdeule 1 | Schdeule 2 | Schdeule 3|
+| Schedule | Schedule 1 | Schedule 2 | Schedule 3|
 |---|---|---|---|
 | **Export to Non-Member States** | Prohibited | Allowed (subject to Conditions) | Allowed (subject to Conditions) |
 | **Conditions** |  | Export of any Schedule 2 chemical to a non-Member State is allowed only if it meets the following conditions: <br><br> 1. They are product(s) containing no more than 1% by weight of a mixture of Schedule 2A or 2A* chemicals <br><br> 2. They are product(s) containing no more than 10% by weight of a mixture of Schedule 2B chemicals <br><br> 3. They are product(s) identified as consumer goods packaged for retail sale for personal use or packaged for individual use <br><br> 4. An [End User Certificate](/eservices/customs-forms-and-service-links)* must be submitted to NA(CWC) before any permitted export of Schedule 2A, 2A* or 2B chemicals to Non-Member States | An End User Certificate* must be submitted to NA(CWC) **before** any permitted export of Schedule 3 chemicals to Non-Member States. <br><br> **Exception:** <br> An End User Certificate will **not** be required if the export of any Schedule 3 chemical to a Non-Member State meets the following conditions: <br><br> 1. They are product(s) containing no more than 30% of Schedule 3 chemical <br><br> 2. They are product(s) identified as consumer goods packaged for retail sale for personal use or packaged for individual use |
@@ -66,7 +65,3 @@ Exports of Schedules 1, 2 and 3 chemicals for the following concentration limits
 | Schedule 3 chemicals | Mixtures containing more than 30% of the scheduled chemical |
 
 Please refer to the [Strategic Goods Control](/businesses/strategic-goods-control/overview).
-
-
-
-
