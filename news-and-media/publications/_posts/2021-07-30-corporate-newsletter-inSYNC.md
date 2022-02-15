@@ -1,6 +1,8 @@
 ---
 title: Corporate Magazine - inSYNC
-permalink: /news-and-media/publications/corporate-newsletter---insync
+permalink: /news-and-media/publications/corporate-newsletter
+---
+insync
 ---
 
 # Corporate Magazine - inSYNC
@@ -10,6 +12,9 @@ inSYNC is a publication by Singapore Customs. We keep you updated on topics that
 Click [here](/feedback/) to subscribe to the latest issue of inSYNC today.
 
 {:.card-list}
+-   [![Issue 62](/images/inSYNC/Issue62_thumbnail.jpg)<br>
+Issue 62](/news-and-media/publications/2022-02-15-Issue62.pdf)
+
 -   [![Issue 61](/images/inSYNC/Issue61_thumbnail.jpg)<br>
 Issue 61](/news-and-media/publications/2021-07-30-Issue61.pdf)
 
@@ -165,6 +170,3 @@ Issue 12: May 2011](/news-and-media/publications/inSYNC_Issue12_ecopy.pdf)
   
 -   [![Issue 10: Jan 2011](/images/inSYNC/Issue10_thumbnail1.jpg)<br>
 Issue 10: Jan 2011](/news-and-media/publications/inSYNC_Issue10_ecopy.pdf)
-
-
-
