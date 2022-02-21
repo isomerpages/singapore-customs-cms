@@ -104,7 +104,11 @@ Goods that are not fit for use may be destroyed under Customs’ supervision. [F
 
 ## How to Apply?
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist).
+**Step 1**: Complete the TradeFIRST Self-Assessment Checklist as follows:
+
+* [For ZGS Type I](https://go.gov.sg/simplified-tf-checklist-jan22); or
+* [For ZGS Type II and Type III](https://go.gov.sg/tradefirstselfassessmentchecklist-jan22).
+
 
 **Step 2**: Prepare these supporting documents:
 
