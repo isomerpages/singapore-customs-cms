@@ -9,7 +9,7 @@ third_nav_title: Customs' Schemes, Licences & Framework
 
 An excise factory is a designated area licensed by Singapore Customs for manufacturing and storing  [dutiable goods](/businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods), namely liquor, tobacco, motor vehicles, compressed natural gas, petroleum and biodiesel blends. This designated area is also known as licensed premises. Excise duty and Goods and Services Tax (GST) will be suspended if the manufactured goods are stored in the licensed premises.
 
-Under the Excise Factory Scheme, activities such as bottling, blending, compounding, varying intoxicating liquors as well as refining and treating of  [petroleum or biodiesel blends](/businesses/customs-schemes-licences-framework/petroleum-licences)  are allowed.
+Under the Excise Factory Scheme (EFS), activities such as bottling, blending, compounding, varying intoxicating liquors as well as refining and treating of  [petroleum or biodiesel blends](/businesses/customs-schemes-licences-framework/petroleum-licences)  are allowed.
 
 Your company will enjoy these benefits under the Excise Factory Scheme:
 
@@ -73,7 +73,10 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 
 ## How to Apply?
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist).
+**Step 1**: Complete the TradeFIRST Self-Assessment Checklist as follows:
+
+* [For EFS (Micro-brewery) and EFS (Micro-distillery)](https://go.gov.sg/simplified-tf-checklist-jan22); or
+* [For all other EFS applicants](https://go.gov.sg/tradefirstselfassessmentchecklist-jan22).
 
 **Step 2**: Prepare these supporting documents:
 
