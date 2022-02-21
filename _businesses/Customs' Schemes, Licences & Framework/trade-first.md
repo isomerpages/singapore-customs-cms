@@ -103,7 +103,7 @@ There are 6 sections under the TradeFIRST assessment framework:
 
 -   Company’s compliance records
 
-To view the entire TradeFIRST assessment criteria, you may download the checklist [here.](https://go.gov.sg/tradefirstselfassessmentchecklist)
+To view the entire TradeFIRST assessment criteria, you may download the checklist [here.](https://go.gov.sg/tradefirstselfassessmentchecklist-jan22)
 
 The TradeFIRST assessment process is shown in the following table:
 
