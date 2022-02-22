@@ -5,8 +5,6 @@ permalink: /businesses/certificates-of-origin/how-to-apply-for-oco-or-pco
 third_nav_title: Certificates of Origin
 description: ""
 ---
-
-
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
 **Step 1: Register your Manufacturing Premises**
