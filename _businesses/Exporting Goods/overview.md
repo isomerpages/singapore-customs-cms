@@ -63,7 +63,7 @@ An example of conditions in the permit indicating this requirement:
 |  |  |
 |--|--|
 | **A2** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at a Free Trade Zone 'Out' Gate unless it is directed to the 'Green Lane' at the time of clearance\. |
-| **H1** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint\. |
+| **H1** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance at Woodlands Checkpoint / Tuas Checkpoint\. |
 | **A3** | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required\.  |
 
 A Customs export permit is required to cover for:
@@ -82,7 +82,7 @@ An example of conditions in the permit indicating this requirement:
 |  |  |
 |--|--|
 | **A2** |  The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at a Free Trade Zone 'Out' Gate unless it is directed to the 'Green Lane' at the time of clearance\.|
-| **H1**  | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint\.  |
+| **H1**  | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance at Woodlands Checkpoint / Tuas Checkpoint\.  |
 |  **A3** | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required\.  |
 
 A Customs export permit is required for:
@@ -102,4 +102,3 @@ These documents can be stored as physical hardcopies or as [images](/files/busin
 <br> You are required to produce these supporting documents to Singapore Customs upon request.
 
 ***
-
