@@ -3,7 +3,6 @@ title: Overview
 permalink: /businesses/transhipping-goods/quick-guide-on-transhipping-goods
 third_nav_title: Transhipping Goods
 ---
-
 # Quick Guide on Transhipping Goods
 
 This page provides a quick guide on transhipment procedures for those who wish to tranship goods via Singapore.
@@ -93,7 +92,7 @@ Below are some examples of conditions in the permit indicating this requirement:
 |--|--|
 | **A1** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance/ endorsement at a Free Trade Zone "In" Gate. |
 | **A2** | The goods and this permit with invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at a Free Trade Zone ‘Out’ Gate unless it is directed to the “Green Lane’ at the time of clearance. |
-| **H1** | The goods must be produced together with this permit, invoices, BL/AWB, etc for Customs clearance / endorsement at Woodlands Checkpoint / Tuas Checkpoint. |
+| **H1** | The goods must be produced together with this permit, invoices, BL/AWB, etc for Customs clearance at Woodlands Checkpoint / Tuas Checkpoint. |
 | **H3** | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
 
 For a shipment which requires  **partial clearance**, the same permit should be presented each time for customs endorsement until the whole shipment is completely cleared.
@@ -111,5 +110,3 @@ You may be required to produce these supporting documents to Singapore Customs u
 You may also use an image system to store [images](/files/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf) of the documents without retaining the physical copy. Please read the  [guidelines](/news-and-media/notices/46_Notice_05_2015_Ver1.pdf) here for storing images of trade documents.
 
 ***
-
-
