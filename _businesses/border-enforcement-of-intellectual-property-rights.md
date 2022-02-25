@@ -60,19 +60,19 @@ Template of Documents:
 
 | No. | Forms |  Related Links |
 |---|---|---|
-| 1 |  Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Word Doc](/files/businesses/sample-of-guarantee-template-trade-marks-act-and-copyright-act.docx) (23.1KB) |
+| 1 |  Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Word Doc](https://go.gov.sg/grtt2022) |
 | 2 |  Letter of Undertaking under Trade Marks Act | [Word Doc](/files/businesses/letter-of-undertaking-under-trade-marks-act.docx) (17.9KB) |
 | 3 | Letter of Undertaking under Copyright Act | [Word Doc](/files/businesses/letter-of-undertaking-under-copyright-act.docx) (18.9KB) |
 
 ### For more information on border enforcement measures under the Trade Marks Act and the Copyright Act, please refer to the following:
 
   
-  -   [Part X of the Trade Marks Act](https://sso.agc.gov.sg/Act/TMA1998?ProvIds=pr81-,pr81A-,pr81B-,pr82-,pr83-,pr84-,pr85-,pr85A-,pr85B-,pr86-,pr87-,pr88-,pr89-,pr90-,pr91-,pr92-,pr93-,pr93A-,pr93B-,pr93C-,pr93D-,pr93E-,pr93F-,pr93G-,pr93H-,pr93I-,pr93J-,pr93K-,pr93L-,pr94-,pr95-,pr96-,pr97-,pr98-,pr99-,pr100-){:target="_blank"}
+  -   [Part 10 of the Trade Marks Act](https://sso.agc.gov.sg/Act/TMA1998?ProvIds=pr81-,pr81A-,pr81B-,pr82-,pr83-,pr84-,pr85-,pr85A-,pr85B-,pr86-,pr87-,pr88-,pr89-,pr90-,pr91-,pr92-,pr93-,pr93A-,pr93B-,pr93C-,pr93D-,pr93E-,pr93F-,pr93G-,pr93H-,pr93I-,pr93J-,pr93K-,pr93L-,pr94-,pr95-,pr96-,pr97-,pr98-,pr99-,pr100-){:target="_blank"}
   -   [Trade Marks (Border Enforcement Measures) Rules](https://sso.agc.gov.sg/SL/TMA1998-R2?DocDate=20191112){:target="_blank"}
   -   [Trade Marks (Border Enforcement Measures Fees) Rules](https://sso.agc.gov.sg/SL/TMA1998-S749-2019?DocDate=20191112){:target="_blank"}
-  -   [Part V Division 6 of the Copyright Act](https://sso.agc.gov.sg/Act/CA1987?ProvIds=pr140A-,pr140AA-,pr140AB-,pr140B-,pr140C-,pr140D-,pr140E-,pr140EA-,pr140EB-,pr140F-,pr140G-,pr140H-,pr140I-,pr140IA-,pr140J-,pr140K-,pr140L-,pr140LA-,pr140LB-,pr140LC-,pr140LD-,pr140LE-,pr140LF-,pr140LG-,pr140LH-,pr140LI-,pr140LJ-,pr140LK-,pr140LL-){:target="_blank"}
-  -   [Copyright (Border Enforcement Measures) Regulations](https://sso.agc.gov.sg/SL/CA1987-RG5?DocDate=20191112){:target="_blank"}
-  -   [Copyright (Border Enforcement Measures Fees) Regulations](https://sso.agc.gov.sg/SL/CA1987-S744-2019?DocDate=20191112){:target="_blank"}
+  -   [Part 6 Division 3 of the Copyright Act](https://sso.agc.gov.sg/SL/CA2021-S882-2021?DocDate=20211119&ProvIds=pr82-,pr83-,pr84-,pr85-,pr86-,pr87-,pr88-,pr89-){:target="_blank"}
+  -   [Part 5 Division 2 of the Copyright Regulations](https://sso.agc.gov.sg/SL/CA2021-S882-2021?DocDate=20211119&ProvIds=pr82-,pr83-,pr84-,pr85-,pr86-,pr87-,pr88-,pr89-){:target="_blank"}
+  -   [Copyright (Border Enforcement Measures Fees) Regulations](https://sso.agc.gov.sg/SL/CA2021-S881-2021?DocDate=20211119){:target="_blank"}
 
 ## Contact Us
 
