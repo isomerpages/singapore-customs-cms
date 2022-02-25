@@ -37,9 +37,9 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 
   | No. | Forms | Related Links |
   |---|---|---|
-  | i | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](/files/businesses/OMB/trade-marks-form-1.docx)  |
+  | i | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](https://go.gov.sg/tmf12022) |
   | ii | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](https://go.gov.sg/crf12021) |
-  | iii | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](/files/businesses/trade-marks-form-2.docx) |
+  | iii | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](https://go.gov.sg/tmf22022 ) |
   | iv | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](https://go.gov.sg/crf22021) |
 
 
