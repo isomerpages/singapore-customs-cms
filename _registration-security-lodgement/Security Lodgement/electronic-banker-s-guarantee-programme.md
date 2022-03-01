@@ -3,14 +3,13 @@ title: Electronic Banker's Guarantee Programme
 permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/Electronic-bankers-guarantee-programme
 third_nav_title: Security Lodgement
 ---
-
 # Singapore Customs Electronic Banker’s Guarantee Programme
 
 The Singapore Customs Electronic Banker’s Guarantee (eBG) Programme is implemented with effect from 2 Nov 2020 to provide a more efficient lodgement process for BG.
 
 ## Lodgement and Extension of eBG
 
-Under the Singapore Customs eBG Programme, the participating bank will seek your entity’s written consent, as the principal of the BG, to issue and digitally send the BG in electronic form (“eBG”) directly to Singapore Customs as soon as it is issued by the bank instead of hardcopy BG. You will also be able to extend the validity period of your eBG (“eExtension”) via this programme and the bank will similarly issue and digitally send the eExtension directly to Singapore Customs (note: a BG issued in the form of a hardcopy BG cannot be extended via this programme and will have to be extended as per the [existing process](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security). Each eBG /eExtension issued and digitally sent by the participating bank to Singapore Customs will be read together with the [Electronic Banker’s Guarantee Application Template](/files/businesses/PSB/EBG-Application-Template.pdf) and [Electronic Banker’s Guarantee Extension Template](/files/businesses/PSB/EBG-Extension-Template.pdf).
+Under the Singapore Customs eBG Programme, the participating bank will seek your entity’s written consent, as the principal of the BG, to issue and digitally send the BG in electronic form (“eBG”) directly to Singapore Customs as soon as it is issued by the bank instead of hardcopy BG. You will also be able to extend the validity period of your eBG (“eExtension”) via this programme and the bank will similarly issue and digitally send the eExtension directly to Singapore Customs (note: a BG issued in the form of a hardcopy BG cannot be extended via this programme and will have to be extended as per the [existing process](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security). Each eBG /eExtension issued and digitally sent by the participating bank to Singapore Customs will be read together with the [Electronic Banker's Guarantee Application Template](/files/EBG-Application-Template-25Feb2022.pdf) and [Electronic Banker's Guarantee Extension Template](/files/EBG-Extension-Template-25Feb2022.pdf).
 
 This streamlines the BG handling process, as you no longer have to collect the BG lodgement and extension from the issuing bank and send it to Singapore Customs.
 
@@ -37,5 +36,3 @@ OCBC: [https://go.gov.sg/ntp-ebgocbc](https://go.gov.sg/ntp-ebgocbc){:target="_b
 SMBC: [https://go.gov.sg/ntp-ebgsmbc](https://go.gov.sg/ntp-ebgsmbc){:target="_blank"}
 
 UOB: [https://go.gov.sg/ntp-ebguob](https://go.gov.sg/ntp-ebguob){:target="_blank"}
- 
-
