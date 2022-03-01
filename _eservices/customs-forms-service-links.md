@@ -180,7 +180,7 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | No. | Forms | Related Link |
 |--|--|--|
 | 1. | Activate / Update / Terminate Customs Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
-| 2. | Application for Inter-Bank GIRO | [Word Doc](https://go.gov.sg/interbank-giro) (80KB) |
+| 2. | Application for Inter-Bank GIRO | [Word Doc](https://go.gov.sg/customs-interbank-giro-ver12-1) (80KB) |
 | 3. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)
 | 4. | Application for the Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](/files/eservices/DeclaringAgents-Licensed-Premises.doc) (316KB) |
 | 5. | Apply / Update / Renew / Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct) |
@@ -191,7 +191,7 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | 10. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://form.gov.sg/5d2301ea6312c30018383627) |
 | 11. | Claimant Application by International Organisations supported by an agency other than the MFA | [Web Link](https://form.gov.sg/5d03113d2ce4bb0011a8801e) |
 | 12. | Security Application Template | [Word Doc](/files/eservices/Security-Application-template.doc) (44KB) |
-| 13. | Security Extension Template  <br> (Applicable only for new security lodged from 15 April 2019) | [Word Doc](/files/eservices/Security-Extension-template.doc) (36KB) |
+| 13. | Security Extension Template  <br> (Applicable only for new security lodged from 15 April 2019) | [Word Doc](https://go.gov.sg/customs-security-extension-template-ver3) (36KB)
 | 14. | Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores | [Web Link](https://go.gov.sg/seastores-exporter) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
