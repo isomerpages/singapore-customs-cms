@@ -1,14 +1,13 @@
 ---
 title: Procedures for Postal Parcels
 permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/procedures-for-pp
-third_nav_title: Importing by Post or Courier Service 
+third_nav_title: Importing by Post or Courier Service
 ---
-
 # Procedures for Postal Parcels
 
 The addressee indicated on postal parcels from overseas is deemed to be the importer. Goods imported by **post** or Speedpost services are processed and managed by [SingPost](http://www.singpost.com/){:target="_blank"}. (**Note**: Please refer to the next section on Procedures for Courier Parcels for information on goods imported under vPost, SingPost's eCommerce service.) The collection procedures for postal parcels is dependent on the type of goods and CIF value as shown in the table below.
 
-From 1 November 2021, recipients of items sent from overseas will be required to pay all duties and/or GST due via the SingPost app, SAM kiosks or at any post offices before delivery is made. SingPost will notify customers on GST and/or duty-payable items via a push notification on SingPost mobile app as well as via SMS/email/letter. Please refer to [SingPost's website](http://www.singpost.com/){:target="_blank"} for more details.
+From 1 November 2021, recipients of items sent from overseas will be required to pay all duties and/or GST due via the SingPost mobile app, SAM kiosks or at any post offices before delivery is made. SingPost will notify customers on GST and/or duty-payable items via a push notification on SingPost mobile app or via email/letter (if requested). Please refer to [SingPost's website](http://www.singpost.com/){:target="_blank"} for more details.
 
 | **Types of Goods** | **CIF value** | **GST Payable** | **Duty Payable** | **Permit Required** |
 |---|---|---|---|---|
@@ -35,13 +34,13 @@ To facilitate clearance, the importer should arrange with the overseas sender to
 
 ## Non-Dutiable and Non-Controlled Goods with a total CIF value exceeding S$400
 
--   For a postal parcel **with** its commercial invoice attached, GST will be computed and a push notification will be sent via SingPost mobile app and/or SMS/email/letter to you to make payment within 14 days from the date of notification. SingPost will deliver the postal parcel to you after payment has been made via your SingPost mobile app, SAM kiosk or at all post offices. Additional charges may be imposed by SingPost.
--   For a postal parcel **without** its commercial invoice attached, the parcel will be retained by SingPost. You will be informed through a notification letter to submit invoice(s) and other supporting documents to SingPost, which will then be sent to ICA for validation. GST will be computed and a push notification will be sent via SingPost mobile app and/or SMS/email/letter to customers to make the payment. Additional charges may be imposed by SingPost. 
+-   For a postal parcel **with** its commercial invoice attached, GST will be computed and a push notification will be sent via SingPost mobile app and/or email/letter (if requested) to you to make payment within 14 days from the date of notification. SingPost will deliver the postal parcel to you after payment has been made via your SingPost mobile app, SAM kiosk or at all post offices. Additional charges may be imposed by SingPost.
+-   For a postal parcel **without** its commercial invoice attached, the parcel will be retained by SingPost. You will be informed through a notification letter to submit invoice(s) and other supporting documents to SingPost, which will then be sent to ICA for validation. GST will be computed and a push notification will be sent via SingPost mobile app and/or email/letter (if requested) to customers to make the payment. Additional charges may be imposed by SingPost. 
 
 ## Dutiable and Non-Controlled Goods
 
--   For a postal parcel **with** its commercial invoice attached, GST and duty will be computed and a push notification will be sent via SingPost mobile app and/or SMS/email/letter to you to make payment within 14 days from the date of notification. SingPost will deliver the postal parcel to you after payment has been made via your SingPost mobile app, SAM kiosk or at all post offices. Additional charges may be imposed by SingPost.
--   For a postal parcel **without** its commercial invoice attached, the parcel will be retained by SingPost. You will be informed through a notification letter to submit invoice(s) and other supporting documents to SingPost, which will then be sent to ICA for validation. GST and duty will be computed and a push notification will be sent via SingPost mobile app and/or SMS/email/letter to customers to make payment within 14 days from the date of notification. Additional charges may be imposed by SingPost. With effect from 1 November 2021, collection of parcel and payment of the GST and duty of the dutiable items at SingPost Centre is no longer available.
+-   For a postal parcel **with** its commercial invoice attached, GST and duty will be computed and a push notification will be sent via SingPost mobile app and/or email/letter (if requested) to you to make payment within 14 days from the date of notification. SingPost will deliver the postal parcel to you after payment has been made via your SingPost mobile app, SAM kiosk or at all post offices. Additional charges may be imposed by SingPost.
+-   For a postal parcel **without** its commercial invoice attached, the parcel will be retained by SingPost. You will be informed through a notification letter to submit invoice(s) and other supporting documents to SingPost, which will then be sent to ICA for validation. GST and duty will be computed and a push notification will be sent via SingPost mobile app and/or email/letter (if requested) to customers to make payment within 14 days from the date of notification. Additional charges may be imposed by SingPost. With effect from 1 November 2021, collection of parcel and payment of the GST and duty of the dutiable items at SingPost Centre is no longer available.
 
 ## Controlled Goods (applicable to both Dutiable and non-Dutiable Goods)
 
@@ -57,4 +56,3 @@ To facilitate clearance, the importer should arrange with the overseas sender to
 -   Where a postal item (parcel and mail) indicates an address within the FTZ on the CN 22 / CN 23 for delivery, the postal item shall be presumed to be intended for consumption within the FTZ, In such cases, the postal item would be taxable unless its value is below S$400.
 
 -   Where the postal item is intended to be re-exported, the recipient is required to produce to SingPost a TradeNet permit to prove the recipient's intent to re-export or store the goods within the FTZ (pending re-export). Such permits and all other relevant documentation must be kept as supporting documents and produced to Customs upon request.
-
