@@ -7,7 +7,7 @@ third_nav_title: Importing by Post or Courier Service
 
 ### For Postal Parcels
 
-With effect from 1 November 2021, collection of parcel and payment of the GST and duty of the items at SingPost Centre are no longer available. A push notification will be sent via SingPost mobile app and/or email/letter (if requested) to customers to make the payment. Customers can pay via Amex, MasterCard, Visa, NETS and Cash via the SingPost app, SAM kiosks or at any post offices. Please refer to [SingPost's website](http://www.singpost.com/) for more information on the payment modes.
+With effect from 1 November 2021, collection of parcel and payment of the GST and duty of the items at SingPost Centre are no longer available. A push notification will be sent via SingPost mobile app and/or email/letter (if requested) to customers to make the payment. Customers can pay via Amex, MasterCard, Visa, NETS and Cash via the SingPost mobile app, SAM kiosks or at any post offices. Please refer to [SingPost's website](http://www.singpost.com/) for more information on the payment modes.
 
 You may be required to apply for a customs permit for clearance and submit as part of the supporting documents to SingPost, if applicable.
 
