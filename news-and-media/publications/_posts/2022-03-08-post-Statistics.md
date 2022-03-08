@@ -1,6 +1,6 @@
 ---
 title: Statistics
-date: 2022-01-27
+date: 2022-03-08
 permalink: /news-and-media/publications/Statistics/
 layout: post
 description: ""
@@ -8,11 +8,13 @@ description: ""
 
 # Statistics
 
-## [Revenue Statistics](https://go.gov.sg/revenuestats-dec21){:target="_blank"} 
+## [Revenue Statistics*](https://go.gov.sg/revenuestats-Jan22){:target="_blank"} 
 
 -   Yearly and monthly customs and excise duties collection for liquor, tobacco, motor vehicles and petroleum products and duty-paid releases for these products
 -   Goods and Services Tax (GST) collection for imported and locally manufactured goods
 -   Annual cost per dollar collected by Singapore Customs
+
+*The file format is to be opened using Microsoft Excel or Numbers application when viewed on an iPhone or iPad.
 
 ## [Trade Facilitation Statistics](/files/news-and-media/TradeFacilitationStatsFY16FY20.xls){:target="_blank"} 
 
