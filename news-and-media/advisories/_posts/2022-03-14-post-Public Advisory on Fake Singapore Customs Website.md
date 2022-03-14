@@ -12,4 +12,3 @@ We would also like to assure members of the public that access to the official S
 Members of the public are advised to use only the official Singapore Customs website at https://www.customs.gov.sg/ and the Networked Trade Platform at https://www.ntp.gov.sg/home/ for all informational and transactional needs concerning customs matters, respectively.
 
 ![](/images/advisory/Fake%20website.jpg)
-
