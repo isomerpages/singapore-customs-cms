@@ -1,10 +1,8 @@
 ---
-title: Declarant 
+title: Declarant
 permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declarant
 third_nav_title: Apply Update Renew Terminate Declaring Agent
 ---
-
-
 # Declarant
 
 ## Application Process
@@ -13,7 +11,13 @@ The Key Personnel or Authorised Personnel of a DA can [register an individual as
 
 The individual will receive an email requesting him to sign and acknowledge a set of [Terms and Conditions for Declarants](/files/businesses/TCs-Declarant-final.pdf). The individual must ensure that he understands his roles and responsibilities as a Declarant before he signs and acknowledges on the Terms and Conditions for Declarants.
 
-The individual must also enrol for and pass the [Customs Competency Test for Declarants (SC 401)](https://go.gov.sg/sc401){:target="_blank"}. Upon registration and closing of the test session, we will send an invoice to the email address indicated in the application form. Payment must be made through AXS/e-AXS/SIngPost before the due date indicated in the invoice. Upon successful payment, we will send a confirmation of the registration to the same email address indicated in the application form. This is to ensure that Declarants possess adequate knowledge on Customs' documentation and procedures to better advise their clients. There are self-learning avenues on Customs' procedural knowledge available and the individual may visit the  [Customs website](https://www.customs.gov.sg/) and its online resources such as the  [Guide to Customs' Procedures](/businesses/business-resources/elearning), guides to specific schemes etc., or attend courses held at  [Nanyang Polytechnic](https://www.nyp.edu.sg/schools/sbm/lifelong-learning.html?id=other-short-courses){:target="_blank"}  or  [Republic Polytechnic](https://www.rp.edu.sg/ace/course-summary?searchKeyword=customs){:target="_blank"}.
+The individual must also enrol for and pass the [Customs Competency Test for Declarants (SC 401)](https://go.gov.sg/sc401){:target="_blank"}. Upon registration and closing of the test session, we will send an invoice to the email address indicated in the application form. Payment must be made through AXS/e-AXS/SIngPost before the due date indicated in the invoice. Upon successful payment, we will send a confirmation of the registration to the same email address indicated in the application form. This is to ensure that Declarants possess adequate knowledge on Customs' documentation and procedures to better advise their clients. 
+
+To prepare for the Customs Competency Test, the individual should:
+-	Familiarise themselves with the various permit types and procedures available on Singapore Customs website;
+-	Look out for [compliance best practices](https://www.customs.gov.sg/businesses/compliance/self-compliance) on Singapore Customs website;
+-	Complete the [e-learning module](https://www.customs.gov.sg/businesses/business-resources/elearning) on Singapore Customs website;
+-	Attend courses such as SC101 and SC102 courses conducted at Nanyang Polytechnic or Republic Polytechnic. Please note that it is optional to sign up for these business courses and it is not a requirement for SC 401 test-takers to attend any of the business courses before taking the test.
 
 If a Declarant has changed employment and wish to be registered under another DA, he will not be required to take the competency test again. However, Declarants with poor compliance records with Singapore Customs may be required to re-take and pass the competency test to maintain their Declarant registration status.
 
