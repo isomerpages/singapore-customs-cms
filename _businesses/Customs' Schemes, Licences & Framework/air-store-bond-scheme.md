@@ -22,7 +22,7 @@ To qualify for the Air Store Bond Scheme, the company must:
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Obtain approval from the Changi Airport Group to operate an air store bond
--   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Enhanced” Band
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining  “Enhanced” Band
 
 ## Licence Fee
 
@@ -81,8 +81,6 @@ For new applications, the Banker’s Guarantee or insurance bond will be based o
 Once the application is successful, we will contact you to follow up with your application
 
 For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 

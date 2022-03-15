@@ -59,7 +59,7 @@ To qualify for the Licensed Warehouse Scheme, the company must:
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Have good stock record-keeping and warehouse procedures
 -   Be responsible for the security, accountability and control of the dutiable goods
--   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the respective licence types under the LW Scheme
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the minimum band to qualify for the respective licence types under the LW Scheme
 
 ## Licence Fee
 
@@ -124,8 +124,6 @@ Singapore Customs reserves the right to impose a Banker’s Guarantee or insuran
 Once the application is successful, we will contact you to follow up with your application.
 
 For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 

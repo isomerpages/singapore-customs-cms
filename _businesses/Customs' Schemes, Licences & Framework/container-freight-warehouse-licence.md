@@ -19,7 +19,7 @@ To qualify for the licence, the company must:
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Operate a robust computerised inventory system which is able to track and account for the inventory status and movement of all goods stored in the container freight warehouse
 -   Be responsible for the security, accountability and control of the goods
--   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum Enhanced Band
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the minimum "Enhanced" Band
 
 ## Licence Fee
 
@@ -77,8 +77,6 @@ Singapore Customs reserves the right to impose a Banker’s Guarantee or insuran
 Once the application is successful, we will contact your company to follow up with the application.
 
 For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 

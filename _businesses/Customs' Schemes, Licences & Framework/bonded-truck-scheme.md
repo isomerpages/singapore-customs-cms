@@ -22,7 +22,7 @@ To qualify for the BTS, the company must-
 -   be Goods and Services Tax (GST)-registered with the Inland Revenue Authority of Singapore;
 -   have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account);
 -   have good compliance records with Singapore Customs;
--   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the “Premium” Band; and
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the “Premium” Band; and
 -   engage an external auditor, if required by Customs, to assess the company's need for the BTS upon renewal (e.g. to establish if cargo volumes qualify for BTS).
 
 ## Key Responsibilities
@@ -58,8 +58,6 @@ Singapore Customs reserves the right to impose a Banker’s Guarantee or insuran
 Once your application is received, we will contact you to follow up with your application.
 
 For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 

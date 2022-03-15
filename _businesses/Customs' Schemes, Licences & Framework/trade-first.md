@@ -133,8 +133,6 @@ Reviews may also be conducted at shorter intervals under special circumstances, 
 
 If you require further assistance on TradeFIRST, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
-
 ## Frequently Asked Questions (FAQs)
 
 This section guides companies who wish to perform a TradeFIRST self-assessment under specific business operations mentioned below.

@@ -3,7 +3,6 @@ title: Industrial Exemption Factory Scheme
 permalink: /businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
-
 # Industrial Exemption Factory Scheme
 
 ## What is it?
@@ -76,8 +75,6 @@ Singapore Customs will contact you directly to follow up with your application.
 Singapore Customs reserves the right to impose a Banker’s Guarantee or insurance bond, if required, to cover the potential duty of the duty-exempted raw materials.
 
 If you require further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 

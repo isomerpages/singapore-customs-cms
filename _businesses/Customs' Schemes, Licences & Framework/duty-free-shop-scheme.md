@@ -20,7 +20,7 @@ To qualify for the DFS Scheme, the company must:
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Seek prior approval from the landlord, such as Changi Airport Group (CAG) and Singapore Cruise Centre (SCC), to operate a duty free shop
 -   Obtain necessary approval from the relevant competent authorities, such as Singapore Police Force (SPF) and Health Sciences Authority (HSA)
--   Undergo  [TradeFIRST assessment](/businesses/customs-schemes-licences-framework/trade-first) and attain minimally the Enhanced band
+-   Undergo  [TradeFIRST assessment](/businesses/customs-schemes-licences-framework/trade-first) and meet all the mandatory criteria while attaining minimum “Enhanced” Band
 
 ## Licence Fee
 
@@ -71,8 +71,6 @@ _*Average past monthly duty means the average of the total customs and excise du
 Once the application is successful, we will contact you to follow up on your application.
 
 If you require further assistance, please email us at  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 
