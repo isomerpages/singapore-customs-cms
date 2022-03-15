@@ -30,7 +30,7 @@ For example, if a company is paying $4,000 for the Licensed Warehouse licence an
 
 ## How to Apply?
 
-Please email Customs_Schemes@customs.gov.sg if you are interested in applying for an Apex Licence.
+Please email [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg) if you are interested in applying for an Apex Licence.
 
 ## Application for Changes to Schemes for Existing Licensees
 
