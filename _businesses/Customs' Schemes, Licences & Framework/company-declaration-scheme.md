@@ -32,7 +32,7 @@ To qualify for the Company Declaration Scheme, the company must:
 -   Be an ALPS tenant
 -   Have direct control and responsibility for all the goods within its facility
 -   Ensure 80% of the goods are for exports
--   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the Enhanced Band
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the minimum “Enhanced” Band
 
 ## Key Responsibilities
 
