@@ -33,7 +33,7 @@ To qualify for a Petroleum and Biodiesel Blends Licence, the company must:
 -   Ensure the premises to be licensed is a storage-based facility with security measures in place
 -   Have good stock record-keeping and warehouse procedures
 -   Be responsible for the security, accountability and control of the goods
--   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum “Enhanced” band
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining  the minimum “Enhanced” band
 
 ## Licence Fee
 
@@ -85,8 +85,6 @@ Singapore Customs reserves the right to impose a Banker’s Guarantee or insuran
 Once the application is successful, we will contact you to follow up with your application. 
 
 For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 
