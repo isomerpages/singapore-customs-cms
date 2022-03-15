@@ -24,7 +24,7 @@ To qualify for the Excise Factory Scheme, the company must:
 -   Have a valid  [Customs Account](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)
 -   Have good compliance records with Singapore Customs
 -   Be responsible for the security, accountability and control of the dutiable goods
--   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the minimum band to qualify for the different activities under the scheme (Refer to “Licence Fee” section).
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the minimum band to qualify for the different activities under the scheme (Refer to “Licence Fee” section).
 
 ## Licence Fee
 
@@ -95,8 +95,6 @@ For existing licensees, the amount will be based on the average monthly excise d
 Once the application is successful, we will contact you to follow up on your application.
 
 For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 
