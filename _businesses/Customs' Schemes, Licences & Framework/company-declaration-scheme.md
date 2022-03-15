@@ -32,7 +32,7 @@ To qualify for the Company Declaration Scheme, the company must:
 -   Be an ALPS tenant
 -   Have direct control and responsibility for all the goods within its facility
 -   Ensure 80% of the goods are for exports
--   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and attain the Enhanced Band
+-   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the Enhanced Band
 
 ## Key Responsibilities
 
@@ -75,8 +75,6 @@ Singapore Customs reserves the right to impose a Banker’s Guarantee or Insuran
 Once the application is received, we will contact you to follow up with your application.
 
 For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
-
-Alternatively, for urgent scheme-related matters, please contact us via our hotlines (8922 0485 and 8922 5130). Our operating hours are 8am to 6pm (Mondays to Fridays, except on public holidays).
 
 ## Application for Changes to Schemes for Existing Licensees
 
