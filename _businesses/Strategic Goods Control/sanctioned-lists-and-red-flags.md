@@ -3,7 +3,6 @@ title: Sanctioned Lists and Red Flags
 permalink: /businesses/strategic-goods-control/sanctioned-lists-and-red-flags
 third_nav_title: Strategic Goods Control
 ---
-
 # Sanctioned Lists and Red Flags
 
 ## United Nations Security Council (UNSC) Sanctions
@@ -13,6 +12,10 @@ As a member of the United Nations, Singapore implements the  [Resolutions](https
 Please refer to the  **[United Nations Security Sanctions](/businesses/united-nations-security-council-sanctions/){:target="_blank"}** page for more information.
 
 You are also advised to look out for red flags to ensure your trading activities comply with Singapore’s domestic laws and the UNSC Resolutions. Please note Singapore does not enforce unilateral sanctions imposed by other countries.
+
+## Export Controls on Russia
+
+In order to constrain Russia’s capacity to conduct war against Ukraine, export controls have been imposed on items that can be used as weapons to inflict harm on or to subjugate the Ukrainians, as well as items that can contribute to offensive cyber operations. Details of the export controls measures can be found at [Sanctions and Restrictions Against Russia in Response to its Invasion of Ukraine](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/03/20220305-sanctions){:target="_blank"}.
 
 ## Red Flags
 
@@ -57,4 +60,3 @@ Note: The links below are meant to be a general guide and do not constitute a co
 | **United States** | [**US Bureau of Industry and Security**](http://www.bis.doc.gov/){:target="_blank"}: <br><br> - [Denied Persons List](http://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/denied-persons-list){:target="_blank"} <br> - [Unverified List](http://www.bis.doc.gov/enforcement/unverifiedlist/unverified_parties.html){:target="_blank"} <br> - [Entity List](https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list){:target="_blank"} |
 |  |  [**US Department of State**](http://www.state.gov/){:target="_blank"}: <br><br> - [Nonproliferation Sanctions](http://www.state.gov/t/isn/c15231.htm){:target="_blank"} <br> - [List of Statutorily Debarred Parties](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=7188dac6db3cd30044f9ff621f961914){:target="_blank"} <br> - [International Traffic in Arms Regulations](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987){:target="_blank"}|
 |  | [**US Department of the Treasury**](http://www.treasury.gov/){:target="_blank"}: <br><br> - [Sanctions Programs and Country Information](http://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx){:target="_blank"} <br>  - [Sanctions Programs and Country Information - North Korea Sanctions](https://www.treasury.gov/resource-center/sanctions/Programs/pages/nkorea.aspx){:target="_blank"} <br> - [Specially Designated Nationals List (SDN)](http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx){:target="_blank"} <br> - [OFAC Recent Actions](http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx){:target="_blank"} |
-
