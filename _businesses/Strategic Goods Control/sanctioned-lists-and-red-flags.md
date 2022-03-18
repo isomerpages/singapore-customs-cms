@@ -15,7 +15,7 @@ You are also advised to look out for red flags to ensure your trading activities
 
 ## Export Controls on Russia
 
-In order to constrain Russia’s capacity to conduct war against Ukraine, export controls have been imposed on items that can be used as weapons to inflict harm on or to subjugate the Ukrainians, as well as items that can contribute to offensive cyber operations. Details of the export controls measures can be found at [Sanctions and Restrictions Against Russia in Response to its Invasion of Ukraine](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/03/20220305-sanctions).
+In order to constrain Russia’s capacity to conduct war against Ukraine, export controls have been imposed on items that can be used as weapons to inflict harm on or to subjugate the Ukrainians, as well as items that can contribute to offensive cyber operations. Details of the export controls measures can be found at [Sanctions and Restrictions Against Russia in Response to its Invasion of Ukraine](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/03/20220305-sanctions){:target="_blank"}.
 
 ## Red Flags
 
