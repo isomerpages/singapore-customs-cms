@@ -21,4 +21,5 @@ You need not re-authorise your DA when you change the bank account used for your
 **Authorisation of Declaring Agent (DA ) for Licensed Premises**
 
 •	DAs can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DAs.
+
 •	To apply, go to https://www.customs.gov.sg/eservices/customs-forms-and-service-links and download the Application for the Authorisation of Declaring Agent(s) for Licensed Premises. The licensee is required to complete the application form and email it to customs_schemes@customs.gov.sg. The processing time is 2 working days.
