@@ -18,8 +18,8 @@ You can also [add or remove any authorised DA](https://www.tradenet.gov.sg/TN41E
 You need not re-authorise your DA when you change the bank account used for your IBG or when you renew your security with Singapore Customs. You may approach your entity's Primary Contact (or the Secondary Contact should transmission to Primary Contact fails) registered in your  [Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}
 , to obtain the approval letter which contains the full list of DA(s) who are authorised to use your entity's IBG and/or security as of the letter date.
 
-**Authorisation of Declaring Agent (DA ) for Licensed Premises**
+**Authorisation of Declaring Agent (DA) for Licensed Premises**
 
-•	DAs can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DAs.
+•	DA(s) can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DA(s).
 
-•	To apply, go to https://www.customs.gov.sg/eservices/customs-forms-and-service-links and download the Application for the Authorisation of Declaring Agent(s) for Licensed Premises. The licensee is required to complete the application form and email it to customs_schemes@customs.gov.sg. The processing time is 2 working days.
+•	To [apply and download the Application](https://www.customs.gov.sg/eservices/customs-forms-and-service-links)  for the Authorisation of Declaring Agent(s) for Licensed Premises. The licensee is required to complete the application form and email it to customs_schemes@customs.gov.sg. The processing time is 2 working days.
