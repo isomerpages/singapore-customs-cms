@@ -1,6 +1,5 @@
 ---
-title: "Singapore Customs arrests two men and seizes more than 2000 cartons of
-  duty unpaid cigarettes  "
+title: "Singapore Customs arrests two men and seizes more than 2,000 cartons of duty-unpaid cigarettes"
 date: 2022-03-11
 layout: file
 description: ""
