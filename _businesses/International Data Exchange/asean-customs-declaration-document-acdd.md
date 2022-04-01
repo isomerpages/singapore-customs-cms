@@ -13,7 +13,8 @@ The ACDD is optional and open to all traders who export goods to an exchange-rea
   a)  Cambodia<br>
   b)  Malaysia<br>
   c)  Myanmar<br>
-  d)  Thailand<br>
+	d)  Philippines<br>
+  e)  Thailand<br>
 
 More AMS will commence live operation when they are ready to do so.<br>
 
