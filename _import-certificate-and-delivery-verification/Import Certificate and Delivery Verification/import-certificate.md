@@ -10,7 +10,7 @@ third_nav_title: Import Certificate and Delivery Verification
 -   You are importing goods into Singapore which are subject to the exporting country’s export control, or
 -   The exporting country requires an IC.
 
-Submit the [application form](http://www.ntp.gov.sg/).
+Submit the [application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab).
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ The supporting documents for your IC application include:
 
 ## Submission of and Payment for an IC Application
 
-Please submit your completed application and supporting documents the online application form found on the NTP website.
+Please submit your completed application and supporting documents the [online application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab) found on the [NTP website](https://www.ntp.gov.sg/home).
 
 If the documents are in order, we will deduct the processing fee via IBG.
 
@@ -63,7 +63,7 @@ An approved ICDV is valid for  **one year**. Goods under the IC should be import
 
 ## Extending an IC
 
-If you wish to extend the validity by another year, you may apply via the online application form found on the [NTP website](http://www.ntp.gov.sg/) for an extension at least 14 days before the IC expires.
+If you wish to extend the validity by another year, you may apply via the [online application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab) found on the [NTP website](http://www.ntp.gov.sg/) for an extension at least 14 days before the IC expires.
 
 ## Conditions of Import
 
@@ -111,7 +111,7 @@ The new owner of the goods should also submit a  [New Ownership Declaration Lett
 
 ## Cancelling your IC
 
-If you decide not to import the goods after obtaining the IC, you should notify us via the online application form found on the NTP website for cancellation at least 14 days before the IC expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore.
+If you decide not to import the goods after obtaining the IC, you should notify us via the [online application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab) found on the [NTP website](https://www.ntp.gov.sg/home) for cancellation at least 14 days before the IC expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore.
 
 ## Penalties
 
