@@ -3,7 +3,6 @@ title: Import Certificate
 permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate
 third_nav_title: Import Certificate and Delivery Verification
 ---
-
 # Import Certificate 
 
 ## You can apply for an Import Certificate (IC) if:
@@ -11,39 +10,27 @@ third_nav_title: Import Certificate and Delivery Verification
 -   You are importing goods into Singapore which are subject to the exporting country’s export control, or
 -   The exporting country requires an IC.
 
-Download the [application form.](/eservices/customs-forms-and-service-links)
+Submit the [application form](http://www.ntp.gov.sg/).
+
+## Getting Started
+
+-   Before making an Import Certificate and Delivery Verification (ICDV) application, you should:
+    -   Activate Customs Account; and
+    -   Apply for Inter-Bank Giro (IBG)
 
 ## Completing an IC Application
 
 -   Fill in these details:
     
-    -   Applicant's full name, address, telephone/fax number and email address
-    -   [Unique Entity No. (UEN)](http://www.uen.gov.sg/){:target="_blank"}
+    -   Applicant's full name, designation, telephone number and email address
+    -   [Unique Entity No. (UEN)](http://www.uen.gov.sg/)
     -   Exporter's name and address
     -   End-user's name and address
-    -   8-digit  HS Code
 -   Indicate whether the goods are for use in Singapore or for re-export. If the goods are for re-export, state the country where the goods will be re-exported to.
--   A maximum of 10 items can be filled in each IC application. Please use another application sheet if you have more than 5 items on one sheet.
+-   A maximum of 20 items can be filled in each IC application.
 -   Description of goods refers to the exact name of the items. The description must match the particulars in the end user's and foreign exporter's declarations, including brand, model number and technical specifications.
--   For each item, state the quantity to be imported and its unit of measurement (for example, 12 tonnes, 5 pieces).
+-   For each item, state its 8-digit HS code, the quantity to be imported and its unit of measurement (for example, 12 tonnes, 5 pieces).
 -   For each item, state the Cost, Insurance and Freight (CIF) value in Singapore dollars.
--   Sign off the application by an authorised person in the company, indicating the full name and designation.
-
-## Getting Started
-
--   Before making an ICDV application, you should:
-    -   Activate Customs Account; and
-    -   Apply for Inter-Bank Giro (IBG)
-
-## Submission of and Payment for an ICDV Application
-
-Please submit your completed application and supporting documents  via NTP.
-
-If the documents are in order, we will deduct the processing fee via IBG.
-
-A S$10 processing fee is payable for each IC application.
-
-Please note that each application will typically be processed within 2 working days upon receipt of the completed application with all relevant supporting documents, and payment of processing fee.  
 
 ## Supporting Documents
 
@@ -56,15 +43,27 @@ The supporting documents for your IC application include:
 -   Technical specifications of the goods to be imported (for example, operating instructions, manuals, brochures, data sheets, catalogues)
 -   Other relevant supporting documents
 
+
+## Submission of and Payment for an IC Application
+
+Please submit your completed application and supporting documents the online application form found on the NTP website.
+
+If the documents are in order, we will deduct the processing fee via IBG.
+
+A S$10 processing fee is payable for each IC application.
+
+Please note that each application will typically be processed within 2 working days upon receipt of the completed application with all relevant supporting documents, and payment of processing fee.  
+
+
 ## Approval of IC
 
-Once the application is approved, we will upload the endorsed copy of the ICDV via NTP. You should keep a copy for your own records and forward one copy to your exporter in the exporting country.
+Once the application is approved, we will send you the endorsed copy of the ICDV via email. You should keep a copy for your own records and forward one copy to your exporter in the exporting country.
 
 An approved ICDV is valid for  **one year**. Goods under the IC should be imported into Singapore within that period.
 
 ## Extending an IC
 
-If you wish to extend the validity by another year, you may apply via NTP for an extension at least 14 days before the IC expires.
+If you wish to extend the validity by another year, you may apply via the online application form found on the [NTP website](http://www.ntp.gov.sg/) for an extension at least 14 days before the IC expires.
 
 ## Conditions of Import
 
@@ -84,7 +83,7 @@ After receiving the approved IC, you should obtain an import permit via  [TradeN
 -   You may import goods under different ICs using a single import permit. Declare the respective ICDV numbers for each item in the permit application.
 -   Do not combine ICDV items with non-ICDV items in the same permit application.
 -   For the CA/SC Product Quantity-UOM field, declare the quantity and unit as stated in your IC.
--   Please submit a copy of approved ICDV, commercial invoice, bill of lading / airway bill, and packing list to Singapore Customs by uploading to TradeNet.
+-   Please submit a copy of the approved ICDV, commercial invoice, bill of lading / airway bill, and packing list to Singapore Customs by uploading to TradeNet.
 
 ## Re-exporting Goods from Singapore
 
@@ -112,7 +111,7 @@ The new owner of the goods should also submit a  [New Ownership Declaration Lett
 
 ## Cancelling your IC
 
-If you decide not to import the goods after obtaining the IC, you should notify us via email for cancellation at least 14 days before it expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore.
+If you decide not to import the goods after obtaining the IC, you should notify us via the online application form found on the NTP website for cancellation at least 14 days before the IC expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore.
 
 ## Penalties
 

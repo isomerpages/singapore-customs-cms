@@ -3,7 +3,6 @@ title: Delivery Verification
 permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification
 third_nav_title: Import Certificate and Delivery Verification
 ---
-
 # Delivery Verification
 
 The exporting country may require a Delivery Verification (DV) after you have imported your goods. Please check if your exporter requires a DV when applying for an Import Certificate (IC).
@@ -30,7 +29,7 @@ For verification of partial delivery, please upload:
 -   Export Licence (and its English translation) from the originating country
 -   Business transaction documents (for example, invoice, packing list, delivery order)
 
-We will endorse the Statement of Delivery Verification and upload the copy to you via NTP. When all the goods under the IC have been imported, you should apply for verification for the complete delivery.
+We will endorse the Statement of Delivery Verification and send the copy to you via email. When all the goods under the IC have been imported, you should apply for verification for the complete delivery.
 
 ## Complete Delivery Verification
 
@@ -51,6 +50,6 @@ After verification, you should send the ICDV to the exporter without delay.
 
 ## Submitting Your DV Application
 
-For **Complete DV** or  **Partial DV**, please submit your documents to us via NTP.
+For **Complete DV** or **Partial DV**, please submit your documents to us via the online application form found on the [Networked Trade Platform (NTP) website](http://www.ntp.gov.sg/).
 
-If the documents are in order, we will upload the endorsed copy of the ICDV via NTP.
+If the documents are in order, we will send the endorsed copy of the ICDV to you via email.

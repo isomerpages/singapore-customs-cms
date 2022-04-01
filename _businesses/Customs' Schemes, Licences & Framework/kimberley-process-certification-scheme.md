@@ -3,7 +3,6 @@ title: Kimberley Process Certification Scheme
 permalink: /businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
-
 # Kimberley Process Certification Scheme
 
 ## What is it?
@@ -40,11 +39,9 @@ To apply for a KP Licence,  you need to:
 -   Activate your Customs Account;
 -   Have a valid  [Inter-Bank GIRO (IBG) account](/eservices/customs-forms-and-service-links)  with Singapore Customs for the deduction of the annual licence fee (S$50 per year or part thereof);
 -   Register for a Corppass Account and a Networked Trade Platform (NTP) account; and
--   Submit the  [KP Licence application form](/eservices/customs-forms-and-service-links)  and all supporting documents via the  [Networked Trade Platform (NTP) website](http://www.ntp.gov.sg/).
+-   Submit the  KP Licence application form and all supporting documents via the online application form found on the [Networked Trade Platform (NTP) website](http://www.ntp.gov.sg/).
 
-Please refer to  [Notice No. 19/2018](/news-and-media/notices/)  for more information on the NTP application and submission procedures. 
-
-The  Kimberley Process licence expires on 31 December of the year in which it is issued and needs to be renewed annually thereafter. The licence renewal is subject to Customs’ review and assessment before it can be renewed. Please refer to the  [KP Licence application form](/eservices/customs-forms-and-service-links)  for the terms and conditions for the KP Licence.
+The  Kimberley Process licence expires on 31 December of the year in which it is issued and needs to be renewed annually thereafter. The licence renewal is subject to Customs’ review and assessment before it can be renewed. Please refer to the  KP Licence application form for the terms and conditions for the KP Licence.
 
 ## How to Apply for a Kimberley Process Certificate?
 
