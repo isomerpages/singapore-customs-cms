@@ -50,6 +50,6 @@ After verification, you should send the ICDV to the exporter without delay.
 
 ## Submitting Your DV Application
 
-For **Complete DV** or  **Partial DV**, please submit your documents to us via NTP.
+For **Complete DV** or **Partial DV**, please submit your documents to us via the online application form found on the Networked Trade Platform (NTP) website.
 
-If the documents are in order, we will upload the endorsed copy of the ICDV via NTP.
+If the documents are in order, we will send the endorsed copy of the ICDV to you via email.
