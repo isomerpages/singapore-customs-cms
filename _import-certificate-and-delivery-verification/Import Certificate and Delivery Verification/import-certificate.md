@@ -32,17 +32,6 @@ Submit the [application form](http://www.ntp.gov.sg/).
 -   For each item, state its 8-digit HS code, the quantity to be imported and its unit of measurement (for example, 12 tonnes, 5 pieces).
 -   For each item, state the Cost, Insurance and Freight (CIF) value in Singapore dollars.
 
-
-## Submission of and Payment for an ICDV Application
-
-Please submit your completed application and supporting documents  via NTP.
-
-If the documents are in order, we will deduct the processing fee via IBG.
-
-A S$10 processing fee is payable for each IC application.
-
-Please note that each application will typically be processed within 2 working days upon receipt of the completed application with all relevant supporting documents, and payment of processing fee.  
-
 ## Supporting Documents
 
 The supporting documents for your IC application include:
@@ -54,9 +43,21 @@ The supporting documents for your IC application include:
 -   Technical specifications of the goods to be imported (for example, operating instructions, manuals, brochures, data sheets, catalogues)
 -   Other relevant supporting documents
 
+
+## Submission of and Payment for an IC Application
+
+Please submit your completed application and supporting documents the online application form found on the NTP website.
+
+If the documents are in order, we will deduct the processing fee via IBG.
+
+A S$10 processing fee is payable for each IC application.
+
+Please note that each application will typically be processed within 2 working days upon receipt of the completed application with all relevant supporting documents, and payment of processing fee.  
+
+
 ## Approval of IC
 
-Once the application is approved, we will upload the endorsed copy of the ICDV via NTP. You should keep a copy for your own records and forward one copy to your exporter in the exporting country.
+Once the application is approved, we will send you the endorsed copy of the ICDV via email. You should keep a copy for your own records and forward one copy to your exporter in the exporting country.
 
 An approved ICDV is valid for  **one year**. Goods under the IC should be imported into Singapore within that period.
 
