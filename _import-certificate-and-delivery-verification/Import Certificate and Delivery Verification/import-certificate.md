@@ -63,7 +63,7 @@ An approved ICDV is valid for  **one year**. Goods under the IC should be import
 
 ## Extending an IC
 
-If you wish to extend the validity by another year, you may apply via NTP for an extension at least 14 days before the IC expires.
+If you wish to extend the validity by another year, you may apply via the online application form found on the NTP website for an extension at least 14 days before the IC expires.
 
 ## Conditions of Import
 
@@ -83,7 +83,7 @@ After receiving the approved IC, you should obtain an import permit via  [TradeN
 -   You may import goods under different ICs using a single import permit. Declare the respective ICDV numbers for each item in the permit application.
 -   Do not combine ICDV items with non-ICDV items in the same permit application.
 -   For the CA/SC Product Quantity-UOM field, declare the quantity and unit as stated in your IC.
--   Please submit a copy of approved ICDV, commercial invoice, bill of lading / airway bill, and packing list to Singapore Customs by uploading to TradeNet.
+-   Please submit a copy of the approved ICDV, commercial invoice, bill of lading / airway bill, and packing list to Singapore Customs by uploading to TradeNet.
 
 ## Re-exporting Goods from Singapore
 
@@ -111,7 +111,7 @@ The new owner of the goods should also submit a  [New Ownership Declaration Lett
 
 ## Cancelling your IC
 
-If you decide not to import the goods after obtaining the IC, you should notify us via email for cancellation at least 14 days before it expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore.
+If you decide not to import the goods after obtaining the IC, you should notify us via the online application form found on the NTP website for cancellation at least 14 days before the IC expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore.
 
 ## Penalties
 
