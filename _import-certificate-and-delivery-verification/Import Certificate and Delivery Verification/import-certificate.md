@@ -3,7 +3,6 @@ title: Import Certificate
 permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate
 third_nav_title: Import Certificate and Delivery Verification
 ---
-
 # Import Certificate 
 
 ## You can apply for an Import Certificate (IC) if:
@@ -11,29 +10,28 @@ third_nav_title: Import Certificate and Delivery Verification
 -   You are importing goods into Singapore which are subject to the exporting country’s export control, or
 -   The exporting country requires an IC.
 
-Download the [application form.](/eservices/customs-forms-and-service-links)
+Submit the [application form](http://www.ntp.gov.sg/).
+
+## Getting Started
+
+-   Before making an Import Certificate and Delivery Verification (ICDV) application, you should:
+    -   Activate Customs Account; and
+    -   Apply for Inter-Bank Giro (IBG)
 
 ## Completing an IC Application
 
 -   Fill in these details:
     
-    -   Applicant's full name, address, telephone/fax number and email address
-    -   [Unique Entity No. (UEN)](http://www.uen.gov.sg/){:target="_blank"}
+    -   Applicant's full name, designation, telephone number and email address
+    -   [Unique Entity No. (UEN)](http://www.uen.gov.sg/)
     -   Exporter's name and address
     -   End-user's name and address
-    -   8-digit  HS Code
 -   Indicate whether the goods are for use in Singapore or for re-export. If the goods are for re-export, state the country where the goods will be re-exported to.
--   A maximum of 10 items can be filled in each IC application. Please use another application sheet if you have more than 5 items on one sheet.
+-   A maximum of 20 items can be filled in each IC application.
 -   Description of goods refers to the exact name of the items. The description must match the particulars in the end user's and foreign exporter's declarations, including brand, model number and technical specifications.
--   For each item, state the quantity to be imported and its unit of measurement (for example, 12 tonnes, 5 pieces).
+-   For each item, state its 8-digit HS code, the quantity to be imported and its unit of measurement (for example, 12 tonnes, 5 pieces).
 -   For each item, state the Cost, Insurance and Freight (CIF) value in Singapore dollars.
--   Sign off the application by an authorised person in the company, indicating the full name and designation.
 
-## Getting Started
-
--   Before making an ICDV application, you should:
-    -   Activate Customs Account; and
-    -   Apply for Inter-Bank Giro (IBG)
 
 ## Submission of and Payment for an ICDV Application
 
