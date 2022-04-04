@@ -9,7 +9,7 @@ description: ""
 
 **Step 1: Register your Manufacturing Premises**
 
-Register using the [manufacturer’s application form](/files/businesses/SC-A-006%20Manufacturers%20Registration%20%20-%20Aug21%20Version%2012.docx).
+Register using the [manufacturer’s application form](https://go.gov.sg/mfr).
 
 When submitting the application, please note that you are required to furnish all supporting documents as listed out in Section E of the application. Failure to do so may result in the application not being processed.
 
