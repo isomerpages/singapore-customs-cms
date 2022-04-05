@@ -19,9 +19,16 @@ As of today, Singapore is a party to the following  Free Trade Agreements (FTA) 
 To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Regional Comprehensive Economic Partnership Agreement (RCEP), please refer to “Approved Exporter and Certified Exporter Scheme”(Link).
 
 
-| S/ N | Column 2 | Column 3 |
+| S/ N | FTAs that are under the Self-certification or Self-declaration regime | Relevant Customs circulars |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
+| 1.     | Text     | Text     |
+| 2.     | Text     | Text     |
+| 3.     | Text     | Text     |
+| 4.     | Text     | Text     |
+| 5.     | Text     | Text     |
+| 6.     | Text     | Text     |
+| 7.     | Text     | Text     |
+| 8.     | Text     | Text     |
+| 9.     | Text     | Text     |
+| 10.     | Text     | Text     |
+| 11.     | Text     | Text     |
