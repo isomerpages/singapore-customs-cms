@@ -34,7 +34,7 @@ To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Re
 | 11.     | New Zealand-Singapore Comprehensive Economic Partnership (ANZSCEP)  | [Circular No. 21/2019](https://www.customs.gov.sg/-/media/cus/files/circulars/circular-212019-ver-1.pdf)   |
 |12.| UK-Singapore Free Trade Agreement | [Circular No. 15/2020](https://www.customs.gov.sg/news-and-media/circulars/circular152020)
 
-Singapore Customs does not issue Preferential Certificate of Origin for all originating goods in the FTAs seen above as these FTAs adopt a self-certification regime, where the certification of a good’s origin is to be declared by a specific entity (e.g. producer, exporter, importer) in a manner prescribed in the relevant [FTA](http://www.fta.gov.sg/). You may refer to the legal text or the Rules of Origin chapter of the relevant FTA for more details.
+Singapore Customs does not issue Preferential Certificate of Origin for all originating goods in the FTAs seen above as these FTAs adopt a self-certification regime, where the certification of a good’s origin is to be declared by a specific entity (e.g. producer, exporter, importer) in a manner prescribed in the relevant [FTA](http://www.fta.gov.sg/). You may refer to the legal text or the Rules of Origin chapter of the relevant [FTA](http://www.fta.gov.sg/) for more details.
 
  
 
