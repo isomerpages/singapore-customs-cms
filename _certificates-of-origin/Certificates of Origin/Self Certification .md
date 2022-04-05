@@ -36,6 +36,4 @@ To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Re
 
 Singapore Customs does not issue Preferential Certificate of Origin for all originating goods in the FTAs seen above as these FTAs adopt a self-certification regime, where the certification of a good’s origin is to be declared by a specific entity (e.g. producer, exporter, importer) in a manner prescribed in the relevant [FTA](http://www.fta.gov.sg/). You may refer to the legal text or the Rules of Origin chapter of the relevant [FTA](http://www.fta.gov.sg/) for more details.
 
- 
-
 Please do note that although Singapore Customs does not issue a Prefential Certificate of Origin, the goods exported out of Singapore or imported into Singapore under self-certification regime are still governed by the Regulations of Imports and Exports Act (RIEA). For goods being exported out of Singapore, the importing authorities may raise a verification request as prescribed under the legal text of the FTA should they doubt the originating status of the goods.
