@@ -21,14 +21,15 @@ To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Re
 
 | S/ N | FTAs that are under the Self-certification or Self-declaration regime | Relevant Customs circulars |
 | -------- | -------- | -------- |
-| 1.     | Text     | Text     |
-| 2.     | Text     | Text     |
-| 3.     | Text     | Text     |
-| 4.     | Text     | Text     |
-| 5.     | Text     | Text     |
-| 6.     | Text     | Text     |
-| 7.     | Text     | Text     |
-| 8.     | Text     | Text     |
-| 9.     | Text     | Text     |
-| 10.     | Text     | Text     |
-| 11.     | Text     | Text     |
+| 1.     | European-Singapore Free Trade Association FTA (ESFTA) involving Iceland, Liechenstein, Norway and Switzerland     | [2003 Circular](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2003/coc02jan04.pdf)     |
+| 2.     | Non-textile goods under the USSFTA    | [Circular No. 45/2003](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2003/c452003.pdf)    |
+| 3.     | Trans-Pacific Strategic Economic Partnership Agreement (Trans-Pacific SEP) involving Brunei, Chile, New Zealand and Singapore   | [Circular No. 10/2006](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2006/cir1007.pdf)    |
+| 4.     | Panama-Singapore FTA | [Circular 15/2006]     |
+| 5.     |  Singapore-Costa Rica FTA   | Text     |
+| 6.     | Agreement between Singapore and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Partnership (ASTEP)    | Text     |
+| 7.     | Turkey-Singapore Free Trade Agreement (TRSFTA)     | Text     |
+| 8.     |  Singapore-Australia Free Trade Agreement (SAFTA)  | Text     |
+| 9.     | Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)     | Text     |
+| 10.     | European Union-Singapore Free Trade Agreement (EUSFTA)   | Text     |
+| 11.     | New Zealand-Singapore Comprehensive Economic Partnership (ANZSCEP)  | Text     |
+|12.| UK-Singapore Free Trade Agreement | 
