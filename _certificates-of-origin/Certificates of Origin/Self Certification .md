@@ -16,7 +16,7 @@ The onus lies on the entity issuing the origin declaration to familiarise themse
 
 As of today, Singapore is a party to the following  Free Trade Agreements (FTA) as shown in the table below that allow self-certification. The Origin Declaration must contain specific data elements as prescribed in the specific FTA including information stating how the product qualifies for an FTA. You may find the FTAs as well as the relevant requirements and procedures in the table below. 
 
-To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Regional Comprehensive Economic Partnership Agreement (RCEP), please refer to “Approved Exporter and Certified Exporter Scheme”(Link).
+To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Regional Comprehensive Economic Partnership Agreement (RCEP), please refer to [“Approved Exporter and Certified Exporter Scheme”](https://www.customs.gov.sg/businesses/certificates-of-origin/aece).
 
 
 | S/ N | FTAs that are under the Self-certification or Self-declaration regime | Relevant Customs circulars |
@@ -33,3 +33,9 @@ To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Re
 | 10.     | European Union-Singapore Free Trade Agreement (EUSFTA)   | [Circular No. 18/2019](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2019/circular-18-2019-ver-2.pdf)     |
 | 11.     | New Zealand-Singapore Comprehensive Economic Partnership (ANZSCEP)  | [Circular No. 21/2019](https://www.customs.gov.sg/-/media/cus/files/circulars/circular-212019-ver-1.pdf)   |
 |12.| UK-Singapore Free Trade Agreement | [Circular No. 15/2020](https://www.customs.gov.sg/news-and-media/circulars/circular152020)
+
+Singapore Customs does not issue Preferential Certificate of Origin for all originating goods in the FTAs seen above as these FTAs adopt a self-certification regime, where the certification of a good’s origin is to be declared by a specific entity (e.g. producer, exporter, importer) in a manner prescribed in the relevant [FTA](http://www.fta.gov.sg/). You may refer to the legal text or the Rules of Origin chapter of the relevant FTA for more details.
+
+ 
+
+Please do note that although Singapore Customs does not issue a Prefential Certificate of Origin, the goods exported out of Singapore or imported into Singapore under self-certification regime are still governed by the Regulations of Imports and Exports Act (RIEA). For goods being exported out of Singapore, the importing authorities may raise a verification request as prescribed under the legal text of the FTA should they doubt the originating status of the goods.
