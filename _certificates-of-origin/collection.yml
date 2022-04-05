@@ -2,6 +2,7 @@ collections:
   certificates-of-origin:
     output: true
     order:
+      - Certificates of Origin/Self Certification .md
       - Certificates of Origin/.keep
       - Certificates of Origin/How to apply for Ordinary Certificate of origin
         (OCO) or Preferential Certificate of Origin (PCO).md

@@ -7,13 +7,17 @@ description: ""
 ---
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
-**Step 1: Register your Manufacturing Premises**
+**Step 1: Register your Manufacturing Premises/New Product Line**
 
-Register using the [manufacturer’s application form](/files/businesses/SC-A-006%20Manufacturers%20Registration%20%20-%20Aug21%20Version%2012.docx).
+Register using the [manufacturer’s application form](https://go.gov.sg/mfr).
 
-Singapore Customs will arrange to visit your factory to verify the production processes for the goods specified in your application to ensure that they meet the requirements. Financial and operation records may also be inspected as part of this visit.
+When submitting the application, please note that you are required to furnish all supporting documents as listed out in **Section E** of the application. Failure to do so may result in the application not being processed.
 
-The manufacturer's registration will be valid for 2 years from the date of your successful registration.
+Upon approval, each Manufacturer’s Registration will be valid for a period of 2 years from the date of approval. A renewal notice will be sent to the company’s Authorised Person listed in the account a month prior to the expiry of the registration. The Authorised Person is required to follow the instructions in the notice should they wish to renew the Manufacture’s Registration. 
+
+You may update the company’s contact details or Authorised Person, [via the online application form](https://go.gov.sg/updatetomanufacturerreg) to Singapore Customs. 
+
+*Note: Singapore Customs may arrange to visit your factory to verify the production processes for the goods specified in your application to ensure that they meet the requirements. During such visits, financial and operation records may also be inspected. 
 
 (You may skip this step if you are already registered with us as a manufacturer for the specific goods.)
     
