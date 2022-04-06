@@ -164,16 +164,14 @@ Please sign up for a Corppass Account and NTP Account to submit the applications
 | 7. | Application for Kimberley Process Certificate |  [Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)|
 | 8. | Application for Licensed Premises | [Web Link](http://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp) |
 | 9. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4) |
-| 10. | Big-Eye Tuna Re-export Certificate | [Word Doc](/files/eservices/Big-Eye-Tuna.doc) (589KB) |
-| 11. | Declaration of Facts for Motor Vehicles | [Web Link](https://form.gov.sg/5f7a63fd08843500118e1d01) (for Individual Importer) <br><br> [Web Link](https://form.gov.sg/5f7a6430482e1200114bad08) (for Parallel Importer) |
-| 12. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
-| 13. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
-| 14. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP) |
-| 15. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP) |
-| 16. | Swordfish Re-Export Certificate | [Word Doc](/files/eservices/Swordfish-re-export.doc) (483KB) |
-| 17. | Template for Letter of Undertaking for TradeNet unavailability | [Word Doc](/files/eservices/Letter-of-undertaking-tradenet.doc) (48KB) |
-| 18. | Template for Letter of Undertaking to be used for the Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability | [Word Doc](/files/eservices/Undertaking-export-transhipment.doc) (116KB) |
-| 19. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stp-application) |
+| 10. | Declaration of Facts for Motor Vehicles | [Web Link](https://form.gov.sg/5f7a63fd08843500118e1d01) (for Individual Importer) <br><br> [Web Link](https://form.gov.sg/5f7a6430482e1200114bad08) (for Parallel Importer) |
+| 11. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
+| 12. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp) |
+| 13. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP) |
+| 14. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP) |
+| 15. | Template for Letter of Undertaking for TradeNet unavailability | [Word Doc](/files/eservices/Letter-of-undertaking-tradenet.doc) (48KB) |
+| 16. | Template for Letter of Undertaking to be used for the Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability | [Word Doc](/files/eservices/Undertaking-export-transhipment.doc) (116KB) |
+| 17. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stp-application) |
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
