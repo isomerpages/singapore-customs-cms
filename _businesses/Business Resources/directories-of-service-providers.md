@@ -7,10 +7,10 @@ third_nav_title: Business Resources
 
 | **S/No** | **Directories of service providers** |
 |--|--|
-| 1. | [Licensed premises for Liquor products](/files/Licensed%20Premises%20for%20Liquor%20Products%20as%20at%207%20Dec%202021.pdf) |
-| 2. | [Licensed premises for Tobacco products](/files/Licensed%20Premises%20for%20Tobacco%20Products%20as%20at%207%20Dec%202021.pdf) |
-| 3. | [Licensed premises for Motor-Vehicles](/files/Licensed%20Premises%20for%20Motor-Vehicles%20as%20at%207%20Dec%202021.pdf) |
-| 4. | [Licensed premises for Petroleum & Biodiesel products](/files/Licensed%20Premises%20for%20Petroleum%20and%20Biodiesel%20Products%20as%20at%207%20Dec%202021.pdf) |
-|5.| [Licensed premises for Zero-GST Goods](/files/businesses/SEB/Licensed%20Premises%20for%20Zero-GST%20Goods%20as%20at%2031%20Dec%202021.pdf) |
+| 1. | [Licensed Premises for Liquor products](/files/businesses/SEB/Licensed%20Premises%20for%20Liquor%20Products%20as%20at%204%20Apr%202022.pdf) |
+| 2. | [Licensed Premises for Tobacco products](/files/businesses/SEB/Licensed%20Premises%20for%20Tobacco%20Products%20as%20at%204%20Apr%202022.pdf)|
+| 3. | [Licensed Premises for Motor-vehicles](/files/businesses/SEB/Licensed%20Premises%20for%20Motor-Vehicles%20as%20at%204%20Apr%202022.pdf)|
+| 4. | [Licensed Premises for Petroleum & Biodiesel products](/files/businesses/SEB/Licensed%20Premises%20for%20Petroleum%20&%20Biodiesel%20Products%20as%20at%204%20Apr%202022.pdf)|
+|5.| [Licensed Premises for Zero-GST Goods](/files/businesses/SEB/Licensed%20Premises%20for%20Zero-GST%20Goods%20as%20at%204%20Apr%202022.pdf)|
 | 6. | [List of Local Freight Forwarding Agents](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents) |
 | 7. | [List of TradeNet Solution Providers](/businesses/national-single-window/overview/tradenet-solution-providers) |
