@@ -4,20 +4,17 @@ permalink: /businesses/certificates-of-origin/SC
 description: ""
 third_nav_title: Certificates of Origin
 ---
-
-
-
 # Free Trade Agreements under Self-Certification regime
 
 **What is a Self-Certification regime?**
 
-A Self-Certification regime allows exporters, producers or importers, depending on the specific Free Trade Agreement text, to self-certify the originating status of their goods under the respective Free Trade Agreement based on information available so that preferential tariff treatment is accorded for the goods imported. Self certifying requires the either the exporters, producers or importers to make our an origin declaration on a commercial document such as the commercial invoice, packing list, delivery note or bill of lading. 
+A Self-Certification regime allows exporters, producers or importers, depending on the specific Free Trade Agreement (FTA), to self-certify the originating status of their goods under the respective FTA based on information available so that preferential tariff treatment is accorded for the goods imported. Self-certifying requires either the exporters, producers or importers to make an origin declaration on a commercial document such as the commercial invoice, packing list, delivery note or bill of lading. 
 
-The onus lies on the entity issuing the origin declaration to familiarise themselves with the Rules of Origin requirements and to certify that the goods being imported does meet the relevant criteria to be originating under the Free Trade Agreement. 
+The onus lies on the entity issuing the origin declaration to familiarise themselves with the Rules of Origin requirements and to certify that the goods being imported do meet the relevant criteria to be originating under the FTA. 
 
 **Can I do Self-Certification and what are the requirements?** 
 
-As of today, Singapore is a party to the following  Free Trade Agreements (FTA) as shown in the table below that allow self-certification. The Origin Declaration must contain specific data elements as prescribed in the specific FTA including information stating how the product qualifies for an FTA. You may find the FTAs as well as the relevant requirements and procedures in the table below. 
+The origin declaration must contain specific data elements as prescribed in the specific FTA including information stating how the product qualifies for an FTA. You may find the FTAs as well as the relevant requirements and procedures in the table below. 
 
 To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Regional Comprehensive Economic Partnership Agreement (RCEP), please refer to [“Approved Exporter and Certified Exporter Scheme”](https://www.customs.gov.sg/businesses/certificates-of-origin/aece).
 
@@ -37,6 +34,3 @@ To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Re
 | 11.     | New Zealand-Singapore Comprehensive Economic Partnership (ANZSCEP)  | [Circular No. 21/2019](https://www.customs.gov.sg/-/media/cus/files/circulars/circular-212019-ver-1.pdf)   |
 |12.| UK-Singapore Free Trade Agreement | [Circular No. 15/2020](https://www.customs.gov.sg/news-and-media/circulars/circular152020)
 
-Singapore Customs does not issue Preferential Certificate of Origin for all originating goods in the FTAs seen above as these FTAs adopt a self-certification regime, where the certification of a good’s origin is to be declared by a specific entity (e.g. producer, exporter, importer) in a manner prescribed in the relevant [FTA](http://www.fta.gov.sg/). You may refer to the legal text or the Rules of Origin chapter of the relevant [FTA](http://www.fta.gov.sg/) for more details.
-
-Please do note that although Singapore Customs does not issue a Prefential Certificate of Origin, the goods exported out of Singapore or imported into Singapore under self-certification regime are still governed by the Regulations of Imports and Exports Act (RIEA). For goods being exported out of Singapore, the importing authorities may raise a verification request as prescribed under the legal text of the FTA should they doubt the originating status of the goods.
