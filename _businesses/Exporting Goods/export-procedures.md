@@ -50,7 +50,7 @@ Generally, the exporter will be the party that issues the commercial invoice to 
 
 The exporter is also required to declare the Free on Board (FOB) value of the goods in the export permit application.
 
-Please refer to [Customs Circular No. 12/2013](/news-and-media/circulars) for more information on the responsibilities of an exporter.
+Please refer to [Customs Circular No. 13/2021](/files/2021-11-12-Circular132021Ver%201.pdf) for more information on the responsibilities of an exporter.
 
 A Customs export permit is required for:
 
