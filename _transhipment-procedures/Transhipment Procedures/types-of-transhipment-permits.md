@@ -3,7 +3,6 @@ title: Types of Transhipment Permits
 permalink: /businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits
 third_nav_title: Transhipment Procedures
 ---
-
 # Types of Transhipment/Movement Permits
 
 A transhipment permit is required to account for the following transhipment movements:
@@ -23,7 +22,7 @@ A transhipment permit is required to account for the following transhipment move
 
 A permit is not required for the transhipment of non-controlled goods within the same FTZ. Please refer to  [Circular 01/2020](/news-and-media/circulars/circular012020ver1.pdf)  for more information on the storage of liquors and tobacco products in the FTZs.
 
-You may refer to the  [complete list of permit declaration types](/files/businesses/doc1-types-of-permit.pdf)  for more information.
+You may refer to the [complete list of permit declaration types](https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/Module_5_-_types_of_permit_applications.pdf) for more information.
 
 ## Further information
 
