@@ -14,6 +14,7 @@ Traders should follow these procedures to apply for permits for temporary import
 3.  Submit the following documents together with your submission of the TradeNet declaration:
     
     -   Cover letter stating:
+        
 				 -   Purpose for temporary import
 				 -   Duration of import
 				 -   Venue where the goods will be used
