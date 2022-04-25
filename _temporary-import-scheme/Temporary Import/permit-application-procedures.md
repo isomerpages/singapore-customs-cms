@@ -1,9 +1,8 @@
 ---
 title: Permit Application Procedures
 permalink: /businesses/importing-goods/temporary-import-scheme/permit-application-procedures
-third_nav_title: Temporary Import 
+third_nav_title: Temporary Import
 ---
-
 # Permit Application Procedures
 
 ![](/images/permit-application-procedures1.jpg)
@@ -15,10 +14,10 @@ Traders should follow these procedures to apply for permits for temporary import
 3.  Submit the following documents together with your submission of the TradeNet declaration:
     
     -   Cover letter stating:
-        
-       -   Purpose for temporary import
-       -   Duration of import
-       -   Venue where the goods will be used
+				 -   Purpose for temporary import
+				 -   Duration of import
+				 -   Venue where the goods will be used
+      
     -   CA approval letter (where applicable)
     -   Commercial invoice
     -   Packing list
