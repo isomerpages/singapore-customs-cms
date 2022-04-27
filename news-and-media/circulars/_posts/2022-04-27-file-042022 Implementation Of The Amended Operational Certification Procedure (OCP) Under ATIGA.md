@@ -1,0 +1,8 @@
+---
+title: 042022 Implementation Of The Amended Operational Certification Procedure
+  (OCP) Under ATIGA
+date: 2022-04-27
+layout: file
+description: ""
+file_url: /files/2022-04-27-Circular042022.pdf
+---
