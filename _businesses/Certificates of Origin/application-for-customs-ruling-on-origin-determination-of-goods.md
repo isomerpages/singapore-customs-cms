@@ -65,7 +65,7 @@ Please note that origin rulings are only applicable for use within Singapore. If
     <input type="checkbox" id="accordion2">
     <label for="accordion2">How To Apply?</label>
     <div>
-			<p>You may submit the <a href="https://form.gov.sg/#!/5cb03416bc22ae0010760c72" target="new">Application For Customs Ruling on Classification of Goods</a> with the following supporting documents.
+			<p>You may submit the <a href="https://form.gov.sg/#!/5cb03416bc22ae0010760c72" target="new">Application For Customs Ruling on Origin Determination of Goods</a> with the following supporting documents.
 				- Product catalogue/brochure
 - Product specification/datasheet
 - Manufacturing process
