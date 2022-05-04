@@ -26,10 +26,10 @@ The main roles of the Checkpoints Division include:
 
 The main roles of the Compliance Division include:
 
-- Conducting compliance checks on trade transactions with Singapore Customs and auditing companies on all customs requirements
-- Conducting assessments and validations on companies for customs schemes and mutual recognition discussions with other customs authorities
-- Assessing and managing the risks of Singapore Customs’ external business processes, including targeting of consignments and companies for checks
-- Upholding Singapore’s rules of origin obligations and trade enforcement requirements under the respective free trade agreements, and enforcing controls over strategic goods
+* Conducting compliance checks on trade transactions and auditing companies on all customs requirements, including those under the respective free trade agreements and under the strategic goods regime
+* Conducting assessments and validations on companies for customs schemes and mutual recognition discussions with other customs authorities
+* Assessing and managing the risks of Singapore Customs’ external business processes, including targeting of consignments and companies for checks
+
 
 ## Human Resource (HR) Directorate
 
@@ -104,8 +104,7 @@ The main roles of the Ops-Tech & Management Division include:
 The main roles of the Policy & Planning Division include:
 
 -	Driving Singapore Customs’ strategic and corporate planning processes and plans
--	Pursuing enterprise-wide policy formulation and strategic planning
--	Conducting policy reviews and promoting technical cooperation to further national interests
+-	Pursuing enterprise-wide policy formulation
 -	Participating in international/regional customs meetings and free trade agreement negotiations
 -	Managing public, internal and corporate communications, as well as media relations to project the corporate identity and good image of Singapore Customs
 
@@ -119,12 +118,10 @@ The main roles of the Policy & Planning Division include:
 
 The main roles of the Trade Division include:
 
--	Developing and maintaining an efficient trade framework that meets Singapore Customs’ revenue and trade facilitation objectives
--	Handling the administration of the TradeNet system, including managing vendors and controlling agencies
+-	Developing and maintaining an efficient trade framework that meets Singapore Customs’ revenue and trade facilitation objectives, including administration of various customs schemes
 -	Providing advice on the valuation and classification of goods
 -	Providing advice on rules of origin for preferential tariff treatment under various FTAs
 -	Administering the Secure Trade Partnership programme to provide companies with a framework to guide the development, implementation, monitoring and review of the company’s supply chain security measures
--	Promoting and administering all customs schemes
 -	Promoting engagement and partnership with trade
 -	Formulating effective policies and making legislative amendments to the Free Trade Zone Act 
 
@@ -140,6 +137,10 @@ The main roles of the Networked Trade Platform Office include:
 -	Enabling businesses to efficiently share and reuse data with the government and business partners, thereby streamlining processes and reducing inefficiencies of manual trade document exchange 
 -	Developing Government-to-Government digital trade connectivity
 -	Supporting digital connections with foreign trade platforms and systems
+
+## TradeNet Office
+
+The main role of the TradeNet Office is to manage the operations of TradeNet and spearhead the strategic planning, development and implementation of future enhancements to TradeNet.  
 
 ## Internal Audit Branch
 
