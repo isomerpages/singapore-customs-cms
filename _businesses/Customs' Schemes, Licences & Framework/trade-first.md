@@ -114,7 +114,7 @@ The TradeFIRST assessment process is shown in the following table:
 | **Step 3** | On-site assessment will be scheduled and conducted, upon receipt of relevant supporting documents. |
 | **Step 4** | The company receives its application outcome, the band it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement (if any). |
 
-Note: The entire assessment would generally take about 3 to 4 months to process, upon complete submission of relevant documents.
+Note: The TradeFIRST Self-Assessment Checklist would be used to assess all new (for new applicants), renewal (for existing licensees) and supplementary applications. The assessment would generally take about 3 to 4 months to process, upon complete submission of relevant documents. It may take longer for more complex cases.
 
 ## Renewal
 
@@ -129,7 +129,7 @@ For any Customs scheme applied successfully, your company will be subject to rev
 
 During the renewal process, your company is required to submit the [TradeFIRST Self-Assessment Checklist ](https://go.gov.sg/tradefirstselfassessmentchecklist-jan22) and all relevant supporting documents, and undergo the on-site assessment again.
 
-Reviews may also be conducted at shorter intervals under special circumstances, such as for companies granted conditional approval with areas identified for improvement within a stipulated time period.
+Reviews may also be conducted at shorter intervals under special circumstances, such as for companies with areas identified for improvement, within a stipulated time period.
 
 If you require further assistance on TradeFIRST, please email  [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
@@ -137,15 +137,17 @@ If you require further assistance on TradeFIRST, please email  [customs_schemes@
 
 This section guides companies who wish to perform a TradeFIRST self-assessment under specific business operations mentioned below.
 
+
 **Companies with Multiple Sites and/or Multiple Schemes**
 
-There will only be one assessment for the company regardless of the number of schemes it applies for. Therefore, the self-assessment checklist should be filled in relation to all of the company’s operating sites.
+There will only be one assessment for the company regardless of the number of schemes it applies for. Therefore, the self-assessment checklist should be filled in relation to all of the company’s operating sites and relevant to the schemes that the company is applying for.
 
 All of its operating sites must be declared in the checklist:
 
--   Indicate “Yes” if the company meets the criteria for all sites.
--   Indicate “No” if none or only some of the sites meet the criteria. Indicate the name of the site(s) which meet the criteria in the “Comments” column.
--   Indicate “N.A.” when the criterion is not applicable.
+* Indicate “Yes” if the company meets the criteria for all sites. It is mandatory to attach all relevant supporting documents.
+* Indicate “No” if none or only some of the sites meet the criteria. Indicate the name of the site(s) which meet the criteria in the “Remarks” column.
+
+Note: As a prerequisite, the company must fulfil all the mandatory criteria for all the operating sites.
 
 
 **Outsourced Functions**
@@ -153,11 +155,6 @@ All of its operating sites must be declared in the checklist:
 The company should not indicate “N.A.” on outsourced functions, for example using third party logistics providers. It should indicate if its business partners’ procedures meet the criteria based on its service level agreements and contractual obligations.
 
 
-**Company is a Tenant**
-
-The company should abide by these  [guidelines](/files/businesses/selfassessmtguidelines.doc)  if it is a tenant.
-
-
 **Companies with Global or Regional Offices**
 
-TradeFIRST assessment us only applicable to the company's procedures conducted on its operating sites in Singapore. For example, comments on pre-employment verification criteria must pertain to Singapore's procedures and not the company's regional or global practices.
+TradeFIRST assessment is only applicable to the company's procedures conducted on its operating sites in Singapore. For example, comments on pre-employment verification criteria must pertain to Singapore's procedures and not the company's regional or global practices.
