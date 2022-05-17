@@ -3,7 +3,6 @@ title: Obtain a Short-Payment Permit
 permalink: /businesses/importing-goods/import-procedures/apply-short-payment-permit
 third_nav_title: Importing Requirements
 ---
-
 # Obtain a Short-Payment Permit
 
 A short-payment permit application is required to be taken up to account for the short-fall in duty and/or GST paid for goods that had been imported and declared previously. This may include but not limited to the following scenarios:
@@ -21,6 +20,10 @@ You should obtain the correct short payment permit:
 
 The previous permit number is to be declared in the “Previous Permit No.” field and “SPNOSTK” (“Short Payment Not Involving Updates To Stock”) in the “Place of Receipt Code” field. The short payment permit is for the purpose of duty and/or GST recovery only and cannot be used for cargo clearance.
 
+If the original payment permit has not been produced for clearance, the short-payment permit and the original payment permit are required for Cargo Clearance.
+
+Should there be an amendment done for the original permit’s validity period, please note that you are not required to amend the short-payment permit’s validity. 
+
 If the transacted amount on the invoice is in a foreign currency, please use the options below to derive the amount short-paid in Singapore dollars:
 
 -   The [Customs exchange rate](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates) on the date the initial In-Payment permit was approved; or
@@ -29,4 +32,3 @@ If the transacted amount on the invoice is in a foreign currency, please use the
 For the second option, you are required to declare the name of the bank, bank’s telephone number and the date which the rate was quoted in the "Trader’s Remarks” field of the short payment permit application.
 
 If the invoice states the transacted amount in both foreign currency and its conversion into Singapore dollars, please use the pre-determined exchange rate in the invoice to derive the amount short-paid in terms of Singapore dollars.
-
