@@ -46,7 +46,7 @@ The ASEAN Harmonised Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature us
 
 The last amendment to AHTN was done in 2022 where all 351 sets of 2022 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2022].
     
-**Other Resources:
+**Other Resources**:
 
 [Highlights on key amendments](/files/AHTN%202022%20Changes.pdf)
 
