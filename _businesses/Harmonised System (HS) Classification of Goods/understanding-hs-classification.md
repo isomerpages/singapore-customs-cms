@@ -3,7 +3,6 @@ title: Understanding HS Classification
 permalink: /businesses/harmonised-system-classification-of-goods/Understanding-HS-Classification
 third_nav_title: Harmonised System (HS) Classification of Goods
 ---
-
 # Understanding HS Classification
 
 The information in this section aims to provide some background of HS classification and the possible ways to build up your capability in HS classification.
@@ -45,9 +44,14 @@ Click  [here](/files/businesses/apply-gir.pdf)  for guiding questions on how to 
     
 The ASEAN Harmonised Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature used by all ASEAN member countries. The AHTN facilitates trade among ASEAN member countries through consistent and uniform interpretation in the classification of goods. It is based on the 6-digit Harmonised Commodity Description and Coding System Nomenclature developed by WCO.
 
-The last amendment to AHTN was done in 2017 where all 233 sets of 2017 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in  [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2018.](/files/businesses/STCCED 2018_Feb 21.pdf)
+The last amendment to AHTN was done in 2022 where all 351 sets of 2022 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2022].
     
-Further to the awareness briefing on AHTN 2017 held on 21 May 2018, you may view the slides [here](/files/businesses/AHTN-2017-21-May-HSC.pdf) for highlights on the key amendments.
+**Other Resources**:
+
+[Highlights on key amendments](/files/AHTN%202022%20Changes.pdf)
+
+[Singapore Trade Classification, Customs and Excise Duties (STCCED) 2018](/files/businesses/STCCED%202018_Feb%2021.pdf)
+
 
 ## Course and Self-Learning Resources
 
@@ -66,5 +70,3 @@ Download handy guide on [How to read the HS](/files/businesses/How-to-read-the-H
 
 If you wish to learn classification of products from across more than 30 HS Chapters, try our [Multiple Choice Questions (MCQs)](/files/businesses/MCQs.pdf).
 Categories in the MCQ questions includes products ranging from food and beverages to chemical preparations to plastic articles, and machines. Please click on this [link](/files/businesses/Answers-to-MCQs-(1).pdf) for answers and classification rationale.
-
-
