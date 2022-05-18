@@ -44,7 +44,7 @@ Click  [here](/files/businesses/apply-gir.pdf)  for guiding questions on how to 
     
 The ASEAN Harmonised Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature used by all ASEAN member countries. The AHTN facilitates trade among ASEAN member countries through consistent and uniform interpretation in the classification of goods. It is based on the 6-digit Harmonised Commodity Description and Coding System Nomenclature developed by WCO.
 
-The last amendment to AHTN was done in 2022 where all 351 sets of 2022 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2022].
+The last amendment to AHTN was done in 2022 where all 351 sets of 2022 amendments to the HS nomenclature was incorporated. The latest tariff schedule is available in [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2022](https://go.gov.sg/stcced2022).
     
 **Other Resources**:
 
