@@ -5,7 +5,7 @@ third_nav_title: Certificates of Origin
 ---
 # Claiming Preferential Tariff Treatment for Dutiable Imports
 
-As part of its [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"}’ (FTAs) obligations, Singapore grants preferential tariff treatment by exempting customs duty for the import of originating stout/porter, beer including ale, medicated samsu and other samsu from these [FTA Partners](/files/businesses/Preferential Tariffs Table_as of 5 January 2021.pdf).
+As part of its [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview)(FTAs) obligations, Singapore grants preferential tariff treatment by exempting customs duty for the import of originating stout/porter, beer including ale, medicated samsu and other samsu from these [FTA Partners](https://go.gov.sg/ftapartner).
 
 ## How do I claim preferential tariff treatment?
 
