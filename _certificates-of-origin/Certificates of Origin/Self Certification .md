@@ -21,11 +21,11 @@ To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Re
 
 | S/ N | FTAs that are under the Self-certification or Self-declaration regime | Relevant Customs circulars |
 | -------- | -------- | -------- |
-| 1.     | European-Singapore Free Trade Association FTA (ESFTA) involving Iceland, Liechenstein, Norway and Switzerland     | [2003 Circular](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2003/coc02jan04.pdf)     |
-| 2.     | Non-textile goods under the USSFTA    | [Circular No. 45/2003](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2003/c452003.pdf)    |
-| 3.     | Trans-Pacific Strategic Economic Partnership Agreement (Trans-Pacific SEP) involving Brunei, Chile, New Zealand and Singapore   | [Circular No. 10/2006](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2006/cir1007.pdf)    |
-| 4.     | Panama-Singapore FTA | [Circular No.  15/2006](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2006/cir1506.pdf)   |
-| 5.     |  Singapore-Costa Rica FTA   | [Circular No. 09/2013]([](/files/Circular_9_2013.pdf))   |
+| 1.     | European-Singapore Free Trade Association FTA (ESFTA) involving Iceland, Liechenstein, Norway and Switzerland     | [2003 Circular](https://www.customs.gov.sg/news-and-media/circulars/2003-01-02-Circular2003.pdf)|
+| 2.     | Non-textile goods under the USSFTA    | [Circular No.45/2003](https://www.customs.gov.sg/news-and-media/circulars/2003-12-16-Circular452003.pdf)|
+| 3.     | Trans-Pacific Strategic Economic Partnership Agreement (Trans-Pacific SEP) involving Brunei, Chile, New Zealand and Singapore   | [Circular No. 10/2006](https://www.customs.gov.sg/news-and-media/circulars/2006-04-26-Circular102006.pdf)|
+| 4.     | Panama-Singapore FTA | [Circular No.15/2006](https://www.customs.gov.sg/news-and-media/circulars/2006-07-14-Circular152006.pdf)|
+| 5.     |  Singapore-Costa Rica FTA   | [Circular No.09/2013](/files/Circular_9)   |
 | 6.     | Agreement between Singapore and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Partnership (ASTEP)    | [Circular No. 06/2014](https://www.customs.gov.sg/-/media/cus/files/circulars/corp/2014/customscircularno06_2014.pdf)    |
 | 7.     | Turkey-Singapore Free Trade Agreement (TRSFTA)     | [Circular No. 12/2017](https://www.customs.gov.sg/-/media/cus/files/circulars/ca/2017/circular162017-ver-1.pdf)   |
 | 8.     |  Singapore-Australia Free Trade Agreement (SAFTA)  | [Circular No. 16/2017](https://www.customs.gov.sg/-/media/cus/files/circulars/ca/2017/circular162017-ver-1.pdf)    |
