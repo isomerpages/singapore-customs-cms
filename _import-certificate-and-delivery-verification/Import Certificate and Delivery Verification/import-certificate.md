@@ -7,7 +7,7 @@ third_nav_title: Import Certificate and Delivery Verification
 
 ## You can apply for an Import Certificate (IC) if:
 
--   You are importing goods into Singapore which are subject to the exporting country’s export control, or
+-   You are importing goods into Singapore which are subject to the exporting country’s export control, and
 -   The exporting country requires an IC.
 
 Submit the [application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab).
