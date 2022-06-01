@@ -25,7 +25,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the  [Zero-GST Warehouse Scheme Handbook](/files/businesses/SEB/Zero-GST Warehouse Scheme Handbook (Jul 2021).pdf)  (Chapter 2.10).
+A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the [Zero-GST Warehouse Scheme Handbook ](/files/businesses/SEB/Zero-GST%20Warehouse%20Scheme%20Handbook%20(May%202022%20ver).pdf) (Chapter 2.10).
 
 ## How to Qualify?
 
@@ -134,4 +134,4 @@ You may complete your [applications for changes to schemes for existing licensee
 ## Authorisation of Declaring Agent (DA) for Licensed Premises
 
 DAs can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DAs.
-In order to authorise a DA, the licensed premises operator is required to complete the [Application for the Authorisation of DAs for Licensed Premises] (https://www.customs.gov.sg/eservices/customs-forms-and-service-links) form and submit it via email to [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg). The processing time of the application is 2 working days.
+In order to authorise a DA, the licensed premises operator is required to complete the [Application for the Authorisation of DAs for Licensed Premises](https://www.customs.gov.sg/eservices/customs-forms-and-service-links) form and submit it via email to [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg). The processing time of the application is 2 working days.
