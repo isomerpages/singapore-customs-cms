@@ -3,5 +3,5 @@ title: ASEAN Customs chiefs launch Joint Action Plan to facilitate cargo clearan
 date: 2022-06-07
 layout: file
 description: ""
-file_url: /files/Singapore_Customs_Press_Release_07_Jun_Final.pdf
+file_url: /files/Singapore_Customs_Press_Release_07_June_Final.pdf
 ---
