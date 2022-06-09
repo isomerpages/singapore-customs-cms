@@ -3,7 +3,6 @@ title: TradeNet Front-End Solution Providers
 permalink: /businesses/national-single-window/overview/TradeNet-Solution-Providers
 third_nav_title: Overview
 ---
-
 # TradeNet Front-end Solution Providers
 
 This table shows the front-end solution providers for TradeNet
@@ -51,11 +50,11 @@ Tel: (65) 9380 9696 <br>
 Email:  [contact@ktt.sg](mailto:contact@ktt.sg)
 
 
-**Tradenet Services Pte Ltd**
+**Tradenet Services Pte Ltd (TNETS Global)**
 
 Tel: (65) 6576 9100  
 Fax: (65) 6842 2677  
-Email:  [info@tnets.com.sg](mailto:info@tnets.com.sg)
+Email:  [info@tnetsglobal.com](mailto:info@tnetsglobal.com)
 
 
 **vCargo Cloud Pte Ltd**
@@ -96,4 +95,3 @@ Those interested to provide a TradeNet front-end solution can email to  [Customs
 -   System support team (local or overseas) - for overseas, please indicate the country where the support team is to be based in.
 
 Successful applicants will be notified via email for the TradeNet message specifications.
-
