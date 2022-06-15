@@ -5,5 +5,8 @@ third_nav_title: Chemical Weapons Convention (CWC)
 ---
 # Announcement 
 
-**There are currently no new announcements.**
+**15 Jun 2022**
 
+**Annual Declaration for Anticipated Activities (ADAA) Exercise for Year 2023**
+
+The ADAA Exercise for Year 2023 will commence from 15 Jun 2022 to 15 Sep 2022. Companies which intend to undertake activities such as Production, Processing and Consumption in relation to Scheduled Chemicals controlled under the Chemical Weapons Convention (CWC) in the Year 2023 are required to submit the ADAA to the National Authority (NA) for the CWC (NA(CWC)). Companies engaging in the controlled activities involving Schedule 1 chemicals are required to submit the declarations by **15 Aug 2022** and activities involving Schedule 2 and 3 chemicals by **15 Sep 2022**. Please fill out the Declaration Cover for Reporting Template and the relevant declaration templates which can be accessed from the     [Chemical Weapons Convention Forms section on the Customs Forms and Service Links page.\](/eservices/customs-forms-and-service-links)
