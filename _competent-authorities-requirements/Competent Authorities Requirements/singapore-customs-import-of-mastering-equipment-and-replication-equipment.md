@@ -1,12 +1,8 @@
 ---
 title: Singapore Customs - Import of Mastering Equipment and Replication Equipment
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs
----
-import-of-mastering-equipment-and-replication-equipment
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment
 third_nav_title: Competent Authorities Requirements
 ---
-
-
 # Singapore Customs - Import of Mastering Equipment and Replication Equipment
 
 The import of mastering equipment and replicating equipment for the manufacture of CD, CD-Rom, VCD, DVD and DVD-Rom are subject to control by Singapore Customs under the Regulation of Imports and Exports Regulations. The HS code for these controlled items is 8479 8969 while the 2 Product Codes are ‘Master’ or ‘Replicator’.
