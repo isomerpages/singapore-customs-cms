@@ -1,6 +1,6 @@
 ---
 title: Singapore Customs - Import of Mastering Equipment and Replication Equipment
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment
 ---
 # Singapore Customs - Import of Mastering Equipment and Replication Equipment
 
