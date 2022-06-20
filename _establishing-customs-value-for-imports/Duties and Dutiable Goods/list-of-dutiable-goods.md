@@ -3,7 +3,6 @@ title: List of Dutiable Goods
 permalink: /businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods
 third_nav_title: Duties and Dutiable Goods
 ---
-
 # List of Dutiable Goods
 
 Please refer to the table below for the list of dutiable goods and the respective duty rates imposed on the goods.
@@ -36,8 +35,7 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 22042221 | Grape must with fermentation prevented or arrested by addition of alcohol, of alcoholic strength not exceeding 15% vol, in containers of more than 2l but not more than 10l |Nil| $88.00 per litre of alcohol |  
 |22042222  | Grape must with fermentation prevented or arrested by addition of alcohol, of alcoholic strength exceeding 15% vol, in containers of more than 2l but not more than 10l |Nil| $88.00 per litre of alcohol |  
 | 22042911 | Wine of fresh grapes of alcoholic strength not exceeding 15% vol, in containers of more than 10l |Nil| $88.00 per litre of alcohol |
-| 22042913 |Wine of fresh grapes of alcoholic strength exceeding 15% vol but not exceeding 23% vol, in containers of more than 10l  |Nil| $88.00 per litre of alcohol |
-| 22042914 |Wine of fresh grapes of alcoholic strength exceeding 23% vol, in containers of more than 10l  |Nil| $88.00 per litre of alcohol |  
+|22042912|Wine of fresh grapes of alcoholic strength exceeding 15% vol|Nil|$88.00 per litre of alcohol|
 | 22042921 | Grape must with fermentation prevented or arrested by addition of alcohol, of alcoholic strength not exceeding 15% vol,  in containers of more than 10l |Nil| $88.00 per litre of alcohol |  
 | 22042922 | Grape must with fermentation prevented or arrested by addition of alcohol, of alcoholic strength exceeding 15% vol, in containers of more than 10l |Nil| $88.00 per litre of alcohol  |  
 |22043010  | Other grape must, of alcoholic strength not exceeding 15% vol |Nil| $88.00 per litre of alcohol |
@@ -52,12 +50,15 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 22060039 | Coconut palm toddy, in container of more than 2l |Nil| $88.00 per litre of alcohol |  
 | 22060041 | Shandy, of alcoholic strength not exceeding 1.14% vol |Nil|  $60.00 per litre of alcohol|
 | 22060049 | Shandy, of alcoholic strength exceeding 1.14% vol |Nil| $60.00 per litre of alcohol |
+|22060050|Mead|Nil|$88.00 per litre of alcohol|
+|22060060|Wines obtained by the fermentation of vegetables juices or of fruit juices, other than juice of fresh grapes|Nil|$88.00 per litre of alcohol|
 | 22060091 | Other rice wine including medicated rice wine |Nil| $88.00 per litre of alcohol |  
 | 22060099 | Other fermented beverages, mixtures of fermented beverages and mixtures of fermented beverages with non-alcoholic beverages |Nil| $88.00 per litre of alcohol |  
 | 22071000 | Undenatured ethyl alcohol of alcoholic strength of 80% vol or more |Nil| $88.00 per litre of alcohol |  
 | 22082050 | Brandy obtained by distilling grape wine or grape marc |Nil| $88.00 per litre of alcohol |
 | 22082090 | Other spirits obtained by distilling grape wine or grape marc |Nil| $88.00 per litre of alcohol |
-|22083000  | Whiskies |Nil| $88.00 per litre of alcohol |
+|22083010|Whiskies, in containers holding more than 5 l|Nil|$88.00 per litre of alcohol|
+|22083090|Whiskies, not in containers holding more than 5 l|Nil|$88.00 per litre of alcohol|
 | 22084000 | Rum and other spirits distilled from fermented sugar-cane products |Nil|$88.00 per litre of alcohol  |  
 | 22085000 | Gin and Geneva |Nil| $88.00 per litre of alcohol  |  
 | 22086000 | Vodka |Nil| $88.00 per litre of alcohol |  
@@ -91,10 +92,11 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 24022020 |Clove cigarettes  |Nil| 42.7 cents for every gram or part thereof of each stick of cigarette |  
 | 24022090 | Other cigarettes containing tobacco |Nil| 42.7 cents for every gram or part thereof of each stick of cigarette |  
 | 24029010 |Cigars cheroots and cigarillos of tobacco substitutes  |Nil|  $427.00 per kgm|
-| 24029020 | Cigarettes of tobacco substitutes |Nil|42.7 cents for every gram or part thereof of each stick of cigarette  |
-| 24031100 |Water pipe tobacco specified in Subheading Note 1 to Chapter 24  |Nil| $427.00 per kgm |  
+| 24029020 | Cigarettes of tobacco substitutes |Nil|42.7 cents for every gram or part thereof of each stick of cigarette |
+|24031110|Water pipe tobacco specified in Subheading Note 1 to Chapter 24, packed for retail sale|Nil|$427.00 per kgm|
+|24031190|Water pipe tobacco specified in Subheading Note 1 to Chapter 24, not packed for retail sale|Nil|$427.00 per kgm|
 | 24031911 | Ang hoon packed for retail sale |Nil| $329.00 per kgm |  
-| 24031919 | Other smoking tobacco packed for retail sale |Nil| $427.00 per kgm |  
+| 24031919 | Other smoking tobacco packed for retail sale |Nil| $427.00 per kgm | 
 |24031920  |Other manufactured tobacco for the manufacture of cigarettes  |Nil| $388.00 per kgm |
 | 24031991 | Ang hoon not packed for retail sale |Nil| $329.00 per kgm |
 | 24031999 |Other smoking tobacco not packed for retail sale  |Nil| $427.00 per kgm |  
@@ -103,7 +105,9 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 24039930 | Manufactured tobacco substitutes |Nil|  $427.00 per kgm|
 | 24039940 | Snuff whether or not dry |Nil| $427.00 per kgm |
 | 24039950 |Chewing and sucking tobacco  | Nil|  $329.00 per kgm|  
-| 24039990 | Other manufactured tobacco not for smoking |Nil| $427.00 per kgm |  
+| 24039990 | Other manufactured tobacco not for smoking |Nil| $427.00 per kgm |
+|24041100|Products containing tobacco or reconstituted tobacco, intended for inhalation without combustion|Nil|$427.00 per kgm|
+|24041910|Products containing tobacco substitutes, intended for inhalation without combustion|Nil|$427.00 per kgm|
 | 27101211 |Motor spirit of RON 97 and above, leaded  |Nil| $7.10 per dal |  
 | 27101212 | Motor spirit of RON 90 and above but below RON 97, leaded |Nil| $6.80 per dal |
 | 27101213 | Motor spirit of below RON 90, leaded |Nil| $6.30 per dal |
@@ -138,13 +142,15 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87032115 | CKD sedan with only spark-ignition combustion reciprocating engine not over 1000cc |Nil| 20% |  
 |  87032121| CKD motor cars with only spark-ignition combustion reciprocating engine not over 1000cc four wheel drive |Nil| 20% |
 |87032129  | CKD motor cars with only spark-ignition combustion reciprocating engine not over 1000cc excluding four wheel drive |Nil| 20% |
-| 87032130 |Other CKD motor vehicles with only spark-ignition combustion reciprocating engine not over 1000cc  |Nil| 20% |  
+|87032131|CKD three wheeled vehicles with only spark-ignition combustion reciprocating engine not over 1000cc|Nil|20%|
+|87032139|Other CKD motor vehicles with only spark-ignition combustion reciprocating engine not over 1000cc|Nil|20%|
 | 87032143 | Non CKD ambulances with only spark-ignition combustion reciprocating engine not over 1000cc |Nil| 20% |  
 | 87032144 | Non CKD motor homes with only spark-ignition combustion reciprocating engine not over 1000cc |Nil| 20% |  
 | 87032145 |Non CKD sedan with only spark-ignition combustion reciprocating engine not over 1000cc  |Nil| 20%  |
 | 87032151 | Non CKD motor cars with only spark-ignition combustion reciprocating engine not over 1000cc four wheel drive |Nil| 20% |  
 |87032159  | Non CKD motor cars only spark-ignition combustion reciprocating engine not over 1000cc excluding four wheel drive |Nil| 20% |  
-|87032190  | Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine not over 1000cc |Nil|20%  |  
+|87032191|Non CKD three weeled motor vehicles with only spark-ignition combustion reciprocating engine not over 1000cc|Nil|20%|
+|87032199|Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine not over 1000cc|Nil|20%|
 | 87032213 | CKD ambulances with only spark-ignition combustion reciprocating engine over 1000cc but not over 1500cc |Nil| 20% |
 | 87032214 | CKD hearses with only spark-ignition combustion reciprocating engine over 1000cc but not over 1500cc |Nil| 20% |
 | 87032215 | CKD prison vans with only spark-ignition combustion reciprocating engine over 1000cc but not over 1500cc |Nil| 20% |  
@@ -222,7 +228,8 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87033117 |CKD sedan with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc  |Nil| 20% |
 | 87033121 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc four wheel drive |Nil| 20% |  
 | 87033129 | CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc excluding four wheel drive |Nil| 20% |  
-| 87033130 | Other CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
+|87033131|CKD three wheeled vehicles with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc|Nil|20%|
+|87033139|Other CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc|Nil|20%|
 | 87033143 | Non CKD ambulances with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20%  |
 | 87033144 |Non CKD hearses with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc  |Nil| 20% |
 |87033145  | Non CKD prison vans with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
@@ -230,7 +237,8 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87033147 | Non CKD sedan with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil|20%  |  
 | 87033151 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc four wheel drive |Nil| 20% |
 | 87033159 | Non CKD motor cars with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc excluding four wheel drive |Nil| 20% |
-|87033190  | Other non CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc |Nil| 20% |  
+|87033191|Non CKD three wheeled vehicles with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc|Nil|20%|
+|87033199|Other non CKD motor vehicles with only compression-ignition combustion diesel or semi-diesel engine not over 1500cc|Nil|20%|
 | 87033211 |CKD ambulances with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc  |Nil| 20% |  
 | 87033212 | CKD hearses with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |  
 | 87033213 | CKD prison vans with only compression-ignition combustion diesel or semi-diesel engine over 1500cc but not over 2500cc |Nil| 20% |
@@ -603,4 +611,4 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87119090 | Other non CKD cycles excluding reciprocating internal combustion engine and electric motor | Nil | 12%  |
  
 
-Download full List of Dutiable Goods [here](/files/businesses/List of Dutiable Items 16Feb2021.xlsx).
+Download full List of Dutiable Goods [here](https://go.gov.sg/dutiableitems)

@@ -3,7 +3,6 @@ title: Classifying My Products
 permalink: /businesses/Harmonized-System-HS-Classification-of-Goods/Classifying-My-Products
 third_nav_title: Harmonised System (HS) Classification of Goods
 ---
-
 # Classifying my products
 
 ## Classifying your product - All you need to know
@@ -14,7 +13,7 @@ The Harmonised System (HS) codes of goods is internationally harmonized at the 6
 
 ## Handy Guides
 
-Classification is the process of finding the most specific description in the HS. To do so, you may refer to the following infographics to understand how to identify and read the HS in the  [Singapore Trade Classification, Customs & Excise Duties (STCCED)](/files/businesses/STCCED 2018_Feb 21.pdf).
+Classification is the process of finding the most specific description in the HS. To do so, you may refer to the following infographics to understand how to identify and read the HS in the [Singapore Trade Classification, Customs & Excise Duties (STCCED)](https://go.gov.sg/stcced2022).
 
 A guidebook to classify chemicals and chemical products is also available to help you in classifying products in this category.
 
@@ -26,4 +25,4 @@ A guidebook to classify chemicals and chemical products is also available to hel
 
 ## Guidebook on the HS Classification of Chemicals & Chemical Products
 
-This [guidebook](/files/businesses/Chemical Guide_edition1_Final_030420.pdf) serves as an aid for users to classify chemicals and chemical products according to the HS Codes found in STCCED. It includes case studies and frequently asked questions on the classification of chemicals and chemical products.
+This [guidebook](https://go.gov.sg/chemicalguide) serves as an aid for users to classify chemicals and chemical products according to the HS Codes found in STCCED. It includes case studies and frequently asked questions on the classification of chemicals and chemical products.
