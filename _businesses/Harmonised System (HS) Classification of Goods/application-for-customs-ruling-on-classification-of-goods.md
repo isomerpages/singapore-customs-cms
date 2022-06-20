@@ -98,7 +98,7 @@ accordion:
     <label for="accordion4">How long is the process?</label>
     <div>
       <p>Singapore Customs will evaluate and determine the full 8-digit HS code of your product. You will receive a letter, indicating the applicant’s/company’s name and address, the product’s name and description, 8-digit HS code and our assessment of the product.</p>
-<p>The classification process may take up to 30 days, depending on the complexity of the product and the completeness of the information furnished. The product information and its classification may be made available in the <a href="https://www.customs.gov.sg/documents/businesses/Customs-Ruling-Database_Sep-19.xlsx" target="new">Customs Ruling Database</a>, subject to the consent of the applicant.</p>
+<p>The classification process may take up to 30 days, depending on the complexity of the product and the completeness of the information furnished. The product information and its classification may be made available in the <a href="https://www.customs.gov.sg/files/businesses/Customs%20Ruling%20Database_%20Sep20.xlsx" target="new">Customs Ruling Database</a>, subject to the consent of the applicant.</p>
 </div>
   </li> 
 
