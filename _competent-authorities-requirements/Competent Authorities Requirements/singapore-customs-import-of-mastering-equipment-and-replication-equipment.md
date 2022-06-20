@@ -1,6 +1,7 @@
 ---
 title: Singapore Customs - Import of Mastering Equipment and Replication Equipment
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment
+third_nav_title: Competent Authorities Requirements
 ---
 # Singapore Customs - Import of Mastering Equipment and Replication Equipment
 
