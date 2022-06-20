@@ -611,4 +611,4 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87119090 | Other non CKD cycles excluding reciprocating internal combustion engine and electric motor | Nil | 12%  |
  
 
-Download full List of Dutiable Goods [here](/files/businesses/List of Dutiable Items 16Feb2021.xlsx).
+Download full List of Dutiable Goods [here](https://go.gov.sg/dutiableitems)
