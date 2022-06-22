@@ -5,7 +5,12 @@ description: Singapore Customs is the lead agency on trade facilitation and
   revenue enforcement.
 permalink: /
 notification: For best experiences, please use the latest version of Microsoft
-  Edge, Chrome, Firefox, Safari.<br> Make use of our digital services when transacting with us! Businesses are encouraged to submit trade declarations via TradeNet and access our eServices via the Networked Trade Platform (www.ntp.gov.sg). <br> For payment of taxes at the various Checkpoints, please make an advance declaration using Customs@SG Web application via our eServices (www.customs.gov.sg/services).
+  Edge, Chrome, Firefox, Safari.<br> Make use of our digital services when
+  transacting with us! Businesses are encouraged to submit trade declarations
+  via TradeNet and access our eServices via the Networked Trade Platform
+  (www.ntp.gov.sg). <br> For payment of taxes at the various Checkpoints, please
+  make an advance declaration using Customs@SG Web application via our eServices
+  (www.customs.gov.sg/services).
 sections:
   - hero:
       background: /images/Banner_resized_911.png
@@ -23,7 +28,7 @@ sections:
       subtitle: OUR SERVICES
       description: Find out more about the NTP to advance your business and improve
         your trade operations.
-      button: Learn More
+      button: More info on NTP
       url: /businesses/national-single-window/networked-trade-platform
       image: /images/NTP.png
       alt: More information on the NTP.
