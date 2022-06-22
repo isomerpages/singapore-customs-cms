@@ -14,7 +14,7 @@ The NTP is a:
 -   Open innovation platform allowing development of insights & new services with cross-industry data
 -   Document hub for digitisation at source that enables reuse of data to cut costs and streamline processes
 
-Visit the NTP [here](http://www.ntp.gov.sg/){:target="_blank"} and stay tuned as more services are launched on the platform 
+Visit the [NTP](http://www.ntp.gov.sg/){:target="_blank"} and stay tuned as more services are launched on the platform 
 
 
 | Useful Links  |  |
