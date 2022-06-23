@@ -24,7 +24,7 @@ The U.S. Department of State (DOS), the U.S. Department of Energy (DOE), the U.S
 
 This two-day event will provide access to top government regulators as well as industry experts who are involved in strategic trade law, export controls, customs regulations, supply chain security, sanctions and compliance standards.
 
-The 10-year anniversary event provides invaluable opportunities for you to hear from the senior government representatives from Singapore, Malaysia, the Philippines, Japan, South Korea, the European Union, Australia and the United States who will present on a host of topics as well as private sector experts who will share best practices and lessons learned.
+The 10-year anniversary event provides opportunities for you to hear from the senior government representatives from Singapore, Malaysia, the Philippines, Japan, South Korea, the European Union, Australia and the United States who will present on a host of topics as well as private sector experts who will share best practices and lessons learned.
 
 Manufacturers, exporters, logistics providers, freight forwarders, academics and researchers dealing with strategic goods or strategic goods technology are encouraged to attend the seminar.
 
