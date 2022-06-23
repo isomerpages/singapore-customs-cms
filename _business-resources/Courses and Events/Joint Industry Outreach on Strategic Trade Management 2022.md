@@ -16,9 +16,7 @@ third_nav_title: Courses and Events
 
 **Date**: 12 September 2022 to 13 September 2022
 
-
 **Venue**: Shangri-La Hotel Singapore
-
 
 **Time**: 9.00am - 5.00pm (Registration starts at 8.30am)
 
