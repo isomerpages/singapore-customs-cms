@@ -11,7 +11,7 @@ third_nav_title: Courses and Events
 #### **REGISTRATION IS NOW OPEN**
 
 ##### **The 10th Joint Industry Outreach Seminar on Strategic Trade Management**
-###### **Co-organised by Singapore, United States and Japan**
+**Co-organised by Singapore, United States and Japan**
 
 **Date**: 12 September 2022 to 13 September 2022
 
