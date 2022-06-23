@@ -6,7 +6,7 @@ third_nav_title: Courses and Events
 ---
 # Joint Industry Outreach on Strategic Trade Management 2022
 
-![banner.png](https://user-images.githubusercontent.com/74533654/126924009-88f650ae-803d-4f88-9015-32c393dd519d.png)
+![](/images/SGC/JIO2022.png)
 
 #### **REGISTRATION IS NOW OPEN**
 
