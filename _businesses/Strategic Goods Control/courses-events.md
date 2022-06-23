@@ -1,9 +1,8 @@
 ---
 title: Courses & Events
 permalink: /businesses/strategic-goods-control/courses-and-events
-third_nav_title: Strategic Goods Control 
+third_nav_title: Strategic Goods Control
 ---
-
 # Courses & Events
 
 ## Courses
@@ -18,7 +17,9 @@ Singapore Customs actively conducts seminars to update the industry on the lates
 
 
 
-
+| Date | Title | Related Link |
+| -------- | -------- | -------- |
+| 12 September 2022 - 13 September 2022 | Joint Industry Outreach Seminar on Strategic Trade Management 2022, Shangri-La Hotel Singapore | [Weblink](/business-resources/Courses-and-Events/joint-industry-outreach-on-strategic-trade-management-2022) |
 
 ## Past Events
 
