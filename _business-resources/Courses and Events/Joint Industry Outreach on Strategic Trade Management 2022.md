@@ -33,7 +33,7 @@ Registration is **free**. Due to limited space, we encourage interested parties 
 
 All successful registrants will be notified via email and will receive an updated schedule and venue information.
 
-###### **Agenda Highlights:**
+##### **Agenda Highlights:**
 
 * Global Export Controls and Sanctions Updates
 * Emerging Technology Trends and Issues
