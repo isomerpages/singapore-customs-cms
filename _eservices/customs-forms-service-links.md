@@ -2,31 +2,30 @@
 title: Customs Forms & Service Links
 permalink: /eservices/customs-forms-and-service-links
 ---
-# Customs Forms & Service Links
 
-Please note that Application for Certificate of Free Sales, Import Certificate as well as Delivery Verification and Landing Certificate are now under "Networked Trade Platform eServices".
+## ASEAN Customs Transit System/Declaration Document
 
-## Certificate of Origin Related Forms
-
-| No. | Forms | Related Link |
+| No. | E-Services | Links |
 |--|--|--|
-| 1. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp) |
-| 2. | Registration for Manufacturer/New Product Line | [Web Link](https://go.gov.sg/mfr)|
-| 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a) 
-| 4. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)
+| 1. | Broker and Representative Authorisation Letter | [Word Doc](https://www.customs.gov.sg/files/eservices/Broker-and-Representative-Authorisation-Letter.docx)|
+| 2. | Employee Declarant Details and Authorisation Form | [Word Doc](https://www.customs.gov.sg/files/eservices/Employee-Declarant-Details-and-Authorisation-Form.docx)|
+| 3. | Multiple Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts_multiple_journey_guarantee_-31_august_2020.docx)|
+| 4. | Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmitt ACDD | [Web Link](https://form.gov.sg/#!/5fc60a46ea38000011cc5e29)|
+| 5. | Single Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts_single_journey_guarantee_-31_august_2020.docx)|
+| 6. | Trader Application Form | [Word Doc](https://www.customs.gov.sg/files/eservices/Trader-Application-Form.docx)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
-## Chemical Weapons Convention Forms
+## Certificate of Origin
 
-### General
-
-| No. | Forms | Related Link |
+| No. | E-Services | Links |
 |--|--|--|
-| 1. | Advanced Notifications on Transfer of Schedule 1 Chemical |  [Word Doc](/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.doc) (191KB) <br><br> [PDF](/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.pdf) (80KB)|
-| 2. | End-User Certificate | [Word Doc](/files/eservices/End_User_Certificate.doc) (386KB) <br><br> [PDF](/files/eservices/End_User_Certificate.pdf) (377KB)|
-| 3. | Product Enquiry | [Web Link](https://form.gov.sg/5f0422019e6a4a0011e5fdd9) |
-| 4. | Update of Licensee Contact Information | [Web Link](https://form.gov.sg/5f042661fefd4e0011922a7d) |
+| 1. | Application of Cancellation of Certificate of Origin issued by Singapore Customs |  [Web Link](https://form.gov.sg/#!/5f2cc687777f950011129385)
+| 2. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)
+| 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a)
+| 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp) 
+| 5. | Manufacturing Cost Statement Format | [Word Doc](https://go.gov.sg/coststatement)
+| 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
