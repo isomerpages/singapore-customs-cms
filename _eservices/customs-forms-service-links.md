@@ -16,6 +16,7 @@ permalink: /eservices/customs-forms-and-service-links
 [Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Certificate of Origin
+
 | No. | E-Services | Links |
 |--|--|--|
 | 1. | Application for Cancellation of Certificate of Origin issued by Singapore Customs | [Web Link](https://form.gov.sg/#!/5f2cc687777f950011129385)|
@@ -162,6 +163,7 @@ permalink: /eservices/customs-forms-and-service-links
 [Back to Top](/eservices/customs-forms-and-service-links)
 
 ## Others
+
 | No. | E-Services | Links |
 |--|--|--|
 | 1. | Web Manifest Reconciliation System | [Web Link](https://eservices.customs.gov.sg/scripts/customs/mrs/)|
