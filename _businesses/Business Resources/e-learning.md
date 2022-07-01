@@ -3,8 +3,6 @@ title: e-Learning
 permalink: /businesses/business-resources/elearning
 third_nav_title: Business Resources
 ---
-
-
 ## e-Learning Resources
 
 The following [e-learning videos and information on Customs Procedures](https://www.youtube.com/watch?v=f2htGA3Ykn0){:target="_blank"} are for your reference only. Please refer to the respective pages for the latest information and updates.
@@ -85,7 +83,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 
 | No. | Title | Related Link |
 |--|--|--|
-| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF](/files/businesses/stcced-2018-apr-20.pdf) |
+| 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF](https://go.gov.sg/stcced2022) |
 | 2. | Competent Authorities' Requirements for Controlled Items | [Web Link](/businesses/national-single-window/overview/competent-authorities-requirements) |
 | 3. | HSCA Product Code Search | [Web Link](/eservices/harmonized-system-competent-authority-product-code-search-engine) |
 
@@ -102,4 +100,3 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 6. | Important Permit Fields | [PDF](/files/businesses/PSB/TN Team/Module_5_-_important_permit_fields_table.pdf) |
 | 7. | List of Non-Amendable Permit Fields | [PDF](/files/about-us/annexb_04102013.pdf) |
 | 8. | Sample CCP | [PDF](/files/about-us/SampleCCPOriginal1.pdf) |
-
