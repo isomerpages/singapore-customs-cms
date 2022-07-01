@@ -64,10 +64,10 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 22086000 | Vodka |Nil| $88.00 per litre of alcohol |  
 | 22087010 | Liqueurs and cordials, of alcoholic strength not exceeding 57% vol |Nil| $88.00 per litre of alcohol |
 | 22087090 | Liqueurs and cordials, of alcoholic strength exceeding 57% vol |Nil| $88.00 per litre of alcohol |
-| 22089010 |Medicated samsu of alcoholic strength not exceeding 40% vol  |Nil| $88.00 per litre of alcohol |  
-| 22089020 | Medicated samsu of alcoholic strength exceeding 40% vol |Nil| $88.00 per litre of alcohol |  
-| 22089030 | Other samsu of alcoholic strength not exceeding 40% vol |Nil| $88.00 per litre of alcohol |  
-| 22089040 |Other samsu of alcoholic strength exceeding 40% vol  |Nil| $88.00 per litre of alcohol |
+| 22089010 |Medicated samsu of alcoholic strength not exceeding 40% vol  |$8.00 per litre of alcohol| $88.00 per litre of alcohol |  
+| 22089020 | Medicated samsu of alcoholic strength exceeding 40% vol |$8.00 per litre of alcohol| $88.00 per litre of alcohol |  
+| 22089030 | Other samsu of alcoholic strength not exceeding 40% vol |$8.00 per litre of alcohol| $88.00 per litre of alcohol |  
+| 22089040 |Other samsu of alcoholic strength exceeding 40% vol  |$8.00 per litre of alcohol| $88.00 per litre of alcohol |
 | 22089050 | Arrack or pineapple spirit of alcoholic strength not exceeding 40% vol |Nil| $88.00 per litre of alcohol |
 | 22089060 | Arrack or pineapple spirit of alcoholic strength exceeding 40% vol |Nil| $88.00 per litre of alcohol |  
 | 22089070 | Bitters and similar beverages of alcoholic strength not exceeding 57% vol |Nil| $88.00 per litre of alcohol |  
