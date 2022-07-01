@@ -2,7 +2,6 @@
 title: Customs Forms & Service Links
 permalink: /eservices/customs-forms-and-service-links
 ---
-
 ## ASEAN Customs Transit System/Declaration Document
 
 | No. | E-Services | Links |
@@ -11,7 +10,7 @@ permalink: /eservices/customs-forms-and-service-links
 | 2. | Employee Declarant Details and Authorisation Form | [Word Doc](https://www.customs.gov.sg/files/eservices/Employee-Declarant-Details-and-Authorisation-Form.docx)|
 | 3. | Multiple Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts\_multiple\_journey\_guarantee\_-31\_august\_2020.docx)|
 | 4. | Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmit ACDD | [Web Link](https://form.gov.sg/#!/5fc60a46ea38000011cc5e29)|
-| 5. | Single Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts\_single\_journey\_guarantee\_-31\_august\_2020.docx)
+| 5. | Single Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts\_single\_journey\_guarantee\_-31\_august\_2020.docx)|
 | 6. | Trader Application Form | [Word Doc](https://www.customs.gov.sg/files/eservices/Trader-Application-Form.docx)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
@@ -22,12 +21,12 @@ permalink: /eservices/customs-forms-and-service-links
 | 1. | Application for Cancellation of Certificate of Origin issued by Singapore Customs | [Web Link](https://form.gov.sg/#!/5f2cc687777f950011129385)|
 | 2. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)|
 | 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a)|
-| 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU\_MCS/LOU1\_Terms.asp)
+| 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU\_MCS/LOU1\_Terms.asp)|
 | 5. | Manufacturing Cost Statement Format | [Word Doc](https://go.gov.sg/coststatement)|
-| 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)
+| 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
 | 7. | Registration for the ASEAN Single Window | [Web Link](https://form.gov.sg/#!/5d1330b145677e0011c1c97a)|
 | 8. | Submit Manufacturing Cost Statement <br>(Please log in to NTP to access this e-service under Government Services > E-Services > Certificate of Origin)| [Web Link](https://www.ntp.gov.sg/home/)|
-| 9. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/#!/5ced00d93abf730010ef8888)
+| 9. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/#!/5ced00d93abf730010ef8888)|
 | 10. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
@@ -155,9 +154,9 @@ permalink: /eservices/customs-forms-and-service-links
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](https://www.customs.gov.sg/files/eservices/ExcelDoc2.xls)
-| 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](https://www.customs.gov.sg/files/eservices/ExcelDoc3.xls)
-| 3. | Voluntary Disclosure Programme (VDP) – For UEN entities | [Web Link](https://form.gov.sg/#!/5cc8267f09313a001745d0eb)
+| 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](https://www.customs.gov.sg/files/eservices/ExcelDoc2.xls)|
+| 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](https://www.customs.gov.sg/files/eservices/ExcelDoc3.xls)|
+| 3. | Voluntary Disclosure Programme (VDP) – For UEN entities | [Web Link](https://form.gov.sg/#!/5cc8267f09313a001745d0eb)|
 | 4. | Voluntary Disclosure Programme (VDP) – For individuals or self-registered traders with no UEN | [Web Link](https://form.gov.sg/#!/5f43857c9abaf400115f7194)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
@@ -165,6 +164,6 @@ permalink: /eservices/customs-forms-and-service-links
 ## Others
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Web Manifest Reconciliation System | [Web Link](https://eservices.customs.gov.sg/scripts/customs/mrs/)
+| 1. | Web Manifest Reconciliation System | [Web Link](https://eservices.customs.gov.sg/scripts/customs/mrs/)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
