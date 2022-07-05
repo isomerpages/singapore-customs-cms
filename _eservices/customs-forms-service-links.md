@@ -60,7 +60,7 @@ permalink: /eservices/customs-forms-and-service-links
 | 22. | Schedule 3 Chemical(s) (Template C.3) | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.pdf)|
 | 23. | Schedule 3 Chemical(s) (Template D.3) | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.pdf)|
 | 24. | Unscheduled Discrete Organic Chemical(s) (Form A.4) | [Web Link](https://form.gov.sg/#!/5f04240bdba1d90011bd56c5)
-| 25. | Unscheduled Discrete Organic Chemical(s) (Template D.4) | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-071D\_Template\_D4\_ADPA\_for\_DOCs.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-071D\_Template\_D4\_ADPA\_for\_DOCs.pdf)
+| 25. | Unscheduled Discrete Organic Chemical(s) (Template D.4) | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.pdf)
 | 26. | Update of Licensee Contact Information | [Web Link](https://form.gov.sg/#!/5f042661fefd4e0011922a7d)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
