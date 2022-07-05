@@ -52,7 +52,7 @@ permalink: /eservices/customs-forms-and-service-links
 | 14. | Product Enquiry | [Web Link](https://form.gov.sg/#!/5f0422019e6a4a0011e5fdd9)|
 | 15. | Schedule 1 Chemical(s) (Form A.1) | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.pdf)|
 | 16. | Schedule 1 Chemical(s) (Template C.1) | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.pdf)|
-| 17. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](https://www.customs.gov.sg/files/eservices/Template\_D1\_ADPA\_for\_S1\_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template\_D1\_ADPA\_for\_S1\_Chemicals.pdf)|
+| 17. | Schedule 1 Chemical(s) (Template D.1) | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D1_ADPA_for_S1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D1_ADPA_for_S1_Chemicals.pdf)|
 | 18. | Schedule 2 Chemical(s) (Form A.2) | [Web Link](https://form.gov.sg/#!/5f04228b4de73d0011085cb9)
 | 19. | Schedule 2 Chemical(s) (Template C.2) | [Word Doc](https://www.customs.gov.sg/files/eservices/Template\_C2\_ADAA\_for\_S2\_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template\_C2\_ADAA\_for\_S2\_Chemicals.pdf)
 | 20. | Schedule 2 Chemical(s) (Template D.2) | [Word Doc](https://www.customs.gov.sg/files/eservices/Template\_D2\_ADPA\_for\_S2\_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template\_D2\_ADPA\_for\_S2\_Chemicals.pdf)
