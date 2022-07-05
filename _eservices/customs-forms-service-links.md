@@ -36,7 +36,7 @@ permalink: /eservices/customs-forms-and-service-links
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Addition of New Chemical(s) and/or Addition of New Activity(ies) for Schedule 1 Chemical(s) (Form B.1) | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068A\_NACWC\_FormB1\_Activities\_involving\_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A\_NACWC\_FormB1\_Activities\_involving\_Sch1.pdf)|
+| 1. | Addition of New Chemical(s) and/or Addition of New Activity(ies) for Schedule 1 Chemical(s) (Form B.1) | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.pdf)|
 | 2. | Addition of New Chemical(s) and/or Addition of New Activity(ies) for Schedule 2 Chemical(s) (Form B.2) | [Web Link](https://form.gov.sg/#!/5f0424669e6a4a0011e6011d)
 | 3. | Addition of New Chemical(s) and/or Addition of New Activity(ies) for Schedule 3 Chemical(s) (Form B.3)       | [Web Link](https://form.gov.sg/#!/5f0424ccfefd4e00119227f1)
 | 4. | Addition of New Chemical(s) for Unscheduled Discrete Organic Chemical(s) (Form B.4) | [Web Link](https://form.gov.sg/#!/5f0425129e6a4a0011e60299)|
