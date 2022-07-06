@@ -1,6 +1,5 @@
 ---
-title: Director of freight forwarding company fined over 2 million for evasion
-  of Goods and Services Tax
+title: Director of freight forwarding company fined over $2million for evasion of Goods and Services Tax
 date: 2022-07-05
 layout: file
 description: ""

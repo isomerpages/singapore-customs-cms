@@ -1,5 +1,5 @@
 ---
-title: 122022 Availability of Customs EServices on Networked Trade Platform
+title: 12/2022 Availability of Customs E-Services On Networked Trade Platform
 date: 2022-07-01
 layout: file
 description: ""

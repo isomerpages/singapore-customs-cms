@@ -1,5 +1,5 @@
 ---
-title: Manager of freight forwarding company fined over $60000 for evasion of
+title: Manager of freight forwarding company fined over $60,000 for evasion of
   Goods and Services Tax
 date: 2022-05-14
 layout: file

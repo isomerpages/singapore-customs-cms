@@ -1,5 +1,5 @@
 ---
-title: 052022 Singapore Trade Classification, Customs And Excise Duties (STCCED) 2022
+title: 05/2022 Singapore Trade Classification, Customs And Excise Duties (STCCED) 2022
 date: 2022-05-18
 layout: file
 description: ""
