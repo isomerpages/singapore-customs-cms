@@ -22,7 +22,7 @@ permalink: /eservices/customs-forms-and-service-links
 | 1. | Application for Cancellation of Certificate of Origin issued by Singapore Customs | [Web Link](https://form.gov.sg/#!/5f2cc687777f950011129385)|
 | 2. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)|
 | 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a)|
-| 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link]([Singapore Customs](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp)|
+| 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp)|
 | 5. | Manufacturing Cost Statement Format | [Word Doc](https://go.gov.sg/coststatement)|
 | 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
 | 7. | Registration for the ASEAN Single Window | [Web Link](https://form.gov.sg/#!/5d1330b145677e0011c1c97a)|
