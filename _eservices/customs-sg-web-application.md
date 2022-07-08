@@ -134,7 +134,7 @@ e. Baileys
 a. DOM –> Liqueur / Cordials / Herbal liqueur  
 b. Yomeishu –> Liqueur / Cordials / Herbal liqueur  
 c. Umeshu –> Liqueur / Cordials / Herbal liqueur  
-d. Chinese “Shao Jiu” or “Gao Liang Jiu” –> Samsu
+d. Chinese “Shao Jiu” or “Gao Liang Jiu” –> Samsu   
 e. Baileys –> Liqueur / Cordials / Herbal liqueur
 
 ***
