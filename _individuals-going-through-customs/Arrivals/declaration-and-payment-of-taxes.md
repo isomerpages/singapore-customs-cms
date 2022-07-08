@@ -15,7 +15,7 @@ Under Singapore’s laws, arriving travellers are required to declare and pay th
 There are four categories of dutiable goods in Singapore:
 
 -   **Intoxicating liquors**, including spirits, wine, beer, ale, stout and porter
-    -   Beverages and liquors consumed for health reasons and used for cooking are dutiable if the alcoholic strength by volume exceeds 0.5% (eg shandy, bottled alcoholic cocktail drinks, D.O.M., Yomeishu, samsoo and rice wine)
+    -   Beverages and liquors consumed for health reasons and used for cooking are dutiable if the alcoholic strength by volume exceeds 0.5% (eg shandy, bottled alcoholic cocktail drinks, D.O.M., Yomeishu, samsu and rice wine)
 -   **Tobacco products**, including cigarettes and cigars
     -   With effect from 1 July 2020, all cigarettes and other tobacco products imported into, sold, offered for sale or distributed in Singapore must comply with the new Standardised Packaging (SP) requirements. For further information, you may refer to Health Sciences Authority (HSA)’s [website](https://www.hsa.gov.sg/tobacco-regulation/overview) or contact Ministry of Health (MOH) through email at [moh_info@moh.gov.sg](maito:moh_info@moh.gov.sg). 
     -   Importation of cigarettes and / or tobacco products that do not comply with the SP requirements is not allowed, and these cigarettes and / or tobacco products will be disposed of at the checkpoints. 

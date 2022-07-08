@@ -2,7 +2,6 @@
 title: Customs@SG Web Application
 permalink: /eservices/customs-sg-web-application/
 ---
-
 # Customs@SG
 
 
@@ -135,7 +134,7 @@ e. Baileys
 a. DOM –> Liqueur / Cordials / Herbal liqueur  
 b. Yomeishu –> Liqueur / Cordials / Herbal liqueur  
 c. Umeshu –> Liqueur / Cordials / Herbal liqueur  
-d. Chinese “Shao Jiu” or “Gao Liang Jiu” –> Samsu / Samsoo  
+d. Chinese “Shao Jiu” or “Gao Liang Jiu” –> Samsu   
 e. Baileys –> Liqueur / Cordials / Herbal liqueur
 
 ***
@@ -166,6 +165,3 @@ The terms and conditions for use of the **Customs@SG** web application for decla
 -   The e-receipt for payment issued through the web application is valid only on the date of arrival and at the place of arrival, as declared by the traveller;
 -   The  traveller will have to declare additional goods that are not covered by a successful declaration made through the web application at the Customs Tax Payment Office or Customs Red Channel upon arrival in Singapore, and pay the duty and/or GST chargeable on the goods. Failure to declare goods subject to duty and/or GST is an offence;
 -   The  goods declared are not controlled or prohibited, and do not infringe upon any intellectual property rights.
-
-
-  
