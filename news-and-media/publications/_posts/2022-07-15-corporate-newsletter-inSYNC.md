@@ -11,6 +11,9 @@ Click [here](/feedback/) to subscribe to the latest issue of inSYNC today.
 
 {:.card-list}
 
+-   [![Issue 64](/images/inSYNC/Issue64_thumbnail.jpg)<br>
+Issue 63](/news-and-media/publications/2022-07-15-Issue64.pdf)
+
 -   [![Issue 63](/images/inSYNC/Issue63_thumbnail.jpg)<br>
 Issue 63](/files/news-and-media/2022-05-13-Issue63.pdf)
 
