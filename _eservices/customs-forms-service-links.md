@@ -77,7 +77,7 @@ permalink: /eservices/customs-forms-and-service-links
 | 6. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION\_ID=TXWP)
 | 7. | Application for Kimberly Process Licence (KPL) | [Web Link](https://form.gov.sg/#!/5cd0c8a09c7b100010bd490e)
 | 8. | Application for Landing Certificate (LC) | [Web Link](https://form.gov.sg/61d7db653cff100012127dec)
-| 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1\_Form.asp)
+| 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp)
 | 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://form.gov.sg/#!/5d2d7ffc690755001137c917)
 | 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4)|
 | 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)
