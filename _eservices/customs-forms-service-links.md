@@ -71,13 +71,13 @@ permalink: /eservices/customs-forms-and-service-links
 |--|--|--|
 | 1. | Agent's Application for Product Code | [Web Link](https://form.gov.sg/#!/5fcee9cad88081001113d220)|
 | 2. | Application for Authorisation of Petroleum Refund Users | [Web Link](https://form.gov.sg/#!/5f742694e6dc3a0011138bad)|
-| 3. | Application for Duty Exemption of Dutiable Goods by Industrial Users | [Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1\_Form.asp)|
+| 3. | Application for Duty Exemption of Dutiable Goods by Industrial Users |[Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp)
 | 4. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://form.gov.sg/#!/5ef564974cb2d20012590cb1)
 | 5. | Application for GST Relief for Hand-Carried Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) (For non-Singpass users) <br>[Web Link](https://form.gov.sg/#!/600fd804a6ac7800110ab36b) (For Singpass users)
 | 6. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION\_ID=TXWP)
 | 7. | Application for Kimberly Process Licence (KPL) | [Web Link](https://form.gov.sg/#!/5cd0c8a09c7b100010bd490e)
 | 8. | Application for Landing Certificate (LC) | [Web Link](https://form.gov.sg/61d7db653cff100012127dec)
-| 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp)
+| 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp)
 | 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://form.gov.sg/#!/5d2d7ffc690755001137c917)
 | 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4)|
 | 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)
