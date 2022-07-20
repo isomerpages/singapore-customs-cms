@@ -106,13 +106,13 @@ permalink: /eservices/customs-forms-and-service-links
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Activate/Update/Terminate Customs Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init\_acct)|
+| 1. | Activate/Update/Terminate Customs Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)|
 | 2. | Application for Cargo Agent's Import Authorisation (CAIA) | [Web Link](https://form.gov.sg/618c623ce51003001448131e)
 | 3. | Application for Inter-Bank Giro | [Word Doc](https://go.gov.sg/customs-interbank-giro-ver12-1)|
 | 4. | Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores | [Web Link](https://form.gov.sg/#!/60c9919a86afa600119a4f51)|
 | 5. | Application for Registration of Manifest Reconciliation Statement (MRS) User | [Web Link](https://form.gov.sg/#!/5c9dd6bf5b6b230017d50306)|
 | 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/#!/5ccac0a442502b00107a9554)|
-| 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION\_ID=TXWP)|
+| 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)|
 | 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](https://www.customs.gov.sg/files/eservices/DeclaringAgents-Licensed-Premises.doc)|
 | 9. | Application for Vessel Registration (VR) | [Web Link](https://form.gov.sg/61d7d0ef3cff10001210b7b5)
 | 10. | Apply/Update/Renew/Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
