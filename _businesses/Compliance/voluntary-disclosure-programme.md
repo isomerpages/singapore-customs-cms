@@ -47,6 +47,7 @@ Please make a VDP submission using the Voluntary Disclosure form by logging in v
 | **All disclosures** | Permit <br>   Invoice <br>  Packing list <br>  Bill of Lading or Air Waybill <br>   Other applicable documents |
 | **Disclosure involving Strategic Goods** | [VDP-SGCA Non-Compliance](/files/businesses/VDP-SGC-non-compliance.doc) |
 | **Disclosure involving rules of origin under Singapore’s free trade agreements** | [VDP-FTA or ROO Non-Compliance](/files/businesses/VDP-FTA-ROO-non-compliance.doc) |
+|**Disclosures involving more than 3 Cargo Clearance Permits / Advance Clearance for Courier & Express Shipment (ACCESS) Permits** | [VDP Consolidated Excel Sheet](https://go.gov.sg/vdpexcelsheetmorethan3)
 
 Please note that your submission may be rejected if there is an omission in any information and/or document required.
 
