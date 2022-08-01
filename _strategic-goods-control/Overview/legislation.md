@@ -21,7 +21,7 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2021](https://sso.agc.gov.sg/SL-Supp/S564-2021/Published/20210802?DocDate=20210802){:target="_blank"}, effective from 1 October 2022. 
 
-You may refer to the  [amendment table]([](/files/SGCO%20Amendments%20Table%20(2022).pdf)){:target="_blank"} for more information on the changes made to the Strategic Goods (Control) Order 2021, under the Strategic Goods (Control) (Amendment) Order 2022.
+You may refer to the  [amendment table]([](/files/businesses/TSSB/SGCO%20Amendments%20Table%20(2022).pdf)){:target="_blank"} for more information on the changes made to the Strategic Goods (Control) Order 2021, under the Strategic Goods (Control) (Amendment) Order 2022.
 
 You may also wish to visit our  [Frequently Asked Questions]([](/files/businesses/TSSB/FAQs%20for%20Strategic%20Goods%20Control%20Order%202021%20(2022).pdf)){:target="_blank"} on the updates to the Strategic Goods (Control) Order 2021.
 
