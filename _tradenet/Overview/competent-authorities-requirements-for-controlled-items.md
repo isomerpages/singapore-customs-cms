@@ -66,7 +66,7 @@ Please remember to upload the relevant supporting documents required by the CAs 
 
 **8) Ministry of Home Affairs (MHA)**
 
--   [Ministry of Home Affairs - Gambling Regulatory Authority](/businesses/national-single-window/tradenet/competent-authorities-requirements/MHA-Gambling-Regulatory-Unit)
+-   [Ministry of Home Affairs - Gambling Regulatory Authority](/businesses/national-single-window/tradenet/competent-authorities-requirements/MHA-Gambling-Regulatory-Authority)
 
 **9) National Environment Agency (NEA)**
 
