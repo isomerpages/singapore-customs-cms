@@ -23,7 +23,7 @@ Singapore has updated its list of strategic goods and strategic goods technology
 
 You may refer to the  [amendment table]([](/files/SGCO%20Amendments%20Table%20(2022).pdf)) for more information on the changes made to the Strategic Goods (Control) Order 2021, under the Strategic Goods (Control) (Amendment) Order 2022.
 
-You may also wish to visit our  [Frequently Asked Questions][](/files/businesses/TSSB/FAQs%20for%20Strategic%20Goods%20Control%20Order%202021%20(2022).pdf) on the updates to the Strategic Goods (Control) Order 2021.
+You may also wish to visit our  [Frequently Asked Questions]([](/files/businesses/TSSB/FAQs%20for%20Strategic%20Goods%20Control%20Order%202021%20(2022).pdf)) on the updates to the Strategic Goods (Control) Order 2021.
 
 **Strategic Goods (Control) (Brokering) Order**
 
