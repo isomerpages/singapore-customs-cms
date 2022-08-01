@@ -23,4 +23,4 @@ This guidebook advises readers on the Strategic Goods Control List, and provides
 
 **Amendment to the Strategic Goods Control List**
 
-This  [document]([](/files/businesses/TSSB/FAQs%20for%20Strategic%20Goods%20Control%20Order%202021%20(2022).pdf)) provides updates on the amendments to the Strategic Goods Control List 2021 (effective on 1 October 2022), in particular details on changes stated in Strategic Goods (Control) (Amendment) Order 2022.
+This  [document](/files/businesses/TSSB/SGCO%20Amendments%20Table%20(2022).pdf) provides updates on the amendments to the Strategic Goods Control List 2021 (effective on 1 October 2022), in particular details on changes stated in Strategic Goods (Control) (Amendment) Order 2022.
