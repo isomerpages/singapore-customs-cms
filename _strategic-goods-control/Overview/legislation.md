@@ -1,9 +1,8 @@
 ---
-title: Legislation 
+title: Legislation
 permalink: /businesses/strategic-goods-control-1/overview/legislation
 third_nav_title: Overview
 ---
-
 # Legislation
 
 Singapore’s regulatory controls on strategic goods are based on the Strategic Goods (Control) Act and its subsidiary legislation.
@@ -20,11 +19,11 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 **Strategic Goods (Control) Order**
 
-Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2021](https://sso.agc.gov.sg/SL-Supp/S564-2021/Published/20210802?DocDate=20210802){:target="_blank"}, effective from 1 October 2021. 
+Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2021](https://sso.agc.gov.sg/SL-Supp/S564-2021/Published/20210802?DocDate=20210802){:target="_blank"}, effective from 1 October 2022. 
 
-You may refer to the  [amendment table](/files/businesses/TSSB/Amendment-table-for-Strategic-Goods-Control-Order-2021.pdf) for more information on the changes made to the Strategic Goods (Control) Order 2020, under the Strategic Goods (Control) Order 2021.
+You may refer to the  [amendment table]([](/files/SGCO%20Amendments%20Table%20(2022).pdf)) for more information on the changes made to the Strategic Goods (Control) Order 2021, under the Strategic Goods (Control) (Amendment) Order 2022.
 
-You may also wish to visit our  [Frequently Asked Questions](/files/businesses/TSSB/FAQs-for-Strategic-Goods-Control-Order-2021.pdf) on the updates to the Strategic Goods (Control) Order 2021.
+You may also wish to visit our  [Frequently Asked Questions][](/files/businesses/TSSB/FAQs%20for%20Strategic%20Goods%20Control%20Order%202021%20(2022).pdf) on the updates to the Strategic Goods (Control) Order 2021.
 
 **Strategic Goods (Control) (Brokering) Order**
 
