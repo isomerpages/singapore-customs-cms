@@ -1,5 +1,5 @@
 ---
-title: Apply for Customs Export Permit
+title: Obtain Customs Export Permit
 permalink: /businesses/exporting-goods/export-procedures/apply-customs-export-permit
 third_nav_title: Exporting Requirements
 ---
