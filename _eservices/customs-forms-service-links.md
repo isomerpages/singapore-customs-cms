@@ -8,9 +8,9 @@ permalink: /eservices/customs-forms-and-service-links
 |--|--|--|
 | 1. | Broker and Representative Authorisation Letter | [Word Doc](https://www.customs.gov.sg/files/eservices/Broker-and-Representative-Authorisation-Letter.docx)|
 | 2. | Employee Declarant Details and Authorisation Form | [Word Doc](https://www.customs.gov.sg/files/eservices/Employee-Declarant-Details-and-Authorisation-Form.docx)|
-| 3. | Multiple Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts\_multiple\_journey\_guarantee\_-31\_august\_2020.docx)|
+| 3. | Multiple Journey Guarantee Document | [Web Link](https://acts.asean.org/traders-guide/guarantee)|
 | 4. | Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmit ACDD | [Web Link](https://form.gov.sg/#!/5fc60a46ea38000011cc5e29)|
-| 5. | Single Journey Guarantee Document | [Word Doc](https://acts.asean.org/sites/default/files/media/acts\_single\_journey\_guarantee\_-31\_august\_2020.docx)|
+| 5. | Single Journey Guarantee Document | [Web Link](https://acts.asean.org/traders-guide/guarantee)|
 | 6. | Trader Application Form | [Word Doc](https://www.customs.gov.sg/files/eservices/Trader-Application-Form.docx)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
@@ -75,17 +75,18 @@ permalink: /eservices/customs-forms-and-service-links
 | 4. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://form.gov.sg/#!/5ef564974cb2d20012590cb1)
 | 5. | Application for GST Relief for Hand-Carried Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) (For non-Singpass users) <br>[Web Link](https://form.gov.sg/#!/600fd804a6ac7800110ab36b) (For Singpass users)
 | 6. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP)
-| 7. | Application for Kimberly Process Licence (KPL) | [Web Link](https://form.gov.sg/#!/5cd0c8a09c7b100010bd490e)
-| 8. | Application for Landing Certificate (LC) | [Web Link](https://form.gov.sg/61d7db653cff100012127dec)
-| 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp)
-| 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://form.gov.sg/#!/5d2d7ffc690755001137c917)
-| 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4)|
-| 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)
-| 13. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://form.gov.sg/#!/5f7a6430482e1200114bad08)
-| 14. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec\_inter/index.jsp)|
-| 15. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec\_inter/index.jsp)|
-| 16. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION\_ID=TXWP)|
-| 17. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
+| 7. | Application for Kimberley Process Licence (KPL) | [Web Link](https://form.gov.sg/61dab6b7369b3a00139d5380)
+| 8. | Application for Kimberley Process Certificate | [Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)
+| 9. | Application for Landing Certificate (LC) | [Web Link](https://form.gov.sg/61d7db653cff100012127dec)
+| 11. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp)
+| 12. | Application for Secure Trade Partnership (STP) | [Web Link](https://form.gov.sg/#!/5d2d7ffc690755001137c917)
+| 13. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4)|
+| 14. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)
+| 15. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://form.gov.sg/#!/5f7a6430482e1200114bad08)
+| 16. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec\_inter/index.jsp)|
+| 17. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec\_inter/index.jsp)|
+| 18. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP)|
+| 19. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
