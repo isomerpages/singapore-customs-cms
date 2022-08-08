@@ -1,6 +1,6 @@
 ---
 title: Joint Industry Outreach Seminar on Strategic Trade Management 2017
-permalink: /businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2017
+permalink: /business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2017
 third_nav_title: Courses and Events
 ---
 
