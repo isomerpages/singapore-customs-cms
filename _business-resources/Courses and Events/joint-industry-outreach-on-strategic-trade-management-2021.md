@@ -1,6 +1,6 @@
 ---
 title: Joint Industry Outreach on Strategic Trade Management 2021
-permalink: /businesses/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2021
+permalink: /business-resources/Courses-and-Events/joint-industry-outreach-on-strategic-trade-management-2021
 third_nav_title: Courses and Events
 ---
 
