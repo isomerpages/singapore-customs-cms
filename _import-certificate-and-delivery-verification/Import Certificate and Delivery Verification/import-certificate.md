@@ -27,9 +27,9 @@ Submit the [application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab).
     -   Exporter's name and address
     -   End-user's name and address
 -   Indicate whether the goods are for use in Singapore or for re-export. If the goods are for re-export, state the country where the goods will be re-exported to.
--   A maximum of 20 items can be filled in each IC application.
+-   A maximum of 10 items can be filled in each IC application.
 -   Description of goods refers to the exact name of the items. The description must match the particulars in the end user's and foreign exporter's declarations, including brand, model number and technical specifications.
--   For each item, state its 8-digit HS code, the quantity to be imported and its unit of measurement (for example, 12 tonnes, 5 pieces).
+-   For each item, state its 8-digit HS code, the quantity to be imported and its unit of measurement (for example, 12 TNE, 5 NMB).
 -   For each item, state the Cost, Insurance and Freight (CIF) value in Singapore dollars.
 
 ## Supporting Documents

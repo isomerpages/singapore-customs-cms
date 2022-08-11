@@ -1,7 +1,7 @@
 ---
 title: Events for Traders 
 permalink: /business-resources/Courses-and-Events/events-for-traders
-third_nav_title: Courses and events
+third_nav_title: Courses and Events
 ---
 
 # Events for Traders
