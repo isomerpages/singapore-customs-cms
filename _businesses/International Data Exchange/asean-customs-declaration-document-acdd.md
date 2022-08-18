@@ -10,12 +10,13 @@ The ASEAN Single Window (ASW) is a regional initiative that connects and integra
 The ASEAN Customs Declaration Document (ACDD) is an electronic document to facilitate the exchange of export declaration information between exchange-ready AMS. It contains a specific set of TradeNet export permit data, which will be sent to the Customs authority in the importing exchange-ready AMS for the purpose of supplementing risk management by the Customs authority in the importing country. The expected benefits for participating traders include potential reduction in Customs clearance time for consignments which are supported by the ACDD and imported into exchange-ready AMS. <br>
 
 The ACDD is optional and open to all traders who export goods to an exchange-ready AMS. The exchange-ready AMS are: <br>
-  a)  Cambodia<br>
-  b)  Indonesia<br>
-	c)  Malaysia<br>
-  d)  Myanmar<br>
-	e)  Philippines<br>
-  f)  Thailand<br>
+  a)  Brunei Darussalam<br>
+	b)  Cambodia<br>
+  c)  Indonesia<br>
+	d)  Malaysia<br>
+  e)  Myanmar<br>
+	f)  Philippines<br>
+  g)  Thailand<br>
 
 More AMS will commence live operation when they are ready to do so.<br>
 
