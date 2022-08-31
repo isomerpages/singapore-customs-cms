@@ -1,8 +1,10 @@
 ---
 title: ASEAN Customs Declaration Document (ACDD)
-permalink: /businesses/international-data-exchange/acdd
+permalink: /businesses/international-connectivity/acdd/
 third_nav_title: International Data Exchange
+description: ""
 ---
+
 ## Electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
 
 The ASEAN Single Window (ASW) is a regional initiative that connects and integrates the National Single Windows (NSWs) of ASEAN Member States (AMS), thereby allowing the electronic exchange of data between the AMS. <br> 
