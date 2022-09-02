@@ -1,6 +1,6 @@
 ---
 title: Customs Forms & Service Links
-permalink: /eservices/customs-forms-and-service-links
+permalink: /eservices/customs-forms-and-service-links/
 ---
 ## ASEAN Customs Transit System/Declaration Document
 
@@ -99,7 +99,8 @@ permalink: /eservices/customs-forms-and-service-links
 | 3. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
 | 4. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
 | 5. | Application for Supervision Operations | [Web Link](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)|
-| 6. | Template for Letter of Undertaking or TradeNet Unavailability | [Word Doc](https://www.customs.gov.sg/files/eservices/Letter-of-undertaking-tradenet.doc)
+| 6. | HCES Permit Clearance Status Query | [Web Link](https://form.gov.sg/62e0e341ff86280013c1d93b)|
+| 7. | Template for Letter of Undertaking or TradeNet Unavailability | [Word Doc](https://www.customs.gov.sg/files/eservices/Letter-of-undertaking-tradenet.doc)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 

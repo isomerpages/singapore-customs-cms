@@ -1,6 +1,6 @@
 ---
 title: Exporting Hand-Carried Commercial Goods
-permalink: /businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods
+permalink: /businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods/
 third_nav_title: Export Procedures
 ---
 # Exporting Hand-Carried Commercial goods
@@ -12,6 +12,8 @@ The Hand-Carried Export Scheme (HCES) is administered by IRAS and effective sinc
 For departure via Changi International Airport, traders must present the goods with the relevant Customs Export permit, supporting invoice and boarding pass/confirmed air-ticket to Singapore Customs officers for inspection.
 
 For departure via other checkpoints, please note that HCES is not applicable.
+
+If you would like to confirm that your goods hand-carried out of Singapore via the Changi International Airport have been cleared by Singapore Customs, please submit the "[HCES Permit Clearance Status Query](https://form.gov.sg/62e0e341ff86280013c1d93b)" form. You will receive a response within 3 working days.
 
 ## Networked Trade Platform (NTP) HCES Digital Service
 
