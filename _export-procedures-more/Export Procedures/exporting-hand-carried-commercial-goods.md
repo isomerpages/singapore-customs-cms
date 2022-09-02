@@ -13,7 +13,6 @@ For departure via Changi International Airport, traders must present the goods w
 
 For departure via other checkpoints, please note that HCES is not applicable.
 
-If you would like to confirm that your goods hand-carried out of Singapore via the Changi International Airport have been cleared by Singapore Customs, please submit the "[HCES Permit Clearance Status Query](https://form.gov.sg/62e0e341ff86280013c1d93b)" form. You will receive a response within 3 working days.
 
 ## Networked Trade Platform (NTP) HCES Digital Service
 
