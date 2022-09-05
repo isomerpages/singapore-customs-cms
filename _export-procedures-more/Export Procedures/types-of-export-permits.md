@@ -28,9 +28,9 @@ Each permit application typically costs S$2.88. If you are engaging a declaring 
 
 ## TradeNet Unavailability
 
-In the event of an unscheduled TradeNet unavailability announced by Singapore Customs, exporters who are unable to obtain an approved permit may be advised by Singapore Customs to use a [Letter of Undertaking](/files/businesses/lou-template-for-tn-unavailability-6aug15-(2).docx) for the clearance of their goods. This will be announced via Customs notice. The exporter will have to obtain a permit within three days from the date TradeNet is restored.
+In the event of an unscheduled TradeNet unavailability announced by Singapore Customs, exporters who are unable to obtain an approved permit may be advised by Singapore Customs to use a [Letter of Undertaking](/files/businesses/lou-template-for-tn-unavailability-6aug15-(2).docx) for the clearance of their goods. This will be announced via a Customs notice. The exporter will have to obtain a permit within three days from the date TradeNet is restored.
 
-For export, transhipment or bringing in transit of strategic goods under Tier 1 of the Strategic Trade Scheme during TradeNet unavailability, exporters should use a  [Letter of Undertaking for strategic goods](/files/businesses/lou-for-strategic-goods.docx)for clearance of their goods.
+For export, transhipment or bringing in transit of strategic goods under Tier 1 of the Strategic Trade Scheme during an unscheduled TradeNet unavailability, exporters will be informed to use a  [Letter of Undertaking for strategic goods](/files/businesses/lou-for-strategic-goods.docx)for clearance of their goods. This will be announce via a Customs notice.
 
 ## Further information
 
