@@ -36,7 +36,7 @@ You may also wish to view the [complete list](https://www.customs.gov.sg/files/b
 
 In the event of an unscheduled TradeNet unavailability announced by Singapore Customs, importers who are unable to obtain an approved Customs permit may be advised by Singapore Customs to use a [Letter of Undertaking](/files/businesses/lou-template-for-tn-unavailability-6aug15-(1).docx) to facilitate the clearance of their goods. This will be announced via a Customs Notice.
 
-The importer should obtain a customs permit for the goods within **three** **days** from the date TradeNet is restored. However, importers are still required to make duty and/or GST payment at the checkpoints, if there is no [duty-free concession](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief) on the goods imported
+The importer should obtain a customs permit for the goods within **three** **days** from the date TradeNet is restored. However, importers are still required to make duty and/or GST payment at the checkpoints, if there is no [duty-free concession](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief) on the goods imported.
 
 ## Situations Where Import Permit is Not Required
 
