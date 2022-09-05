@@ -1,6 +1,6 @@
 ---
 title: Documentation for Clearance of Goods
-permalink: /businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods
+permalink: /businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods/
 third_nav_title: Transhipment Requirements
 ---
 # Documentation for Clearance of Goods
@@ -17,7 +17,7 @@ Below are some examples of permit conditions indicated in a Customs:
 | A2 | The goods must be produced together with this permit, invoices, BL/AWB, etc must be produced for Customs clearance / endorsement at a Free Trade Zone ‘Out’ Gate unless it is directed to the “Green Lane’ at the time of clearance. |
 | A3 | The goods must be produced with this permit, invoices, BL/AWB, etc for Customs endorsement at an Airport Customs checkpoint or designated Customs office or station as required. |
 | H1 | The goods must be produced together with this permit, invoices, BL/AWB, etc for Customs clearance at Woodlands Checkpoint / Tuas Checkpoint. |
-
+| AX | Goods released from the 1st Customs checkpoint must be produced at the 2nd Checkpoint within 24 hours. Otherwise, they must be stored at a place approved by a Customs officer|
 
 The container would be affixed with a Customs seal at the entry checkpoint. The sealed container must be produced at the exit checkpoint for clearance within 24 hours after release from the entry checkpoint.
 
