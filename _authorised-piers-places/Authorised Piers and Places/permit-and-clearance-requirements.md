@@ -18,7 +18,7 @@ Examples of permit conditions indicating such requirements at specific piers and
 | **CH** | THE GOODS AND THIS PERMIT MUST BE PRODUCED TO THE SECURITY PERSONNEL AT **LOYANG OFFSHORE BASE/ OFFSHORE MARINE CENTRE FOR ENDORSEMENT AT THE TIME OF ENTRANCE AND EXIT. |  
 | **CP** |  THE GOODS MUST BE PRODUCED TOGETHER WITH THIS PERMIT, INVOICES, BL/AWB, ETC AT **PENJURU TERMINAL** OR **MARINA SOUTH WHARVES** SECURITY POST FOR ENDORSEMENT AT THE TIME OF ENTRANCE OR EXIT.|  
 | **AZ** | PLS EMAIL THIS PERMIT TO SINGAPORE CUSTOMS (CUSTOMS_DOCUMENTATION@CUSTOMS.GOV.SG) AT LEAST 30 MINUTES BEFORE ARRIVAL AT PLACE OF RECEIPT. <br> NAME: .................  <br> DESIGNATION/SIGNATURE: ................... <br> DATE/TIME OF LANDING AT PLACE OF RELEASE: ............... |  
-| **CB** | THE GOODS MUST BE ACCOMPANIED BY THIS PERMIT, INVOICES, BL/AWB, ETC AT THE TIME OF REMOVAL. |
+| **CB** | THE GOODS MUST BE ACCOMPANIED BY THIS PERMIT, INVOICES, BL/AWB, ETC AT THE TIME OF REMOVAL.|
 
 **Submission of goods movement information**
 
@@ -26,4 +26,26 @@ Permits may also be issued with the following permit conditions, where submissio
 
 |  |  |  
 |---|---|
-| **Z31** | THE PERMITS INFORMATION AND GOODS MOVEMENT INFORMATION ON UNLOADING OF GOODS FROM THE VESSEL AT THE DECLARED PLACE OF RELEASE, TOGETHER WITH GEO-TAGGED PHOTO(S) OF THE GOODS MUST BE SUBMITTED WITHIN 24 HOURS FROM COMPLETION OF THE UNLOADING OPERATION VIA THIS WEBLINK  http://go.gov.sg/customs-ump |
+| **Z31** | THE PERMITS INFORMATION AND GOODS MOVEMENT INFORMATION ON UNLOADING OF GOODS FROM THE VESSEL AT THE DECLARED PLACE OF RELEASE, TOGETHER WITH GEO-TAGGED PHOTO(S) OF THE GOODS MUST BE SUBMITTED WITHIN 24 HOURS FROM COMPLETION OF THE UNLOADING OPERATION VIA THIS WEBLINK [http://go.gov.sg/customs-ump](http://go.gov.sg/customs-ump)
+|**Z32** | THE PERMITS INFORMATION AND GOODS MOVEMENT INFORMATION ON LOADING OF GOODS ONTO THE VESSEL AT THE DECLARED PLACE OF RECEIPT, TOGETHER WITH GEO-TAGGED PHOTO(S) OF THE GOODS MUST BE SUBMITTED WITHIN 24 HOURS FROM COMPLETION OF THE LOADING OPERATION VIA THIS WEBLINK  [http://go.gov.sg/customs-ump](http://go.gov.sg/customs-ump)  
+
+
+For the permit conditions Z31 and/or Z32, you would be required to submit the goods movement information to Customs within 24 hours after the unloading of the goods at the place of release or loading of the goods at the place of receipt. The following are some examples of the information to be submitted via the [Z31/Z32 Goods Movements Submission form](http://go.gov.sg/customs-ump):
+
+a) Customs permit number(s) for your shipment
+
+b) Type of goods movement i.e. unloading (for imports), loading (for exports)
+
+c) Date and time of loading/unloading of goods
+
+d) Place of release/receipt code (e.g. ANCH, JFP, PBB, JI, PTE, TEN) as declared in the Customs permit
+
+e) Clear photo(s) of the goods which were moved at the place of release/receipt. Please note that a geo-tagged photo is required.
+
+Do note that you will be required to submit the form with the goods movement information only when your permit has been issued with the condition Z31 and/or Z32.
+
+Please submit a new form for every distinct goods movement (e.g. goods declared in a single permit are moved partially at 9am and the remaining goods at 4pm. Two separate submissions are required for the movements at 9am and 4pm respectively). 
+
+If there are errors in the submission, you are required to submit an amendment application immediately via this form. 
+
+To rescind an earlier submission (e.g. to cancel an earlier submission where goods had not been moved yet), please submit a cancellation application via the same form.
