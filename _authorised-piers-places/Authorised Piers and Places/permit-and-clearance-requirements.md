@@ -43,3 +43,9 @@ d) Place of release/receipt code (e.g. ANCH, JFP, PBB, JI, PTE, TEN) as declared
 e) Clear photo(s) of the goods which were moved at the place of release/receipt. Please note that a geo-tagged photo is required.
 
 Do note that you will be required to submit the form with the goods movement information only when your permit has been issued with the condition Z31 and/or Z32.
+
+Please submit a new form for every distinct goods movement (e.g. goods declared in a single permit are moved partially at 9am and the remaining goods at 4pm. Two separate submissions are required for the movements at 9am and 4pm respectively). 
+
+If there are errors in the submission, you are required to submit an amendment application immediately via this form. 
+
+To rescind an earlier submission (e.g. to cancel an earlier submission where goods had not been moved yet), please submit a cancellation application via the same form.
