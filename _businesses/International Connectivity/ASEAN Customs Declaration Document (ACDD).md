@@ -42,12 +42,12 @@ The specific TradeNet export permit data that would be sent as an ACDD to an imp
 ## Participation in the Electronic Submission of ACDD
 
 **Step 1: Participation in the Electronic Submission of ACDD and Authorisation of Singapore Customs to Transmit ACDD on the Networked Trade Platform (NTP)**<br><br>
-Traders exporting goods out of Singapore who wish to participate in the electronic submission of ACDD can do so by logging in to the NTP > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent, to: <br>
+Traders exporting goods out of Singapore who wish to participate in the electronic submission of ACDD can do so by logging in to the [NTP](https://www.ntp.gov.sg/home/) > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent, to: <br>
 
   a)  provide their consent to Singapore Customs to send the ACDD-required information to the importing exchange-ready AMS and accept the relevant terms and conditions; and <br>
   b) inform Singapore Customs of their Declaring Agent(s) who are authorised to declare TradeNet export permit applications on their behalf.<br>
 
-Traders who wish to withdraw their participation from the electronic submission of ACDD or update their list of authorised DA(s) can do so by logging in to NTP > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent.<br>
+Traders who wish to withdraw their participation from the electronic submission of ACDD or update their list of authorised DA(s) can do so by logging in to [NTP](https://www.ntp.gov.sg/home/) > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent.<br>
 
 
 
