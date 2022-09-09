@@ -43,6 +43,7 @@ The specific TradeNet export permit data that would be sent as an ACDD to an imp
 
 **Step 1: Participation in the Electronic Submission of ACDD and Authorisation of Singapore Customs to Transmit ACDD on the Networked Trade Platform (NTP)**<br><br>
 Traders exporting goods out of Singapore who wish to participate in the electronic submission of ACDD can do so by logging in to the NTP > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent, to: <br>
+
   a)  provide their consent to Singapore Customs to send the ACDD-required information to the importing exchange-ready AMS and accept the relevant terms and conditions; and <br>
   b) inform Singapore Customs of their Declaring Agent(s) who are authorised to declare TradeNet export permit applications on their behalf.<br>
 
@@ -50,15 +51,15 @@ Traders who wish to withdraw their participation from the electronic submission 
 
 
 
-**Step 2: TradeNet Declaration Procedures**<br><br> 
-There will be no change to the TradeNet permit application procedures. To authorise Singapore Customs to send the ACDD to an importing exchange-ready AMS (specified in the “country of final destination” field in the export permit), the Declaring Agent has to:<br>
+**Step 2: TradeNet Declaration Procedures for ACDD**<br><br> 
+There will be no change to the TradeNet permit application procedures. To authorise Singapore Customs to send the ACDD to an importing exchange-ready AMS (specified in the “country of final destination” field in the export permit), the trader must provide their consent (described under Step 1), and the Declaring Agent has to indicate the following in the TradeNet application:<br>
 
-  a)  Select “International Data Exchange” under the “Customs Procedure Code (CPC)” field; and<br>
-  b)  Key in “ACDD” at the “Procedure Code 1 (PC1)” field.
+  a)  “International Connectivity” under the “Customs Procedure Code (CPC)” field; and<br>
+  b)  “ACDD” at the “Processing Code 1 (PC1)” field.
 
-Please note that amendments to and/or cancellation of TradeNet permit applications will not be sent to the Customs authority of the importing exchange-ready AMS, as these functionalities are currently not available for ACDD. Should there be any changes to the export information in the permit application after the ACDD information has been sent to the importing exchange-ready AMS, the onus is on your company to update the importing exchange-ready AMS of the changes.
+Please note that amendments to and/or cancellation of TradeNet permits will not be sent to the Customs authority of the importing exchange-ready AMS. Should there be any changes to the export information in the permits after the ACDD information has been sent to the importing exchange-ready AMS, please update the importing exchange-ready AMS of the changes.
 
-"International Data Exchange” under the “CPC” field is available for the following message and declaration types as shown below:
+"International Connectivity” under the “CPC” field is available for the following message and declaration types as shown below:
 
 | Message Type | Declaration Type Reference |
 |--|--|
