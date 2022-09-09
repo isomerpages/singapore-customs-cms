@@ -73,3 +73,4 @@ Please note that amendments to and/or cancellation of TradeNet permits will not 
 | INP (In-Non Payment)| REX (Re-Export) | 
 
 ## For more information:
+[Circular 10/2022: Updated Procedures for Electronic Submission of ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)](http://www.customs.gov.sg/files/Circular_10_2022_Ver1.pdf)
