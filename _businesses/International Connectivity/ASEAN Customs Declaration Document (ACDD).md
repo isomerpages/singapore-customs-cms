@@ -4,8 +4,6 @@ permalink: /businesses/international-connectivity/acdd/
 third_nav_title: International Connectivity
 description: ""
 ---
-
-
 ## Electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
 
 The ASEAN Single Window (ASW) is a regional initiative that connects and integrates the National Single Windows (NSWs) of ASEAN Member States (AMS), thereby allowing the electronic exchange of data between the AMS. <br> 
@@ -41,22 +39,14 @@ The specific TradeNet export permit data that would be sent as an ACDD to an imp
   n)  Serial Number of Item; and<br>
   o)  TradeNet Permit Number.<br>
 
-## Participation in the Electronic Exchange of ACDD
+## Participation in the Electronic Submission of ACDD
 
-**Step 1: Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmit ACDD**<br><br>
-Traders exporting goods from Singapore who wish to participate in the exchange of ACDD should submit a duly completed ACDD participation form to Singapore Customs. The form: <br>
-  a)  indicates the traders’ participation in the exchange of ACDD; <br>
-  b)  provides consent to Singapore Customs to send the ACDD to the importing exchange-ready AMS; and <br>
-  c)  informs Singapore Customs of their Declaring Agent(s) who are authorised to provide such consent on the traders’ behalf in TradeNet export permit applications.<br>
+**Step 1: Participation in the Electronic Submission of ACDD and Authorisation of Singapore Customs to Transmit ACDD on the Networked Trade Platform (NTP)**<br><br>
+Traders exporting goods out of Singapore who wish to participate in the electronic submission of ACDD can do so by logging in to the NTP > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent, to: <br>
+  a)  provide their consent to Singapore Customs to send the ACDD-required information to the importing exchange-ready AMS and accept the relevant terms and conditions; and <br>
+  b) inform Singapore Customs of their Declaring Agent(s) who are authorised to declare TradeNet export permit applications on their behalf.<br>
 
-
-The ACDD participation form can be accessed from the [ASEAN Customs Declaration Document (ACDD) section on the Customs Forms and Service Links page](https://www.customs.gov.sg/eservices/customs-forms-and-service-links). Singapore Customs will contact you within 7 working days upon receipt of the completed form on the outcome of the application.<br>
-
-Traders who wish to<br> 
-  a)  withdraw from participation in the electronic exchange of ACDD and withdraw consent for the transmission of ACDD-required information to the AMS Customs Authority; <br>
-  b)  inform Singapore Customs of revocation of authority of any DA(s); or <br>
-  c)  inform Singapore Customs of additional DA(s) after submission of this form, <br>
-please send an email to Customs_documentation@customs.gov.sg.<br>
+Traders who wish to withdraw their participation from the electronic submission of ACDD or update their list of authorised DA(s) can do so by logging in to NTP > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent.<br>
 
 
 
