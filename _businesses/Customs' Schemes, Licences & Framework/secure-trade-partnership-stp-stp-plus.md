@@ -1,6 +1,6 @@
 ---
 title: Secure Trade Partnership (STP) & STP-Plus
-permalink: /businesses/customs-schemes-licences-framework/secure-trade-partnership-stp
+permalink: /businesses/customs-schemes-licences-framework/secure-trade-partnership-stp/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Secure Trade Partnership (STP) & STP-Plus
@@ -13,7 +13,7 @@ The STP is a voluntary certification programme consistent with the World Customs
 
 The programme encourages companies to adopt robust security measures using a risk-based approach in their trading operations to improve global supply chain security. By participating in the programme, a company demonstrates commitment and willingness in keeping the supply chain secure.
 
-This programme is open to all supply chain stakeholders, including importers, exporters, manufacturers, freight forwarders, warehouse operators, transporters and terminal operators. It allows flexibility and customisation of security measures based on the company’s business model and its role in the supply chain.
+This programme is open to all supply chain stakeholders directly involved in the international movement of goods, including importers, exporters, manufacturers, freight forwarders, warehouse operators, transporters and terminal operators. It allows flexibility and customisation of security measures based on the company’s business model and its role in the international supply chain.
 
 **STP-Plus**
 
@@ -67,7 +67,7 @@ To qualify for the STP, the company must:
 -   Have good compliance records with Singapore Customs
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining  the minimum “Intermediate” and “Premium” bands to qualify for the STP and STP-Plus certifications respectively
 
-Click  [here](/files/businesses/SEB/STP Handbook Jan 2021.pdf) for the Handbook on Secure Trade Partnership
+Click [here](/files/businesses/SEB/STP%20Handbook%20(7%20Sep%202022)_Final.pdf) for the Handbook on Secure Trade Partnership
 
 ## How to Apply?
 
