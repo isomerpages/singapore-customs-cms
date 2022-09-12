@@ -1,5 +1,5 @@
 ---
-title: 102022 Updated Procedures for Electronic Submission of ASEAN Customs
+title: 10/2022 Updated Procedures for Electronic Submission of ASEAN Customs
   Declaration Document (ACDD)
 date: 2022-09-09
 layout: file
