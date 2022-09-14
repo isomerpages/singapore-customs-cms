@@ -108,14 +108,14 @@ Before you import your goods, please also see the lists of [controlled and prohi
 
 <ul class="jekyllcodex_accordion">
 <li>
-    <input type="checkbox" id="accordion1">
+    <input id="accordion1" type="checkbox">
     <label for="accordion4"> Unaccompanied Personal Effects (Imports via air, land or sea)</label>
     <div>
 			 <p> This refers to shipments that are arranged for delivery by the shipping, airline or forwarding agent appointed by the owner of the personal effects.</p>
 			 <p>To apply, you or your appointed agent should:</p>
       <ol>
-        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts (DOF)</a> to Singapore Customs for an assessment of your eligibility for GST relief.</li>
-        <li>Submit the following supporting documents for proof of transfer of residence to Singapore
+        <li>Submit an online Declaration of Facts (DOF) to Singapore Customs for an assessment of your eligibility for GST relief.</li>
+        <li> Submit the following supporting documents and the online DOF to Singapore Customs at <a href="customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a> for proof of transfer of residence to Singapore</li>
     <div>
       <ul>
         <li> Copy of passport and/or identity card (NRIC)</li>
@@ -124,24 +124,24 @@ Before you import your goods, please also see the lists of [controlled and prohi
         <li> Bill of lading/air waybill</li>
       </ul>
     </div>
-  </li>
-	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">TradeNet</a></li>
+  
+	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP">TradeNet</a></li>
 <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within five working days of receiving Customs’ approval of GST relief.</li>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
 <li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects. </li>
-<p>If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
+<p>If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
     <div>
       <ul>
         <li> A copy of your work pass application received by MOM; </li>
         <li> A letter from your employer confirming your employment; together with</li>
-        <li> •	A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your WP is not approved or if you subsequently did not take up the employment.</li>
+        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your WP is not approved or if you subsequently did not take up the employment.</li>
       </ul>
     </div>
-</li>
+
 <li> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</li>
-			</div>
-	  <li>
-    <input type="checkbox" id="accordion3">
+			</ol></div>
+	  </li><li>
+    <input id="accordion3" type="checkbox">
     <label for="accordion3">
 Taking Delivery of the Personal Effects</label>
     <div>
@@ -151,7 +151,7 @@ Taking Delivery of the Personal Effects</label>
     </div>
   </li>
 	  <li>
-    <input type="checkbox" id="accordion4">
+    <input id="accordion4" type="checkbox">
     <label for="accordion4">Accompanied Personal Effects</label>
     <div>
 			<p>This refers to goods that are hand-carried in the owner’s accompanied baggage upon his or her arrival in Singapore.
@@ -166,7 +166,7 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
         <li>Proof of employment overseas (e.g., work permit visa, employment pass, letter of appointment)</li>
       </ul>
     </div>
-<li><b>Returning Singaporeans & Permanent Residents studying overseas</b></li>
+<li><b>Returning Singaporeans &amp; Permanent Residents studying overseas</b></li>
     <div>
       <ul>
 				<li>Copy of passport or identity card (NRIC)</li>
@@ -183,4 +183,4 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
     </div>
 	</ul>
     </div>
-  </li>
+  </li></ul>
