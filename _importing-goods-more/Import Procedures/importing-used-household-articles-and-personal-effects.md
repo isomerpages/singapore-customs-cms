@@ -141,8 +141,8 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <li> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</li>
 			</div>
 	  <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">
 Taking Delivery of the Personal Effects</label>
     <div>
       <p>After obtaining the approved Customs In-Non-Payment (GST Relief) permit, your appointed agent must collect the goods on your behalf.</p>
@@ -151,8 +151,8 @@ Taking Delivery of the Personal Effects</label>
     </div>
   </li>
 	  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Accompanied Personal Effects</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Accompanied Personal Effects</label>
     <div>
 			<p>This refers to goods that are hand-carried in the owner’s accompanied baggage upon his or her arrival in Singapore.
 
