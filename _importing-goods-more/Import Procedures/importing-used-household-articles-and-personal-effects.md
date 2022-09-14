@@ -128,7 +128,6 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within five working days of receiving Customs’ approval of GST relief.</li>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
 <li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects. </li>
-				</ul></div>  
 <p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
     <div>
       <ul>
@@ -160,8 +159,6 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <li> Upon approval of your application, you should immediately inform SingPost of Singapore Customs’ approval granted on your personal effects. You do not have to apply for an In-Non Payment (GST relief) permit if your personal effects contain non-controlled goods and are imported via postal parcel.</li>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
 <li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You are required to pay GST to import your personal effects. </li>
-		</ul>
-</div>  
 <p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
     <div>
       <ul>
