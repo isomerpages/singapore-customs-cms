@@ -1,5 +1,5 @@
 ---
-title: 082022 Changes to the Strategic Goods Control List and the list of items
+title: 08/2022 Changes to the Strategic Goods Control List and the list of items
   requiring mandatory
 date: 2022-08-01
 layout: file
