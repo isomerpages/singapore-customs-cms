@@ -109,7 +109,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <ul class="jekyllcodex_accordion">
 <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion4"> Unaccompanied Personal Effects (Imports via air, land or sea)</label>
+    <label for="accordion1"> Unaccompanied Personal Effects (Imports via air, land or sea)</label>
     <div>
 			 <p> This refers to shipments that are arranged for delivery by the shipping, airline or forwarding agent appointed by the owner of the personal effects.</p>
 			 <p>To apply, you or your appointed agent should:</p>
