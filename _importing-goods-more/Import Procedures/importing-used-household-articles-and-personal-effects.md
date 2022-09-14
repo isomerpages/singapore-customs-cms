@@ -114,7 +114,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 			 <p> This refers to shipments that are arranged for delivery by the shipping, airline or forwarding agent appointed by the owner of the personal effects.</p>
 			 <p>To apply, you or your appointed agent should:</p>
       <ol>
-        <li>Submit an online Declaration of Facts (DOF) to Singapore Customs for an assessment of your eligibility for GST relief.</li>
+        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts (DOF) </a> to Singapore Customs for an assessment of your eligibility for GST relief.</li>
         <li> Submit the following supporting documents and the online DOF to Singapore Customs at <a href="customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a> for proof of transfer of residence to Singapore</li>
     <div>
       <ul>
@@ -145,7 +145,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 			 <p> This refers to shipments that are imported by post or Speedpost services.</p>
 			 <p>To apply, you or your appointed agent should:</p>
       <ol>
-        <li>Submit an online Declaration of Facts (DOF) to Singapore Customs for an assessment of your eligibility for GST relief.</li>
+        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts (DOF) </a> to Singapore Customs for an assessment of your eligibility for GST relief</li>
         <li> Submit the following supporting documents and the online DOF to Singapore Customs at <a href="customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a> for proof of transfer of residence to Singapore</li>
     <div>
       <ul>
