@@ -115,34 +115,34 @@ Before you import your goods, please also see the lists of [controlled and prohi
 			 <p>To apply, you or your appointed agent should:</p>
       <ol>
         <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">Declaration of Facts (DOF)</a> to Singapore Customs for an assessment of your eligibility for GST relief.</li>
-        <li>Submit the following supporting documents to Singapore Customs for proof of transfer of residence to Singapore
+        <li>Submit the following supporting documents and the online DOF to Singapore Customs at <a href="customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a> for proof of transfer of residence to Singapore
     <div>
       <ul>
-        <li>Extract of passport particulars</li>
-        <li>Employment pass</li>
-        <li>Entry permit</li>
-        <li> Bill of lading/air waybill</li>
+        <li>Copy of passport and/or Identity Card (NRIC)</li>
+        <li>Proof of transfer of residence to Singapore. For Example, Work Pass, Dependent Pass, In-Principle Approval from the Ministry of Manpower (MOM)</li>
+        <li>ICA Re-Entry Permit (for Permanent Resident)</li>
+        <li> Bill of Lading/air waybill</li>
       </ul>
     </div>
   </li>
+				        <li> Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">TradeNet</a>.</li>
+				<li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 5 working days of receiving Customs’ approval of GST relief.</li>
+				<li>If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit.</li>
+				<li>If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects.</li>
 <p>
-If your employment pass is still being processed by the Ministry of Manpower (MOM), you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
+*If your employment pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">DOF</a> and submit it to Singapore Customs</p>
     <div>
       <ul>
-        <li>A copy of your employment pass application received by MOM; or</li>
-        <li>Employment pass</li>
+        <li>A copy of your employment pass application received by MOM</li>
         <li>A letter from your employer confirming your employment; together with</li>
-        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your employment pass is not approved or if your employment is subsequently not taken up.
+        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your WP is not approved or if your subsequently did not take up the employment
 </li>
       </ul>
     </div>
 <p>If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
-<p>
-These supporting documents and the online DOF should be emailed to customs_documentation@customs.gov.sg.</p>
-        <li> Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP">TradeNet</a>.</li>
-        <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 5 working days of receiving Customs’ approval of GST relief.</li>
-        <li>If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit.</li>
-        <li>If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects.</li>
+
+
+    
 				<p>For shipments imported via postal parcel, you need to submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP">DOF</a> to Singapore Customs for an assessment of your eligibility for GST relief at least three working days before the personal effects are imported into Singapore. You do not have to apply for a In-Non Payment (GST relief) permit if your personal effects contain non-controlled goods and are imported via postal parcel. Upon approval of your application, you should immediately inform SingPost of Singapore Customs approval granted on your personal effects.</p>
       </ol>
     </div>
