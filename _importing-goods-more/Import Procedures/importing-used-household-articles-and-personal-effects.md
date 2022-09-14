@@ -1,6 +1,6 @@
 ---
 title: Importing Used Household Articles and Personal Effects
-permalink: /businesses/importing-goods/import-procedures/importing-used-household-articles-and-personal-effects
+permalink: /businesses/importing-goods/import-procedures/importing-used-household-articles-and-personal-effects/
 third_nav_title: Import Procedures
 accordion:
   - title: Unaccompanied Personal Effects
@@ -109,7 +109,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Unaccompanied Personal Effects</label>
+    <label for="accordion4">Unaccompanied Personal Effects (Imports via air, land or sea)</label>
     <div>
 			 <p>This refers to shipments that are arranged for delivery by the shipping, airline or forwarding agent appointed by the owner of the personal effects.</p>
 			 <p>To apply, you or your appointed agent should:</p>
