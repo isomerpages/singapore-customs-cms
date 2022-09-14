@@ -128,8 +128,8 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within five working days of receiving Customs’ approval of GST relief.</li>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
 <li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects. </li>
-				</div>  
-<p>If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
+				</ul></div>  
+<p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
     <div>
       <ul>
         <li> A copy of your work pass application received by MOM; </li>
@@ -139,6 +139,39 @@ Before you import your goods, please also see the lists of [controlled and prohi
     </div>
 <p> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
 			</ol></div>
+	  </li><li>
+<input id="accordion2" type="checkbox">
+    <label for="accordion2"> Unaccompanied Personal Effects (Imports via postal parcel)</label>
+    <div>
+			 <p> This refers to shipments that are imported by post or Speedpost services.</p>
+			 <p>To apply, you or your appointed agent should:</p>
+      <ol>
+        <li>Submit an online Declaration of Facts (DOF) to Singapore Customs for an assessment of your eligibility for GST relief.</li>
+        <li> Submit the following supporting documents and the online DOF to Singapore Customs at <a href="customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a> for proof of transfer of residence to Singapore</li>
+    <div>
+      <ul>
+        <li> Copy of passport and/or identity card (NRIC)</li>
+        <li> Proof of transfer of residence to Singapore. For example, Work Pass*, Dependant Pass, In-Principle Approval from the Ministry of Manpower (MOM)</li>
+        <li> ICA Re-Entry permit (for Permanent Resident)</li>
+        <li> Bill of lading/air waybill</li>
+      </ul>
+    </div>  
+	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP">TradeNet</a></li>
+<li> Upon approval of your application, you should immediately inform SingPost of Singapore Customs’ approval granted on your personal effects. You do not have to apply for an In-Non Payment (GST relief) permit if your personal effects contain non-controlled goods and are imported via postal parcel.</li>
+<li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
+<li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You are required to pay GST to import your personal effects. </li>
+		</ul>
+</div>  
+<p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
+    <div>
+      <ul>
+        <li> A copy of your work pass application received by MOM; </li>
+        <li> A letter from your employer confirming your employment; together with</li>
+        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your WP is not approved or if you subsequently did not take up the employment.</li>
+      </ul>
+    </div>
+<p> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
+	</ol></div>
 	  </li><li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">
