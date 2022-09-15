@@ -133,7 +133,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
       <ul>
         <li> A copy of your work pass application received by MOM; </li>
         <li> A letter from your employer confirming your employment; together with</li>
-        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your WP is not approved or if you subsequently did not take up the employment.</li>
+        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your work pass is not approved or if you subsequently did not take up the employment.</li>
       </ul>
     </div>
 <p> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
@@ -152,7 +152,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
         <li> Copy of passport and/or identity card (NRIC)</li>
         <li> Proof of transfer of residence to Singapore. For example, Work Pass*, Dependant Pass, In-Principle Approval from the Ministry of Manpower (MOM)</li>
         <li> ICA Re-Entry permit (for Permanent Resident)</li>
-        <li> Bill of lading/air waybill</li>
+        <li> Shipping documents to substantiate tracking numbers</li>
       </ul>
     </div>  
 	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP">TradeNet</a></li>
@@ -164,7 +164,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
       <ul>
         <li> A copy of your work pass application received by MOM; </li>
         <li> A letter from your employer confirming your employment; together with</li>
-        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your WP is not approved or if you subsequently did not take up the employment.</li>
+        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your work pass is not approved or if you subsequently did not take up the employment.</li>
       </ul>
     </div>
 <p> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
