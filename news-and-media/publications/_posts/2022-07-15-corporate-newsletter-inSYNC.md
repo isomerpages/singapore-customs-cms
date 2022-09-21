@@ -1,13 +1,12 @@
 ---
 title: Corporate Magazine - inSYNC
-permalink: /news-and-media/publications/corporate-newsletter
+permalink: /news-and-media/publications/corporate-newsletter/
 ---
-
 # Corporate Magazine - inSYNC
 
 inSYNC is a publication by Singapore Customs. We keep you updated on topics that impact the trading community. Read us to get vital news, pertinent insights, useful pointers, practical advice and more.
 
-Click [here](/feedback/) to subscribe to the latest issue of inSYNC today.
+Click [here](https://form.gov.sg/#!/5e859b60a0ffc50011a4ee83) to subscribe to the latest issue of inSYNC today.
 
 {:.card-list}
 
