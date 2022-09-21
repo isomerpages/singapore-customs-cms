@@ -6,7 +6,7 @@ permalink: /news-and-media/publications/corporate-newsletter/
 
 inSYNC is a publication by Singapore Customs. We keep you updated on topics that impact the trading community. Read us to get vital news, pertinent insights, useful pointers, practical advice and more.
 
-Click [here](https://form.gov.sg/#!/5e859b60a0ffc50011a4ee83) to subscribe to the latest issue of inSYNC today.
+[Subscribe now](https://form.gov.sg/#!/5e859b60a0ffc50011a4ee83) to receive updates on the latest issue of inSYNC.
 
 {:.card-list}
 
