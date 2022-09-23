@@ -1,6 +1,6 @@
 ---
 title: Joint Industry Outreach on Strategic Trade Management 2022
-permalink: /business-resources/Courses-and-Events/joint-industry-outreach-on-strategic-trade-management-2022
+permalink: /business-resources/Courses-and-Events/joint-industry-outreach-on-strategic-trade-management-2022/
 description: ""
 third_nav_title: Courses and Events
 ---
@@ -8,7 +8,7 @@ third_nav_title: Courses and Events
 
 ![](/images/joint_ind%20logo%202022%20Dark%20Blue%20Ribbon%20Nuclear%20symbol.png)
 
-#### **REGISTRATION IS NOW OPEN**
+#### **REGISTRATION IS NOW CLOSED**
 
 ##### **The 10th Joint Industry Outreach Seminar on Strategic Trade Management**
 
@@ -41,3 +41,36 @@ All successful registrants will be notified via email and will receive an update
 * Technology and Research Protection Plans
 * Customer and Third-Party Screening Tools
 * Face to Face Meetings with Regulators
+
+#### **Presentation Materials:**
+##### [Agenda](https://go.gov.sg/amfvk0)
+##### Day 1
+1. Southeast Asia Regulatory Updates
+* [STA2010 Regulatory Updates (Malaysia)](/files/businesses/TSSB/JIO2022_STA2010%20Regulatory%20Updates.pdf)
+* [Philippines Regulatory Updates (Philippines)](/files/businesses/TSSB/JIO2022_Philippines%20Regulatory%20Updates.pdf)
+* [Updates on Singapore's Strategic Trade Controls (Singapore)](https://go.gov.sg/oohoe0)
+
+2. [Critical Technology Protection Best Practices](https://go.gov.sg/ojpno1)
+
+3. Emerging Technology
+* [Emerging Technology (Kharon)](/files/businesses/TSSB/JIO2022_Emerging%20Technology_Kharon.pdf)
+* [Regulatory Environment in Korea and Challenges of Managing Emerging Technology (STPI, Korea)](/files/businesses/TSSB/JIO2022_Regulatory%20Environment%20in%20Korea%20and%20Challenges%20of%20Managing%20Emerging%20Technology.pdf)
+* [Emerging Technologies and Export Controls (US BIS)](https://go.gov.sg/ui5tgr)
+
+##### Day 2
+1. International Regulatory Updates
+* [Update on EU export controls (EU P2P Export Control Programme for Dual-use Goods)](https://go.gov.sg/dz7l1p)
+* [Germany's Regulatory Updates (BAFA)](https://go.gov.sg/dq98qa)
+* [Updates on Japan's Export Controls (METI)](https://go.gov.sg/tggymk)
+2. Compliance Challenges in a Complex Regulatory Landscape
+* [Protection and Indemnity's Insurance (Standard Club)](https://go.gov.sg/eqv4fc)
+* [China's Updates, and Findings and Tips (Shines Asia)](/files/businesses/TSSB/JIO2022_China%20updates,%20and%20findings%20and%20tips.pdf)
+* [Challenges in Conducting an Investigation (FTI Consulting)](https://go.gov.sg/t55cwc)
+3. U.S. Regulatory Updates
+* [Updates to the Export Administration Regulations (US BIS)](https://go.gov.sg/6hjivm)
+
+#### **Full Videos of the Seminar (4 parts videos)**
+* [Day 1 (PM)](https://www.youtube.com/watch?v=jDJyKCSB71Y&t=4986s)
+* [Day 1 (PM)](https://www.youtube.com/watch?v=iJZtuXmF45k&t=3792s)
+* [Day 2 (AM)](https://www.youtube.com/watch?v=pmiR44YDtUE&t=4925s)
+* [Day 2 (PM)](https://www.youtube.com/watch?v=5DwA5fhqDGY)

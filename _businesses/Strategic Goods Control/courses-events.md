@@ -1,6 +1,6 @@
 ---
 title: Courses & Events
-permalink: /businesses/strategic-goods-control/courses-and-events
+permalink: /businesses/strategic-goods-control/courses-and-events/
 third_nav_title: Strategic Goods Control
 ---
 # Courses & Events
@@ -17,14 +17,11 @@ Singapore Customs actively conducts seminars to update the industry on the lates
 
 
 
-| Date | Title | Related Link |
-| -------- | -------- | -------- |
-| 12 September 2022 - 13 September 2022 | Joint Industry Outreach Seminar on Strategic Trade Management 2022, Shangri-La Hotel Singapore | [Weblink](/business-resources/Courses-and-Events/joint-industry-outreach-on-strategic-trade-management-2022) |
-
 ## Past Events
 
 | Year | Events |
 |--|--|
+| **2022** | [Joint Industry Outreach Seminar on Strategic Trade Management 2022](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2022){:target="_blank"}  by Japan, Singapore and the United States. 12 September 2022 - 13 September 2022, Shangri-La Hotel Singapore |
 | **2021** | Joint Industry Outreach Seminar on Strategic Trade Management by Japan, Singapore and the United States. 28 September 2021 - 29 September 2021 via Cisco WebEx Events Platform. Click [here](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2021){:target="_blank"} for more details. |
 | **2020** | Joint Industry Outreach Seminar on Strategic Trade Management by Japan, Singapore and the United States. 29 September 2020 - 1 October 2020 via Cisco WebEx Events Platform. Click [here](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2020){:target="_blank"} for more details. |
 | **2019** | Joint Industry Outreach Seminar on Strategic Trade Management by Japan, Singapore and the United States. 14 October 2019, Singapore Marriott Tang Plaza Hotel. Click [here](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2019){:target="_blank"} for more details. |
