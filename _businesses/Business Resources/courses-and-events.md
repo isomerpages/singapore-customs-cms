@@ -1,10 +1,8 @@
 ---
 title: Courses and Events
-permalink: /businesses/business-resources/courses-and-events
+permalink: /businesses/business-resources/courses-and-events/
 third_nav_title: Business Resources
 ---
-
-
 # Courses for Businesses
 
 Singapore Customs has appointed Nanyang Polytechnic (NYP) and Republic Polytechnic (RP) to provide a suite of specialised courses on customs requirements for the business community. This training collaboration seeks to meet the industry’s demands for more frequent courses while enhancing the effectiveness of adult learning. It leverages on the teaching expertise and pedagogy of the polytechnic professionals.  
@@ -32,6 +30,7 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/sc
 
 | Date | Title | Related Link |
 |---|---|---|
+|12 Sep 2022 - 13 Sep 2022|Joint Industry Outreach Seminar on Strategic Trade Management 2022|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2022)|
 |28 Sep 2021 - 29 Sep 2021|Joint Industry Outreach Seminar on Strategic Trade Management 2021|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2021)|
 |29 Sep 2020 - 1 Oct 2020|Joint Industry Outreach Seminar on Strategic Trade Management 2020|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2020)|
 |14 Oct 2019|Joint Industry Outreach Seminar on Strategic Trade Management 2019|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2019)|
