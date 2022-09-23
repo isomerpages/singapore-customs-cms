@@ -1,6 +1,6 @@
 ---
 title: Joint Industry Outreach on Strategic Trade Management 2022
-permalink: /business-resources/Courses-and-Events/joint-industry-outreach-on-strategic-trade-management-2022
+permalink: /business-resources/Courses-and-Events/joint-industry-outreach-on-strategic-trade-management-2022/
 description: ""
 third_nav_title: Courses and Events
 ---
@@ -8,7 +8,7 @@ third_nav_title: Courses and Events
 
 ![](/images/joint_ind%20logo%202022%20Dark%20Blue%20Ribbon%20Nuclear%20symbol.png)
 
-#### **REGISTRATION IS NOW OPEN**
+#### **REGISTRATION IS NOW CLOSED**
 
 ##### **The 10th Joint Industry Outreach Seminar on Strategic Trade Management**
 
@@ -41,3 +41,38 @@ All successful registrants will be notified via email and will receive an update
 * Technology and Research Protection Plans
 * Customer and Third-Party Screening Tools
 * Face to Face Meetings with Regulators
+
+#### **Presentation Materials:**
+##### Agenda
+##### Day 1
+1. Southeast Asia Regulatory Updates
+* STA 2010 Regulatory Updates (Malaysia)
+* Philippines Regulatory Updates (Philippines)
+* Updates on Singapore's Strategic Trade Controls (Singapore)
+* Updates on Thailand's Control on Weapons of Mass Destruction Related Items Measures (Thailand)
+2. Critical Technology Protection Best Practices
+* Critical Technology Protection Best Practices
+* Emerging Technologies Trends and Challenges
+3. Emerging Technology
+* Emerging Technology (Kharon)
+* Regulatory Environment in Korea and Challenges of Managing Emerging Technology (Science & Technology Policy Institute, Korea)
+* Emerging Technologies and Export Controls (US BIS)
+
+##### Day 2
+1. International Regulatory Updates
+* Update on EU export controls (EU P2P Export Control Programme for Dual-use Goods)
+* Germany's Regulatory Updates (BAFA)
+* Updates on Japan's Export Controls (METI)
+2. Compliance Challenges in a Complex Regulatory Landscape
+* Protection and Indemnity's Insurance (Standard Club)
+* China's Updates, and Findings and Tips (Shines Asia)
+* Challenges in Conducting an Investigation (FTI Consulting)
+3. U.S. Regulatory Updates
+* Updates to the Export Administration Regulations (US BIS)
+
+#### **Full Videos of the Seminar (4 parts videos)**
+* [Day 1 (PM)](https://www.youtube.com/watch?v=jDJyKCSB71Y&t=4986s)
+* [Day 1 (PM)](https://www.youtube.com/watch?v=iJZtuXmF45k&t=3792s)
+* [Day 2 (AM)](https://www.youtube.com/watch?v=pmiR44YDtUE&t=4925s)
+* [Day 2 (PM)](https://www.youtube.com/watch?v=5DwA5fhqDGY)
+
