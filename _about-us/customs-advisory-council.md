@@ -58,6 +58,10 @@ DHL Aviation (Hong Kong) Limited<br>
 Chief Executive Officer  
 VersaFleet Pte Ltd
 
+**Mr Tan Yock Juee**  
+Managing Director (Asia Regional Office)  
+Mediterranean Shipping Co. (Switzerland) Asia Regional Office Pte Ltd
+
 **Mr Yam Kum Weng**  
 Executive Vice President, Airport Development  
 Changi Airport Group
