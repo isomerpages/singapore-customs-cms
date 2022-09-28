@@ -1,6 +1,5 @@
 ---
 title: 16/2022 TradeNet Extended Downtime
-permalink: ""
 date: 2022-09-26
 layout: file
 description: ""
