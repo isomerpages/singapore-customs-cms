@@ -9,7 +9,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 1. | Broker and Representative Authorisation Letter | [Word Doc](https://www.customs.gov.sg/files/eservices/Broker-and-Representative-Authorisation-Letter.docx)|
 | 2. | Employee Declarant Details and Authorisation Form | [Word Doc](https://www.customs.gov.sg/files/eservices/Employee-Declarant-Details-and-Authorisation-Form.docx)|
 | 3. | Multiple Journey Guarantee Document | [Web Link](https://acts.asean.org/traders-guide/guarantee)|
-| 4. | Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmit ACDD | [Web Link](https://form.gov.sg/#!/5fc60a46ea38000011cc5e29)|
+| 4. | Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmit ACDD <Br> (Please log in to NTP to access this e-service under Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent)  | [Web Link](https://www.ntp.gov.sg/home/)|
 | 5. | Single Journey Guarantee Document | [Web Link](https://acts.asean.org/traders-guide/guarantee)|
 | 6. | Trader Application Form | [Word Doc](https://www.customs.gov.sg/files/eservices/Trader-Application-Form.docx)|
 
