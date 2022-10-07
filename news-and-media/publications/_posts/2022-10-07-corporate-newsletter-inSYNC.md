@@ -10,8 +10,8 @@ inSYNC is a publication by Singapore Customs. We keep you updated on topics that
 
 {:.card-list}
 
--   [![Issue 64](/images/inSYNC/Issue65_thumbnail.jpg)<br>
-Issue 64](/news-and-media/publications/2022-10-07-Issue65.pdf)
+-   [![Issue 65](/images/inSYNC/Issue65_thumbnail.jpg)<br>
+Issue 65](/news-and-media/publications/2022-10-07-Issue65.pdf)
 
 -   [![Issue 64](/images/inSYNC/Issue64_thumbnail.jpg)<br>
 Issue 64](/news-and-media/publications/2022-07-15-Issue64.pdf)
