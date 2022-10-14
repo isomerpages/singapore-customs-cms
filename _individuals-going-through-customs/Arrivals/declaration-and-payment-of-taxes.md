@@ -1,6 +1,6 @@
 ---
 title: Declaration and Payment of Taxes
-permalink: /individuals/going-through-customs/arrivals/declaration-and-payment-of-taxes
+permalink: /individuals/going-through-customs/arrivals/declaration-and-payment-of-taxes/
 third_nav_title: Arrivals
 ---
 # Declaration and Payment of Taxes
@@ -8,6 +8,12 @@ third_nav_title: Arrivals
 ## What to declare?
 
 Under Singapore’s laws, arriving travellers are required to declare and pay the duty and Goods and Services Tax (GST) to bring in dutiable and taxable goods exceeding their  [duty-free concession and GST relief](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief). This is applicable whether the goods were purchased overseas or in Singapore.
+
+GST is a tax on the taxable supply of goods and services in Singapore and on the importation of goods into Singapore (other than an exempt import). This means that GST is levied on all goods brought into Singapore or purchased locally.
+
+The imposition of GST on goods imported into Singapore has been in force since 1 April 1994 when GST was implemented in Singapore. The practice is consistent with countries that levy GST (also known as Value-Added Tax in some countries). 
+
+Please note that GST is payable whether or not foreign sales taxes were paid.
 
 ***
 

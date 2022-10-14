@@ -1,6 +1,6 @@
 ---
 title: Duty Free Concession and GST Relief
-permalink: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
+permalink: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief/
 third_nav_title: Arrivals
 ---
 # Duty-Free Concession and GST Relief
@@ -76,7 +76,7 @@ There is no duty-free concession and GST relief on motor fuel including motor sp
 
 ## Goods and Services Tax (GST) Relief
 
-All goods brought into Singapore are subject to 7 per cent Goods & Services Tax (GST). GST is levied on the value of the goods, which may include the cost, insurance and freight (CIF) plus other chargeable costs and the duty payable (if applicable).
+All goods brought into Singapore are subject to  Goods & Services Tax (GST) at the prevailing rate, levied on the value of the goods, which may include the cost, insurance and freight (CIF) plus other chargeable costs and the duty payable (if applicable).
 
 Travellers are granted GST import relief on new goods that are purchased overseas and brought into Singapore for their personal use. The relief amount is based on the duration that the traveller has spent outside Singapore:
 
@@ -87,9 +87,11 @@ Travellers are granted GST import relief on new goods that are purchased oversea
 
 *GST is applicable on the value of goods in excess of the respective relief limits
 
-Goods granted GST import relief include new articles, souvenirs, gifts and food preparations intended for the traveller’s personal use or consumption. The GST import relief does not apply to intoxicating liquor and tobacco, as well as goods imported for commercial purposes. Holders of a work permit, employment pass, student pass, dependent pass or long-term pass issued by the Singapore Government, and crew members are not entitled to GST import relief.
+Goods granted GST import relief include new articles, souvenirs, gifts and food preparations intended for the traveller’s personal use or consumption. If receipts for the items are unavailable, their value will be based on the transaction value of identical or similar goods from the same country of origin or the original price payable for the goods as if they are sold for export to Singapore, inclusive of freight and insurance charges that are incurred for the shipment. GST relief may also be granted on used articles and personal belongings brought in reasonable quantities for personal use.
 
-Travellers are required to pay GST on the value of the goods  that exceeds the amount of GST import relief granted to them.
+The GST import relief does not apply to intoxicating liquor and tobacco, as well as goods imported for commercial purposes. Holders of a work permit, employment pass, student pass, dependent pass or long-term pass issued by the Singapore Government, and crew members are not entitled to GST import relief.
+
+Travellers are required to pay GST on the value of the goods  that exceeds the amount of GST import relief granted to them. Hence, all goods, whether from commercial shipments (i.e. shipping of goods) or hand-carried by travellers, are subject to GST at the prevailing rate. As such, as a traveller, if you have been away from Singapore for a week and purchased S$500 worth of goods meant for personal consumption, you would not need to pay GST since you are eligible for GST relief of up to S$500 in purchase value. However, if you purchased S$800 worth of goods meant for personal consumption on that week-long trip, you would be required to pay GST on the excess S$300 (i.e. S$800 minus the S$500 for which you are eligible for GST relief).
 
 For convenience, you may make an advance declaration and payment of GST using our  [Customs@SG web application](/eservices/customs-sg-web-application/). Alternatively, you can declare and pay  the GST for your goods at the Customs Tax Payment Office.
 
