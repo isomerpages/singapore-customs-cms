@@ -1,6 +1,6 @@
 ---
 title: Legislation
-permalink: /businesses/strategic-goods-control-1/overview/legislation
+permalink: /businesses/strategic-goods-control-1/overview/legislation/
 third_nav_title: Overview
 ---
 # Legislation
@@ -19,7 +19,7 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 **Strategic Goods (Control) Order**
 
-Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2021](https://sso.agc.gov.sg/SL-Supp/S564-2021/Published/20210802?DocDate=20210802){:target="_blank"}, effective from 1 October 2022. 
+Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2021](https://sso.agc.gov.sg/SL/SGCA2002-S564-2021?DocDate=20220801&ValidDate=20221001){:target="_blank"}, effective from 1 October 2022. 
 
 You may refer to the [amendment table](/files/businesses/TSSB/SGCO%20Amendments%20Table%20(2022).pdf){:target="_blank"} for more information on the changes made to the Strategic Goods (Control) Order 2021, under the Strategic Goods (Control) (Amendment) Order 2022.
 
