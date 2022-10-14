@@ -28,7 +28,7 @@ The Draft module allows you to retrieve your declaration draft. You can retrieve
 
 **2.** **Can I declare and pay the taxes for all my overseas purchases which I am bringing back to Singapore in one declaration?**
 
-Yes, you can declare and pay the duty and/or GST for all your overseas purchases in one declaration.
+Yes you can. However, you must declare and pay the duty and/or GST for all your overseas purchases in one declaration.
 
 **3.** **Must I print the receipt for inspection at the checkpoint?**
 
