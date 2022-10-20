@@ -5,7 +5,7 @@ third_nav_title: Security Lodgement
 ---
 # How to Lodge Guarantee 
 
-You can lodge the security in the form of a Banker’s Guarantee (BG), Finance Company Guarantee or an Insurance Bond.
+You can lodge the security in the form of a Banker’s Guarantee, Finance Company Guarantee or an Insurance Bond.
 
 You are strongly encouraged to apply for the guarantee with any of the participating financial institutions on the eGuarantee@Gov programme. Please refer to [eGuarantee@Gov ](http://www.eguarantee.gov.sg/) for the full list of participating financial institutions.
 
@@ -14,7 +14,7 @@ When you lodge the guarantee via the eGuarantee@Gov programme, you would not nee
 **1) For new applications**
 
 ***How to apply for eGuarantee*** <br>
-The template for the guarantee that you are required to lodge can be found on the [eGuarantee@Gov](http://www.eguarantee.gov.sg/) website. 
+The template for the guarantee that you are required to lodge can be found on the [eGuarantee@Gov](http://www.eguarantee.gov.sg/) website. You may refer to the template S/N 11 titled, "CUSTOMS_REG".
 
 You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:
 
