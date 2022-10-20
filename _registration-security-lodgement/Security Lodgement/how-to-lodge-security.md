@@ -24,12 +24,7 @@ Download the [Security Application Form](/eservices/customs-forms-and-service-li
 | 1 | Guarantee Template Reference Code | Please indicate [CUSTOMS_REG] <br>
 | 2 | Case Reference no. | Please leave this field blank |<br>
 | 3 | Beneficiary Name | Please indicate [Singapore Customs] |<br>
-| 4 | Applicant Name | This refer to the name of the business required to lodge a security by Singapore Customs. Please indicate your entity's official business name registered with ACRA. |<br>
-| 5 | Applicant reference no. | This refer to the official reference number of the business required to lodge a security with Singapore Customs. Please indicate your Entity's UEN no. e.g. 198812345A |<br>
-| 6 | Currency code | Please indicate "SGD" |<br>
-| 7 | Guarantee Sum | Please indicate in numbers the value of the secuirty that you are lodging E.g. 10000.00 |<br>
-| 8 | Guarantee Expiry Date | Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2023 |<br>
-			
+		
 <p>Note: There will be a claim period of 90 days after the guarantee expiry date. 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.</p>
 <p>How to apply for hardcopy guarantees</p>
@@ -44,5 +39,5 @@ Once the eGuarantee has been received and successfully registered by Singapore C
 		Level 1 Singapore Customs Metal Box 6<br>
 		Singapore 307987</p>
 <p> Upon receipt of the security, Singapore Customs will register the security within three working days. Upon successful registration, we will send a notification by email to the primary contact (or the secondary contact should transmission to your primary contact fails) registered in your Customs Account. Please ensure that the particulars of the primary contact and secondary contact registered in your Customs Account are updated for them to receive the notifications.</p>
-		</div>
-		</li>
+		  </div>
+  </li>
