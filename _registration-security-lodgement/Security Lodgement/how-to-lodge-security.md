@@ -15,11 +15,13 @@ The template for the guarantee that you are required to lodge can be found on th
 
 You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:
 
-| No.  | Field Name | Value/Description |
-| -- | -- | -- |
-| 1 | Guarantee Template Reference Code | Please indicate [CUSTOMS_REG] |
-| 2 | Case Reference no. | Please leave this field blank |
-| 3 | Beneficiary Name | Please indicate [Singapore Customs] |
+|  |**Field Name**|**Value/Description**  |
+|--|--|--|
+|**1**|Guarantee Template Reference Code |Please indicate [CUSTOMS_REG]|
+
+
+
+
 ## Submit the original security to:
 
 Registration Unit <br>
