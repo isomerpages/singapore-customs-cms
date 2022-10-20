@@ -7,9 +7,13 @@ third_nav_title: Security Lodgement
 
 You can lodge the security in the form of a Banker’s Guarantee (BG), Finance Company Guarantee or an Insurance Bond.
 
-Download the [Security Application Form](/eservices/customs-forms-and-service-links) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. Please note that the processing by your bank, finance company or insurance company may **take up to three to four weeks**. You are encouraged to submit your new security to Customs **at least two weeks** before your intended date of shipment to allow sufficient time for processing and amendments in case of discrepancies.
-## For new applications
-**How to apply for eGuarantee** <br>
+You are strongly encouraged to apply for the guarantee with any of the participating financial institutions on the eGuarantee@Gov programme. Please refer to [eGuarantee@Gov ](http://www.eguarantee.gov.sg/) for the full list of participating financial institutions.
+
+When you lodge the guarantee via the eGuarantee@Gov programme, you would not need to collect the hardcopy guarantee from the bank and bring it to Singapore Customs. The financial institution will send it electronically to Singapore Customs, saving you time and courier costs.
+
+**1) For new applications**
+
+***How to apply for eGuarantee*** <br>
 The template for the guarantee that you are required to lodge can be found on the [eGuarantee@Gov](http://www.eguarantee.gov.sg/) website. 
 
 You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:
@@ -26,8 +30,8 @@ You are required to approach any of the participating financial institutions lis
 |**8**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2023|
 |**9**|Guarantee Effective Date |Please indicate the effective start date of the security in the format DD/MM/YYYY E.g. 16/10/2022|
 |**10**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY|
-
-Note: There will be a claim period of 90 days after the guarantee expiry date. 
+|  | | Note: There will be a claim period of 90 days after the guarantee expiry date.|
+|
 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
 
@@ -48,7 +52,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
   <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Extension of existing guarantees lodged with Singapore Customs</label>
+    <label for="accordion1">2) Extension of existing guarantees lodged with Singapore Customs</label>
     <div>
       <p>For eGuarantees: If you had previously applied for an e-Banker’s Guarantee (eBG) under Singapore Customs’ Electronic Banker’s Guarantee Programme, and wish to extend the validity of your eBG, you can similarly approach the bank that previously issued the eBG, to extend it through the eGuarantee@Gov programme. To extend, simply:</p>
 			<p>1. Quote your existing Bank Guarantee reference</p>
@@ -62,7 +66,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
       </li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Discharge of guarantees</label>
+    <label for="accordion2">3) Discharge of guarantees</label>
     <div>
       <p>If you wish to apply for an early discharge of the eGuarantee, you may email your request to <a href="customs_documentation@customs.gov.sg/" target="new">Customs_documentation@customs.gov.sg</a>.</p>
       <p>Once we have confirmed that you do not have any outstanding matters with us, we will inform you of our decision and notify the financial institution on the discharge of their liability under the guarantee. </p>
