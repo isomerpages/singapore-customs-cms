@@ -32,7 +32,7 @@ Note: There will be a claim period of 90 days after the guarantee expiry date.
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
 
 **How to apply for Hardcopy guarantees** <br>
-Download the Security Application Form and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. 
+Download the [Security Application Form](https://go.gov.sg/customs-security-extension-template-ver3) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. 
 
 Please note that the processing by your bank, finance company or insurance company may take up to three to four weeks. You are encouraged to submit your new security to Singapore Customs at least two weeks before your intended date of shipment to allow sufficient time for processing and amendments in case of discrepancies.
 
