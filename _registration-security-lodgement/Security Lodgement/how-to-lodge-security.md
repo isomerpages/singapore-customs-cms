@@ -9,13 +9,17 @@ You can lodge the security in the form of a Banker’s Guarantee (BG), Finance C
 
 Download the [Security Application Form](/eservices/customs-forms-and-service-links) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. Please note that the processing by your bank, finance company or insurance company may **take up to three to four weeks**. You are encouraged to submit your new security to Customs **at least two weeks** before your intended date of shipment to allow sufficient time for processing and amendments in case of discrepancies.
 
-## Further points to note:
+## For new applications
+**How to apply for eGuarantee** 
+The template for the guarantee that you are required to lodge can be found on the [eGuarantee@Gov](http://www.eguarantee.gov.sg/) website. 
 
--   Except for securities that are lodged for an ad-hoc basis (e.g. temporary importation of an ad-hoc shipment), the security lodged should be valid for at least one year, with the expiry date set to 31 December of the following year.
--   The bank, finance company or insurance company must be registered with the Monetary Authority of Singapore (MAS).
--   The insurance company must be a Direct Insurer (General) or Direct Insurer (Composite) listed under [MAS’s Financial Institutions Directory](https://eservices.mas.gov.sg/fid){:target="_blank"}.
+You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:
 
-
+| No.  | Field Name | Value/Description |
+| -- | -- | -- |
+| 1 | Guarantee Template Reference Code | Please indicate [CUSTOMS_REG] |
+| 2 | Case Reference no. | Please leave this field blank |
+| 3 | Beneficiary Name | Please indicate [Singapore Customs] |
 ## Submit the original security to:
 
 Registration Unit <br>
