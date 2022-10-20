@@ -61,5 +61,4 @@ Upon receipt of the security, Singapore Customs will register the security withi
 <p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
         </div>
       </li>
-    </div>
-  </li>
+    
