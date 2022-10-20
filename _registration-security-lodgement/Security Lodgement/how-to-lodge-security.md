@@ -41,8 +41,7 @@ Once the eGuarantee has been received and successfully registered by Singapore C
 		55 Newton Road <br>
 		Revenue House <br>
 		Level 1 Singapore Customs Metal Box 6<br>
-		Singapore 307987<br>
+		Singapore 307987</p>
+<p> Upon receipt of the security, Singapore Customs will register the security within three working days. Upon successful registration, we will send a notification by email to the primary contact (or the secondary contact should transmission to your primary contact fails) registered in your Customs Account. Please ensure that the particulars of the primary contact and secondary contact registered in your Customs Account are updated for them to receive the notifications.</p>
 				</div>
 				</li>
-	
-	
