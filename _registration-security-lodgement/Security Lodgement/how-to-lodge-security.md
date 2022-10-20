@@ -55,7 +55,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
 					<p>2. Indicate the new expiry date</p>
 					<p>3. Inform the bank that you wish to extend your guarantee under eGuarantee@Gov programme, with template reference “CUSTOMS_REG</p>
 			<p> Once the eGuarantee has been received and successfully registered by Singapore Customs, we will send an email notification to the primary and secondary contact registered in your entity’s Customs Account as per the current notification process.</p>
-			<p>For hardcopy guarantees: You may extend the expiry date of your existing security using the [Security Extension Form](https://go.gov.sg/customs-security-extension-template-ver3). Please note that the processing by your bank, finance company or insurance company may take up to three to four weeks. You are encouraged to submit your security extension to Singapore Customs at least two weeks before the expiry of your existing security to allow sufficient time for processing and amendments in case of discrepancies. </p>
+			<p>For hardcopy guarantees: You may extend the expiry date of your existing security using the <a href="https://safe.menlosecurity.com/https://www.customs.gov.sg/eservices/customs-forms-and-service-links/" target="new">Security Extension Form</a>. Please note that the processing by your bank, finance company or insurance company may take up to three to four weeks. You are encouraged to submit your security extension to Singapore Customs at least two weeks before the expiry of your existing security to allow sufficient time for processing and amendments in case of discrepancies. </p>
 			<p> If you had previously applied for a hardcopy guarantee and wish to extend the validity, you will have to extend it as a hardcopy guarantee. You will NOT be able to extend it via the eGuarantee@Gov programme.</p>
 			<p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
         </div>
@@ -64,7 +64,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Discharge of guarantees</label>
     <div>
-      <p>If you wish to apply for an early discharge of the eGuarantee, you may email your request to [Customs_Documentation@customs.gov.sg](mailto:Customs_Documentation@customs.gov.sg).</p>
+      <p>If you wish to apply for an early discharge of the eGuarantee, you may email your request to <a href="customs_documentation@customs.gov.sg/" target="new">Customs_documentation@customs.gov.sg</a>.</p>
       <p>Once we have confirmed that you do not have any outstanding matters with us, we will inform you of our decision and notify the financial institution on the discharge of their liability under the guarantee. </p>
     </div>
   </li>
