@@ -20,7 +20,7 @@ Download the [Security Application Form](/eservices/customs-forms-and-service-li
 
 | No.  | Field Name | Value/Description |
 | -- | -- | -- |
-| 1 | Guarantee Template Reference Code | Please indicate [CUSTOMS_REG] |<br>
+| 1 | Guarantee Template Reference Code | Please indicate [CUSTOMS_REG] <br>
 | 2 | Case Reference no. | Please leave this field blank |<br>
 | 3 | Beneficiary Name | Please indicate [Singapore Customs] |<br>
 | 4 | Applicant Name | This refer to the name of the business required to lodge a security by Singapore Customs. Please indicate your entity's official business name registered with ACRA. |<br>
