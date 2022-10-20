@@ -45,3 +45,4 @@ Revenue House
 Singapore 307987
 
 Upon receipt of the security, Singapore Customs will register the security within three working days. Upon successful registration, we will send a notification by email to the primary contact (or the secondary contact should transmission to your primary contact fails) registered in your [Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct). Please ensure that the particulars of the primary contact and secondary contact registered in your Customs Account are updated for them to receive the notifications.
+
