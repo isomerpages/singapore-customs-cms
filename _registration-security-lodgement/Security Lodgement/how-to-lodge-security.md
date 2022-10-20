@@ -55,10 +55,8 @@ Upon receipt of the security, Singapore Customs will register the security withi
 					<p>2. Indicate the new expiry date</p>
 					<p>3. Inform the bank that you wish to extend your guarantee under eGuarantee@Gov programme, with template reference “CUSTOMS_REG</p>
 			<p> Once the eGuarantee has been received and successfully registered by Singapore Customs, we will send an email notification to the primary and secondary contact registered in your entity’s Customs Account as per the current notification process.</p>
-					<p>**For hardcopy guarantees**: You may extend the expiry date of your existing security using the Security Extension Form. Please note that the processing by your bank, finance company or insurance company may take up to three to four weeks. You are encouraged to submit your security extension to Singapore Customs at least two weeks before the expiry of your existing security to allow sufficient time for processing and amendments in case of discrepancies. </p>
-					<p> If you had previously applied for a hardcopy guarantee and wish to extend the validity, you will have to extend it as a hardcopy guarantee. You will NOT be able to extend it via the eGuarantee@Gov programme.</p>
-						
-<p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
+			<p>**For hardcopy guarantees**: You may extend the expiry date of your existing security using the Security Extension Form. Please note that the processing by your bank, finance company or insurance company may take up to three to four weeks. You are encouraged to submit your security extension to Singapore Customs at least two weeks before the expiry of your existing security to allow sufficient time for processing and amendments in case of discrepancies. </p>
+			<p> If you had previously applied for a hardcopy guarantee and wish to extend the validity, you will have to extend it as a hardcopy guarantee. You will NOT be able to extend it via the eGuarantee@Gov programme.</p>
+			<p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
         </div>
       </li>
-    
