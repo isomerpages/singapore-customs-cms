@@ -60,8 +60,11 @@ Upon receipt of the security, Singapore Customs will register the security withi
 			<p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
         </div>
       </li>
-
-## Discharge of guarantees
-If you wish to apply for an early discharge of the eGuarantee, you may email your request to [Customs_Documentation@customs.gov.sg](mailto:Customs_Documentation@customs.gov.sg).
-	
-Once we have confirmed that you do not have any outstanding matters with us, we will inform you of our decision and notify the financial institution on the discharge of their liability under the guarantee.
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Discharge of guarantees</label>
+    <div>
+      <p>If you wish to apply for an early discharge of the eGuarantee, you may email your request to [Customs_Documentation@customs.gov.sg](mailto:Customs_Documentation@customs.gov.sg).</p>
+      <p>Once we have confirmed that you do not have any outstanding matters with us, we will inform you of our decision and notify the financial institution on the discharge of their liability under the guarantee. </p>
+    </div>
+  </li>
