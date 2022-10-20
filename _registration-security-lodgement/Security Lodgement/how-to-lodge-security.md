@@ -15,11 +15,11 @@ Download the [Security Application Form](/eservices/customs-forms-and-service-li
 			<label for="accordion9">1) For new applications</label>
 			<div>
 				
-**How to apply for eGuarantee**
+<p>**How to apply for eGuarantee**</p>
 					
-The template for the guarantee that you are required to lodge can be found on the [eGuarantee@Gov ](http://www.eguarantee.gov.sg/) website.
+<p>The template for the guarantee that you are required to lodge can be found on the <a href="http://www.eguarantee.gov.sg/" target="new">eGuarantee@Gov</a> website.</p>
 
-You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:
+<p>You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:<p>
 
 | No. | Field Name | Value/Description |
 | -- | -- | -- |
