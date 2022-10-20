@@ -18,9 +18,16 @@ Download the [Security Application Form](/eservices/customs-forms-and-service-li
 <p>The template for the guarantee that you are required to lodge can be found on the <a href="http://www.eguarantee.gov.sg/" target="new">eGuarantee@Gov</a> website.</p>
 <p>You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:</p>
 
-| No. | Field Name | Value / Description  |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| No.  | Field Name | Value/Description |
+| -- | -- | -- |
+| 1 | Guarantee Template Reference Code | Please indicate [CUSTOMS_REG] |<br>
+| 2 | Case Reference no. | Please leave this field blank |<br>
+| 3 | Beneficiary Name | Please indicate [Singapore Customs] |<br>
+| 4 | Applicant Name | This refer to the name of the business required to lodge a security by Singapore Customs. Please indicate your entity's official business name registered with ACRA. |<br>
+| 5 | Applicant reference no. | This refer to the official reference number of the business required to lodge a security with Singapore Customs. Please indicate your Entity's UEN no. e.g. 198812345A |<br>
+| 6 | Currency code | Please indicate "SGD" |<br>
+| 7 | Guarantee Sum | Please indicate in numbers the value of the secuirty that you are lodging E.g. 10000.00 |<br>
+| 8 | Guarantee Expiry Date | Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2023 |<br>
 			
 <p>Note: There will be a claim period of 90 days after the guarantee expiry date. 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.</p>
