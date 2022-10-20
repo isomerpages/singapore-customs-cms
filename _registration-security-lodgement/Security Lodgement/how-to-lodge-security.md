@@ -16,7 +16,7 @@ Download the [Security Application Form](/eservices/customs-forms-and-service-li
 			<div>
 				<p>**How to apply for eGuarantee**</p>
 <p>The template for the guarantee that you are required to lodge can be found on the <a href="http://www.eguarantee.gov.sg/" target="new">eGuarantee@Gov</a> website.</p>
-				<p>You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:</p>
+<p>You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:</p>
 
 | No. | Field Name | Value/Description |
 | -- | -- | -- |
@@ -28,8 +28,7 @@ Download the [Security Application Form](/eservices/customs-forms-and-service-li
 | 6 | Currency code | Please indicate "SGD" |
 | 7 | Guarantee Sum | Please indicate in numbers the value of the secuirty that you are lodging E.g. 10000.00 |
 | 8 | Guarantee Expiry Date | Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2023 |
-
-Note: There will be a claim period of 90 days after the guarantee expiry date. 
-Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
+<p>Note: There will be a claim period of 90 days after the guarantee expiry date. 
+Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.</p>
 				</div>
 				</li>
