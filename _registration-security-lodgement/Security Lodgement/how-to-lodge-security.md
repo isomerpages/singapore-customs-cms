@@ -19,6 +19,12 @@ Download the [Security Application Form](/eservices/customs-forms-and-service-li
 <p>You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:</p>
 
 
+
+| No. | Field Name | Value / Description  |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
 				
 <p>Note: There will be a claim period of 90 days after the guarantee expiry date. 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.</p>
