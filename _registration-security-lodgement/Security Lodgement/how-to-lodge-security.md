@@ -1,33 +1,39 @@
 ---
 title: How to Lodge Security
-permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security
+permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security/
 third_nav_title: Security Lodgement
 ---
-
 # How to Lodge Security 
 
 You can lodge the security in the form of a Banker’s Guarantee (BG), Finance Company Guarantee or an Insurance Bond.
 
 Download the [Security Application Form](/eservices/customs-forms-and-service-links) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. Please note that the processing by your bank, finance company or insurance company may **take up to three to four weeks**. You are encouraged to submit your new security to Customs **at least two weeks** before your intended date of shipment to allow sufficient time for processing and amendments in case of discrepancies.
 
-## Further points to note:
+<ul class="jekyllcodex_accordion">
+	<li>                                                                 
+			<input id="accordion9" type="checkbox">
+			<label for="accordion9">1) For new applications</label>
+			<div>
+					<p> How to apply for eGuarantee
+					
+The template for the guarantee that you are required to lodge can be found on the eGuarantee@Gov website.
 
--   Except for securities that are lodged for an ad-hoc basis (e.g. temporary importation of an ad-hoc shipment), the security lodged should be valid for at least one year, with the expiry date set to 31 December of the following year.
--   The bank, finance company or insurance company must be registered with the Monetary Authority of Singapore (MAS).
--   The insurance company must be a Direct Insurer (General) or Direct Insurer (Composite) listed under [MAS’s Financial Institutions Directory](https://eservices.mas.gov.sg/fid){:target="_blank"}.
+You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:
 
+| No.  | Field Name | Value/Description|
+| -------- | -------- | -------- |
+| 1     | Guarantee Template Reference Code     | Please indicate [CUSTOMS_REG]|
+| 2    | Case Reference no. | Please leave this field blank|
+| 3    | Beneficiary Name    | Please indicate [Singapore Customs] |
+| 4    | Applicant Name       | This refer to the name of the business required to lodge a security by Singapore Customs. Please indicate your entity's offical business name registered with ACRA.
+| 5    | Applicant reference no. | This refer to the official reference number of the business required to lodge a security with Singapore Customs. Please indicate your Entity's UEN no. e.g. 198812345A |
+| 6    | Currency code | Please indicate "SGD" |
+| 7     | Guarantee Sum | Please indicate in numbers the value of the secuirty that you are lodging E.g. 10000.00
+| 8     | Guarantee Expiry Date | Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2023
 
-## Submit the original security to:
-
-Registration Unit <br>
-Procedures & Systems Branch  
-Singapore Customs  
-55 Newton Road #02-01   
-Revenue House  
-Singapore 307987
-
-Upon receipt of the security, Singapore Customs will register the security within 3 working days. Upon successful registration, we will send a notification by email or fax to the Primary Contact (or the Secondary Contact should transmission to your Primary Contact fails) registered in your  [Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}. Please ensure that the particulars of the Primary Contact and Secondary Contact registered in your Customs Account are updated for them to receive the notifications.
-
-## Electronic Banker’s Guarantee Programme
-You may choose to lodge a BG under the [Electronic Banker’s Guarantee (eBG) Programme](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Electronic-bankers-guarantee-programme). Through the eBG Programme, the participating bank will seek your written consent, as the principal of the BG, to issue and deliver the BG in electronic form (“eBG”) directly to Singapore Customs.  This streamlines the BG handling process, as you no longer have to collect the BG or extension from the issuing bank and send it to Singapore Customs.
-
+Note: There will be a claim period of 90 days after the guarantee expiry date. 
+Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
+</p>
+				
+				</div>
+				</li>
