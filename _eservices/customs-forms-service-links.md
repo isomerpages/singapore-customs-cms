@@ -121,9 +121,9 @@ permalink: /eservices/customs-forms-and-service-links/
 | 11. | Authorisation of User Inventory Control system | [Web Link](https://www.customs.gov.sg/files/eservices/User-Inventory-Control-System.docx)
 | 12. | Claimant Application by All Other Entities (e.g. Companies, Businesses) Apart from Embassy, High Commission Consulate, accredited Trade Mission, International Organisations, Foreign Military Forces, Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP)
 | 13. | Claimant Application by Embassy, High Commission Consulate, Accredited Trade Mission and International Organisation with the MFA as Supporting Agency | [Web Link](https://form.gov.sg/5d0095fa0816b400111cd5b1)|
-| 14. | Claimant Application by Foreign Military Forces | [Web Link ](https://form.gov.sg/5d2552a250efd50018fe30ac)
-| 15. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://form.gov.sg/5d2301ea6312c30018383627)
-| 16. | Claimant Application by International Organisations Supported by an Agency Other than the MFA | [Web Link ](https://form.gov.sg/5d03113d2ce4bb0011a8801e)
+| 14. | Claimant Application by Foreign Military Forces | [Web Link ](https://form.gov.sg/62b184bfbe2196001180ad44)
+| 15. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://form.gov.sg/62b184bfbe2196001180ad44)
+| 16. | Claimant Application by International Organisations Supported by an Agency Other than the MFA | [Web Link ](https://form.gov.sg/62b184bfbe2196001180ad44)
 | 17. | Security Application Template | [Word Doc](https://www.customs.gov.sg/files/eservices/Security-Application-template.doc)
 | 18. | Security Extension Template (For New Security Lodged from 15 April 2019) | [Word Doc](https://go.gov.sg/customs-security-extension-template-ver3)
  
