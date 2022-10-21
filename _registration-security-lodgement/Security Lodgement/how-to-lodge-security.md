@@ -5,7 +5,7 @@ third_nav_title: Security Lodgement
 ---
 # How to Lodge Guarantee 
 
-You can lodge the security in the form of a Banker’s Guarantee, Finance Company Guarantee or an Insurance Bond.
+You can lodge the guarantee in the form of a Banker’s Guarantee, Finance Company Guarantee or an Insurance Bond.
 
 You are strongly encouraged to apply for the guarantee with any of the participating financial institutions on the eGuarantee@Gov programme. Please refer to [eGuarantee@Gov ](http://www.eguarantee.gov.sg/) for the full list of participating financial institutions.
 
