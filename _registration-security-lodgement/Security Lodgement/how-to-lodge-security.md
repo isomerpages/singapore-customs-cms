@@ -27,8 +27,8 @@ You are required to approach any of the participating financial institutions lis
 |**5**|Applicant reference no. |This refer to the official reference number of the business required to lodge a security with Singapore Customs. Please indicate your Entity's UEN no. e.g. 198812345A |
 |**6**|Currency code |Please indicate < SGD >|
 |**7**|Guarantee Sum |Please indicate in numbers the value of the secuirty that you are lodging E.g. 10000.00|
-|**8**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2023|
-|**9**|Guarantee Effective Date |Please indicate the effective start date of the security in the format DD/MM/YYYY E.g. 16/10/2022|
+|**8**|Guarantee Effective Date |Please indicate the effective date of the security in the format DD/MM/YYYY E.g. 16/10/2022|
+|**9**|Guarantee Effective Date |Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2022|
 |  | | **Note: There will be a claim period of 90 days after the guarantee expiry date**.||
 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
