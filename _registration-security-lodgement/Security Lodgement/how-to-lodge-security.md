@@ -66,7 +66,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
-		<label for="accordion2"><b>3) Discharge of guarantees</b></label>
+		<label for="accordion2">3) Discharge of guarantees</label>
     <div>
       <p>If you wish to apply for an early discharge of the eGuarantee, you may email your request to <a href="customs_Documentation@customs.gov.sg" target="new">Customs_Documentation@customs.gov.sg</a></p>
 
