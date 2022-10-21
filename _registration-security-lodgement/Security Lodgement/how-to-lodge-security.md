@@ -23,7 +23,7 @@ You are required to approach any of the participating financial institutions lis
 |**1**|Guarantee Template Reference Code |Please indicate [CUSTOMS_REG]|
 |**2**|Case Reference no.|Please leave this field blank|
 |**3**|Beneficiary Name |Please indicate [Singapore Customs]|
-|**4**|Applicant Name |This refer to the name of the business required to lodge a security by Singapore Customs. Please indicate your entity's official business name registered with ACRA.|
+|**4**|Applicant Name |This refer to the name of the business required to lodge a security by Singapore Customs. Please indicate your entity's official business name registered with ACRA|
 |**5**|Applicant reference no. |This refer to the official reference number of the business required to lodge a security with Singapore Customs. Please indicate your Entity's UEN no. e.g. 198812345A |
 |**6**|Currency code |Please indicate < SGD >|
 |**7**|Guarantee Sum |Please indicate in numbers the value of the secuirty that you are lodging E.g. 10000.00|
