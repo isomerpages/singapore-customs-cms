@@ -30,8 +30,7 @@ You are required to approach any of the participating financial institutions lis
 |**8**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2023|
 |**9**|Guarantee Effective Date |Please indicate the effective start date of the security in the format DD/MM/YYYY E.g. 16/10/2022|
 |**10**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY|
-|  | | **Note: There will be a claim period of 90 days after the guarantee expiry date**.|
-|
+|  | | **Note: There will be a claim period of 90 days after the guarantee expiry date**.||
 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
 
