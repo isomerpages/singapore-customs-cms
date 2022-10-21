@@ -50,7 +50,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
   <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><b>2) Extension of existing guarantees lodged with Singapore Customs</b></label>
+		<label for="accordion1">2) Extension of existing guarantees lodged with Singapore Customs</label>
     <div>
 			<p>
 			<p>For eGuarantees: If you had previously applied for an e-Banker’s Guarantee (eBG) under Singapore Customs’ Electronic Banker’s Guarantee Programme, and wish to extend the validity of your eBG, you can similarly approach the bank that previously issued the eBG, to extend it through the eGuarantee@Gov programme. To extend, simply:</p>
