@@ -53,7 +53,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
 		<label for="accordion1"><b>2) Extension of existing guarantees lodged with Singapore Customs</b></label>
     <div>
 			<p>
-			<p><b>For eGuarantees:</b>If you had previously applied for an e-Banker’s Guarantee (eBG) under Singapore Customs’ Electronic Banker’s Guarantee Programme, and wish to extend the validity of your eBG, you can similarly approach the bank that previously issued the eBG, to extend it through the eGuarantee@Gov programme. To extend, simply:</p>
+			<p>For eGuarantees: If you had previously applied for an e-Banker’s Guarantee (eBG) under Singapore Customs’ Electronic Banker’s Guarantee Programme, and wish to extend the validity of your eBG, you can similarly approach the bank that previously issued the eBG, to extend it through the eGuarantee@Gov programme. To extend, simply:</p>
 			<p>1. Quote your existing Bank Guarantee reference<br>
 			       2. Indicate the new expiry date<br>
 					   3. Inform the bank that you wish to extend your guarantee under eGuarantee@Gov programme, with template reference “CUSTOMS_REG"</p>
