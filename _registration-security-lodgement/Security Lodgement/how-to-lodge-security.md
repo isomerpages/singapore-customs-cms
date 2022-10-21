@@ -63,7 +63,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
 			<p> If you had previously applied for a hardcopy guarantee and wish to extend the validity, you will have to extend it as a hardcopy guarantee. You will NOT be able to extend it via the eGuarantee@Gov programme.</p>
 			<p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
         </div>
-      </li>
+	</li>
 	<li>
     <input type="checkbox" id="accordion2">
 		<label for="accordion2"><b>3) Discharge of guarantees</b></label>
