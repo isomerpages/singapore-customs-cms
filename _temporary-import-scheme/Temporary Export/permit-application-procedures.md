@@ -1,12 +1,18 @@
 ---
 title: Permit Application Procedures
-permalink: /businesses/importing-goods/temporary-import-scheme/permit-application-procedure-export
-third_nav_title: Temporary Export 
+permalink: /businesses/importing-goods/temporary-import-scheme/permit-application-procedure-export/
+third_nav_title: Temporary Export
 ---
-
 # Permit Application Procedures
 
 ![](/images/pap2-export.jpg)
+An importer may be granted Goods and Services Tax relief on the re-importation of goods meant for commercial and personal use, which are temporarily exported for qualifying purposes (e.g. for repair) subject to certain conditions. 
+
+To qualify, a temporary export permit is required to be obtained prior to the temporary export of the goods for the qualifying purpose (e.g. for repair).
+
+Individuals may engage a local freight forwarding agent to declare the temporary export and re-import permit on their behalf and will be required to submit the relevant support documents during the permit application. 
+
+Please refer to the [list of local freight forwarding agents.]( https://www.customs.gov.sg/businesses/business-resources/directories-of-service-providers)
 
 Traders should follow these procedures to apply for permits for temporary exports:
 
@@ -14,7 +20,7 @@ Traders should follow these procedures to apply for permits for temporary export
 
    2.  Apply for a [Customs OUT (Temporary Consignment - TCI) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) via TradeNet before the actual export.
 
-   3.  Submit the following documents together with your submission of the Tradenet declaration:
+   3.  Submit the following documents together with your submission of the TradeNet declaration:
     
         -   Cover letter detailing:
         
