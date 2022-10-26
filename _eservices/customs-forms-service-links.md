@@ -133,9 +133,9 @@ permalink: /eservices/customs-forms-and-service-links/
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Annex A - Product Questionnaire A-1 Cryptography | [PDF](https://www.customs.gov.sg/files/eservices/Annex%20A-_Product_Questionnaire_A-1_Cryptography.pdf)
-| 2. | Annex A - Product Questionnaire A-2 Machine Tools | [PDF](https://www.customs.gov.sg/files/eservices/Annex A-_Product_Questionnaire_A-2_Machine_Tools.pdf)
-| 3. | Annex A - Product Questionnaire A-3 Biological Product | [PDF](https://www.customs.gov.sg/files/eservices/Annex%20A-_Product_Questionnaire_A-3_Biological_Product.pdf)
+| 1. | Annex A - Product Questionnaire A-1 Cryptography | [PDF](https://go.gov.sg/crypto-questionnaire)
+| 2. | Annex A - Product Questionnaire A-2 Machine Tools | [PDF](https://go.gov.sg/machinetools-questionnaire)
+| 3. | Annex A - Product Questionnaire A-3 Biological Product | [PDF](https://go.gov.sg/biological-questionnaire)
 | 4. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/#!/5d78b89628467500121ef098)
 | 5. | Apply for Import Certificate and Delivery Verification (ICDV) | [Web Link](https://form.gov.sg/60408fffd83b890011c7f8ab)
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](http://go.gov.sg/customs-bpermit)|
