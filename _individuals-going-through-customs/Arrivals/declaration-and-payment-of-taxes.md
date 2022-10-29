@@ -76,6 +76,13 @@ You need to present a valid  **Customs import permit**  for clearance if you are
 -   Goods for trade, commercial or business purposes, in which the GST payable  **exceeds S$300**; or
 -   Goods clearly marked as trade samples (excluding liquor and tobacco products) the value on which  **exceeds S$400**
 
+You need to present a valid Customs import permit for clearance if you are carrying (but not limited to):
+
+•	An Individual/ traveller may engage a local freight forwarding agent/ TradeNet Service Centre to appoint a TradeNet Declaring Agent to assist you with the permit application. You may refer to the [list of local forwarding agents]( /businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents).
+
+•	The Declaring Agent may declare using the Miscellaneous Unique Entity Number (UEN), 99999990000C, in the permit application for individuals importing goods (including goods subject to control of Competent Authorities) for non-commercial purposes only. For more information on the correct usage of the generic UEN in permit applications, please refer to [Customs Circular No. 11/2014](/news-and-media/circulars/2014-07-17-Circular112014.pdf).
+
+
 More information on permit requirements is available  [here](/businesses/importing-goods/import-procedures/types-of-import-permits). Alternatively, you may contact us on (+65) 63552000 or email us at  [customs_documentation@customs.gov.sg](mailto:Customs_Documentation@Customs.gov.sg).
 
 ***
