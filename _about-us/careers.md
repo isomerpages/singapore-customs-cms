@@ -52,9 +52,7 @@ No matter what your role is, **the impact of your contributions count.**
 
 We have a structured career development roadmap to nurture you as a professional Customs officer.
 
-![Career Roadmap_1](/images/careers/Career%20Roadmap_1.jpg)
-
-![Career Roadmap_2](/images/careers/Career%20Roadmap_2.jpg)
+![](/images/careers/2022-10%20Career%20Roadmap%20(updated).jpg)
 
 **SIGN-ON BONUS**
 
@@ -65,8 +63,7 @@ Eligible officers who are newly appointed to the Public Service and Singapore Cu
 You will also receive attractive retention pay-outs in your 4th, 7th, and 10th year in service.
 
 **STARTING SALARY**
-![Starting Salary](/images/careers/Starting%20Salary.jpeg)
-
+![Starting Salary](/images/careers/2022-10%20Starting%20Salary%20(updated).jpg)
 **Starting monthly salary may vary based on a holistic assessment of academic qualifications, relevant work experience and completion of full-time National Service.*
 
 **BENEFITS**
