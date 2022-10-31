@@ -4,18 +4,17 @@ permalink: /about-us/careers/
 ---
 # Careers
 
-![Career Poster](/images/career_poster.jpg)
+**A TRADE FACILITATOR, A TRADE REGULATOR AND A LAW ENFORCER**
 
-Here at Singapore Customs, our work is dynamic, challenging and never dull.
+Singapore leverages on its geographical location and global connectivity to trade with many countries in the world across a wide range of goods and services. Trade and connectivity are of paramount importance, especially with Singapore being a globally oriented and open economy. 
 
-As the lead agency for trade facilitation and revenue enforcement in Singapore, Singapore Customs plays a crucial role of ensuring our trading environment is conducive, thriving and world-class. Facilitating cross-border trade? Enhancing trade through our pro-business approach? These are all part of a day’s work for Singapore Customs officers.
+**Singapore Customs advances Singapore’s economic development by protecting revenue and making trade easy, fair and secure. ** 
 
-Our work doesn’t stop there. We are also dedicated to enhancing national security by combating illegal trade and tax evasion, and ensuring compliance from traders with our laws and regulations.
+*We **protect revenue** *
+-	that is invested in the progress and well-being of our Singapore community, making Singapore a better place today and for tomorrow.
 
-If you are looking for an exciting and rewarding career, we have career opportunities for you in Singapore Customs.
+*We **make trade easy, fair and secure. ***
+-	by maintaining Singapore’s status as a global trading hub while ensuring the integrity of the trading system. 
 
-[Senior Officer of Customs](/files/about-us/senior_officer_poster.pdf)
 
-[Officer of Customs](/files/about-us/customs_officer_poster.pdf)
 
-View our current job openings and send us your application at [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/listing/)
