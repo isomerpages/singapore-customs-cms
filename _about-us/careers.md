@@ -20,7 +20,7 @@ Singapore leverages on its geographical location and global connectivity to trad
 
 * **Our role as a Trade Facilitator**: We facilitate customs connectivity across borders for a seamless and resilient end-to-end international supply chain and work closely with local and international partners to advance Singapore’s economy. For example, through Free Trade Agreements (FTAs), we work with our FTA partners to reduce trade barriers, enable faster and efficient clearance of goods, and provide for preferential tariff treatment for Singapore origin goods. Through Digital Economy Agreements (DEAs) and other bilateral agreements, we connect digitally to other Customs administrations to exchange data and digital documents, providing time and cost savings to companies.
 
-* **Our role as a Trade Regulator**: We uphold the rules of trade and tariffs and keep a close watch on strategic goods and technologies to maintain an effective and robust regulatory regime. In doing so, we contribute to international efforts to prevent the proliferation of arms, missiles and weapons of mass destruction and safeguard Singapore’s reputation as a global trade hub trusted by foreign trading partners and businesses. We maintain a robust duty and tax collection regime, that contributes about close to 15% to total government annual tax revenue, hence contributing to nation building.
+* **Our role as a Trade Regulator**: We uphold the rules of trade and tariffs and keep a close watch on strategic goods and technologies to maintain an effective and robust regulatory regime. In doing so, we contribute to international efforts to prevent the proliferation of arms, missiles and weapons of mass destruction and safeguard Singapore’s reputation as a global trade hub trusted by foreign trading partners and businesses. We maintain a robust duty and tax collection regime, that contributes about close to 15% of total government annual tax revenue, hence contributing to nation building.
 
 * **Our role as a Law Enforcer**: Adopting a whole-of-government approach, we protect Singapore’s revenue and level the playing field for law-abiding businesses by working closely with other agencies to enforce against revenue-related and trade offences. We also contribute to efforts to safeguard the integrity and security of the global supply chain by partnering regional and international counterparts to enforce against different types of illicit trade.
 
@@ -87,10 +87,3 @@ You will enjoy a host of benefits including:
 If our mission energises you, join the **ONECUSTOMS** team and help to define it. Kickstart your career with us today: [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html)
 
 ![Email Signature](/images/careers/TS%20Email%20Signature%20Final.jpg)
-
-
-
-
-
-
-
