@@ -4,7 +4,7 @@ permalink: /about-us/careers/
 ---
 # Careers
 
-##### **A TRADE FACILITATOR, A TRADE REGULATOR AND A LAW ENFORCER**
+#### **A TRADE FACILITATOR, A TRADE REGULATOR AND A LAW ENFORCER**
 
 Singapore leverages on its geographical location and global connectivity to trade with many countries in the world across a wide range of goods and services. Trade and connectivity are of paramount importance, especially with Singapore being a globally oriented and open economy. 
 
