@@ -1,14 +1,13 @@
 ---
 title: Land Transport Authority (LTA)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/LTA
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/LTA/
 third_nav_title: Competent Authorities Requirements
 ---
-
 # Land Transport Authority (LTA)
 
 Import Control Regime for PABs and Motorised PMDs
 
-Under the Small Motorised Vehicles (Safety) Act 2020 (SMVA), all importers of Power-Assisted Bicycles (PABs) and motorised Personal Mobility Devices (PMDs) are required to obtain approval from the Land Transport Authority (LTA) before importing these devices into Singapore. This applies to devices imported under Harmonised System (HS) codes 87116091 and 87116092.
+Under the Small Motorised Vehicles (Safety) Act 2020 (SMVA), all importers of Power-Assisted Bicycles (PABs) and motorised Personal Mobility Devices (PMDs) (e.g. electric scooters, electric unicycles, electric skateboards and hoverboards) are required to obtain approval from the Land Transport Authority (LTA) before importing these devices into Singapore. 
 
 The import control regime also applies to individuals bringing in PABs or motorised PMDs for personal use (e.g. residents returning to Singapore or travellers entering Singapore).
 

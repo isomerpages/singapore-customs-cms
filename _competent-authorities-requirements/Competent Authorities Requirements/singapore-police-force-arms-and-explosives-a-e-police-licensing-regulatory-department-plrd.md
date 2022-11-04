@@ -1,7 +1,7 @@
 ---
 title: Singapore Police Force - Arms and Explosives (A&E) - Police Licensing &
   Regulatory Department (PLRD)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-Arms-and-explosives
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-Arms-and-explosives/
 third_nav_title: Competent Authorities Requirements
 ---
 # Singapore Police Force - Arms and Explosives (A&E) - Police Licensing & Regulatory Department (PLRD)
@@ -30,9 +30,6 @@ The definition of "explosive precursors" us defined as any substance specified i
 
 PLRD also regulates the following items under Regulation of Imports and Exports Regulations:
 
-*Controlled Imports*
-
-(a) Amusement machines, coin or disc operated, including pin-tables, shooting galleries and cinematography machines
 
 *Controlled Imports, Exports and Transhipment*
 
@@ -48,11 +45,11 @@ The function of AED (PLRD) is to regulate the dealing in, manufacture, possessio
 
 ## Types of Licences
 
-AED PLRD issues 2 types of licences – long term (valid for a period of 1 year or 2 years) and short term (valid for a period of 30 days).
+AED PLRD issues two types of licences – long term (valid for a period of up to two years) and short term (valid for a period of 30 days).
 
 **Long Term Licences**
 
--   Licence to possess firearms or explosive precursors
+-   Licence to possess arms, explosives or explosive precursors
 -   Licence to deal in arms, explosives or explosive precursors
 -   Licence to manufacture arms, explosives or explosive precursors
 -   Licence to store arms, explosives or explosive precursors
