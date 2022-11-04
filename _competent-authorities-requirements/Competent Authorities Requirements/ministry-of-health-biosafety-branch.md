@@ -13,7 +13,7 @@ third_nav_title: Competent Authorities Requirements
 
 **2.**  Requirements for Importers (Users) and Carriers
 
-  a. An “Approval to Possess” granted by MOH to the importer is required prior to the importation BATA First and Second Schedule biological agents, and Fifth Schedule toxins. For more information on BATA requirements for each Schedule, please  [visit MOH Biosafety website](https://www.moh.gov.sg/biosafety){:target="_blank"}.
+  a. An “Approval to Possess” granted by MOH to the importer is required prior to the importation BATA First and Second Schedule biological agents, and Fifth Schedule toxins. For more information on BATA requirements for each Schedule, please visit  [MOH Biosafety website](https://www.moh.gov.sg/biosafety){:target="_blank"}.
 
   b. For local transportation of First, Second and Third Schedule biological agents, and Fifth Schedule toxins, carriers must comply with the requirements prescribed in the BATA Transportation Regulation (downloadable from  [MOH Biosafety website](https://www.moh.gov.sg/biosafety/about-bata){:target="_blank"}).
 
