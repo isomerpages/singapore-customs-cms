@@ -2,11 +2,6 @@
 title: Ministry of Health - Biosafety Branch
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health/
 ---
-biosafety-branch
-third_nav_title: Competent Authorities Requirements
----
-
-
 # Ministry of Health - Biosafety Branch
 
 **1.**  The importation and transhipment of human and zoonotic (infects both human and animals) biological agents, and selected toxins are regulated under the Biological Agents and Toxins Act (BATA) by the Ministry of Health (MOH). These include samples (e.g. clinical and non-clinical samples, proficiency test samples, quality control and standards) that are known to contain the controlled biological agents and toxins. The lists of controlled items are classified under five BATA Schedules, where biological agents are listed under the First to Forth Schedules, and selected toxins are listed under the Fifth Schedule.
@@ -50,6 +45,6 @@ e. Transhipment Details (if applicable)
 -   Place of temporary storage
 -   Date of exportation and vessel details
 
-**1.**  The list of MOH product codes is updated from time to time, and the current “List of Biological Agents and Toxins” is available under the Useful Info and Guidelines tab on the [MOH Biosafety website](https://www.moh.gov.sg/docs/librariesprovider7/news-updates-documents/list-of-biological-agents-and-toxins.pdf){:target="_blank"}.
+**4.**  The list of MOH product codes is updated from time to time, and the current “List of Biological Agents and Toxins” is available under the Useful Info and Guidelines tab on the [MOH Biosafety website](https://www.moh.gov.sg/docs/librariesprovider7/news-updates-documents/list-of-biological-agents-and-toxins.pdf){:target="_blank"}.
 
-**2.**  For queries related to the requirements for importation of items  for of items that are not listed in the “List of Biological Agents and Toxins”, please contact MOH Biosafety Branch at  MOH_Biosafety@moh.gov.sg.
+**5.**  For queries related to the requirements for importation of items  for of items that are not listed in the “List of Biological Agents and Toxins”, please contact MOH Biosafety Branch at  MOH_Biosafety@moh.gov.sg.
