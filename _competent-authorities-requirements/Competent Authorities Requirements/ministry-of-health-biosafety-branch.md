@@ -1,13 +1,15 @@
 ---
 title: Ministry of Health - Biosafety Branch
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health---biosafety-branch
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health/
+---
+biosafety-branch
 third_nav_title: Competent Authorities Requirements
 ---
 
 
 # Ministry of Health - Biosafety Branch
 
-**1.**  The import and transhipment of human and zoonotic (infects both human and animals) pathogens, and selected toxins are regulated under the Biological Agents and Toxins Act (BATA) by the Ministry of Health (MOH). These include any sample (clinical or non-clinical samples, kits and proficiency test samples) that are known to contain the controlled pathogens and toxins. The lists of controlled items are classified under 5 BATA Schedules, where pathogens are listed under Schedules 1-4, and selected toxins are listed under Schedule 5.
+**1.**  The importation and transhipment of human and zoonotic (infects both human and animals) biological agents, and selected toxins are regulated under the Biological Agents and Toxins Act (BATA) by the Ministry of Health (MOH). These include samples (e.g. clinical and non-clinical samples, proficiency test samples, quality control and standards) that are known to contain the controlled biological agents and toxins. The lists of controlled items are classified under five BATA Schedules, where biological agents are listed under the First to Forth Schedules, and selected toxins are listed under the Fifth Schedule.
 
 **2.**  Requirements for Importers (Users) and Carriers
 
