@@ -1,6 +1,6 @@
 ---
 title: Ministry of Health - Biosafety Branch
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health/
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health
 ---
 # Ministry of Health - Biosafety Branch
 
