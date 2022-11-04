@@ -52,6 +52,4 @@ e. Transhipment Details (if applicable)
 
 **1.**  The list of MOH product codes is updated from time to time, and the current “List of Biological Agents and Toxins” is available under the Useful Info and Guidelines tab on the [MOH Biosafety website](https://www.moh.gov.sg/docs/librariesprovider7/news-updates-documents/list-of-biological-agents-and-toxins.pdf){:target="_blank"}.
 
-**2.**  For queries related to the requirements for importation of items that are not listed in the “List of Biological Agents and Toxins”, please send your query to  MOH_Biosafety@moh.gov.sg.
-
-Refer to  [product codes](https://www.moh.gov.sg/biosafety/newsupdate/newsdetail/index/updated%20Biological%20Agents%20and%20Toxins%20List)
+**2.**  For queries related to the requirements for importation of items  for of items that are not listed in the “List of Biological Agents and Toxins”, please contact MOH Biosafety Branch at  MOH_Biosafety@moh.gov.sg.
