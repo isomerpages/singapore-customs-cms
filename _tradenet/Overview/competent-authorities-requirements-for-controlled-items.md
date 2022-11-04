@@ -1,6 +1,6 @@
 ---
 title: Competent Authorities' Requirements for Controlled Items
-permalink: /businesses/National-Single-Window/Overview/Competent-Authorities-Requirements
+permalink: /businesses/National-Single-Window/Overview/Competent-Authorities-Requirements/
 third_nav_title: Overview
 ---
 # Competent Authorities' Requirements for Controlled Items
@@ -58,11 +58,11 @@ Please remember to upload the relevant supporting documents required by the CAs 
 -   [Controller of Undesirable Publications (CUP)](/businesses/national-single-window/tradenet/competent-authorities-requirements/IMDA-CUP)
 -   [Radiocomm & Dealer Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/imda-radiocomm-and-dealer-licensing)
 
-**6) [Land Transport Authority (LTA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/LTA)**
+**6) [Land Transport Authority (LTA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/lta/)**
 
 **7) Ministry of Health (MOH)**
 
--   [Biosafety Branch](/businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health---biosafety-branch)
+-   [Biosafety Branch](/businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health)
 
 **8) Ministry of Home Affairs (MHA)**
 
