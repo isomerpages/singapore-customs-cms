@@ -1,11 +1,11 @@
 ---
 title: Ministry of Health - Biosafety Branch
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health/
 third_nav_title: Competent Authorities Requirements
---- 
+---
 # Ministry of Health - Biosafety Branch
 
-**1.**  The importation and transhipment of human and zoonotic (infects both human and animals) biological agents, and selected toxins are regulated under the Biological Agents and Toxins Act (BATA) by the Ministry of Health (MOH). These include samples (e.g. clinical and non-clinical samples, proficiency test samples, quality control and standards) that are known to contain the controlled biological agents and toxins. The lists of controlled items are classified under five BATA Schedules, where biological agents are listed under the First to Forth Schedules, and selected toxins are listed under the Fifth Schedule.
+**1.**  The importation and transhipment of human and zoonotic (infects both human and animals) biological agents, and selected toxins are regulated under the Biological Agents and Toxins Act (BATA) by the Ministry of Health (MOH). These include samples (e.g. clinical and non-clinical samples, proficiency test samples, quality control and standards) that are known to contain the controlled biological agents and toxins. The lists of controlled items are classified under five BATA Schedules, where biological agents are listed under the First to Fourth Schedules, and selected toxins are listed under the Fifth Schedule.
 
 **2.**  Requirements for Importers (Users) and Carriers
 
@@ -15,7 +15,7 @@ third_nav_title: Competent Authorities Requirements
 
 **3.**  TradeNet application submission  
     A customs permit must be obtained through TradeNet before the goods arrive in/depart from/tranship at Singapore. An online application shall be submitted with the relevant supporting documents (e.g. commercial invoice, airway bill, declaration letter) for processing.  
-    For online TradeNet submissions, ensure the following information are correctly provided in the application:
+    For online TradeNet submissions, ensure that the following information are correctly provided in the application:
 
 a. Declarant and Importer fields
 
@@ -48,4 +48,4 @@ e. Transhipment Details (if applicable)
 
 **4.**  The list of MOH product codes is updated from time to time, and the current “List of Biological Agents and Toxins” is available under the Useful Info and Guidelines tab on the [MOH Biosafety website](https://www.moh.gov.sg/docs/librariesprovider7/news-updates-documents/list-of-biological-agents-and-toxins.pdf){:target="_blank"}.
 
-**5.**  For queries related to the requirements for importation of items  for of items that are not listed in the “List of Biological Agents and Toxins”, please contact MOH Biosafety Branch at  MOH_Biosafety@moh.gov.sg.
+**5.**  For queries related to the requirements for importation of items that are not listed in the “List of Biological Agents and Toxins”, please contact MOH Biosafety Branch at  MOH_Biosafety@moh.gov.sg.
