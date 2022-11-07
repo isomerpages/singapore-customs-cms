@@ -1,29 +1,28 @@
 ---
 title: Permits, Documentation and Other Fees
-permalink: /businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees
+permalink: /businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees/
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
-
 # Permits, Documentation and Other Fees
 
 The fees below apply to traders who submit their own permit applications. It does not include  [service fees charged by service providers such as freight forwarders](/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service).
 
 ## Processing through TradeNet
 
-Each TradeNet permit application typically costs about S$2.88, which includes:
+Each TradeNet permit application typically costs about S$3.08, which includes:
 
 -   S$0.90 for statutory fees, and
--   S$1.98 for processing and messaging fees
+-   S$2.18 for processing and messaging fees
 
-Each Certificate of Origin application together with a Customs export permit application typically costs about S$8.68, which includes:
+Each Certificate of Origin application together with a Customs export permit application typically costs about S$9.06, which includes:
 
--   S$0.18 for messaging fees
+-   S$0.20 for messaging fees
 -   Each export permit application:
     -   S$0.90 for statutory fees, and
-    -   S$1.80 for processing charges
+    -   S$1.98 for processing charges
 -   Each Certificate of Origin application:
     -   S$4 for statutory fees, and
-    -   S$1.80 for processing charges
+    -   S$1.98 for processing charges
 
 ## Manual Processing
 
