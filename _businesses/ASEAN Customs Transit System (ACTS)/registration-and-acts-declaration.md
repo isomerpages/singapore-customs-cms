@@ -1,18 +1,17 @@
 ---
-title: Registration and ACTS Declaration  
-permalink: /businesses/asean-customs-transit-system/Registration-and-ACTS-Declaration  
-third_nav_title: ASEAN Customs Transit System (ACTS)  
+title: Registration and ACTS Declaration
+permalink: /businesses/asean-customs-transit-system/Registration-and-ACTS-Declaration/
+third_nav_title: ASEAN Customs Transit System (ACTS)
 ---
-
 ## Step 1: Register as ACTS Trader
 You are required to be registered as an ACTS trader with Singapore Customs and be provided with a user account in ACTS before you can submit a declaration in ACTS. 
 
-You will need to complete the following application forms and email them to [Customs_Documentation@customs.gov.sg](mailto:Customs_Documentation@customs.gov.sg).
+You will need to complete the following application forms: 
 
-   1. [Trader Registration Form](/eservices/customs-forms-and-service-links); and
-   2. [Employee Declarant Details and Authorisation Form](/eservices/customs-forms-and-service-links).
+   1. [Trader Registration Form]( https://form.gov.sg/62efd351d7b4560012d73d26); and
+   2. [Employee Declarant Details and Authorisation Form]( https://form.gov.sg/6327c68da1ed8d001275250e).
 
-Upon registration, Singapore Customs will issue a Trader Identification Number (TIN) to the registered ACTS trader (also known as Principal) and a Personal ID to each registered employee(s) for the submission of declarations in ACTS. A Principal can also authorise a different legal entity to submit the ACTS declaration on their behalf by submitting a [Broker/Representative Authorisation Letter](/eservices/customs-forms-and-service-links). Both the employee of the Principal Trader and the representative/broker authorised by the Principal Trader can submit the declaration in ACTS.
+Upon registration, Singapore Customs will issue a Trader Identification Number (TIN) to the registered ACTS trader (also known as Principal) and a Personal ID to each registered employee(s) for the submission of declarations in ACTS. A Principal can also authorise a different legal entity to submit the ACTS declaration on their behalf by submitting a [Broker/Representative Authorisation Letter](https://form.gov.sg/632822e21ce666001181e8f2). Both the employee of the Principal Trader and the representative/broker authorised by the Principal Trader can submit the declaration in ACTS.
 
 ## Step 2: Obtain a Guarantee
 
@@ -65,5 +64,4 @@ Please note that existing domestic clearance procedures would still apply.
 |  |  |  |  |
 |--|--|--|--|
 |[![](/images/ACTS/Overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/ACTS/Amendments-and-Cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)|[![](/images/ACTS/ATT.jpg)](/businesses/asean-customs-transit-system/overview/att)| [![](/images/ACTS/Customs-Forms-&-Service-Links.jpg)](/eservices/customs-forms-and-service-links)|
-| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
-
+| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|
