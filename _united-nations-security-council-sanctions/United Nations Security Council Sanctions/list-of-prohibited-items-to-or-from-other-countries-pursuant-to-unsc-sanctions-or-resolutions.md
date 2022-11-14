@@ -1,12 +1,12 @@
 ---
-title: List of Prohibited Items to or from Other Countries pursuant to UNSC Sanctions or Resolutions
-permalink: /businesses/united-nations-security-council-sanctions/prohibited-items-unsc-countries
+title: List of Prohibited Items to or from Other Countries pursuant to UNSC
+  Sanctions or Resolutions
+permalink: /businesses/united-nations-security-council-sanctions/prohibited-items-unsc-countries/
 third_nav_title: United Nations Security Council Sanctions
 ---
+### List of Prohibited Items to or from Other Countries pursuant to UNSC Sanctions or Resolutions
 
-### List of Prohibited Items to or from Other Other Countries pursuant to UNSC Sanctions or Resolutions
-
-_Note: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](https://www.un.org/sc/suborg/en/){:target="_blank"}. Where legal advice is required, please seek advice from your legal advisors._
+_Note: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC Sanctions Committees website_](https://www.un.org/securitycouncil/content/un-sc-consolidated-list){:target="_blank"}. Where legal advice is required, please seek advice from your legal advisors.
 
 | **Country or Territory** | **Prohibited imports from (including transhipped goods and goods in transit originating from) that country or territory** | **Prohibited exports to (including transhipped goods and goods in transit bound for) that country or territory** |
 |--|--|--|
@@ -19,4 +19,3 @@ _Note: For a comprehensive list of UNSC sanctions, please refer to the_ [_UNSC S
 | **South Sudan** |  | Arms and related matériel. |
 | **Sudan** |  | Arms and related matériel to all the territory of Darfur, including the new states of Eastern and Central Darfur. |
 | **Syria**  | Chemical weapons, related equipment, goods and technology. | Chemical weapons. |
-
