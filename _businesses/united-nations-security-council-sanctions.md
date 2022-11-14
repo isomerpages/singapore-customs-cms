@@ -2,12 +2,11 @@
 title: United Nations Security Council Sanctions
 permalink: /businesses/united-nations-security-council-sanctions/
 ---
-
 # United Nations Security Council Sanctions
 
 The  **United Nations Security Council (UNSC)**  resolutions impose sanctions including prohibitions on activities relating to certain countries, goods and services, and/or entities (persons, companies or organisations).
 
-As a member of the United Nations, Singapore implements the [resolutions adopted by the UNSC](https://www.un.org/securitycouncil/content/resolutions){:target="_blank"}. Specifically, the import into, export from, transhipment and transit through Singapore of certain goods which contravene the UNSC sanctions are prohibited under Regulation 6(1)(b) of the  **Regulation of Imports and Exports Regulations (RIER)**. A comprehensive list of UNSC sanctions can be found on the [UNSC Sanctions Committees website](https://www.un.org/sc/suborg/en/){:target="_blank"}.
+As a member of the United Nations, Singapore implements the [resolutions adopted by the UNSC](https://www.un.org/securitycouncil/content/resolutions){:target="_blank"}. Specifically, the import into, export from, transhipment and transit through Singapore of certain goods which contravene the UNSC sanctions are prohibited under Regulation 6(1)(b) of the  **Regulation of Imports and Exports Regulations (RIER)**. A comprehensive list of UNSC sanctions can be found on the [UNSC Sanctions Committees website](https://www.un.org/securitycouncil/content/un-sc-consolidated-list){:target="_blank"}.
 
 ## Democratic People’s Republic of Korea (DPRK)
 
