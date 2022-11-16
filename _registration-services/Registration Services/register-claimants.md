@@ -1,9 +1,8 @@
 ---
-title: Register Claimants 
-permalink: /businesses/new-traders-and-registration-services/registration-services/register-claimants
+title: Register Claimants
+permalink: /businesses/new-traders-and-registration-services/registration-services/register-claimants/
 third_nav_title: Registration Services
 ---
-
 # Register Claimants
 
 A Claimant registration is required before a Claimant Organisation can be granted the Goods and Services Tax (GST) relief and/or duty exemption for the following scenarios only:
@@ -21,7 +20,7 @@ A Claimant Organisation is an organisation or a person as specified in the secon
 
 A Claimant is an individual from a Claimant Organisation who is responsible to receive the goods that are exempted from the payment of duty and/or GST on behalf of the entity and ensures that the goods granted duty exemption and/or GST relief are meant for an entity’s official use or an Entitled Individual’s personal use when they are applying for the duty exemption/GST relief permits.
 
-The Key Personnel of Claimant Organisation needs to register individuals from the Claimant Organisation as Claimants to be declared in the duty exemption and/or GST relief permit applications. Upon successful registration of the Claimants, the Primary Contact listed in your entity's Customs Account will receive a fax or email notification.
+The Key Personnel of Claimant Organisation needs to register individuals from the Claimant Organisation as Claimants to be declared in the duty exemption and/or GST relief permit applications. Upon successful registration of the Claimants, the Primary Contact listed in your entity's Customs Account will receive an email notification.
 
 When submitting the duty and/or GST exemption permit applications, the Declaring Agents are required to declare the registered Claimant’s UEN, organisation, name and code in the relevant fields.
 
