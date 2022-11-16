@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/new-traders-and-registration-services/overview
+permalink: /businesses/new-traders-and-registration-services/overview/
 third_nav_title: New Traders And Registration Services
 ---
 # Quick Guide for New Traders and Registration Services
@@ -38,7 +38,7 @@ You are required to maintain an Inter-Bank GIRO (IBG) with Singapore Customs to 
 
 To apply, mail the completed  [Application for Inter-Bank GIRO form](/eservices/customs-forms-and-service-links) to Singapore Customs’ address as indicated in the form.
 
-The IBG application usually requires 3 to 4 weeks for the bank’s approval. Once it is approved, you will receive a notification by fax or email depending on the contact details provided in your Customs Account.
+The IBG application usually requires 3 to 4 weeks for the bank’s approval. Once it is approved, you will receive a notification by email depending on the contact details provided in your Customs Account.
 
 ## Security Lodgement
 
