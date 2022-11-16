@@ -37,4 +37,4 @@ Traders should follow these procedures to apply for permits for temporary export
     
    6.  Produce the permit and supporting documents for endorsement by checkpoint officers for clearance during cargo re-import.
 
-   7.  Please also take note of [additional requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-export) related to temporary imports.
+   7.  Please also take note of [additional requirements](/businesses/importing-goods/temporary-import-scheme/additional-requirements-export) related to temporary export.
