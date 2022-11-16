@@ -1,9 +1,8 @@
 ---
-title: Apply For Inter-Bank GIRO (IBG) 
-permalink: /businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro
+title: Apply For Inter-Bank GIRO (IBG)
+permalink: /businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro/
 third_nav_title: Registration Services
 ---
-
 # Application Procedure
 
 [Declaring Entities](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account)  that wish to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Customs from your bank account to Singapore Customs directly (instead of through their  [Declaring Agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)), and all Declaring Agents must apply for an Inter-Bank GIRO (IBG) with Singapore Customs.
@@ -15,7 +14,7 @@ To apply,  **mail**  the completed [Application for Inter-Bank Giro form](/eserv
 The processing of the application usually takes three to four weeks.
 
 When the IBG application is approved, the Primary Contact (or the Secondary Contact should transmission to Primary Contact fails) registered in your  [Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}
- will receive a fax or email notification.
+ will receive an email notification.
 
 If you have an existing IBG with Singapore Customs and wish to change the bank account used for your IBG, you are required to submit a new IBG application.
 
@@ -44,4 +43,4 @@ Please ensure that you maintain sufficient funds in your entity's bank account a
 
 Please contact your bank directly to terminate your IBG arrangement. Upon successful termination by your bank, please email your IBG termination to [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg)
 
-However, if you are a Declaring Agent, it is mandatory for you to maintain a valid IBG with Singapore Customs. If you intend to change your bank account used for IBG deduction, you are required to submit a new IBG application. Your existing IBG with Singapore Customs will be terminated when your new IBG application is approved. 
+However, if you are a Declaring Agent, it is mandatory for you to maintain a valid IBG with Singapore Customs. If you intend to change your bank account used for IBG deduction, you are required to submit a new IBG application. Your existing IBG with Singapore Customs will be terminated when your new IBG application is approved.
