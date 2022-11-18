@@ -82,7 +82,7 @@ Prior approval via the TradeNet shall be obtained for the export, import and tra
 - Item description and item quantity under ‘Item Details’ column
 - The corresponding Product Codes depending on the purpose of export or import to the correct HS Codes
 
-**2.**  Declarant would have to upload the following documents in TradeNet during the permit declaration, depending on the purpose of export or import:<br>
+**2.**  Declarant would have to upload the following documents in TradeNet during the permit application, depending on the purpose of export or import:<br>
 -  Invoice
 -  Bill of Lading (BL) / Air waybill (AWB)
 -  Warranty Document / Contractual Agreement for the repair works
