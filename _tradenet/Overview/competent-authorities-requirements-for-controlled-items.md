@@ -93,8 +93,8 @@ Please remember to upload the relevant supporting documents required by the CAs 
 -   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](/businesses/national-single-window/tradenet/competent-authorities-requirements/icdv)
 -   [Import of Mastering Equipment and Replication Equipment](/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment)
 -   [Kimberley Process Certification Scheme](/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---kimberley-process-certification-scheme)
--   [National Authority (Chemical Weapons Convention)](/files/about-us/cwc-ca-requirements.docx)
--   [Strategic Goods Control](/businesses/national-single-window/tradenet/competent-authorities-requirements/strategic-goods-control)
+-   [National Authority (Chemical Weapons Convention)](/businesses/chemical-weapons-convention/controlled-chemicals)
+-   [Strategic Goods Control](/businesses/strategic-goods-control/overview)
 -   [United Nations Security Council (UNSC) Sanctions](/businesses/united-nations-security-council-sanctions/)
 
 **13) Singapore Food Agency (SFA)**
