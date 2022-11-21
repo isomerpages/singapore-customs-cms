@@ -18,4 +18,4 @@ You can download the “Customs Guide For Travellers” for more information. Th
 7)	[Tamil](/files/individuals/Guide-To-Travellers-Tamil-2022.pdf) (PDF)<br>
 8)	[Vietnamese](/files/individuals/Guide-To-Travellers-Vietnamese-2022.pdf) (PDF)<br>
 
-Travellers may approach the Customs Examination Area before immigration clearance, Red Channel or the Singapore Customs Tax Payment Office on their arrival if they are unsure of the clearance procedures.
+Travellers may approach the Customs Examination Area before immigration clearance, Red Channel or the Singapore Customs Tax Payment Office on their arrival for advice on Customs clearance procedures.
