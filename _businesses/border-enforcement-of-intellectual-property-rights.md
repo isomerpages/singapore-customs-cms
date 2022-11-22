@@ -98,7 +98,7 @@ For more information on border enforcement measures under the Trade Marks Act 19
   -   [Part 5 Division 2 of the Copyright Regulations](https://sso.agc.gov.sg/SL/CA2021-S882-2021?DocDate=20211119&ProvIds=pr82-,pr83-,pr84-,pr85-,pr86-,pr87-,pr88-,pr89-){:target="_blank"}
   -   [Copyright (Border Enforcement Measures Fees) Regulations](https://sso.agc.gov.sg/SL/CA2021-S881-2021?DocDate=20211119){:target="_blank"}
   -   [Part 6 of the Geographical Indications Act 2014](https://sso.agc.gov.sg/Act/GIA2014?ProvIds=P16-#P16-){:target="_blank"}
-  -   [Geographical Indications (Border Enforcement Measures) Rules 2022] (https://sso.agc.gov.sg/SL/GIA2014-S816-2022?DocDate=20221021){:target="_blank"}
+  -   [Geographical Indications (Border Enforcement Measures) Rules 2022](https://sso.agc.gov.sg/SL/GIA2014-S816-2022?DocDate=20221021){:target="_blank"}
   -   [Geographical Indications (Border Enforcement Measures – Fees) Rules 2022](https://sso.agc.gov.sg/SL/GIA2014-S817-2022?DocDate=20221021){:target="_blank"}
   -  [Part 6A of the Registered Designs Act 2000](https://sso.agc.gov.sg/Act/RDA2000?ProvIds=P16A*-#P16A*-){:target="_blank"}
   -  [Registered Designs (Border Enforcement measures) Rules 2022](https://sso.agc.gov.sg/SL/RDA2000-S814-2022?DocDate=20221021){:target="_blank"}
