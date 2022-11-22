@@ -1,20 +1,28 @@
 ---
 title: Border Enforcement of Intellectual Property Rights
-permalink: /businesses/border-enforcement-of-intellectual-property-rights/quick-guide-for-copyright-and-trade-mark-owners-and-licensees
+permalink: /businesses/border-enforcement-of-intellectual-property-rights/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/
 ---
-# Quick Guide for Copyright and Trade Mark Owners and Licensees
+# Quick Guide to Border Enforcement Measures for Trademarks, Copyright, Geographical Indications and Registered Designs
 
 ## Seizure on request (Lodgement of Notice)
 
-The owner or licensee of a copyright or a registered trademark (the “requestor”) may give the Director-General of Customs (“Director-General”) a written notice stating that he requests the seizure of copyright infringing copies or trademark-infringing goods that are expected to be imported or exported. The requestor has to provide sufficient information:
+If you are –
 
-a\. To identify the infringing copies or goods; <br>
-b\. To enable the Director-General to ascertain the time and place where the infringing copies or goods are expected to be imported; and <br>
-c\. To satisfy the Director-General that the copies or goods are infringing copies or goods. 
+* The owner or licensee of a registered trademark;
+* The owner or licensee of a copyright;
+* A producer or trader of goods identified by a registered geographical indication, or any association of such producers or traders; or 
+* The owner or exclusive licensee of a registered design;
 
-A notice given to the Director-General is valid for the day the notice is given and another 59 days afterwards (i.e. for 60 days). Within this period, Singapore Customs will seize the infringing copies or goods if they are imported into, or are exported from, Singapore. The requestor and the importer or exporter will be informed of the seizure.  
-  
-The requestor has to institute an action for copyright or trademark infringement and notify the Director-General accordingly within 10 working days after the day specified in the notice of seizure by the Director-General. The time limit for initiating infringement action may be extended by a further 10 working days upon request by the requestor.
+You may give the Director-General of Customs  a written notice requesting the seizure of goods that are expected to be imported or exported, and suspected to infringe the trademark, copyright, geographical indication or registered design in question. You will have to provide sufficient information:
+
+a)  to identify the infringing goods;<br>
+b)  to enable the Director-General of Customs to ascertain when and where the goods are expected to be imported or exported; and<br>
+c)  to satisfy the Director-General of Customs that the goods are infringing.<br>
+
+Any such notice given to the Director-General of Customs is valid for the day the notice is given and another 59 days afterwards (i.e. for 60 days). Within this period, Singapore Customs will seize the identified goods if they are imported into, or to be exported from, Singapore. Once the goods have been seized, you and the importer or exporter of the goods will be informed of the seizure.
+
+Once informed of the seizure, you will have to commence an action for infringement of the trademark, copyright, geographical indication or registered design, and notify the Director-General of Customs accordingly, within 10 working days after the date specified in the notice of seizure given by the Director-General of Customs. The time limit for initiating infringement action may be extended by a further 10 working days, upon request.
+
 
 ## Ex-officio Seizure
   
