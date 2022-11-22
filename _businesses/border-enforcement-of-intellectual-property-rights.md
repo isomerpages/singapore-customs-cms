@@ -51,7 +51,7 @@ The security may be given to cover (a) the current shipment only, or (b) the cur
 To provide notice, please select and complete the appropriate form from the table below.
 
 * For Seizure on Request (Lodgement of Notice), written notice should be given using Trade Marks Form 1, Copyright Form 1, Geographical Indications Form 1, or Registered Designs Form. 
-* Where the right holder or registrant has been notified by Singapore Customs that there has been Ex Officio Seizure of goods, and they wish for Singapore Customs to continue to detain the goods, written notice should be given using Trade Marks Form 2, Copyright Form 2, or Geographical Indications Form 2. 
+* Where the right holder or registrant has been notified by Singapore Customs that there has been Ex-Officio Seizure of goods, and they wish for Singapore Customs to continue to detain the goods, written notice should be given using Trade Marks Form 2, Copyright Form 2, or Geographical Indications Form 2. 
 
 
   | Forms | Related Links |
@@ -60,29 +60,26 @@ To provide notice, please select and complete the appropriate form from the tabl
   | Copyright Form 1 – Seizure on Request | [Link](https://go.gov.sg/crf12021) |
 	|Geographical Indications Form 1 – Seizure on Request|  [Link](https://go.gov.sg/gif1nov22) |
 	| Registered Designs Form – Seizure on Request| [Link](https://go.gov.sg/rdfnov22) |
-  | Trade Marks Form 2 – Ex-Officio Seizure | [Word Doc](https://go.gov.sg/tmf22022 ) |
+  | Trade Marks Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/tmf22022 ) |
   | Copyright Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/crf22021) |
 	 | Geographical Indications Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/gif2nov22) |
 
+The Notice should be accompanied by the following:
 
- 2\. The Notice shall be accompanied by:
+* A statutory declaration that the particulars in the notice are true;
+* A fee of S$200;
+* Security in the form of a deposit of money or a guarantee issued by a bank, finance company or insurance company in Singapore. Please contact Operations Management Branch, Singapore Customs, on the quantum of the security required. A guarantee shall remain in force (a) until 31 December of the following year in the case of an annual security; or (b) for 1 year in the case of a one-time security;
+* A Letter of Undertaking to bear all reasonable costs relating to the seizure, transportation, storage and disposal of the goods;
+* (For trade marks) A copy of the certificate of registration issued by the Registrar of Trade Marks in relation to the registered trade mark specified in the notice, and evidence that the registration of the registered trade mark was duly renewed at all times;
+* (For geographical indications) A copy of the certificate of registration issued by the Registrar of Geographical Indications in relation to the registered geographical indication specified in the notice, and evidence that the registration of the registered geographical indication was duly renewed at all times;
+* (For registered designs) A copy of the certificate of registration issued by the Registrar of Designs in relation to the registered design specified in the notice, and evidence that the period of registration of the registered design was duly extended at all times; and
+* (Where the notice is given by a person as agent) Evidence of the authority of the person giving the notice. 
 
-  -   a statutory declaration that the particulars in the notice are true;
-  -   a fee of S$200;
-  -   security in the form of a deposit of money or a guarantee issued by a bank, finance company or insurance company in Singapore. Please contact Operations Management Branch, Singapore Customs, on the quantum of the security required. A guarantee shall remain in force (a) until 31 December of the following year in the case of an annual security; or (b) for 1 year in the case of a one-time security;
-  -   a Letter of Undertaking to bear all reasonable costs relating to the seizure, transportation, storage and disposal of the copies or goods;
-  -   (for trade marks) a copy of the certificate of registration issued by the Registrar of Trade Marks in relation to the registered trade mark specified in the notice, and evidence that the registration of the registered trade mark was duly renewed at all times;
-  -   (where the notice is given by a person as agent) evidence of the authority of the person giving the notice.
+The templates for the guarantee and letter of undertaking can be found below.
 
- 3\. The fee of S$200 and security (if furnished in the form of deposit of money) shall be made via crossed cheque payable to "Singapore Customs" or bank transfer to Singapore Customs' bank account (DBS 001-028867-9).  
-  
- 4\. The required documents shall be submitted to Singapore Customs (attention: Operations Management Branch) at 55 Newton Road, #07-01, Revenue House, Singapore 307987.  
-  
-Template of Documents:
-
-| No. | Forms |  Related Links |
-|---|---|---|
-| 1 |  Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Word Doc](https://go.gov.sg/grtt2022) |
+| Forms |  Related Links |
+|---|---|
+| Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Link](https://go.gov.sg/grtt2022) |
 | 2 |  Letter of Undertaking under Trade Marks Act 1998 | [Word Doc](/files/businesses/letter-of-undertaking-under-trade-marks-act.docx) (17.9KB) |
 | 3 | Letter of Undertaking under Copyright Act 2021  | [Word Doc](/files/businesses/letter-of-undertaking-under-copyright-act.docx) (18.9KB) |
 
