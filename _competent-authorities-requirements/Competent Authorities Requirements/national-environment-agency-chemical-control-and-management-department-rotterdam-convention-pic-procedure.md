@@ -1,6 +1,5 @@
 ---
-title: National Environment Agency - Chemical Control and Management Department
-  (Rotterdam Convention PIC Procedure)
+title: National Environment Agency - Chemical Control and Management Department (Rotterdam Convention on the Prior Informed Consent (PIC) Procedure)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-rotterdam-convention-pic-procedure
 third_nav_title: Competent Authorities Requirements
 ---
