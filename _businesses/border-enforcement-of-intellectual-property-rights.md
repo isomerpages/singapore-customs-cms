@@ -97,12 +97,12 @@ For more information on border enforcement measures under the Trade Marks Act 19
   -   [Part 6 Division 3 of the Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021?ProvIds=pr329-,pr330-,pr331-,pr332-,pr333-,pr334-,pr335-,pr336-,pr337-,pr338-,pr339-,pr340-,pr341-,pr342-,pr343-,pr344-,pr345-,pr346-,pr347-,pr348-,pr349-,pr350-,pr351-,pr352-,pr353-,pr354-,pr355-,pr356-,pr357-,pr358-,pr359-,pr360-,pr361-,pr362-,pr363-,pr364-,pr365-,pr366-,pr367-,pr368-){:target="_blank"}
   -   [Part 5 Division 2 of the Copyright Regulations](https://sso.agc.gov.sg/SL/CA2021-S882-2021?DocDate=20211119&ProvIds=pr82-,pr83-,pr84-,pr85-,pr86-,pr87-,pr88-,pr89-){:target="_blank"}
   -   [Copyright (Border Enforcement Measures Fees) Regulations](https://sso.agc.gov.sg/SL/CA2021-S881-2021?DocDate=20211119){:target="_blank"}
-  -   [Part 6 of the Geographical Indications Act 2014](https://sso.agc.gov.sg/Act/GIA2014?ProvIds=P16-#P16-)
-  -   Geographical Indications (Border Enforcement Measures) Rules 2022
-  -   Geographical Indications (Border Enforcement Measures – Fees) Rules 2022
-  -   Part 6A of the Registered Designs Act 2000
-  -   Registered Designs (Border Enforcement measures) Rules 2022
-  -   Registered Designs (Border Enforcement Measures – Fees) Rules 2022
+  -   [Part 6 of the Geographical Indications Act 2014](https://sso.agc.gov.sg/Act/GIA2014?ProvIds=P16-#P16-){:target="_blank"}
+  -   Geographical Indications (Border Enforcement Measures) Rules 2022 (https://sso.agc.gov.sg/SL/GIA2014-S816-2022?DocDate=20221021){:target="_blank"}
+  -   Geographical Indications (Border Enforcement Measures – Fees) Rules 2022(https://sso.agc.gov.sg/SL/GIA2014-S817-2022?DocDate=20221021){:target="_blank"}
+  -   Part 6A of the Registered Designs Act 2000(https://sso.agc.gov.sg/Act/RDA2000?ProvIds=P16A*-#P16A*-){:target="_blank"}
+  -   Registered Designs (Border Enforcement measures) Rules 2022(https://sso.agc.gov.sg/SL/RDA2000-S814-2022?DocDate=20221021){:target="_blank"}
+  -   Registered Designs (Border Enforcement Measures – Fees) Rules 2022(https://sso.agc.gov.sg/SL/RDA2000-S815-2022?DocDate=20221021){:target="_blank"}
 
 
 ## Contact Us
