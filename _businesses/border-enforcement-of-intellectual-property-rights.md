@@ -79,12 +79,17 @@ The templates for the guarantee and letter of undertaking can be found below.
 
 | Forms |  Related Links |
 |---|---|
-| Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Link](https://go.gov.sg/grtt2022) |
-| 2 |  Letter of Undertaking under Trade Marks Act 1998 | [Word Doc](/files/businesses/letter-of-undertaking-under-trade-marks-act.docx) (17.9KB) |
-| 3 | Letter of Undertaking under Copyright Act 2021  | [Word Doc](/files/businesses/letter-of-undertaking-under-copyright-act.docx) (18.9KB) |
+| Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Link](https://go.gov.sg/grttnov22) |
+| Letter of Undertaking under the Trade Marks Act| [Link](https://go.gov.sg/loutmnov22) |
+| Letter of Undertaking under the Copyright Act | [Link](/files/businesses/letter-of-undertaking-under-copyright-act.docx) (18.9KB) |
+| Letter of Undertaking under Geographical Indications Act| [Link](https://go.gov.sg/louginov22) |
+| Letter of Undertaking under Registered Designs Act| [Link](https://go.gov.sg/lourdnov22) |
 
-### For more information on border enforcement measures under the Trade Marks Act 1998 and the Copyright Act 2021, please refer to the following:
+The fee of S$200 and security (if furnished in the form of deposit of money) shall be made via crossed cheque payable to "Singapore Customs" or bank transfer to Singapore Customs' bank account (DBS 001-028867-9).
 
+The required documents shall be submitted to Singapore Customs (attention: Operations Management Branch) at 55 Newton Road, #07-01, Revenue House, Singapore 307987.
+
+For more information on border enforcement measures under the Trade Marks Act 1998, Copyright Act 2021, Geographical Indications Act 2014 and Registered Designs Act 2000, please refer to the following:
   
   -   [Part 10 of the Trade Marks Act 1998](https://sso.agc.gov.sg/Act/TMA1998?ProvIds=pr81-,pr81A-,pr81B-,pr82-,pr83-,pr84-,pr85-,pr85A-,pr85B-,pr86-,pr87-,pr88-,pr89-,pr90-,pr91-,pr92-,pr93-,pr93A-,pr93B-,pr93C-,pr93D-,pr93E-,pr93F-,pr93G-,pr93H-,pr93I-,pr93J-,pr93K-,pr93L-,pr94-,pr95-,pr96-,pr97-,pr98-,pr99-,pr100-){:target="_blank"}
   -   [Trade Marks (Border Enforcement Measures) Rules](https://sso.agc.gov.sg/SL/TMA1998-R2?DocDate=20191112){:target="_blank"}
@@ -92,6 +97,13 @@ The templates for the guarantee and letter of undertaking can be found below.
   -   [Part 6 Division 3 of the Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021?ProvIds=pr329-,pr330-,pr331-,pr332-,pr333-,pr334-,pr335-,pr336-,pr337-,pr338-,pr339-,pr340-,pr341-,pr342-,pr343-,pr344-,pr345-,pr346-,pr347-,pr348-,pr349-,pr350-,pr351-,pr352-,pr353-,pr354-,pr355-,pr356-,pr357-,pr358-,pr359-,pr360-,pr361-,pr362-,pr363-,pr364-,pr365-,pr366-,pr367-,pr368-){:target="_blank"}
   -   [Part 5 Division 2 of the Copyright Regulations](https://sso.agc.gov.sg/SL/CA2021-S882-2021?DocDate=20211119&ProvIds=pr82-,pr83-,pr84-,pr85-,pr86-,pr87-,pr88-,pr89-){:target="_blank"}
   -   [Copyright (Border Enforcement Measures Fees) Regulations](https://sso.agc.gov.sg/SL/CA2021-S881-2021?DocDate=20211119){:target="_blank"}
+  -   [Part 6 of the Geographical Indications Act 2014](https://sso.agc.gov.sg/Act/GIA2014?ProvIds=P16-#P16-)
+  -   Geographical Indications (Border Enforcement Measures) Rules 2022
+  -   Geographical Indications (Border Enforcement Measures – Fees) Rules 2022
+  -   Part 6A of the Registered Designs Act 2000
+  -   Registered Designs (Border Enforcement measures) Rules 2022
+  -   Registered Designs (Border Enforcement Measures – Fees) Rules 2022
+
 
 ## Contact Us
 
