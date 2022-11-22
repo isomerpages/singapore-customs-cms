@@ -26,29 +26,43 @@ Once informed of the seizure, you will have to commence an action for infringeme
 
 ## Ex-officio Seizure
   
-Besides seizure on request, Singapore Customs may also seize copies or goods which are reasonably suspected to be copyright-infringing copies or counterfeit trademark goods that are imported into or to be exported from Singapore. Singapore Customs will inform the owner or exclusive licensee of the copyright or the proprietor or licensee of the registered trademark (“the right holder”) as soon as practicable after the seizure. If the right holder wants the Director-General to continue to detain the seized copies or goods in order to institute an infringement action, he must, within 48 hours after the date of the notice from the Director-General, give a written notice to the Director-General.  
-  
-The right holder has to institute an action for copyright or trademark infringement and notify the Director-General accordingly within 10 working days after the day specified in the notice to take action by the Director-General. The time limit for initiating infringement action may be extended by a further 10 working days upon request by the right holder.  
+Besides seizure on request, Singapore Customs may also seize copies or goods which are reasonably suspected to infringe a registered trademark, a copyright or a registered geographical indication, and that are imported into or to be exported from Singapore. Singapore Customs will inform the owner or exclusive licensee of the copyright or the proprietor or licensee of the registered trademark (“the right holder”), or the registrant of the registered geographical indication, as soon as practicable after the seizure. 
+
+The right holder (for trademark or copyright), or the registrant or any producer or trader of goods or any association of such producers or traders (for geographical indication), may then request the Director-General of Customs to continue to detain the  goods. To do so, they must
+
+a)  Provide written notice to Singapore Customs within 48 hours after the date of the notice of the seizure from Singapore Customs. Singapore Customs will respond as soon as practicable with a notice to take action
+
+b)  Subsequently, they must commence an action for infringement of the trademark, copyright or geographical indication and notify the Director-General of Customs accordingly within 10 working days after the date specified in the notice to take action. 
+
+The time limit for initiating infringement action may be extended by a further 10 working days upon request.
   
 ## Security Requirements 
   
-The requestor or right holder is required to furnish a security that is sufficient (a) to reimburse the Government for any liability or reasonable expense it is likely to incur in relation to the seizure, storage and disposal of the copies or goods, and (b) to pay such compensation as ordered by the court for loss suffered by the defendant if the infringement action is not taken or is dismissed or discontinued, or if the court decides there was no infringement.  
-  
-The security may be given to cover (a) the current shipment only, or (b) the current shipment and any future shipments to be seized by Singapore Customs (an "annual security"). An annual security can cover up to 5 outstanding shipments (i.e. shipments detained by Customs for which the civil proceedings have not been concluded). If at any time the Director-General of Customs is of the opinion that the security given is insufficient, the objector shall top up the security accordingly.
+In addition to the above, the right holder (for trademark or copyright), or the registrant or any producer or trader of goods or any association of such producers or traders (for geographical indication) must provide a security that is sufficient:
+
+a)  To reimburse the Government of Singapore for any liability or reasonable expense it is likely to incur in relation to the seizure, storage and disposal of the  goods; and
+
+b)  To pay such compensation as ordered by the court for loss suffered by the defendant if the infringement action is not taken or is dismissed or discontinued, or if the court decides there was no infringement. 
+
+The security may be given to cover (a) the current shipment only, or (b) the current shipment and any future shipments to be seized by Singapore Customs (an "annual security"). An annual security can cover up to 5 outstanding shipments (i.e. shipments detained by Singapore Customs for which the civil proceedings have not been concluded). If at any time the Director-General of Customs is of the opinion that the security given is insufficient, the person depositing the security shall top up the security accordingly.
 
 ## Procedure for Giving Notice 
   
- 1\. Complete the notice using the following template.
+To provide notice, please select and complete the appropriate form from the table below.
 
-  -   For Seizure on Request (Lodgement of Notice), the written notice should be given using Trade Marks Form 1 or Copyright Form 1.
-  -   Where the right holder has been notified by Customs that there has been Ex-officio Seizure of goods or copies, and the right holder wants the Director-General to continue to detain the seized goods or copies in order to institute an infringement action, the written notice should be given using Trade Marks Form 2 or Copyright Form 2.
+* For Seizure on Request (Lodgement of Notice), written notice should be given using Trade Marks Form 1, Copyright Form 1, Geographical Indications Form 1, or Registered Designs Form. 
+* Where the right holder or registrant has been notified by Singapore Customs that there has been Ex Officio Seizure of goods, and they wish for Singapore Customs to continue to detain the goods, written notice should be given using Trade Marks Form 2, Copyright Form 2, or Geographical Indications Form 2. 
 
-  | No. | Forms | Related Links |
-  |---|---|---|
-  | i | Trade Marks Form 1 - Seizure of Goods on Request | [Word Doc](https://go.gov.sg/tmf12022) |
-  | ii | Copyright Form 1 - Seizure of Copies on Request | [Word Doc](https://go.gov.sg/crf12021) |
-  | iii | Trade Marks Form 2 - Ex-officio Seizure of Goods | [Word Doc](https://go.gov.sg/tmf22022 ) |
-  | iv | Copyright Form 2 - Ex-officio Seizure of Copies | [Word Doc](https://go.gov.sg/crf22021) |
+
+  | Forms | Related Links |
+  |---|---|
+  | Trade Marks Form 1 – Seizure on Request | [Link](https://go.gov.sg/tmf1nov22) |
+  | Copyright Form 1 – Seizure on Request | [Link](https://go.gov.sg/crf12021) |
+	|Geographical Indications Form 1 – Seizure on Request|  [Link](https://go.gov.sg/gif1nov22) |
+	| Registered Designs Form – Seizure on Request| [Link](https://go.gov.sg/rdfnov22) |
+  | Trade Marks Form 2 – Ex-Officio Seizure | [Word Doc](https://go.gov.sg/tmf22022 ) |
+  | Copyright Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/crf22021) |
+	 | Geographical Indications Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/gif2nov22) |
 
 
  2\. The Notice shall be accompanied by:
