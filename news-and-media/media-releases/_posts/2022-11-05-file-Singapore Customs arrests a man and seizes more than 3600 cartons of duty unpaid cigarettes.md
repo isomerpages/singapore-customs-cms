@@ -1,6 +1,5 @@
 ---
-title: Singapore Customs arrests a man and seizes more than 3600 cartons of duty
-  unpaid cigarettes
+title: Singapore Customs arrests a man and seizes more than 3,600 cartons of duty-unpaid cigarettes
 date: 2022-11-05
 layout: file
 description: ""
