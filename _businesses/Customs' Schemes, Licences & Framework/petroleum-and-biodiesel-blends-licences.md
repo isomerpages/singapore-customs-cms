@@ -1,6 +1,6 @@
 ---
 title: Petroleum and Biodiesel Blends Licences
-permalink: /businesses/customs-schemes-licences-framework/petroleum-licences
+permalink: /businesses/customs-schemes-licences-framework/petroleum-licences/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Petroleum and Biodiesel Blends Licences
@@ -68,7 +68,7 @@ An annual licence fee is payable when the Petroleum and Biodiesel Blends Licence
 
 ## How to Apply?
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist).
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist.](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)
 
 **Step 2**: Prepare these supporting documents:
 
