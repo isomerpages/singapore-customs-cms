@@ -1,6 +1,6 @@
 ---
 title: Container Freight Warehouse Licence
-permalink: /businesses/customs-schemes-licences-framework/container-freight-warehouse
+permalink: /businesses/customs-schemes-licences-framework/container-freight-warehouse/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Container Freight Warehouse Licence
@@ -59,7 +59,7 @@ Find out more about [Fees for Supervision of Unstuffing](https://sso.agc.gov.sg/
 
 ## How to Apply
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist)
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist.](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)
 
 **Step 2**: Prepare these supporting documents:
 
