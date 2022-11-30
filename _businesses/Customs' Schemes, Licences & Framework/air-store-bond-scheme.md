@@ -1,6 +1,6 @@
 ---
 title: Air Store Bond Scheme
-permalink: /businesses/customs-schemes-licences-framework/air-store-bond-scheme
+permalink: /businesses/customs-schemes-licences-framework/air-store-bond-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Air Store Bond Scheme
@@ -64,7 +64,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 
 ## How to Apply?
 
-**Step 1:**  Complete the [TradeFIRST Self-Assessment Checklist.](https://go.gov.sg/tradefirstselfassessmentchecklist)
+**Step 1:**  Complete the [TradeFIRST Self-Assessment Checklist.](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)
 
 **Step 2:**  Prepare these supporting documents:
 

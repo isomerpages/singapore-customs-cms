@@ -1,6 +1,6 @@
 ---
 title: Licensed Warehouse Scheme
-permalink: /businesses/customs-schemes-licences-framework/licensed-warehouse-scheme
+permalink: /businesses/customs-schemes-licences-framework/licensed-warehouse-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
 accordion:
   - title: Do
@@ -107,7 +107,7 @@ Goods that are not fit for human consumption may be destroyed under Customs’ s
 
 ## How to Apply?
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist).
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist.](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)
 
 **Step 2**: Prepare these supporting documents:
 
