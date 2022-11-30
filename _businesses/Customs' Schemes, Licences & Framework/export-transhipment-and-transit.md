@@ -1,6 +1,6 @@
 ---
 title: "Strategic Trade Scheme Bulk Permit: Export, Transhipment and Transit"
-permalink: /businesses/customs-schemes-licences-framework/strategic-trade-scheme
+permalink: /businesses/customs-schemes-licences-framework/strategic-trade-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Strategic Trade Scheme Bulk Permit: Export, Transhipment and Transit
@@ -42,7 +42,7 @@ You may refer to Annex A of the  [STS Handbook](/files/businesses/SEB/STS%20Hand
 
 ## Applying for Bulk Permit
 
-You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/stsbulkpermitapplication-form) and submitting the form, [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
+You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/stsbulkpermitapplication-form) and submitting the form, [TradeFIRST Self-Assessment Checklist ](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022) and supporting documents via the contact details listed in the form to the Schemes & Engagement Branch.
 
 Once the application is received, an officer will be assigned as Singapore Customs’ contact point to the company for the assessment.
 
