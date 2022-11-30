@@ -1,6 +1,6 @@
 ---
 title: Bonded Truck Scheme
-permalink: /businesses/customs-schemes-licences-framework/bonded-truck-scheme
+permalink: /businesses/customs-schemes-licences-framework/bonded-truck-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Bonded Truck Scheme
@@ -43,7 +43,7 @@ To qualify for the BTS, the company must-
 
 ## How to Apply?
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist).
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist.](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)
 
 **Step 2**: Prepare these supporting documents:
 
