@@ -16,7 +16,7 @@ When you lodge the guarantee via the eGuarantee@Gov programme, you would not nee
 ***How to apply for eGuarantee*** <br>
 The template for the guarantee that you are required to lodge can be found on the [eGuarantee@Gov](http://www.eguarantee.gov.sg/) website. You may refer to the template S/N 11 titled, "CUSTOMS_REG".
 
-You are required to approach any of the participating financial institutions listed above and provide the following information below, which is to be read against the guarantee template:
+You are required to approach any of the participating financial institutions listed and provide the following information below, which is to be read against the guarantee template:
 
 |  |**Field Name**|**Value/Description**  |
 |--|--|--|
