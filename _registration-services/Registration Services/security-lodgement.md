@@ -17,10 +17,10 @@ Singapore Customs may also require security to be furnished for situations not m
 
 With effect from 1 Apr 2016, new security requirements will be imposed on liquor and tobacco products (see  [circular](/news-and-media/circulars/2016-01-15-Circular012016.pdf) for more information).
 
-
-|  |  | |  |
-|--|--|--|--|
-|  |[![Layered Enforcement](/images/new-traders-and-registration-services/SL1.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL2.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |         | 
+{:.mobile-block}
+|   |   |    |    |    | |
+|--|--|--|--|--|--|
+|   |    |[![Layered Enforcement](/images/new-traders-and-registration-services/SL1.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL2.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |   |    |
 
 ## Expired Security
 
