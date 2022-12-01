@@ -16,13 +16,13 @@ When you lodge the guarantee via the eGuarantee@Gov programme, you would not nee
 ***How to apply for eGuarantee*** <br>
 The template for the guarantee that you are required to lodge can be found on the [eGuarantee@Gov](http://www.eguarantee.gov.sg/) website. You may refer to the template S/N 11 titled, "CUSTOMS_REG".
 
-You are required to approach any of the participating financial institutions listed and provide the following information below, which is to be read against the guarantee template:
+You are required to approach any of the participating financial institutions listed [here](https://www.eguarantee.gov.sg/financial-institutions/) and provide the following information below, which is to be read against the guarantee template:
 
 |  |**Field Name**|**Value/Description**  |
 |--|--|--|
 |**1**|Guarantee Template Reference Code |Please indicate [CUSTOMS_REG]|
 |**2**|Case Reference no.|Please leave this field blank|
-|**3**|Beneficiary Name |Please indicate [Singapore Customs]|
+|**3**|Beneficiary Name |Please indicate [Customs]|
 |**4**|Applicant Name |This refers to the name of the business required to lodge a security by Singapore Customs. Please indicate your entity's official business name registered with ACRA|
 |**5**|Applicant reference no. |This refers to the official reference number of the business required to lodge a security with Singapore Customs. Please indicate your Entity's UEN no. e.g. 198812345A |
 |**6**|Currency code |Please indicate [SGD] |
@@ -31,6 +31,8 @@ You are required to approach any of the participating financial institutions lis
 |**9**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2022 <br>**Note: There will be a claim period of 90 days after the guarantee expiry date**.
 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
+
+Note: The Singapore Customs Electronic Banker’s Guarantee Programme (eBGP) had been replaced by the eGuarantee@Gov programme. For information on eBGP, you may refer to the eBGP site [here](https://safe.menlosecurity.com/https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/security-lodgement/electronic-bankers-guarantee-programme). 
 
 <i>**How to apply for hardcopy guarantees** </i><br>
 Download the [Security Application Form](https://go.gov.sg/customs-security-extension-template-ver3) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. 
