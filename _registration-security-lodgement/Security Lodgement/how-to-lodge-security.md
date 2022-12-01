@@ -3,7 +3,7 @@ title: How to Lodge Security
 permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security/
 third_nav_title: Security Lodgement
 ---
-# How to Lodge Guarantee 
+# How to Lodge Security 
 
 You can lodge the guarantee in the form of a Banker’s Guarantee, Finance Company Guarantee or an Insurance Bond.
 
