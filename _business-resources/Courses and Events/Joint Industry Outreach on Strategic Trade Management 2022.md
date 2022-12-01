@@ -70,7 +70,7 @@ All successful registrants will be notified via email and will receive an update
 * [Updates to the Export Administration Regulations (US BIS)](https://go.gov.sg/6hjivm)
 
 #### **Full Videos of the Seminar (4 parts videos)**
-* [Day 1 (PM)](https://www.youtube.com/watch?v=jDJyKCSB71Y&t=4986s)
+* [Day 1 (AM)](https://www.youtube.com/watch?v=jDJyKCSB71Y&t=4986s)
 * [Day 1 (PM)](https://www.youtube.com/watch?v=iJZtuXmF45k&t=3792s)
 * [Day 2 (AM)](https://www.youtube.com/watch?v=pmiR44YDtUE&t=4925s)
 * [Day 2 (PM)](https://www.youtube.com/watch?v=5DwA5fhqDGY)
