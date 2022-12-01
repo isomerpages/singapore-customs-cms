@@ -1,9 +1,8 @@
 ---
 title: Security Lodgement
-permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement
+permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/
 third_nav_title: Registration Services
 ---
-
 # Security Lodgement
 
 [Declaring Entities](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account), or their appointed  [Declaring Agents](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant), are required to furnish security for various scenarios, such as:
@@ -21,8 +20,7 @@ With effect from 1 Apr 2016, new security requirements will be imposed on liquor
 
 |  |  | |  |
 |--|--|--|--|
-|[![Layered Enforcement](/images/new-traders-and-registration-services/SL1.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL2.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |[![Layered Enforcement](/images/new-traders-and-registration-services/SL3.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Electronic-bankers-guarantee-programme) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL4.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Renew-extend-withdraw-security) |
-
+|[![Layered Enforcement](/images/new-traders-and-registration-services/SL1.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/Amount-of-security-required) | [![Layered Enforcement](/images/new-traders-and-registration-services/SL2.jpg)](/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |
 
 ## Expired Security
 
