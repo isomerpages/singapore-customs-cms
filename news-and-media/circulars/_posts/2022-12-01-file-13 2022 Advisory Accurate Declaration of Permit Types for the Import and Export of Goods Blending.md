@@ -1,6 +1,5 @@
 ---
-title: 13 2022 Advisory Accurate Declaration of Permit Types for the Import and
-  Export of Goods Blending
+title: 13/2022 Advisory - Accurate Declaration of Permit Types for the Import and Export of Goods; Blending Activities and Requirements; Flowmeter and Tank Truck Calibration
 date: 2022-12-01
 layout: file
 description: ""
