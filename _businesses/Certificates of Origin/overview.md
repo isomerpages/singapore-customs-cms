@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/certificates-of-origin/overview
+permalink: /businesses/certificates-of-origin/overview/
 third_nav_title: Certificates of Origin
 accordion:
   - title: Do
@@ -49,7 +49,7 @@ A preferential CO allows your buyer to pay lower or no customs duty when you exp
 
 These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
  
-- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook%20on%20PCO%20December%202021.pdf)
+- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Oct2022%20(clean).pdf)
     
 - [Handbook on the rules of origin for Schemes of Preference](/files/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf)
     
