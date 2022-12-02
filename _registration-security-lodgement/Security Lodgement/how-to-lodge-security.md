@@ -31,9 +31,7 @@ You are required to approach any of the participating financial institutions lis
 |**9**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2022 <br>**Note: There will be a claim period of 90 days after the guarantee expiry date**.
 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
-
-Note: The Singapore Customs Electronic Banker’s Guarantee Programme (eBGP) had been replaced by the eGuarantee@Gov programme. For information on eBGP, you may refer to the eBGP site [here](https://safe.menlosecurity.com/https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/security-lodgement/electronic-bankers-guarantee-programme). 
-
+ 
 <i>**How to apply for hardcopy guarantees** </i><br>
 Download the [Security Application Form](https://go.gov.sg/customs-security-extension-template-ver3) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. 
 
