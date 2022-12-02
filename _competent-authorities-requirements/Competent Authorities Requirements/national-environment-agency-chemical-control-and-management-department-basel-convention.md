@@ -70,12 +70,6 @@ CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention i
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export, import and transit of all non-hazardous wastes.**
 
-## Notes
-
-1. Please quote the  **Unique Reference No.**  on all supporting documents before faxing.
-2. The HS Codes and Product Codes for Hazardous Wastes are listed here.
-3. If the importer / exporter does not have the required Basel Export, Import or Transit permit, please contact CCMD officers at 67319377 for advice.
-
 ## Export and Import of Used Electrical & Electronic Equipments
 
 **1.**  Declarant must declare the following in the export or import permit application:<br>
