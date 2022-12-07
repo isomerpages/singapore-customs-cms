@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us
+permalink: /contact-us/
 description: ""
 ---
 # Get in touch with Singapore Customs
@@ -15,7 +15,7 @@ description: ""
 |**TradeNet**<br>+65 6887 7888 | **Checkpoints Division** <br>+65 6355 2183 <br>For queries and appeals pertaining to a Notice of Customs Offence by Singapore Customs Checkpoint Division.|
 | **Suppression & Community Engagement Branch** <br> [customs_special_investigation@customs.gov.sg](mailto:customs_special_investigation@customs.gov.sg)<br>For queries and appeals pertaining to a Notice of Customs Offence by Singapore Customs Suppression & Community Engagement Branch.| **Special Investigation Branch** <br> [customs_special_investigation@customs.gov.sg](mailto:customs_special_investigation@customs.gov.sg) <br>For queries and appeals pertaining to a Notice of Customs Offence by Singapore Customs Special Investigation Branch| 
 |**Report smuggling activities and/or evasion of duty/Goods and Services Tax (GST)**<br> 1800 233 0000| **Quality Service Manager**<br> +65 6355 2959 <br>For feedback regarding Quality Service | 
-|**Singapore Customs Academy**<br>[customs_academy@customs.gov.sg](mailto:customs_academy@customs.gov.sg)|**Report a Scam**<br> Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d) |
+|**Report a Scam**<br> Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d) |
 
 #### Send us your feedback <br>
 If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form](/feedback/).
