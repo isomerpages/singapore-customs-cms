@@ -1,6 +1,6 @@
 ---
 title: Permit and Registration Requirements
-permalink: /businesses/strategic-goods-control/permit-and-registration-requirements
+permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/
 third_nav_title: Strategic Goods Control
 ---
 # Permit and Registration Requirements
@@ -26,7 +26,7 @@ The permit procedures under the STS consist of:
 -   Pre-approvals (for a period determined by Singapore Customs) to be applied before the  **[export, re-export, or transhipment](/businesses/strategic-goods-control/permit-and-registration-requirements/bulk-permit-export-transhipment-and-intangible-transfer-of-technology){:target="_blank"}** **of strategic goods**, or the  **[transmission of strategic goods software or technology](/businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt){:target="_blank"}**.
 -   TradeNet permit to be declared before the cargo is lodged with the sea port operators or air cargo ground handling agents, or brought into Singapore for transhipment.
 
-For more information on STS, please refer to the [STS Handbook](/files/businesses/SEB/STS Handbook 2021.pdf).
+For more information on STS, please refer to the [Strategic Trade Scheme Handbook](/files/businesses/SEB/STS%20Handbook%20-%20May%202022%20.pdf).
 
 ## Brokering
 
