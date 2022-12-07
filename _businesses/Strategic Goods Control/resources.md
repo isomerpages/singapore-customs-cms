@@ -1,11 +1,11 @@
 ---
 title: Resources
-permalink: /businesses/strategic-goods-control/resources
+permalink: /businesses/strategic-goods-control/resources/
 third_nav_title: Strategic Goods Control
 ---
 # Resources
 
-**[Strategic Trade Scheme Handbook](/files/businesses/SEB/STS%20Handbook%202021.pdf)**
+**[Strategic Trade Scheme Handbook](/files/businesses/SEB/STS%20Handbook%20-%20May%202022%20.pdf)**
 
 This handbook is a walk-through guide on the application requirements for Individual and Bulk Permits. It also contains guidelines on implementing an effective internal compliance programme, as well as frequently asked questions on the trading of strategic goods.
 
