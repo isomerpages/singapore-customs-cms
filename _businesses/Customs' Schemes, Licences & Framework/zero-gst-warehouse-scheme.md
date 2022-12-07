@@ -25,7 +25,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the [Zero-GST Warehouse Scheme Handbook ](/files/businesses/SEB/Zero-GST%20Warehouse%20Scheme%20Handbook%20(May%202022%20ver).pdf) (Chapter 2.10).
+A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the [Zero-GST Warehouse Scheme Handbook ](/files/businesses/SEB/Zero-GST%20Warehouse%20Scheme%20Handbook%20-%20Nov%202022.pdf) (Chapter 2.10).
 
 ## How to Qualify?
 
