@@ -1,5 +1,5 @@
 ---
-title: National Parks Board/Animal Veterinary Service (Animal)
+title: National Parks Board/Animal & Veterinary Service (Animal)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/AVS-Animals/
 third_nav_title: Competent Authorities Requirements
 ---
