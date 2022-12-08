@@ -82,8 +82,8 @@ Please remember to upload the relevant supporting documents required by the CAs 
 
 -   [NParks (CITES)](/businesses/national-single-window/tradenet/competent-authorities-requirements/Nparks-Cites)
 -   [NParks (Plant Health)](/businesses/national-single-window/tradenet/competent-authorities-requirements/Nparks-PlantHealth)
--   [NParks Animal Veterinary Service (Animal)](/businesses/national-single-window/tradenet/competent-authorities-requirements/AVS-Animals)
--   [NParks Animal Veterinary Service (Ornamental Fish)](/businesses/national-single-window/tradenet/competent-authorities-requirements/AVS-Fish)
+-   [NParks/Animal & Veterinary Service (Animal)](/businesses/national-single-window/tradenet/competent-authorities-requirements/AVS-Animals)
+-   [NParks/Animal & Veterinary Service (Ornamental Fish)](/businesses/national-single-window/tradenet/competent-authorities-requirements/AVS-Fish)
 
 **11)  [Singapore Civil Defence Force (SCDF)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SCDF)**
 
