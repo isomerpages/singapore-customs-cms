@@ -7,7 +7,7 @@ third_nav_title: International Connectivity
 # About Container Track and Trace Service
 The Container Track and Trace service enables users of the Networked Trade Platform (NTP) to see at a glance where their container shipments are. NTP users can see the key milestone events of their container shipment’s journey including customs clearance, load and discharge statuses of their container shipments between Singapore and China. 
 
-This service is expected to be launched by end December 2022. All you need is an NTP account and the container number you wish to track. 
+All you need is an NTP account and the container number you wish to track. 
 
 In the current phase, this service is available for shipments between Singapore and Yangshan Port in Shanghai, and Qinzhou Port in Guangxi, China.
 
