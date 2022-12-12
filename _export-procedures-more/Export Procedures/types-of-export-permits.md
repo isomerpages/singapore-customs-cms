@@ -24,7 +24,7 @@ You may:
 -   Appoint a  [declaring agent](/businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents)  to obtain customs permits on your behalf; or
 -   [Register as a declaring agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)  and  [apply for a TradeNet user ID](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet) to obtain customs permits for your own shipments or on behalf of your clients
 
-Please click [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees) for more information on permits, documentation and other fees. Declaring agents may charge additional service fees. You may wish to check with your appointed declaring agent on the charges involved. 
+Please click [Permits, Documentation and Other Fees ](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees/) for more information on permits, documentation and other fees. Declaring agents may charge additional service fees. You may wish to check with your appointed declaring agent on the charges involved. 
 
 ## TradeNet Unavailability
 
