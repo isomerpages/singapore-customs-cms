@@ -78,7 +78,7 @@ All permit applications must be submitted via TradeNet. They will be accessible 
 
 For permit applications involving strategic goods, please indicate “Strategic Trade Scheme (STS)” under the Customs Procedure Code (CPC) field.
 
-Please refer to [Permits, Documentation and Other Fees](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees/) for more information on permits, documentation and other fees. While you may charge service fees for obtaining permits on your client’s behalf, you should clearly indicate the permit application cost and segregate this cost from your fees.
+Please refer to [Permits, Documentation and Other Fees](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees/) for more information. While you may charge service fees for obtaining permits on your client’s behalf, you should clearly indicate the permit application cost and segregate this cost from your fees.
 
 ***
 
