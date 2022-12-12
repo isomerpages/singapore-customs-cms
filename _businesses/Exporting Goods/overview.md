@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/exporting-goods/overview
+permalink: /businesses/exporting-goods/overview/
 third_nav_title: Exporting Goods
 ---
 # Quick Guide for Exporters
@@ -49,7 +49,7 @@ All permit applications must be submitted electronically via TradeNet, which is 
 -   TradeNet front-end solution from any  [approved solution provider](/businesses/national-single-window/overview/TradeNet-Solution-Providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}.
 
-Each permit application typically costs S$2.88. If you are engaging a declaring agent, you may wish to check with your appointed agent on the charges involved in obtaining a permit.
+Please click [Permits, Documentation and Other Fees ](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees/) for more information on permits, documentation and other fees. Declaring agents may charge additional service fees. You may wish to check with your appointed declaring agent on the charges involved.
 
 ## Step 4: Prepare Documents for Cargo Clearance 
 Approved permits are issued with a validity period. You should ensure the validity of the permit presented for goods clearance.

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/importing-goods/overview
+permalink: /businesses/importing-goods/overview/
 third_nav_title: Importing Goods
 ---
 # Quick Guide for Importers
@@ -77,7 +77,7 @@ All permit applications must be submitted via TradeNet, which is accessible thro
 -   TradeNet front-end software from an  [approved software vendor;](/businesses/national-single-window/overview/TradeNet-Solution-Providers) or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}.
 
-Each permit application typically costs S$2.88. This does not include service fees charged by service providers such as freight forwarders, Declaring Agents etc. If you are engaging a Declaring Agent for assistance to submit the permit application, you may wish to check the amount of service fees that they charge.
+Please click [Permits, Documentation and Other Fees](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees/) for more information on permits, documentation and other fees. Declaring agents may charge additional service fees. You may wish to check with your appointed declaring agent on the charges involved.
 
 ## Step 6: Prepare Documents for Cargo Clearance
 Approved permits applications are issued with a validity period. You should ensure the validity of the permit presented for goods clearance. For imports of containerised cargo, the container number and shipper seal number are required when applying for a permit.
