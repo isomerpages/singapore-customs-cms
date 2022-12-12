@@ -20,4 +20,4 @@ All permit applications must be submitted via TradeNet, accessible through:
 -   TradeNet front-end solution purchased from any [approved solution provider](/businesses/national-single-window/overview/tradenet-solution-providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}.
 
-Please click [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees) for more information on permits, documentation and other fees.  Declaring agents may charge additional service fees. You may wish to check with your appointed declaring agent on the charges involved.
+Please click [Permits, Documentation and Other Fees](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees/) for more information on permits, documentation and other fees.  Declaring agents may charge additional service fees. You may wish to check with your appointed declaring agent on the charges involved.
