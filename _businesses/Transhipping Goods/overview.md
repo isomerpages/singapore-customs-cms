@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/transhipping-goods/quick-guide-on-transhipping-goods
+permalink: /businesses/transhipping-goods/quick-guide-on-transhipping-goods/
 third_nav_title: Transhipping Goods
 ---
 # Quick Guide on Transhipping Goods
@@ -78,7 +78,7 @@ All permit applications must be submitted via TradeNet. They will be accessible 
 
 For permit applications involving strategic goods, please indicate “Strategic Trade Scheme (STS)” under the Customs Procedure Code (CPC) field.
 
-Each permit application typically costs S$2.88. While you may charge service fees for obtaining permits on your client's behalf, you should clearly indicate the permit application cost of S$2.88 and segregate this costs from your fees.
+Please click [here](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees) for more information on permits, documentation and other fees. While you may charge service fees for obtaining permits on your client’s behalf, you should clearly indicate the permit application cost and segregate this cost from your fees.
 
 ***
 
