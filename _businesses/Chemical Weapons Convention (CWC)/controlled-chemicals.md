@@ -1,6 +1,6 @@
 ---
 title: Controlled Chemicals
-permalink: /businesses/chemical-weapons-convention/controlled-chemicals
+permalink: /businesses/chemical-weapons-convention/controlled-chemicals/
 third_nav_title: Chemical Weapons Convention (CWC)
 accordion:
   - title: Unscheduled Discrete Organic Chemicals (DOCs)
@@ -81,7 +81,7 @@ See full list of scheduled chemicals [here](/files/businesses/Guide_to_NACWC_Lic
     <div>
        <p>Please refer to the <a href="https://www.customs.gov.sg/files/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf" target="new"> list of scheduled chemicals</a> to check if your product is controlled by the NA(CWC).</p>
      <p>You may also check using the description of the goods, Harmonized System (HS) code or Competent Authority (CA) product code on this <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" target="new">search engine</a>. If the HS code is subject to control, the name of the CA and the chemical(s) that the CA controls will be indicated. You may check directly with the respective CAs on their licensing requirements.</p>
-       <p>If you require further assistance to determine if your product is controlled, please fill out the Product Enquiry Form from the link on the <a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links" target="new">NA(CWC) website</a>, and attach the relevant supporting documents (such as Safety Data Sheet and Certificate of Analysis).</p>
+       <p>If you require further assistance to determine if your product is controlled, please fill out the Product Enquiry Form under “Chemical Weapons Convention Forms” on the <a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links" target="new">Customs Forms & Service Links</a> page, and attach the relevant supporting documents (such as Safety Data Sheet and Certificate of Analysis).</p>
 <p>The following information are required when filling out the form</p>
 <p>- Particulars of applicant<br>
 - Activities involved<br>
