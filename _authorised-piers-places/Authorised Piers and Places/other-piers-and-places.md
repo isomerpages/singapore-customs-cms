@@ -1,9 +1,8 @@
 ---
 title: Other Piers and Places
-permalink: /businesses/exporting-goods/export-procedures/authorised-piers-places/other-piers-and-places
+permalink: /businesses/exporting-goods/export-procedures/authorised-piers-places/other-piers-and-places/
 third_nav_title: Authorised Piers and Places
 ---
-
 ## Other Piers and Places
 
 In addition, certain cargo may be allowed to be imported/exported via private waterfront locations on a one-time basis, subject to Customs' approval, provided that the following criteria are met:
@@ -17,7 +16,7 @@ To import or export goods that meet the above criteria on a one-time basis, the 
 |  | **Import** | **Export** |
 |--|--|--|
 | Place of Release Code | PTE | O |
-| Place of Release Name/Address | - | Name of Company and address of waterfront location |
+| Place of Release Name/Address | Name and address of private waterfront location | Name of Company and address of waterfront location |
 | Place of Receipt Code | O | PTE |
-| Place of Receipt Name/Address | Name of Company and address of waterfront location | - |
+| Place of Receipt Name/Address | Name of Company and address of waterfront location | Name and address of private waterfront location |
 | Trader's Remarks | Application Reference Number of MPA's approval letter for the intended import/export activity | Application Reference Number of MPA's approval letter for the intended import/export activity |
