@@ -1,5 +1,5 @@
 ---
-title: 112022 Implementation of Overseas Vendor Registration (OVR) Regime
+title: 11/2022 Implementation of Overseas Vendor Registration (OVR) Regime
 date: 2022-10-21
 layout: file
 description: ""
