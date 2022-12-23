@@ -1,9 +1,11 @@
 ---
-title: 12/2022 Implementation of revised GST rate of 8%
+title: 12/2022 Implementation of Revised GST Rate of 8%
 date: 2022-11-04
 layout: file
 description: ""
 image: ""
-file_url: /files/Circular_12_2022 (Ver 1).pdf
+file_url: /files/Circular_12_2022 (Ver 2).pdf
 ---
+
+
 
