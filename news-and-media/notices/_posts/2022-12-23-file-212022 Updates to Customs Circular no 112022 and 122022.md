@@ -1,5 +1,5 @@
 ---
-title: 212022 Updates to Customs Circular no 112022 and 122022
+title: 21/2022 Updates to Customs Circular no. 11/2022 and 12/2022
 date: 2022-12-23
 layout: file
 description: ""
