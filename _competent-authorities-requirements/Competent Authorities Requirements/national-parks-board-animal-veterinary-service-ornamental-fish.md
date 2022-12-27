@@ -11,7 +11,7 @@ Please follow the steps below for the import and export of ornamental fish:
 
 -   Obtain a valid Licence to Import or Export Live Fish before the import or export of ornamental fish. You may refer to the [Ornamental fish (nparks.gov.sg)](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish){:target="_blank"} for more details.
 -   Submit the permit application to NParks/AVS (Ornamental Fish) for approval via TradeNet before the import and export with the following supporting documents:
-     - The invoices or packing lists with the HS Code, Product Code, Common Name, Scientific Name, Quantity, Country of Origin, and Total Value of the Consignment)
+     - The invoices or packing lists with the HS Code, Product Code, Common Name, Scientific Name, Quantity, Country of Origin, and Total Value of the Consignment
      - Import Health Certificates, where applicable
      - CITES Certificates, where applicable, for endangered species (e.g. Asian Arowana)
   
