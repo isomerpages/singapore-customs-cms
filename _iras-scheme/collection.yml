@@ -2,6 +2,7 @@ collections:
   iras-scheme:
     output: true
     order:
+      - IRAS Scheme/Example Title.md
       - IRAS Scheme/.keep
       - IRAS Scheme/major-exporter-scheme.md
       - IRAS Scheme/approved-import-gst-suspension-scheme.md
