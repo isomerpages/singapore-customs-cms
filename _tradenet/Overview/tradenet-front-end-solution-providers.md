@@ -1,6 +1,6 @@
 ---
 title: TradeNet Front-End Solution Providers
-permalink: /businesses/national-single-window/overview/TradeNet-Solution-Providers
+permalink: /businesses/national-single-window/overview/TradeNet-Solution-Providers/
 third_nav_title: Overview
 ---
 # TradeNet Front-end Solution Providers
@@ -77,9 +77,7 @@ Tel: (65) 6887 7888
 Fax: (65) 6778 5277  
 Email: [customeradmin@crimsonlogic.com.sg](mailto:customeradmin@crimsonlogic.com.sg)
 
-For new users, you may wish to register as a TradeNet declaring agent with the TradeNet administrator.  
-  
-This solution is free for existing TradeNet declaring agents. Please register with the TradeNet administrator and allow up to 3 working days for activation.
+The  [Government Front-end Application](https://www.tradenet.gov.sg/tradenet/login.jsp) is free for registered Declaring Agents.
 
 ***
 
