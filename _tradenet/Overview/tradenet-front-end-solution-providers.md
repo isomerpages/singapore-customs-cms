@@ -11,8 +11,7 @@ This table shows the front-end solution providers for TradeNet
 
 **BluJay Solutions Pte Ltd**
 
-Tel : (65) 6491 3999  
-Fax : (65) 6491 3998  
+Tel : (65) 6491 3999    
 Email:  [support.apac@blujaysolutions.com](mailto:support.apac@blujaysolutions.com)
 
 
