@@ -77,7 +77,7 @@ Tel: (65) 6887 7888
 Fax: (65) 6778 5277  
 Email: [customeradmin@crimsonlogic.com.sg](mailto:customeradmin@crimsonlogic.com.sg)
 
-The  [Government Front-end Application](https://www.tradenet.gov.sg/tradenet/login.jsp) is free for registered Declaring Agents.
+The  [Government Front-end Application](https://www.tradenet.gov.sg/tradenet/login.jsp) {:target="_blank"} is free for registered Declaring Agents.
 
 ***
 
