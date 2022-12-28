@@ -13,26 +13,21 @@ From 1 Jan 2023, GST will be extended to low-value goods (LVG) imported via air 
 ## **Definition of low-value goods**
 LVG are goods which at the point of sale:  
 
-a)	are not dutiable goods, or are dutiable goods, but payment of the customs duty or excise duty chargeable on the goods is waived under section 11 of the Customs Act;
-
-b)	are not exempt from GST;
-
-c)	are located outside Singapore and are to be delivered to Singapore via air or post; and
-
-d)	have a value not exceeding the GST import relief threshold of S$400.
+a) are not dutiable goods, or are dutiable goods, but payment of the customs duty or excise duty chargeable on the goods is waived under section 11 of the Customs Act;</br>
+b) are not exempt from GST;</br>
+c) are located outside Singapore and are to be delivered to Singapore via air or post; and </br>
+d) have a value not exceeding the GST import relief threshold of S$400.
 
 **Charging of GST for overseas suppliers**
 
 The OVR vendors will be required to collect GST at the point of sale on supplies of LVG to:
 
-a)	Non-GST registered customers; and
-
+a)	Non-GST registered customers; and</br>
 b)	GST-registered businesses purchasing for non-business use.
 
 The OVR vendors will be required to pass down the following information down the logistics chain so that the relevant GST information will be made available for import permit application:
 
-a)	Whether GST has been paid for each item; and
-
+a)	Whether GST has been paid for each item; and</br>
 b)	GST registration number (GSTN) of the OVR Vendor
 
 **Customs permit requirements**
