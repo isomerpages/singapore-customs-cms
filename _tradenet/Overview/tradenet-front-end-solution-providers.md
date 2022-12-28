@@ -11,8 +11,8 @@ This table shows the front-end solution providers for TradeNet
 
 **BluJay Solutions Pte Ltd**
 
-Tel : (65) 6491 3999    
-Email:  [support.apac@blujaysolutions.com](mailto:support.apac@blujaysolutions.com)
+Tel : (65) 6715 1833    
+Email:  [support.apac@e2open.com](mailto:support.apac@e2open.com)
 
 
 **Cargo Community Network Pte Ltd**
