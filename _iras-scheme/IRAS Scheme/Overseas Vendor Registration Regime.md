@@ -25,12 +25,14 @@ d) have a value not exceeding the GST import relief threshold of S$400.
 
 The OVR vendors will be required to collect GST at the point of sale on supplies of LVG to:
 
-a)	Non-GST registered customers; and</br>
+a)	Non-GST registered customers; and
+
 b)	GST-registered businesses purchasing for non-business use.
 
 The OVR vendors will be required to pass down the following information down the logistics chain so that the relevant GST information will be made available for import permit application:
 
-a)	Whether GST has been paid for each item; and</br>
+a)	Whether GST has been paid for each item; and
+
 b)	GST registration number (GSTN) of the OVR Vendor
 
 **Customs permit requirements**
