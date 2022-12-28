@@ -6,9 +6,9 @@ third_nav_title: IRAS Scheme
 ---
 ## **What is it?**
 
-The Overseas Vendor Registration (OVR) Regime is administered by the Inland Revenue Authority of Singapore (IRAS).
+The Overseas Vendor Registration (OVR) Regime is administered by the [Inland Revenue Authority of Singapore (IRAS)](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-and-digital-economy/gst-on-imports-of-low-value-goods).
 
-From 1 Jan 2023, GST will be extended to low-value- goods (LVG) imported via air or post through the Registration OVR regime. The change will ensure a level playing field for our local businesses to compete. The change also ensures that our GST system remains fair and resilient as the digital economy grows.
+From 1 Jan 2023, GST will be extended to low-value goods (LVG) imported via air or post through the OVR regime. The change will ensure a level playing field for our local businesses to compete. The change also ensures that our GST system remains fair and resilient as the digital economy grows.
 
 ## **Definition of low-value goods**
 LVG are goods which at the point of sale:  
