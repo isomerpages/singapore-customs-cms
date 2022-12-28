@@ -11,6 +11,8 @@ GST relief is granted on goods imported by post or air, excluding intoxicating l
 
 From 1 July 2020. all tobacco products imported into Singapore by Singapore Post must comply with Singapore's Standardised Packaging (SP) specifications. Non-SP-compliant tobacco products cannot be imported into Singapore and will be returned to country of origin. For more information, you may refer to <a href="https://www.hsa.gov.sg/tobacco-regulation/overview">Health Sciences Authority</a> (HSA)'s website.
 
+From 1 Jan 2023, GST will be extended to goods imported via air or post that are valued up to (and including) the current GST import relief threshold of S$400, through the Overseas Vendor Registration regime. The change will ensure a level playing field for our local businesses to compete effectively. The change also ensures that our GST system remains fair and resilient as the digital economy grows. Please see Overseas Vendor Registration Regime for more information.
+
 ## Things to Note for International Parcels Delivered by Post or Courier Service
 
 **Determining the total CIF value**
