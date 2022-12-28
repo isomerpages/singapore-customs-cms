@@ -9,6 +9,8 @@ TradeFIRST stands for Trade Facilitation & Integrated Risk-based System. It is a
 
 The assessment is free and it is mandatory for all companies who wish to apply for a Singapore Customs scheme or licence.
 
+Participation in [ASEAN Customs Declaration Document (ACDD)](https://www.customs.gov.sg/businesses/international-connectivity/acdd/) and [ASEAN Customs Transit System (ACTS)](https://www.customs.gov.sg/businesses/asean-customs-transit-system/overview) would be awarded additional points under the TradeFIRST assessmenet from 01 Jan 2023 onwards. Please refer to the TradeFIRST checklist "B. Participation in ASW" for more information.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y0kFDuH6COA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Benefits of TradeFIRST
