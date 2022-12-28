@@ -46,4 +46,10 @@ Refer to the Procedures for Postal Parcels and Procedures for Courier Parcels fo
 
 Please note the following details when obtaining the import permits for the OVR regime:
 
-* For import of LVG consignments with total CIF value exceeding S$400 (e.g. 3 x S$150 LVG)
+For import of LVG consignments with total CIF value exceeding S$400 (e.g. 3 x S$150 LVG)
+
+* Message Type = In-Non Payment (INP)
+* Declaration Type = APS (Approved Premises/Schemes)
+* Place of Receipt Code = OVR
+* CA/SC Product Code = OVR
+* CA/SC Code 1	= GSTN of the OVR Vendor (e.g. XXXXXXXXXXX)
