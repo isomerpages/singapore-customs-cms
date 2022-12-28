@@ -1,6 +1,6 @@
 ---
 title: Procedures for Postal Parcels
-permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/procedures-for-pp
+permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/procedures-for-pp/
 third_nav_title: Importing by Post or Courier Service
 ---
 # Procedures for Postal Parcels
@@ -23,6 +23,8 @@ From 1 November 2021, recipients of items sent from overseas will be required to
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit |
 | Non-Dutiable, Controlled goods imported by taxable persons under IRAS' [MES](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}| < or = S$400  | No | No | Yes, if required by CA, **In-Non-Payment (**Approved Premises/Schemes**)** permit|
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit | 
+| Non-Dutiable, Non-Controlled goods supplied by an Overseas Vendor Registration (OVR) vendor |< or = S$400  | Yes Collection by OVR vendor | No | No|
+|  | >S$400 (e.g. 3 x S$150 LVG)| Yes Collection by OVR vendor | No | No| 
 
 To facilitate clearance, the importer should arrange with the overseas sender to attach the invoice or confirmation slip (with the value of goods indicated) or Postal Convention Note (with the value of goods indicated) to the exterior of the postal parcel for the computation of GST and/or duty payable.
 
