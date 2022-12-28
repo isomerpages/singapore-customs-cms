@@ -4,7 +4,6 @@ permalink: /businesses/customs-schemes-licences-framework/iras-schemes/overseas-
 description: ""
 third_nav_title: IRAS Scheme
 ---
-
 ## **What is it?**
 
 The Overseas Vendor Registration (OVR) Regime is administered by the Inland Revenue Authority of Singapore (IRAS).
