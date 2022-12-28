@@ -29,7 +29,8 @@ The goods must be covered by relevant import permits and supporting documents su
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit | 
 | Non-Dutiable, Non-Controlled goods supplied by an Overseas Vendor Registration (OVR) vendor | < or = S$400 (Delivery by air freight only) | Yes Collection by OVR vendor | No | No 
 | |  < or = S$400 (Delivery by land/sea freight) | Yes Collection by OVR vendor | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** | 
-| | ss
+| |  >S$400 (e.g. 3 x S$150 LVG) | Yes Collection by OVR vendor | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** |
+| Non-Dutiable, Controlled goods supplied by an OVR vendor | < or = S$400 (Delivery by air freight only) | Yes Collection by OVR vendor | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** |
 
 
 You may wish to clarify with your courier service provider on the mode of delivery for your parcel(s) if it is not agreed upon in the terms of service.
