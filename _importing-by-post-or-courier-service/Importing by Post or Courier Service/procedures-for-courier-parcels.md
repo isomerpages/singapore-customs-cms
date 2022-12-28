@@ -27,6 +27,9 @@ The goods must be covered by relevant import permits and supporting documents su
 | Non-Dutiable, Controlled goods imported by taxable persons under IRAS' [MES](https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/){:target="_blank"}| < or = S$400 <br> (Delivery by air freight only)| No | No | Yes,**In-Non-Payment (Approved Premises/Schemes)** permit |
 |  | < or = S$400 <br> (Delivery by land/sea freight only) | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit | 
 |  | >S$400 | Suspended | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** permit | 
-| 
+| Non-Dutiable, Non-Controlled goods supplied by an Overseas Vendor Registration (OVR) vendor | < or = S$400 (Delivery by air freight only) | Yes Collection by OVR vendor | No | No 
+| |  < or = S$400 (Delivery by land/sea freight) | Yes Collection by OVR vendor | No | Yes, **In-Non-Payment (Approved Premises/Schemes)** |
+
+
 
 You may wish to clarify with your courier service provider on the mode of delivery for your parcel(s) if it is not agreed upon in the terms of service.
