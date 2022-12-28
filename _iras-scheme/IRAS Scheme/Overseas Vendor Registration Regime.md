@@ -34,3 +34,16 @@ The OVR vendors will be required to pass down the following information down the
 a)	Whether GST has been paid for each item; and
 
 b)	GST registration number (GSTN) of the OVR Vendor
+
+**Customs permit requirements**
+
+Currently, import GST relief is granted on goods imported by air, excluding intoxicating liquors and tobacco, of a total value (on a cost, insurance and freight (CIF) basis) not exceeding S$400.
+
+There is no change to the import procedure and permit requirements for goods imported via air after 1 Jan 2023. As long as the total CIF value of the consignment does not exceed S$400, an import permit is not required to account for the importation of the LVG if they are non-controlled (excluding intoxicating liquors and tobacco).
+However, the relevant import permit is required if any of the goods are controlled by any Competent Authorities (CAs).
+
+Refer to the Procedures for Postal Parcels and Procedures for Courier Parcels for the import procedures for goods supplied by OVR vendors.
+
+Please note the following details when obtaining the import permits for the OVR regime:
+
+* For import of LVG consignments with total CIF value exceeding S$400 (e.g. 3 x S$150 LVG)
