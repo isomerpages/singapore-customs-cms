@@ -34,7 +34,7 @@ From 1 Jan 2023, GST will be extended to LVG imported via air or post through th
 
 In the event that you had paid GST twice on the same goods (i.e. GST was charged on the sale of goods by the OVR Vendor and importation of goods was subjected to GST payment again at the border), you should seek the reimbursement of GST refund from the OVR vendor by providing evidence to substantiate that import GST was paid to Singapore Customs. 
 
-For more information on this, you may refer to IRAS webpage on GST on Imported Low-Value Goods: http://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods > FAQs > D. Others 
+For more information on this, you may refer to IRAS webpage on GST on Imported Low-Value Goods: [http://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods](http://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods) > FAQs > D. Others 
 
 If the OVR vendor has refused to reimburse the GST, as a last resort, you may approach your transporter (e.g Declaring agent of the TradeNet Permit, courier service company, SingPost) to submit a refund application with the following supporting document to Singapore Customs for assessment:
 
