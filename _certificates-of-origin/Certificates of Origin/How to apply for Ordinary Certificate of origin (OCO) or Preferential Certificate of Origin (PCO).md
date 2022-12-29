@@ -25,7 +25,7 @@ You may update the company’s contact details or Authorised Person, [via the on
     
 After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
-The submission should be made using the latest [Manufacturing Cost Statement template](https://go.gov.sg/coststatementupdated). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
+The submission should be made using the latest [Manufacturing Cost Statement template](https://go.gov.sg/coststatementlatestupdate). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
     
 The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     

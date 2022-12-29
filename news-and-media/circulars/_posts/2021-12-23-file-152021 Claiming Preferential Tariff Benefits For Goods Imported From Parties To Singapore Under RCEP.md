@@ -1,10 +1,10 @@
 ---
-title: 15/2021 Claiming Preferential Tariff Benefits For Goods Imported From
-  Parties To Singapore Under RCEP
+title: 15/2021 Claiming Preferential Tariff Benefits For Goods Imported From Parties To Singapore Under RCEP
 date: 2021-12-23
 layout: file
 description: ""
-file_url: /files/2021-12-23 Circular152021(Ver2).pdf
+image: ""
+file_url: /files/news-and-media/Circular 15_2021 - Implementation of RCEP
+  (Import) (Ver 3).pdf
 ---
-
 
