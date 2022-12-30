@@ -24,7 +24,7 @@ To qualify for the Consolidated Declaration Scheme, the company must:
 -   At all times maintain visibility, control and accountability over the movement of shipments from end to end that are undertaken by the company and/or its appointed business partners(s)/agent(s), even if the company out-sourced any of its operations
 -   Able to segregate all targeted and non-targeted goods
 -   Attained ICA's support
--   Have undergone  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first)  assessment and meet all the mandatory criteria while achieving the “Premium” Band 
+-   Have undergone  [TradeFIRST](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first/) assessment and meet all the mandatory criteria while achieving the “Premium” Band 
 
 
 ## Key Responsibilities
@@ -50,7 +50,7 @@ To qualify for the Consolidated Declaration Scheme, the company must:
 
 ## How to Apply?
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/documents/businesses/SEB/TradeFIRST%20Self%20Assessment%20Checklist%201Jul2021.xlsx).
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)
 
 **Step 2**: Prepare these supporting documents:
 
