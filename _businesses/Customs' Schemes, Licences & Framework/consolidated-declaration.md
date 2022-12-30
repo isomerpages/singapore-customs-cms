@@ -26,25 +26,6 @@ To qualify for the Consolidated Declaration Scheme, the company must:
 -   Attained ICA's support
 -   Have undergone  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first)  assessment and meet all the mandatory criteria while achieving the “Premium” Band 
 
-## How to Apply?
-
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/documents/businesses/SEB/TradeFIRST%20Self%20Assessment%20Checklist%201Jul2021.xlsx).
-
-**Step 2**: Prepare these supporting documents:
-
-*   Accounting and Corporate Regulatory Authority BizFile Report
-*   Audited financial statements for the past three years
-*   One copy of layout plan(s) of the intended Consolidated Declaration scheme premise(s). Please indicate at the intended premises, the entry/exit points and security features such as closed-circuit televisions and alarm systems in the layout plan(s)
-*   Title deed or tenancy agreement
-*   Other relevant documents
-
-**Step 3**: Write to [customs\_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg), and attach the checklist and supporting documents.
-
-Singapore Customs reserves the right to impose a Banker’s Guarantee or insurance bond, if required.
-
-Once your application is received, we will contact you to follow up with your application.
-
-For further assistance, please email [customs\_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
 ## Key Responsibilities
 
@@ -66,6 +47,26 @@ For further assistance, please email [customs\_schemes@customs.gov.sg](mailto:c
 *   Ensure adequate security measures in the approved Consolidated Declaration scheme premise(s)
 *   Ensure all entrances and exits are secured when there is no movement of dutiable/GST goods at the approved Consolidated Declaration scheme premise(s)
 *   Obtain prior approval from Singapore Customs for any structural alteration to the Consolidated Declaration scheme premise(s)
+
+## How to Apply?
+
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://www.customs.gov.sg/documents/businesses/SEB/TradeFIRST%20Self%20Assessment%20Checklist%201Jul2021.xlsx).
+
+**Step 2**: Prepare these supporting documents:
+
+*   Accounting and Corporate Regulatory Authority BizFile Report
+*   Audited financial statements for the past three years
+*   One copy of layout plan(s) of the intended Consolidated Declaration scheme premise(s). Please indicate at the intended premises, the entry/exit points and security features such as closed-circuit televisions and alarm systems in the layout plan(s)
+*   Title deed or tenancy agreement
+*   Other relevant documents
+
+**Step 3**: Write to [customs\_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg), and attach the checklist and supporting documents.
+
+Singapore Customs reserves the right to impose a Banker’s Guarantee or insurance bond, if required.
+
+Once your application is received, we will contact you to follow up with your application.
+
+For further assistance, please email [customs\_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg).
 
 ## Frequently Asked Questions (FAQs)
 
