@@ -11,7 +11,7 @@ The Consolidated Declaration scheme is a facilitation designed for qualified air
 
 ## How to Qualify?
 
-To qualify for the Consolidated Declaration Scheme, the company must:
+To qualify for the Consolidated Declaration scheme, the company must:
 
 -   Provide door-to-door time definite integrated delivery
 -   Be equipped with global track-and trace capabilities
