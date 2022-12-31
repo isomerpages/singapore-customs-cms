@@ -50,9 +50,9 @@ PSA International Pte Ltd
 First Deputy Chairman  
 SAAA@Singapore
 
-**Mr Samuel Lee**<br>
-General Manager<br>
-DHL Aviation (Hong Kong) Limited<br>
+**Mr Chris Charlton**<br>
+Vice President, Customs Brokerage APAC<br>
+Middle East & Africa, UPS Singapore<br>
 
 **Mr Shamir Rahim**  
 Chief Executive Officer  
