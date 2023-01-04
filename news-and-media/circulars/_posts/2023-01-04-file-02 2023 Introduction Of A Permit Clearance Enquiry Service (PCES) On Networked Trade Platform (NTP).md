@@ -1,5 +1,5 @@
 ---
-title: 02/2023 Introduction of a Permit Clearance Enquiry Service (PCES) On Networked Trade Platform (NTP)
+title: 02/2023 Introduction of a Permit Clearance Enquiry Service (PCES) on Networked Trade Platform (NTP)
 date: 2023-01-04
 layout: file
 description: ""
