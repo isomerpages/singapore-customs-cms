@@ -1,6 +1,5 @@
 ---
-title: Singapore Customs arrests three men and seizes more than 4000 cartons of
-  duty unpaid cigarettes
+title: Singapore Customs arrests three men and seizes more than 4,000 cartons of duty-unpaid cigarettes
 date: 2023-01-04
 layout: file
 description: ""
