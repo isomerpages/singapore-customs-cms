@@ -1,9 +1,8 @@
 ---
-title: Intangible Transfer of Technology (ITT) 
-permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt
+title: Intangible Transfer of Technology (ITT)
+permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt/
 third_nav_title: Permit and Registration Requirements
 ---
-
 # Intangible Transfer of Technology (ITT)
 
 The intangible transfer of technology (ITT) is the electronic transmission of controlled strategic goods technology in Singapore such as email or fax, or the act of making the controlled strategic goods technology available in Singapore on a computer or server, so that it becomes accessible to a person in a foreign country.
@@ -11,7 +10,7 @@ The intangible transfer of technology (ITT) is the electronic transmission of co
 You should obtain an ITT permit if you are transmitting:
 
 -   Any strategic goods software or technology; or
--   Any software/technology under the  [“catch-all” provision](/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit).
+-   Any software/technology under the  ["catch-all" provision](/individual-permit-export-transhipment-and-transit). 
 
 ## Applying for an ITT Individual Permit
 
