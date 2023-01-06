@@ -1,6 +1,6 @@
 ---
 title: Approved Wine Event
-permalink: /businesses/importing-goods/temporary-import-scheme-2/approved-wine-event
+permalink: /businesses/importing-goods/temporary-import-scheme-2/approved-wine-event/
 third_nav_title: For more information
 ---
 # Approved Wine Event
@@ -9,7 +9,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
 
 ## Qualifying Criteria
     
-   -   The wine imports must be used at events approved under the [Business Events in Singapore (BEiS) scheme](https://www.visitsingapore.com/mice/en/plan-your-event/event-assistance-schemes/beis/overview/){:target="_blank"} administered by the Singapore Tourism Board.
+-   The wine imports must be used at events approved under the [Business Events in Singapore (BEiS) scheme](https://www.visitsingapore.com/mice/en/plan-your-event/event-assistance-schemes/beis/overview/){:target="_blank"} administered by the Singapore Tourism Board.
 
 -   The wine imports must be used for sampling purposes only.
 
