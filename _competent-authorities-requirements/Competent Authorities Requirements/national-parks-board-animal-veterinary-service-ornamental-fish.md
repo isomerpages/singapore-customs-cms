@@ -15,7 +15,7 @@ third_nav_title: Competent Authorities Requirements
      - Import Health Certificates, where applicable
      - CITES Certificates, where applicable, for endangered species (e.g. Asian Arowana)
   
-When applying for the import and export permit, please declare full information in the following fields:
+3) When applying for the import and export permit, please declare full information in the following fields:
 
 -   CA Licence Number field
 -   Description of goods field:
@@ -28,7 +28,7 @@ When applying for the import and export permit, please declare full information 
     - The Premises Code of Importer must be declared in the CA/SC Code 1 field  
     - The Import Health Certificate Number must be indicated in the CA/SC Code 2 field, where applicable
 
-3) Please obtain written approval from NParks/AVS prior to the import of genetically-modified fish or transgenic fish. 
+Please obtain written approval from NParks/AVS prior to the import of genetically-modified fish or transgenic fish. 
 
 Please comply with all conditions stated in the Cargo Clearance Permit (CCP).
 
