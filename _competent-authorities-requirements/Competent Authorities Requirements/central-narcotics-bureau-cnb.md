@@ -7,7 +7,7 @@ third_nav_title: Competent Authorities Requirements
 
 With effect from 5 Sep 1999, any person who intends to import, export or tranship any controlled substances (as defined in the Misuse of Drugs Act 1973) shall declare through the TradeNet or to CNB for approval 14 days before effective date of import, export or transhipment.
 
-The declaration to CNB shall be submitted through the [Permit Administration and ConTROL (PATROL) System](https://www.cnb.gov.sg/drug-information/precursor-control/patrol){:target="blank"} , a web-based online licence application system. Upon CNB’s licence approval, you have to submit an application through TradeNet to obtain a customs permit before you import, export or tranship the controlled substances.With effect from 5 Sep 1999, any person who intends to import, export or tranship any controlled substances shall declare through TradeNet or to CNB for approval 14 days before the effective date of import, export or transhipment.
+The declaration to CNB shall be submitted through the [Permit Administration and ConTROL (PATROL) System](https://www.cnb.gov.sg/drug-information/precursor-control/patrol){:target="blank"}, a web-based online licence application system. Upon CNB’s licence approval, you have to submit an application through TradeNet to obtain a customs permit before you import, export or tranship the controlled substances.With effect from 5 Sep 1999, any person who intends to import, export or tranship any controlled substances shall declare through TradeNet or to CNB for approval 14 days before the effective date of import, export or transhipment.
 
 ## Applying via PATROL
 
@@ -28,7 +28,7 @@ Please ensure that you have already applied for and obtained a customs permit th
 
 Poppy seeds are classified as  a controlled import under the Regulation of Imports and Exports Regulations, with the Director, CNB (‘the Director’) as the competent authority regulating the import of this item. This means that an approval is required from the Director for the import into Singapore of poppy seeds.
 
-Any company or person who wishes to import poppy seeds or any food products that contain poppy seeds or both (regardless of the amount or purpose) must submit the Inward Declaration Form (download) together with a certificate from the exporting country or the country of origin of the poppy seeds.
+Any company or person who wishes to import poppy seeds or any food products that contain poppy seeds or both (regardless of the amount or purpose) must submit the Inward Declaration Form [download](https://www.cnb.gov.sg/drug-information/precursor-control/list-of-controlled-substance/importation-of-food-products-containing-poppy-seeds){:target="blank"} together with a certificate from the exporting country or the country of origin of the poppy seeds.
 
 You must send a sample of the seeds or food product or both to the Health Sciences Authority (‘HSA’) located at 11 Outram Road, Singapore 169078 for analysis. 
 
