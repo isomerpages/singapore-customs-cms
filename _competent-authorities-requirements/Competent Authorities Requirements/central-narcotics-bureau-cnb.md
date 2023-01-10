@@ -1,38 +1,39 @@
 ---
 title: Central Narcotics Bureau (CNB)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/CNB
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/CNB/
 third_nav_title: Competent Authorities Requirements
 ---
+## Import, Export or Transhipment of Controlled Substances
 
+With effect from 5 Sep 1999, any person who intends to import, export or tranship any controlled substances (as defined in the Misuse of Drugs Act 1973) shall declare through the TradeNet or to CNB for approval 14 days before effective date of import, export or transhipment.
 
-# Central Narcotics Bureau (CNB)
+The declaration to CNB shall be submitted through the [Permit Administration and ConTROL (PATROL) System](https://www.cnb.gov.sg/drug-information/precursor-control/patrol){:target="blank"}, a web-based online licence application system. Upon CNB’s licence approval, you have to submit an application through TradeNet to obtain a customs permit before you import, export or tranship the controlled substances.With effect from 5 Sep 1999, any person who intends to import, export or tranship any controlled substances shall declare through TradeNet or to CNB for approval 14 days before the effective date of import, export or transhipment.
 
-With effect from 5 Sep 1999, any person who intends to import, export or tranship any controlled substances shall declare through TradeNet or to CNB for approval 14 days before the effective date of import, export or transhipment.
+## Applying via PATROL
 
-With effect from 26 May 2008, the declarations to CNB shall be submitted through the  [PATROL (Permit Administration and Control) System](https://www.cnb.gov.sg/drug-information/precursor-control/patrol){:target="_blank"}, a web-based online permit application system. With the roll-out of PATROL, the manual process of permit applications via faxes has been ceased on 23 May 2008. Subsequently, you must ensure that you take up the permit application through TradeNet when CNB approves your on-line declaration.
+When submitting your licence application through the PATROL System, you must provide all relevant supporting documents such as sale agreement, invoice and purchase order for CNB can assess your application properly. Any missing documents will result in the delay of the processing of your application. Other documents such as shipping documents and Bill of Lading may also be included if they are available.
 
-Upon online approval, CNB will issue you a CNB Licence No. where you should declare it in the "Licence No." field of the permit application when declaring through TradeNet.
+Once your application is approved, you will be issued with an e-licence that contains a unique CNB Licence Number. You may retrieve this e-licence from the online portal. You will need to cite the CNB Licence Number in the “CA Licence Number” field of the permit application submitted through TradeNet.
 
-When you prepare your permit applications through TradeNet, you are advised to take note and provide information of the following fields:
+## Information required to complete the permit application on TradeNet
 
-1.  Licence No. - if you have obtained the CNB Licence No, you must declare this No. in the "Licence No." field.
-2.  Description of Goods - you must declare the correct HS code and complete description of the chemical name for the substances that you are going to trade in.
-3.  Description of packaging - you must declare the packaging clearly under the "Remarks" field. E.g. 100 drums of 225 kg each.
-4.  Purpose and usage of goods - you must declare the purpose and usage clearly in the "Remarks" field.
-5.  Approval date of permit application - you must ensure that you obtain a customs permit through TradeNet before the controlled substances arrive in/depart from/tranship at Singapore. Your application may be delayed or rejected if you do not comply with CNB's requirements.
-6.  Supplier's name - you must declare the supplier's name in the "Supplier Name" field for imports.
-7.  Consignee's name - you must declare the consignee' s name in this field for exports.
-
-When submitting your permit application through PATROL System, you have to attach all relevant supporting documents, such as sale agreement, invoice and purchase order to CNB in the system. All other documents such as shipping documents and Bill of Lading are also be attached to the permit application as and when they are available.
+Please ensure that you have already applied for and obtained a customs permit through TradeNet before the controlled substances arrive in/depart from/tranship through Singapore. When applying for the customs permit, you are advised to take note and provide the relevant information of the fields listed below. Do note that your application may be delayed or rejected if the information is incomplete.
+1. CA Licence Number field – declare the CNB Licence Number in this field. 
+2. Goods Description field – provide the full chemical name of each substance. 
+3. Remarks field – state the description of the packaging (e.g. 100 drums of 225 kg each), and the purpose and usage of the goods.
+4. Supplier/Manufacturer Name field - declare the  name of supplier/manufacturer for import permit applications.
+5. Consignee Name field – declare the consignee’s name for export permit applications.
 
 ## Importation of Food Products Containing Poppy Seeds
 
-Poppy seeds are classified as prohibited goods by the Central Narcotics Bureau (CNB). Any company or person who wishes to import them or any foodstuff that contain the substance (regardless of the amount or purpose) must submit the Inward Declaration Form which can also be downloaded from  [here](https://www.cnb.gov.sg/drug-information/precursor-control/list-of-controlled-substance/importation-of-food-products-containing-poppy-seeds){:target="_blank"} together with a certificate from the exporting country or the country of origin of the poppy seeds.
+Poppy seeds are classified as  a controlled import under the Regulation of Imports and Exports Regulations, with the Director, CNB (‘the Director’) as the competent authority regulating the import of this item. This means that an approval is required from the Director for the import into Singapore of poppy seeds.
 
-The importer must send a sample of the seeds or related product to the Health Sciences Authority located at 11 Outram Road, Singapore 169078 for analysis.
+Any company or person who wishes to import poppy seeds or any food products that contain poppy seeds or both (regardless of the amount or purpose) must submit the Inward Declaration Form ([download](https://www.cnb.gov.sg/drug-information/precursor-control/list-of-controlled-substance/importation-of-food-products-containing-poppy-seeds){:target="blank"}) together with a certificate from the exporting country or the country of origin of the poppy seeds.
 
-If the sample is in the form of seeds, it is to be sent to the Division Director, Illicit Drugs Division, Applied Sciences Group, Health Sciences Authority (HSA) (Attn: Dr Angeline Yap).
+You must send a sample of the seeds or food product or both to the Health Sciences Authority (‘HSA’) located at 11 Outram Road, Singapore 169078 for analysis. 
 
-If the sample is in the form of food products, it is to be sent to the Division Director, Food Safety Division, Applied Sciences Group, HSA (Attn: Ms Joanne Chan).
+* If the sample is in the form of seeds, it is to be sent to the Division Director, Illicit Drugs Division, Applied Sciences Group, Health Sciences Authority (HSA). 
+ 
+* If the sample is in the form of food products, it is to be sent to the Division Director, Analytical Toxicology Division (ATL-CFT), Applied Sciences Group, HSA. 
 
-The HSA report must be submitted to the Central Narcotics Bureau (CNB). In the event HSA certifies that the poppy seeds are cleared of any controlled substances, ie no traces of morphine detected, CNB will endorse and approve the Inward Declaration Form. With the endorsement by CNB, Singapore Customs will allow the poppy seeds to be imported into Singapore. If the poppy seeds are found to contain traces of controlled substances, the approval for importation will not be given.
+Your application to the CNB will be pending the submission of the HSA report. Once you have received the report, please forward it to CNB so that your application can be reviewed. If HSA certifies that the poppy seeds or food products containing poppy seeds are cleared of any controlled drugs, e.g. no traces of morphine detected, CNB will endorse and approve the Inward Declaration Form. With the endorsement by CNB, the poppy seeds or food products containing poppy seeds will be allowed for import into Singapore. If the poppy seeds or food products containing poppy seeds are found to contain any controlled drug, the import application will be rejected.
