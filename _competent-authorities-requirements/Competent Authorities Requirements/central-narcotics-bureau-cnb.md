@@ -7,17 +7,17 @@ third_nav_title: Competent Authorities Requirements
 
 With effect from 5 Sep 1999, any person who intends to import, export or tranship any controlled substances (as defined in the Misuse of Drugs Act 1973) shall declare through the TradeNet or to CNB for approval 14 days before effective date of import, export or transhipment.
 
-The declaration to CNB shall be submitted through the [Permit Administration and ConTROL (PATROL) System](https://www.cnb.gov.sg/drug-information/precursor-control/patrol){:target="blank"}, a web-based online licence application system. Upon CNB’s licence approval, you have to submit an application through TradeNet to obtain a customs permit before you import, export or tranship the controlled substances.With effect from 5 Sep 1999, any person who intends to import, export or tranship any controlled substances shall declare through TradeNet or to CNB for approval 14 days before the effective date of import, export or transhipment.
+The declaration to CNB shall be submitted through the [Permit Administration and ConTROL (PATROL) System](https://www.cnb.gov.sg/drug-information/precursor-control/patrol){:target="blank"}, a web-based online licence application system. Upon CNB’s licence approval, you have to submit an application through TradeNet to obtain a customs permit before you import, export or tranship the controlled substances.
 
 ## Applying via PATROL
 
-When submitting your licence application through the PATROL System, you must provide all relevant supporting documents such as sale agreement, invoice and purchase order for CNB can assess your application properly. Any missing documents will result in the delay of the processing of your application. Other documents such as shipping documents and Bill of Lading may also be included if they are available.
+When submitting your licence application through the PATROL System, you must provide all relevant supporting documents such as sale agreement, invoice and purchase order for CNB to assess your application properly. Any missing documents will result in the delay of the processing of your application. Other documents such as shipping documents and Bill of Lading may also be included if they are available.
 
 Once your application is approved, you will be issued with an e-licence that contains a unique CNB Licence Number. You may retrieve this e-licence from the online portal. You will need to cite the CNB Licence Number in the “CA Licence Number” field of the permit application submitted through TradeNet.
 
 ## Information required to complete the permit application on TradeNet
 
-Please ensure that you have already applied for and obtained a customs permit through TradeNet before the controlled substances arrive in/depart from/tranship through Singapore. When applying for the customs permit, you are advised to take note and provide the relevant information of the fields listed below. Do note that your application may be delayed or rejected if the information is incomplete.
+Please ensure that you have already applied for and obtained a customs permit through TradeNet before the controlled substances arrive in/depart from/tranship through Singapore. When applying for the customs permit, you are advised to take note and provide the relevant information in the fields listed below. Do note that your application may be delayed or rejected if the information is incomplete.
 1. CA Licence Number field – declare the CNB Licence Number in this field. 
 2. Goods Description field – provide the full chemical name of each substance. 
 3. Remarks field – state the description of the packaging (e.g. 100 drums of 225 kg each), and the purpose and usage of the goods.
