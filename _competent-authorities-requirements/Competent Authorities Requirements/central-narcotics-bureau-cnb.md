@@ -28,7 +28,7 @@ Please ensure that you have already applied for and obtained a customs permit th
 
 Poppy seeds are classified as  a controlled import under the Regulation of Imports and Exports Regulations, with the Director, CNB (‘the Director’) as the competent authority regulating the import of this item. This means that an approval is required from the Director for the import into Singapore of poppy seeds.
 
-Any company or person who wishes to import poppy seeds or any food products that contain poppy seeds or both (regardless of the amount or purpose) must submit the Inward Declaration Form [download](https://www.cnb.gov.sg/drug-information/precursor-control/list-of-controlled-substance/importation-of-food-products-containing-poppy-seeds){:target="blank"} together with a certificate from the exporting country or the country of origin of the poppy seeds.
+Any company or person who wishes to import poppy seeds or any food products that contain poppy seeds or both (regardless of the amount or purpose) must submit the Inward Declaration Form ([download](https://www.cnb.gov.sg/drug-information/precursor-control/list-of-controlled-substance/importation-of-food-products-containing-poppy-seeds){:target="blank"}) together with a certificate from the exporting country or the country of origin of the poppy seeds.
 
 You must send a sample of the seeds or food product or both to the Health Sciences Authority (‘HSA’) located at 11 Outram Road, Singapore 169078 for analysis. 
 
