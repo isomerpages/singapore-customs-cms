@@ -7,9 +7,11 @@ description: ""
 
 
 #### Contact Us
-{:.mobile-block}
+
 #### Send us your feedback 
 If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form](/feedback/).<br>
+
+{:.mobile-block}
 | | | 
 | -------- | -------- | 
 | **Enquiries on Customs Procedures**<br> +65 6355 2000 <br>Our operating hours are 8am to 6pm (Monday to Friday) and 8am to 12pm (Saturday). We are closed on Sunday and public holidays. <br><br>Our peak hours are 10am to 12pm, and 3pm to 5pm. You are encouraged to engage with us via live-chat. Otherwise, you may also leave a call-back request and our agents will attempt to get back to you within 20 minutes. <br><br>|**Networked Trade Platform (NTP)** <br> +65 6570 3053* <br>Our operating hours are 8:30am to 6pm (Monday to Friday). We are closed on weekends and public holidays. <br><br>*For enquiries on NTP or assistance with technical issues. Alternatively, you may reach us via <a href="https://www.ntp.gov.sg/public/helpdesk/singapore-customs">email</a>.| 
