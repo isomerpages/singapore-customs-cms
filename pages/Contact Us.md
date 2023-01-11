@@ -20,8 +20,6 @@ If you have a query, feedback or wish to report a problem related to this websit
 |**Report smuggling activities and/or evasion of duty/Goods and Services Tax (GST)**<br> 1800 233 0000| **Quality Service Manager**<br> +65 6355 2959 <br>For feedback regarding Quality Service | 
 |**Report a Scam**<br> Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d) |
 
-#### Send us your feedback <br>
-If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form](/feedback/).
 
 #### Our locations <br>
 
