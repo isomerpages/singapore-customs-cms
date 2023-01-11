@@ -1,7 +1,7 @@
 ---
 layout: contact_us
 title: Contact Us
-permalink: /contact-us/
+permalink: /contact-us-not-in-use/
 agency_name: Singapore Customs
 locations:
   - title: Main Office
