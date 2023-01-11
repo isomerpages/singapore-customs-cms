@@ -1,12 +1,15 @@
 ---
 title: Contact Us
-permalink: /contact-us
+permalink: /contact-us/
 description: ""
 ---
 # Get in touch with Singapore Customs
 
 
 #### Contact Us
+
+#### Send us your feedback 
+If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form](/feedback/).<br>
 
 {:.mobile-block}
 | | | 
