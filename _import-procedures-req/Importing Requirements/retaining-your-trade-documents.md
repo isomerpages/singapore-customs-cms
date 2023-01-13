@@ -24,7 +24,7 @@ These documents must be produced to Singapore Customs upon request or as part of
 |  |  |
 |--|--|
 | **A5** | Upon request by Singapore Customs, this permit must be submitted to Permits Compliance Unit by the date reflected in the request. |
-| **Z02** | Approved by Singapore Customs. Pursuant to Section 30 of the Regulations of Imports and Exports Act, this permit must be submitted with invoices and bill of lading/air waybill to Permits Compliance Branch within 48 hrs from permit approval via the NTP Government Services (Customs eServices).|
+| **Z02** | Approved by Singapore Customs. Pursuant to Section 30 of the Regulations of Imports and Exports Act, this permit must be submitted with invoices and bill of lading/air waybill to Permits Compliance Branch within 48 hrs from permit approval via the NTP Government Services (Customs eServices > Voluntary Disclosures, Statements and Document Submissions > Return of Supporting Documents for Selected Permits).|
 | **Z18** | Approved by Singapore Customs. Pursuant to Section 30 of the Regulations of Imports and Exports Act, this permit must be submitted with invoices and bill of lading/air waybill to Permits Compliance Branch within 48 hrs from permit approval via the NTP Government Services (Customs eServices > Voluntary Disclosures, Statements and Document Submissions > Return of Supporting Documents for Selected Permits). Please be reminded that you are required to comply with the relevant Competent Authority's requirements.|
 
 You may also store images of the documents without retaining the physical copy. Please read the  [guidelines](/files/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf)  for storing images of trade documents.
