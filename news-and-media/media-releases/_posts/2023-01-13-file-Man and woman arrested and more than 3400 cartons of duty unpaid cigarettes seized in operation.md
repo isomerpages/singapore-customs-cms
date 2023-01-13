@@ -1,6 +1,5 @@
 ---
-title: Man and woman arrested and more than 3400 cartons of duty unpaid
-  cigarettes seized in operation
+title: Man and woman arrested and more than 3,400 cartons of duty-unpaid cigarettes seized in operation
 date: 2023-01-13
 layout: file
 description: ""
