@@ -9,7 +9,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
 
 ## Qualifying Criteria
     
--   The wine imports must be used at events approved under the [Business Events in Singapore (BEiS) scheme](https://www.visitsingapore.com/mice/en/plan-your-event/event-assistance-schemes/beis/overview/){:target="_blank"} administered by the Singapore Tourism Board.
+-   The wine imports must be used at wine business tradeshows and conferences supported by the Singapore Tourism Board (STB).
 
 -   The wine imports must be used for sampling purposes only.
 
@@ -55,7 +55,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
     -   Brief description of event
     -   Date and duration of event
     -   Location of event
--   Singapore Tourism Board’s letter of support under the [Business Events in Singapore (BEiS) scheme](https://www.visitsingapore.com/mice/en/plan-your-event/event-assistance-schemes/beis/overview/){:target="_blank"}
+-   Confirmation from the STB that your wine tradeshow or conference is supported by STB
 -   List of exhibitors that will import approved wines with exhibition booth number
 -   Exhibition site map
 
