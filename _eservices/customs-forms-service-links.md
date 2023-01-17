@@ -36,32 +36,25 @@ permalink: /eservices/customs-forms-and-service-links/
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Product Enquiry | [Web Link](https://form.gov.sg/#!/5f0422019e6a4a0011e5fdd9)|
-| 2. | Update of Licensee Contact Information | [Web Link](https://form.gov.sg/#!/5f042661fefd4e0011922a7d)|
+| 1. | Product Enquiry | [Web Link](https://form.gov.sg/633a2c0848e7ff00120ffcfe)|
+| 2. |  Licence Application Cover Form/Update of Licensee Contact Information | [Web Link](https://form.gov.sg/633a2c6d3de7ce001269f228)|
 | 3. | End-User Certificate | [Word Doc](https://www.customs.gov.sg/files/eservices/End_User_Certificate.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/End_User_Certificate.pdf)|
 | 4. | Advanced Notifications on Transfer of Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.pdf)|
 | 5. | Licence Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.pdf)|
-| 6. | Licence Application Cover Form for Schedule 2, Schedule 3 and Unscheduled Discrete Organic Chemical | [Web Link](https://form.gov.sg/#!/5f041f934de73d00110857dd)|
+| 6. | Licence Application Form (New/Renewal) | [Web Link](https://form.gov.sg/633a2cb587dd270012296b77)|
 | 7. | FORM A.1 - Licence Application for Activities Involving Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.pdf)|
-| 8. | FORM A.2 - Licence Application for Activities involving Schedule 2 Chemical | [Web Link](https://form.gov.sg/#!/5f04228b4de73d0011085cb9)
-| 9. | FORM A.3 - Licence Application for Activities involving Schedule 3 Chemical | [Web Link](https://form.gov.sg/#!/5f04230dfefd4e00119224d0)
-| 10. | FORM A.4 - Licence Application for Production of Unscheduled Discrete Organic Chemicals | [Web Link](https://form.gov.sg/#!/5f04240bdba1d90011bd56c5)
-| 11. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.pdf)|
-| 12. | Licence Amendment Application Cover Form for Schedule 2, Schedule 3 and Unscheduled Discrete Organic Chemical | [Web Link](https://form.gov.sg/#!/5f041fad4de73d0011085830)
-| 13. | FORM B.1 - Addition of New Chemical and/or Addition of New Activity for Schedule 1 Chemical |  [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.pdf)|
-| 14. | FORM B.2 - Addition of New Chemical and/or Addition of New Activity for Schedule 2 Chemical | [Web Link](https://form.gov.sg/#!/5f0424669e6a4a0011e6011d)
-| 15. | FORM B.3 - Addition of New Chemical and/or Addition of New Activity for Schedule 3 Chemical | [Web Link](https://form.gov.sg/#!/5f0424ccfefd4e00119227f1)
-| 16. | FORM B.4 - Addition of New Chemical and/or Addition of New Activity for Unscheduled Discrete Organic Chemical | [Web Link](https://form.gov.sg/#!/5f0425129e6a4a0011e60299)
-| 17. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 2, 3 and/or Unscheduled Discrete Organic Chemical | [Web Link](https://form.gov.sg/#!/5f042599dba1d90011bd59ae)
-| 18. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Increment-of-maximum-agregate.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Increment-of-maximum-agregate.pdf)|
-| 19. | Declaration Cover for Reporting Template (for ADAA/ ADPA/ ad-hoc) | [Word Doc](https://www.customs.gov.sg/files/eservices/Declaration_Cover_for_Reporting_Template.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Declaration_Cover_for_Reporting_Template.pdf)|
-| 20. | TEMPLATE C.1 - ADAA for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.pdf)|
-| 21. | TEMPLATE C.2 - ADAA for Schedule 2 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_C2_ADAA_for_S2_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_C2_ADAA_for_S2_Chemicals.pdf)|
-| 22. | TEMPLATE C.3 - ADAA for Schedule 3 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.pdf)|
-| 23. | TEMPLATE D.1 - ADPA for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D1_ADPA_for_S1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D1_ADPA_for_S1_Chemicals.pdf)|
-| 24. | TEMPLATE D.2 - ADPA for Schedule 2 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D2_ADPA_for_S2_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D2_ADPA_for_S2_Chemicals.pdf)|
-| 25. | TEMPLATE D.3 - ADPA for Schedule 3 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.pdf)|
-| 26. | TEMPLATE D.4 - ADPA Involving Unscheduled Discrete Organic Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.pdf)|
+| 8. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.pdf)|
+| 9. | Licence Application Form (Amendment) | [Web Link](https://form.gov.sg/633a2ceed0679a0012bf1dc2)
+| 10. | FORM B.1 - Addition of New Chemical and/or Addition of New Activity for Schedule 1 Chemical |  [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.pdf)|
+| 11. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Increment-of-maximum-agregate.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Increment-of-maximum-agregate.pdf)|
+| 12. | Declaration Cover for Reporting Template (for ADAA/ ADPA/ ad-hoc) | [Word Doc](https://www.customs.gov.sg/files/eservices/Declaration_Cover_for_Reporting_Template.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Declaration_Cover_for_Reporting_Template.pdf)|
+| 13. | TEMPLATE C.1 - ADAA for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.pdf)|
+| 14. | TEMPLATE C.2 - ADAA for Schedule 2 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_C2_ADAA_for_S2_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_C2_ADAA_for_S2_Chemicals.pdf)|
+| 15. | TEMPLATE C.3 - ADAA for Schedule 3 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.pdf)|
+| 16. | TEMPLATE D.1 - ADPA for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D1_ADPA_for_S1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D1_ADPA_for_S1_Chemicals.pdf)|
+| 17. | TEMPLATE D.2 - ADPA for Schedule 2 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D2_ADPA_for_S2_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D2_ADPA_for_S2_Chemicals.pdf)|
+| 18. | TEMPLATE D.3 - ADPA for Schedule 3 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.pdf)|
+| 19. | TEMPLATE D.4 - ADPA Involving Unscheduled Discrete Organic Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.pdf)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
