@@ -1,9 +1,8 @@
 ---
 title: Authorised Piers and Places
-permalink: /businesses/importing-goods/import-procedures/authorised-piers-places
+permalink: /businesses/importing-goods/import-procedures/authorised-piers-places/
 third_nav_title: Import Procedures
 ---
-
 # Authorised Piers and Places
 
 All goods imported into, exported from or transhipped via Singapore can only be moved through authorised piers and places, e.g. Free Trade Zones (FTZs), land checkpoints and other authorised piers and places. The landing of goods at any other location is prohibited.
@@ -21,6 +20,7 @@ All goods may be imported, exported or transhipped via the following Free Trade 
 -   Keppel Distripark
 -   Jurong Port
 -   Sembawang Wharves
+-   Tuas Port
 -   Changi Airport Cargo Terminal Complex
 -   Airport Logistics Park of Singapore
 
