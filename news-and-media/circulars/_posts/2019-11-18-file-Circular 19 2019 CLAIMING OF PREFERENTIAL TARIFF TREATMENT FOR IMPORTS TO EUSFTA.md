@@ -1,6 +1,5 @@
 ---
-title: Circular 19 2019 CLAIMING OF PREFERENTIAL TARIFF TREATMENT FOR IMPORTS TO
-  EUSFTA
+title: 19/2019 Claiming of Preferential Tariff Treatment for Imports To EUSFTA
 date: 2019-11-18
 layout: file
 description: ""
