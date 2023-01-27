@@ -65,3 +65,5 @@ A Bulk Permit holder must:
 -   Maintain records of strategic goods transactions for at least 5 years
 
 Please refer to Section 4.9 of the [STS Handbook](/files/businesses/SEB/STS%20Handbook%20-%20May%202022%20.pdf)
+
+*Local registered entities are required to take up their own Bulk Permit and the Bulk Permit shall not be transferred to any other person/company.
