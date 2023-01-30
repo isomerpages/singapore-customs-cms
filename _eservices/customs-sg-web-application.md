@@ -2,7 +2,7 @@
 title: Customs@SG Web Application
 permalink: /eservices/customs-sg-web-application/
 ---
-# Customs@SG
+#### The Customs@SG Web Application will be undergoing scheduled maintenance on 14 Feb 2023, from 2.30pm to 7.30pm. You will not be able to submit any declaration during this time. We apologise for any inconvenience caused.
 
 
 ## About Customs@SG
