@@ -1,6 +1,6 @@
 ---
 title: e-Learning
-permalink: /businesses/business-resources/elearning
+permalink: /businesses/business-resources/elearning/
 third_nav_title: Business Resources
 ---
 ## e-Learning Resources
@@ -86,6 +86,8 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 1. | Singapore Trade CLassification, Customs & Excise Duties | [PDF](https://go.gov.sg/stcced2022) |
 | 2. | Competent Authorities' Requirements for Controlled Items | [Web Link](/businesses/national-single-window/overview/competent-authorities-requirements) |
 | 3. | HSCA Product Code Search | [Web Link](/eservices/harmonized-system-competent-authority-product-code-search-engine) |
+|4. | Multiple Choice Questions (MCQs) | [PDF](https://go.gov.sg/hs-mcq) |
+|5. | Multiple Choice Questions (MCQs) Answers | [PDF](https://go.gov.sg/hs-mcq-answers) |
 
 
 #### [Module 5 - TradeNet Permit Application](https://www.youtube.com/watch?v=pyHaVVy6sLY){:target="_blank"} 
