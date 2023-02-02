@@ -76,8 +76,8 @@ permalink: /eservices/customs-forms-and-service-links/
 | 13. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4)|
 | 14. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)
 | 15. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://form.gov.sg/#!/5f7a6430482e1200114bad08)
-| 16. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec\_inter/index.jsp)|
-| 17. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec\_inter/index.jsp)|
+| 16. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp)|
+| 17. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp)|
 | 18. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP)|
 | 19. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
 
