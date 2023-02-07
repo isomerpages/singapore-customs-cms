@@ -1,6 +1,6 @@
 ---
 title: Importing Motor Vehicles Granted Duty Exemption and Boats Granted GST Relief
-permalink: /businesses/importing-goods/import-procedures/importing-duty-exempted-motor-vehicles-and-gst-exempted-boats
+permalink: /businesses/importing-goods/import-procedures/importing-duty-exempted-motor-vehicles-and-gst-exempted-boats/
 third_nav_title: Import Procedures
 accordion:
   - title: Duty-Exempted Motor Vehicles
@@ -90,7 +90,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 			<br>- Must be registered as off-road racing cars or motorcycles by the LTA; and	
 			<br>- Must not be disposed for use other than racing without approval from Singapore Custom
 <br><br>While excise duty is exempted, GST applies to the import of these selected motor vehicles. If the conditions of Singapore Customs or the Land Transport Authority are not met, the applicant would have to pay the excise duty in full.
-			<br><br>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/redirection.html">here</a> and <a href="https://www.lta.gov.sg/content/ltagov/en.html">here</a>.
+			<br><br>Go-karts, “pocket” motorcycles, powered kick scooters, mobility scooters, all-terrain vehicles (quad bikes), self-balancing cycles, and power-assisted (electric) bicycles meant for off-road use are non-dutiable and are subject to GST only. The importer must check with LTA prior to the importation of these vehicles, and comply with LTA’s regulations and registration requirements at <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home.html">here</a> and <a href="https://www.lta.gov.sg/content/ltagov/en.html">here</a>.
 		</div>
 			</li>
 	<li>
