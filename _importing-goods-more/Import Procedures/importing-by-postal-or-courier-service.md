@@ -13,6 +13,12 @@ From 1 July 2020. all tobacco products imported into Singapore by Singapore Post
 
 From 1 Jan 2023, GST will be extended to goods imported via air or post that are valued up to and including the current GST import relief threshold of S$400, through the Overseas Vendor Registration regime. The change will ensure a level playing field for our local businesses to compete effectively. The change also ensures that our GST system remains fair and resilient as the digital economy grows. Please see [Overseas Vendor Registration Regime](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/iras-schemes/overseas-vendor-registration-regime/) for more information.
 
+You may refer to the following IRAS’ webpage for more information:<br>
+
+1)	[Five questions you may have when shopping online]( https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes@iras/gst/5-questions-you-may-have-when-shopping-online)<br>
+2)	[GST on Imported Low-Value Goods]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods)<br>
+3)	[Consumers Importing Goods into Singapore]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/consumers-importing-goods-into-singapore)<br>
+
 ## Things to Note for International Parcels Delivered by Post or Courier Service
 
 **Determining the total CIF value**
@@ -23,11 +29,6 @@ Where the insurance and freight charges are excluded from the value of the goods
 
 If the importer did not pay for the freight/postage, e.g. seller provided free shipping, there is no need to add freight to the CIF value. During the permit application, the importer or Declaring Agent has to ensure that the value of goods declared is verifiable against the supporting documents submitted.
 
-You may refer to the following IRAS’ webpage for more information:<br>
-
-1)	[Five questions you may have when shopping online]( https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes@iras/gst/5-questions-you-may-have-when-shopping-online)<br>
-2)	[GST on Imported Low-Value Goods]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods)<br>
-3)	[Consumers Importing Goods into Singapore]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/consumers-importing-goods-into-singapore)<br>
 
 **Check for Controlled Goods**
 
