@@ -25,9 +25,9 @@ If the importer did not pay for the freight/postage, e.g. seller provided free s
 
 You may refer to the following IRAS’ webpage for more information:<br>
 
-1)	[Five questions you may have when shopping online]( https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes@iras/gst/5-questions-you-may-have-when-shopping-online)
-2)	[GST on Imported Low-Value Goods]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods) 
-3)	[Consumers Importing Goods into Singapore]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/consumers-importing-goods-into-singapore)
+1)	[Five questions you may have when shopping online]( https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes@iras/gst/5-questions-you-may-have-when-shopping-online)<br>
+2)	[GST on Imported Low-Value Goods]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods)<br>
+3)	[Consumers Importing Goods into Singapore]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/consumers-importing-goods-into-singapore)<br>
 
 **Check for Controlled Goods**
 
