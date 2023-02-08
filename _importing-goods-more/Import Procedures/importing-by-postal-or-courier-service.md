@@ -23,6 +23,13 @@ Where the insurance and freight charges are excluded from the value of the goods
 
 If the importer did not pay for the freight/postage, e.g. seller provided free shipping, there is no need to add freight to the CIF value. During the permit application, the importer or Declaring Agent has to ensure that the value of goods declared is verifiable against the supporting documents submitted.
 
+You may refer to the following IRAS’ webpage for more information:
+1)	[Five questions you may have when shopping online]( https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes@iras/gst/5-questions-you-may-have-when-shopping-online)
+
+2)	[GST on Imported Low-Value Goods]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods)
+    
+3)	[Consumers Importing Goods into Singapore]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/consumers-importing-goods-into-singapore)
+
 **Check for Controlled Goods**
 
 Please also check if your goods are  [controlled goods](/businesses/importing-goods/controlled-and-prohibited-goods-for-import)  or goods subject to restrictions by Competent Authorities (CAs) in Singapore, and obtain the relevant Import permits and authorisation from the relevant CAs if necessary.
