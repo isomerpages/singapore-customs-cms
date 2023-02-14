@@ -1,6 +1,6 @@
 ---
 title: List of Dutiable Goods
-permalink: /businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods
+permalink: /businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods/
 third_nav_title: Duties and Dutiable Goods
 ---
 # List of Dutiable Goods
@@ -74,40 +74,40 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 22089080 | Bitters and similar beverages of alcoholic strength exceeding 57% vol |Nil| $88.00 per litre of alcohol |  
 |22089091 | Other spirituous beverages and undenatured ethyl alcohol of alcoholic strength not exceeding 1.14% vol|Nil | $88.00 per litre of alcohol|
 | 22089099 | Other spirituous beverages and undenatured ethyl alcohol of alcoholic strength exceeding 1.14% vol but less than 80% vol |Nil| $88.00 per litre of alcohol |
-| 24011010 | Tobacco unmanufactured not stemmed or stripped Virginia type flue cured |Nil|$388.00 per kgm  |  
-| 24011020 | Tobacco unmanufactured not stemmed or stripped Virginia type not flue cured |Nil|$388.00 per kgm  |  
-| 24011040 | Tobacco unmanufactured not stemmed or stripped Burley type |Nil| $388.00 per kgm |  
-| 24011050 | Other tobacco unmanufactured not stemmed or stripped flue cured |Nil| $388.00 per kgm |
-| 24011090 |Other tobacco unmanufactured not stemmed or stripped not flue cured  |Nil| $388.00 per kgm |
-| 24012010 |Tobacco unmanufactured partly or wholly stemmed or stripped Virginia type flue cured  |Nil|  $388.00 per kgm|  
-| 24012020 |Tobacco unmanufactured partly or wholly stemmed or stripped Virginia type not flue cured  |Nil| $388.00 per kgm |  
-| 24012030 |Tobacco unmanufactured partly or wholly stemmed or stripped Oriental type  |Nil| $388.00 per kgm |  
-| 24012040 |  Tobacco unmanufactured partly or wholly stemmed or stripped Burley type|Nil| $388.00 per kgm |
-| 24012050 |Other tobacco unmanufactured partly or wholly stemmed or stripped flue cured  |Nil| $388.00 per kgm |
-| 24012090 | Other tobacco unmanufactured partly or wholly stemmed or stripped not flue-cured |Nil| $388.00 per kgm |  
-|24013010  | Tobacco stems |Nil|$388.00 per kgm  |  
-| 24013090 |Other tobacco refuse  |Nil| $388.00 per kgm |  
-| 24021000 | Cigars cheroots and cigarillos containing tobacco |Nil| $427.00 per kgm |
-| 24022010 | Beedies |Nil| $329.00 per kgm |  
-| 24022020 |Clove cigarettes  |Nil| 42.7 cents for every gram or part thereof of each stick of cigarette |  
-| 24022090 | Other cigarettes containing tobacco |Nil| 42.7 cents for every gram or part thereof of each stick of cigarette |  
-| 24029010 |Cigars cheroots and cigarillos of tobacco substitutes  |Nil|  $427.00 per kgm|
-| 24029020 | Cigarettes of tobacco substitutes |Nil|42.7 cents for every gram or part thereof of each stick of cigarette |
-|24031110|Water pipe tobacco specified in Subheading Note 1 to Chapter 24, packed for retail sale|Nil|$427.00 per kgm|
-|24031190|Water pipe tobacco specified in Subheading Note 1 to Chapter 24, not packed for retail sale|Nil|$427.00 per kgm|
-| 24031911 | Ang hoon packed for retail sale |Nil| $329.00 per kgm |  
-| 24031919 | Other smoking tobacco packed for retail sale |Nil| $427.00 per kgm | 
-|24031920  |Other manufactured tobacco for the manufacture of cigarettes  |Nil| $388.00 per kgm |
-| 24031991 | Ang hoon not packed for retail sale |Nil| $329.00 per kgm |
-| 24031999 |Other smoking tobacco not packed for retail sale  |Nil| $427.00 per kgm |  
-| 24039110 | Homogenised or reconstituted tobacco packed for retail sale |Nil| $427.00 per kgm |  
-| 24039190 | Homogenised or reconstituted tobacco not packed for retail sale |Nil| $427.00 per kgm |  
-| 24039930 | Manufactured tobacco substitutes |Nil|  $427.00 per kgm|
-| 24039940 | Snuff whether or not dry |Nil| $427.00 per kgm |
-| 24039950 |Chewing and sucking tobacco  | Nil|  $329.00 per kgm|  
-| 24039990 | Other manufactured tobacco not for smoking |Nil| $427.00 per kgm |
-|24041100|Products containing tobacco or reconstituted tobacco, intended for inhalation without combustion|Nil|$427.00 per kgm|
-|24041910|Products containing tobacco substitutes, intended for inhalation without combustion|Nil|$427.00 per kgm|
+| 24011010 | Tobacco unmanufactured not stemmed or stripped Virginia type flue cured |Nil|$446.00 per kgm  |  
+| 24011020 | Tobacco unmanufactured not stemmed or stripped Virginia type not flue cured |Nil|$446.00 per kgm  |  
+| 24011040 | Tobacco unmanufactured not stemmed or stripped Burley type |Nil| $446.00 per kgm |  
+| 24011050 | Other tobacco unmanufactured not stemmed or stripped flue cured |Nil| $446.00 per kgm |
+| 24011090 |Other tobacco unmanufactured not stemmed or stripped not flue cured  |Nil| $446.00 per kgm |
+| 24012010 |Tobacco unmanufactured partly or wholly stemmed or stripped Virginia type flue cured  |Nil|  $446.00 per kgm|  
+| 24012020 |Tobacco unmanufactured partly or wholly stemmed or stripped Virginia type not flue cured  |Nil| $446.00 per kgm |  
+| 24012030 |Tobacco unmanufactured partly or wholly stemmed or stripped Oriental type  |Nil| $446.00 per kgm |  
+| 24012040 |  Tobacco unmanufactured partly or wholly stemmed or stripped Burley type|Nil| $446.00 per kgm |
+| 24012050 |Other tobacco unmanufactured partly or wholly stemmed or stripped flue cured  |Nil| $446.00 per kgm |
+| 24012090 | Other tobacco unmanufactured partly or wholly stemmed or stripped not flue-cured |Nil| $446.00 per kgm |  
+|24013010  | Tobacco stems |Nil|$446.00 per kgm  |  
+| 24013090 |Other tobacco refuse  |Nil| $446.00 per kgm |  
+| 24021000 | Cigars cheroots and cigarillos containing tobacco |Nil| $491.00 per kgm |
+| 24022010 | Beedies |Nil| $378.00 per kgm |  
+| 24022020 |Clove cigarettes  |Nil| 49.1 cents for every gram or part thereof of each stick of cigarette |  
+| 24022090 | Other cigarettes containing tobacco |Nil| 49.1 cents for every gram or part thereof of each stick of cigarette |  
+| 24029010 |Cigars cheroots and cigarillos of tobacco substitutes  |Nil|  $491.00 per kgm|
+| 24029020 | Cigarettes of tobacco substitutes |Nil|49.1 cents for every gram or part thereof of each stick of cigarette |
+|24031110|Water pipe tobacco specified in Subheading Note 1 to Chapter 24, packed for retail sale|Nil|$491.00 per kgm|
+|24031190|Water pipe tobacco specified in Subheading Note 1 to Chapter 24, not packed for retail sale|Nil|$491.00 per kgm|
+| 24031911 | Ang hoon packed for retail sale |Nil| $378.00 per kgm |  
+| 24031919 | Other smoking tobacco packed for retail sale |Nil| $491.00 per kgm | 
+|24031920  |Other manufactured tobacco for the manufacture of cigarettes  |Nil| $446.00 per kgm |
+| 24031991 | Ang hoon not packed for retail sale |Nil| $378.00 per kgm |
+| 24031999 |Other smoking tobacco not packed for retail sale  |Nil| $491.00 per kgm |  
+| 24039110 | Homogenised or reconstituted tobacco packed for retail sale |Nil| $491.00 per kgm |  
+| 24039190 | Homogenised or reconstituted tobacco not packed for retail sale |Nil| $491.00 per kgm |  
+| 24039930 | Manufactured tobacco substitutes |Nil|  $491.00 per kgm|
+| 24039940 | Snuff whether or not dry |Nil| $491.00 per kgm |
+| 24039950 |Chewing and sucking tobacco  | Nil|  $378.00 per kgm|  
+| 24039990 | Other manufactured tobacco not for smoking |Nil| $491.00 per kgm |
+|24041100|Products containing tobacco or reconstituted tobacco, intended for inhalation without combustion|Nil|$491.00 per kgm|
+|24041910|Products containing tobacco substitutes, intended for inhalation without combustion|Nil|$491.00 per kgm|
 | 27101211 |Motor spirit of RON 97 and above, leaded  |Nil| $7.10 per dal |  
 | 27101212 | Motor spirit of RON 90 and above but below RON 97, leaded |Nil| $6.80 per dal |
 | 27101213 | Motor spirit of below RON 90, leaded |Nil| $6.30 per dal |
