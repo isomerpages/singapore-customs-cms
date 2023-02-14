@@ -4,7 +4,7 @@ permalink: /eservices/customs-sg-web-application/
 ---
 #  Customs@SG
 
-#### The Customs@SG Web Application will be undergoing scheduled maintenance on 14 Feb 2023, from 2.30pm to 7.30pm. You will not be able to submit any declaration during this time. We apologise for any inconvenience caused.
+## About Customs@SG
 
 The  [**Customs@SG**  web application](https://m.customs.gov.sg/CustomsTravellerPortal) is a convenient way for travellers to declare and pay duty and/or Goods and Services Tax (GST) on their overseas purchases anytime, anywhere, before the travellers arrive in Singapore.
 
