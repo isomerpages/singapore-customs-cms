@@ -1,16 +1,15 @@
 ---
-title: Duties and Dutiable Goods 
-permalink: /businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods
+title: Duties and Dutiable Goods
+permalink: /businesses/valuation-duties-taxes-and-fees/duties-and-dutiable-goods/
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
-
 # Duties & Dutiable Goods
 
 All dutiable goods imported into or manufactured in Singapore are subject to customs duty and/or excise duty.
 
 **Customs duty** is duty levied on goods imported into Singapore, excluding excise duty.  **Excise duty**  is duty levied on goods manufactured in, or imported into, Singapore.
 
-The duties are based on ad valorem or specific rates. An ad valorem rate is a percentage of the goods’ customs value (for example, 20% of the customs value). A specific rate is a specified amount per unit of weight or other quantity (for example, S$388.00 per kilogramme).
+The duties are based on ad valorem or specific rates. An ad valorem rate is a percentage of the goods’ customs value (for example, 20% of the customs value). A specific rate is a specified amount per unit of weight or other quantity (for example, S$446.00 per kilogramme).
 
 There are 4 categories of dutiable goods:
 
@@ -49,19 +48,19 @@ a) All tobacco products except cigarettes
 
 *Duties payable = Total weight (in kilogrammes) x Excise duty rate*
 
-Company A imports 100 kilogrammes (kgm) of tobacco stems. Assuming the excise duty for tobacco stems is S$388 per kilogramme:
+Company A imports 100 kilogrammes (kgm) of tobacco stems. Assuming the excise duty for tobacco stems is S$446 per kilogramme:
 
-Duties payable = 100 x S$388 = S$38,800
+Duties payable = 100 x S$446 = S$44,600
 
 b) Cigarettes
 
 *Duties payable = Total number of sticks x Weight of individual sticks (every gramme or part thereof) x Excise duty rate*
 
-Company A imports 100 sticks of cigarettes weighing 1.5 grammes each. Assuming the excise duty for cigarettes is 42.7 cents for every gramme or part thereof of each stick:
+Company A imports 100 sticks of cigarettes weighing 1.5 grammes each. Assuming the excise duty for cigarettes is 49.1 cents for every gramme or part thereof of each stick:
 
 Since the weight of each cigarette is between 1 and 2 grammes, the weight to be taken to calculate the duties payable is 2 grammes.
 
-Hence, duties payable = 100 x 2 x S$0.427 = S$85.40  
+Hence, duties payable = 100 x 2 x S$0.491 = S$98.20  
   
 ## 3. Motor vehicles
 
