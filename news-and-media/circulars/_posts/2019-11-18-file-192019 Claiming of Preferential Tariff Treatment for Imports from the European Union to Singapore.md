@@ -1,6 +1,5 @@
 ---
-title: 192019 Claiming of Preferential Tariff Treatment for Imports from the
-  European Union to Singapore
+title: 19/2019 Claiming of Preferential Tariff Treatment for Imports from the European Union to Singapore
 date: 2019-11-18
 layout: file
 description: ""
