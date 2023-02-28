@@ -17,5 +17,5 @@ third_nav_title: Importing Requirements
     
    All permit applications must be submitted via TradeNet, accessible through:
     
-   -   TradeNet front-end software from an [approved software vendor](/businesses/national-single-window/overview/tradenet-solution-providers; or
+   -   TradeNet front-end software from an [approved software vendor](/businesses/national-single-window/overview/tradenet-solution-providers); or
    -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}.
