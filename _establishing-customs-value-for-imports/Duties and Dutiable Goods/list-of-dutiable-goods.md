@@ -149,7 +149,7 @@ The listing of duty rates is not an indication of the possible prohibitions plac
 | 87032145 |Non CKD sedan with only spark-ignition combustion reciprocating engine not over 1000cc  |Nil| 20%  |
 | 87032151 | Non CKD motor cars with only spark-ignition combustion reciprocating engine not over 1000cc four wheel drive |Nil| 20% |  
 |87032159  | Non CKD motor cars only spark-ignition combustion reciprocating engine not over 1000cc excluding four wheel drive |Nil| 20% |  
-|87032191|Non CKD three weeled motor vehicles with only spark-ignition combustion reciprocating engine not over 1000cc|Nil|20%|
+|87032191|Non CKD three wheeled motor vehicles with only spark-ignition combustion reciprocating engine not over 1000cc|Nil|20%|
 |87032199|Other non CKD motor vehicles with only spark-ignition combustion reciprocating engine not over 1000cc|Nil|20%|
 | 87032213 | CKD ambulances with only spark-ignition combustion reciprocating engine over 1000cc but not over 1500cc |Nil| 20% |
 | 87032214 | CKD hearses with only spark-ignition combustion reciprocating engine over 1000cc but not over 1500cc |Nil| 20% |
