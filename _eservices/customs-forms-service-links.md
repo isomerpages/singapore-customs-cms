@@ -26,9 +26,8 @@ permalink: /eservices/customs-forms-and-service-links/
 | 5. | Manufacturing Cost Statement Format | [Excel Doc](https://go.gov.sg/coststatementfeb2023updated)|
 | 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
 | 7. | Registration for the ASEAN Single Window | [Web Link](https://form.gov.sg/#!/5d1330b145677e0011c1c97a)|
-| 8. | Submit Manufacturing Cost Statement <br>(Please log in to NTP to access this e-service under Government Services > E-Services > Certificate of Origin)| [Web Link](https://www.ntp.gov.sg/home/)|
-| 9. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/#!/5ced00d93abf730010ef8888)|
-| 10. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
+| 8. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/#!/5ced00d93abf730010ef8888)|
+| 9. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
@@ -87,7 +86,7 @@ permalink: /eservices/customs-forms-and-service-links/
 
 | No. | E-services | Links |
 |--|--|--|
-| 1. | Application for Certification of Free Sale (CFS) | [Word Doc](https://www.customs.gov.sg/files/eservices/CFS.doc)|
+| 1. | Application for Certification of Free Sale (CFS) | [Word Doc](https://go.gov.sg/cfsapplicationform)|
 | 2. | Application for Customs Ruling on Classification of Goods | [Web Link](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)|
 | 3. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
 | 4. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
