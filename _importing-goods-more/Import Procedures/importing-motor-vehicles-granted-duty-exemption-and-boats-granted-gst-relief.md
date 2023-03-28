@@ -79,7 +79,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 		<br>-Must not be registered for use on public roads; and
 		<br>-Must not be resold in Singapore or disposed in any manner without approval from Singapore Customs
 				<br><br><b>Motor Vehicles for Disabled Individuals</b>
-			<br>- Must be purchased by an individual approved under the <a href="https://www.sgenable.sg/pages/content.aspx?path=/schemes/transport/disabled-persons-scheme/">Disabled Persons Scheme</a>;
+			<br>- Must be purchased by an individual approved under the <a href="https://www.sgenable.sg/">Disabled Persons Scheme</a>;
 			<br>- Must be given additional registration fee exemption by LTA;
 			<br>- Applicant must comply with all requirements laid down by SG Enable;
 			<br>- Each applicant is entitled to only one duty-free vehicle;
