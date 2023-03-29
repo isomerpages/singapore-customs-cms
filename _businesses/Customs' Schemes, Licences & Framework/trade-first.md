@@ -58,7 +58,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     -   [Duty Free Shop Scheme](/businesses/customs-schemes-licences-framework/duty-free-shop-scheme)
     -   [Excise Factory Scheme](/businesses/customs-schemes-licences-framework/excise-factory-scheme)
     -   [Container Freight Warehouse Licence](/businesses/customs-schemes-licences-framework/container-freight-warehouse)
-    -   [Company Declaration Scheme](/businesses/customs-schemes-licences-framework/company-declaration-scheme)
+
     
 -   **Premium Band**
     
