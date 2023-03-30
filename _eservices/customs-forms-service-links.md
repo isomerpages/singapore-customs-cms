@@ -1,5 +1,5 @@
 ---
-title: Customs Forms & Service Links
+title: Customs Forms &amp; Service Links
 permalink: /eservices/customs-forms-and-service-links/
 ---
 ## ASEAN Customs Transit System/Declaration Document
@@ -9,7 +9,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 1. | Broker and Representative Authorisation Letter | [Web Link](https://form.gov.sg/632822e21ce666001181e8f2)|
 | 2. | Employee Declarant Details and Authorisation Form | [Web Link](https://form.gov.sg/6327c68da1ed8d001275250e)|
 | 3. | Multiple Journey Guarantee Document | [Web Link](https://acts.asean.org/traders-guide/guarantee)|
-| 4. | Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmit ACDD <Br> (Please log in to NTP to access this e-service under Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent)  | [Web Link](https://www.ntp.gov.sg/home/)|
+| 4. | Participation in the Electronic Exchange of ACDD and Authorisation of Singapore Customs to Transmit ACDD <br> (Please log in to NTP to access this e-service under Business Account &gt; Manage Consent &amp; Authorisation for NTP Services &gt; Choose your International Connectivity Services &amp; Authorise your Declaring Agent)  | [Web Link](https://www.ntp.gov.sg/home/)|
 | 5. | Single Journey Guarantee Document | [Web Link](https://acts.asean.org/traders-guide/guarantee)|
 | 6. | Trader Application Form | [Web Link](https://form.gov.sg/62efd351d7b4560012d73d26)|
 
@@ -57,7 +57,7 @@ permalink: /eservices/customs-forms-and-service-links/
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
-## Customs' Schemes, Permit & Licences
+## Customs' Schemes, Permit &amp; Licences
 
 | No. | E-Services | Links |
 |--|--|--|
@@ -66,7 +66,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 3. | Application for Duty Exemption of Dutiable Goods by Industrial Users |[Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp)
 | 4. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://form.gov.sg/#!/5ef564974cb2d20012590cb1)
 | 5. | Application for GST Relief for Hand-Carried Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) (For non-Singpass users) <br>[Web Link](https://form.gov.sg/#!/600fd804a6ac7800110ab36b) (For Singpass users)
-| 6. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&APPLICATION_ID=TXWP)
+| 6. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP)
 | 7. | Application for Kimberley Process Licence (KPL) | [Web Link](https://form.gov.sg/61dab6b7369b3a00139d5380)
 | 8. | Application for Kimberley Process Certificate | [Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e)
 | 9. | Application for Landing Certificate (LC) | [Web Link](https://form.gov.sg/61d7db653cff100012127dec)
@@ -77,7 +77,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 15. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://form.gov.sg/#!/5f7a6430482e1200114bad08)
 | 16. | e-Inventory Control System | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp)|
 | 17. | Petroleum Refunds | [Web Link](https://ecweb1.customs.gov.sg/ec_inter/index.jsp)|
-| 18. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&APPLICATION_ID=TXWP)|
+| 18. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP)|
 | 19. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
@@ -106,12 +106,12 @@ permalink: /eservices/customs-forms-and-service-links/
 | 4. | Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores | [Web Link](https://form.gov.sg/#!/60c9919a86afa600119a4f51)|
 | 5. | Application for Registration of Manifest Reconciliation Statement (MRS) User | [Web Link](https://form.gov.sg/#!/5c9dd6bf5b6b230017d50306)|
 | 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/#!/5ccac0a442502b00107a9554)|
-| 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP)|
+| 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP)|
 | 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](https://www.customs.gov.sg/files/eservices/DeclaringAgents-Licensed-Premises.doc)|
 | 9. | Application for Vessel Registration (VR) | [Web Link](https://form.gov.sg/61d7d0ef3cff10001210b7b5)
 | 10. | Apply/Update/Renew/Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
 | 11. | Authorisation of User Inventory Control system | [Web Link](https://www.customs.gov.sg/files/eservices/User-Inventory-Control-System.docx)
-| 12. | Claimant Application by All Other Entities (e.g. Companies, Businesses) Apart from Embassy, High Commission Consulate, accredited Trade Mission, International Organisations, Foreign Military Forces, Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&init=&APPLICATION_ID=TXWP)
+| 12. | Claimant Application by All Other Entities (e.g. Companies, Businesses) Apart from Embassy, High Commission Consulate, accredited Trade Mission, International Organisations, Foreign Military Forces, Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&amp;init=&amp;APPLICATION_ID=TXWP)
 | 13. | Claimant Application by Embassy, High Commission Consulate, Accredited Trade Mission and International Organisation with the MFA as Supporting Agency | [Web Link](https://form.gov.sg/5d0095fa0816b400111cd5b1)|
 | 14. | Claimant Application by Foreign Military Forces | [Web Link ](https://form.gov.sg/62b184bfbe2196001180ad44)
 | 15. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://form.gov.sg/62b184bfbe2196001180ad44)
@@ -131,7 +131,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 4. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/#!/5d78b89628467500121ef098)
 | 5. | Apply for Import Certificate and Delivery Verification (ICDV) | [Web Link](https://form.gov.sg/60408fffd83b890011c7f8ab)
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](http://go.gov.sg/customs-bpermit)|
-| 7. | Application for Permit to Transmit or Export (via Hand-Carry) Strategic Goods Related Software and Technology77 | [Web Link](http://go.gov.sg/customs-itt)
+| 7. | Application for Permit to Transmit or Export (via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](http://go.gov.sg/customs-itt)
 | 8. | Application for Preliminary Advice on Strategic Goods Transaction | [Web Link](http://go.gov.sg/customs-padv)
 | 9. | Application for Strategic Trade Scheme (STS) Bulk Permit | [Web Link](https://form.gov.sg/#!/5efd58c27268820011409056)
 | 10. | Application Form for Seeking In-Principle Approval from the UNSC Procurement Channel | [Web Link](https://form.gov.sg/#!/5f06d4ec3583420013aeb0f1)
