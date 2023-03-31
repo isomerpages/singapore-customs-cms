@@ -30,10 +30,10 @@ Rice of all descriptions is declared to be a controlled item under the Price Con
 
 ## Procedure in Processing Rice Import Licence: Online Licence Application
 
-You may apply for a licence to import rice [here](https://www.gobusiness.gov.sg/licences/) {:target="_blank"}.
+You may apply for a licence to import rice [here](https://www.gobusiness.gov.sg/licences/){:target="_blank"}.
 
 Upon approval, a lifetime licence will be issued to the importer. Generally, it would take three to five working days to process the application.
 
-You may refer to the [SFA website](https://www.sfa.gov.sg/e-services?type=rice-import&page=1) {:target="_blank"} for more information.
+You may refer to the [SFA website](https://www.sfa.gov.sg/e-services?type=rice-import&page=1){:target="_blank"} for more information.
 
 [Link to List of Product Codes](/files/about-us//HScodelist.pdf)
