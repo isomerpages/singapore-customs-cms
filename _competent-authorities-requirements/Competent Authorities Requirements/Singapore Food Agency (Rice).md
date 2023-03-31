@@ -10,7 +10,7 @@ description: ""
 
 In Singapore, rice of all description is a controlled item under the Price Control (Rice) Order 1990 of the Price Control Act (Chapter 244). The Government requires an importer to apply for a licence, obtainable from the administrator of the Rice Stockpile Scheme (RSS).
 
-As of 01 April 2023, the Singapore Food Agency (SFA) has taken over the administration of the RSS from Enterprise Singapore. SFA will issue licences for importers, process import permits and enforce the import and stockpile obligations by importers. SFA will also manage the licensing of non-stockpile rice importers.
+As of 01 April 2023, Singapore Food Agency (SFA) has taken over the administration of the RSS from Enterprise Singapore. SFA will issue licences for importers, process import permits and enforce the import and stockpile obligations by importers. SFA will also manage the licensing of non-stockpile rice importers.
 
 The import and distribution of rice for domestic sale or consumption are carried out by the importers and traders in the private sector. Importers and wholesalers of rice must be separately licensed.
 
