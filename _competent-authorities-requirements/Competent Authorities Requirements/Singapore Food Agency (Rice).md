@@ -26,7 +26,7 @@ For all rice consignments, importers/exporters are to obtain a customs permit th
 
 ## Rice Import Licence
 
-Rice of all descriptions is declared to be a controlled item under the Price Control Act (Chapter 244) and the Price Control (Rice) Order 1990. As such, no person shall import the item unless he has a valid licence issued by the SFA.
+Rice of all descriptions is declared to be a controlled item under the Price Control Act (Chapter 244) and the Price Control (Rice) Order 1990. As such, no person shall import the item unless he has a valid licence issued by SFA.
 
 ## Procedure in Processing Rice Import Licence: Online Licence Application
 
