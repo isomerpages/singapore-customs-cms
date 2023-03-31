@@ -46,10 +46,7 @@ Please remember to upload the relevant supporting documents required by the CAs 
 
 **2)  [Central Narcotics Bureau (CNB)](/businesses/national-single-window/tradenet/competent-authorities-requirements/CNB)**
 
-**3) Enterprise Singapore (ESG)**
-
--   [Rice Control Unit](/businesses/national-single-window/tradenet/competent-authorities-requirements/ESG-Rice)
--   [Export of Rubber](/businesses/national-single-window/tradenet/competent-authorities-requirements/ESG-Rubber)
+**3) [Enterprise Singapore (ESG)](/businesses/national-single-window/tradenet/competent-authorities-requirements/ESG-Rubber)**
 
 **4)  [Health Sciences Authority (HSA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/HSA)**
 
@@ -103,6 +100,7 @@ Please remember to upload the relevant supporting documents required by the CAs 
 -   [SFA (Livestock & Animal Products)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Livestocks)
 -   [SFA (Meat)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Meat)
 -   [SFA (Processed Food)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Processed-Food)
+-   [SFA (Rice)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Rice)
 -   [SFA (Seafood)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Seafood)
 
 **14) Singapore Police Force (SPF)**
