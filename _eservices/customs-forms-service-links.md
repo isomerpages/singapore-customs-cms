@@ -86,12 +86,13 @@ permalink: /eservices/customs-forms-and-service-links/
 
 | No. | E-services | Links |
 |--|--|--|
-| 1. | Application for Certification of Free Sale (CFS) | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
-| 2. | Application for Customs Ruling on Classification of Goods | [Web Link](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)|
-| 3. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
-| 4. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
-| 5. | Application for Supervision Operations | [Web Link](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)|
-| 6. | HCES Permit Clearance Status Query | [Web Link](https://form.gov.sg/62e0e341ff86280013c1d93b)|
+| 1. | Application for Certification of Free Sale (CFS)<br> (Please log in to NTP to access this e-service under Government Services &gt; E-Services &gt; Import/Export/Transhipment &gt; Certificate of Free Sale (CFS)) |[Web Link](https://www.ntp.gov.sg/home/)|
+| 2. | CFS Application Form | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
+| 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)|
+| 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
+| 5. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
+| 6. | Application for Supervision Operations | [Web Link](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)|
+| 7. | HCES Permit Clearance Status Query | [Web Link](https://form.gov.sg/62e0e341ff86280013c1d93b)|
 | 7. | Template for Letter of Undertaking for TradeNet Unavailability | [Word Doc](https://www.customs.gov.sg/files/eservices/Letter-of-undertaking-tradenet.doc)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
