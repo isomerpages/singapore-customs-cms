@@ -86,7 +86,7 @@ permalink: /eservices/customs-forms-and-service-links/
 
 | No. | E-services | Links |
 |--|--|--|
-| 1. | Application for Certification of Free Sale (CFS) (Please log in to NTP to access this e-service under Government Services &gt; E-Services &gt; Import/Export/Transhipment &gt; Certificate of Free Sale (CFS)) |[Web Link](https://www.ntp.gov.sg/home/)|
+| 1. | Application for Certification of Free Sale (CFS)<br> (Please log in to NTP to access this e-service under Government Services &gt; E-Services &gt; Import/Export/Transhipment &gt; Certificate of Free Sale (CFS)) |[Web Link](https://www.ntp.gov.sg/home/)|
 | 2. | CFS Application Form | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
 | 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)|
 | 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
