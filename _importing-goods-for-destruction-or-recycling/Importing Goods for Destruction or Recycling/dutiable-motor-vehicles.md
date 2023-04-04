@@ -1,16 +1,15 @@
 ---
 title: Dutiable Motor Vehicles
-permalink: /businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-motor-vehicles
-third_nav_title: Importing Goods for Destruction or Recycling 
+permalink: /businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-motor-vehicles/
+third_nav_title: Importing Goods for Destruction or Recycling
 ---
-
 # Dutiable Motor Vehicles
 
 Please submit the following supporting documents to the Permits Unit, Procedures & Systems Branch of Singapore Customs via email to customs_documentation@customs.gov.sg:
 
 -   A cover letter from the importer stating the reasons for the destruction of goods
 -   Surveyor, incident or other relevant reports to substantiate the damage involving the goods at any time before the removal of the goods from customs control, if applicable
--   A list of goods scheduled for destruction with their description, quantity and CIF valaue
+-   A list of goods scheduled for destruction with their description, quantity and CIF value
 -   An acceptance letter from any of the [authorised scrap yards](https://www.onemotoring.com.sg/content/onemotoring/home/selling-deregistering/deregister-a-vehicle.html#Scrapyards){:target="_blank"} approved by the Land Transport Authority (LTA)
 -   Commercial invoice, Bill of Lading/Air Waybill, and Packing List for the goods (where applicable)
 -   Letter from LTA regarding the deregistration of the Singapore-registered motor vehicle or motorcycle
