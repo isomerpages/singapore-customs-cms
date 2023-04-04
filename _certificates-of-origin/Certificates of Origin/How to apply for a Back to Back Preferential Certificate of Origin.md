@@ -1,6 +1,6 @@
 ---
 title: How to apply for a Back to Back Preferential Certificate of Origin
-permalink: /businesses/certificates-of-origin/how-to-apply-for-b2b
+permalink: /businesses/certificates-of-origin/how-to-apply-for-b2b/
 third_nav_title: Certificates of Origin
 description: ""
 ---
@@ -22,7 +22,7 @@ In general, the re-export may be eligible for a back-to-back preferential CO iss
     
 -   The goods fulfill the relevant requirements in the [Operational Certification Procedures](/files/businesses/Back-to-back-pco-legal-text-reference-Aug-2019.pdf) of the FTA.
 
-Please refer to the legal text of the respective [Free Trade Agreements](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview){:target="_blank"} for the eligibility requirements for back-to-back preferential CO application.
+Please refer to the legal text of the respective [Free Trade Agreements](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#){:target="_blank"} for the eligibility requirements for back-to-back preferential CO application.
 
 | Certificate Type | Back-to-Back Preferential CO |
 |------------------|------------------------------|
