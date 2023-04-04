@@ -1,16 +1,15 @@
 ---
 title: Dutiable Liquor & Tobacco Products and Ethanol
-permalink: /businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-liquor-tobacco-ethanol
-third_nav_title: Importing Goods for Destruction or Recycling 
+permalink: /businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-liquor-tobacco-ethanol/
+third_nav_title: Importing Goods for Destruction or Recycling
 ---
-
 ## Dutiable Liquor & Tobacco Products and Ethanol
 
 Please submit the following supporting documents to the Permits Unit, Procedures & Systems Branch of Singapore Customs via email to customs_documentation@customs.gov.sg:
 
 -   A cover letter from the importer stating the reasons for the destruction
 -   Surveyor, incident or other relevant reports to substantiate the damage involving the goods at any time before the removal of the goods from customs control, if applicable
--   A list of goods scheduled for destruction with their description, quantity and CIF valaue
+-   A list of goods scheduled for destruction with their description, quantity and CIF value
 -   Approval email/letter from the National Environment Agency (NEA) on the destruction of the goods (where applicable)
 -   Bill of Lading/Air Waybill, and Packing List for the goods
 -   Commercial invoice
