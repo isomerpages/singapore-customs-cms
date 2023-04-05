@@ -108,10 +108,10 @@ permalink: /eservices/customs-forms-and-service-links/
 | 5. | Application for Registration of Manifest Reconciliation Statement (MRS) User | [Web Link](https://form.gov.sg/#!/5c9dd6bf5b6b230017d50306)|
 | 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/#!/5ccac0a442502b00107a9554)|
 | 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP)|
-| 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Word Doc](https://www.customs.gov.sg/files/eservices/DeclaringAgents-Licensed-Premises.doc)|
+| 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Web Link](https://go.gov.sg/adalp)
 | 9. | Application for Vessel Registration (VR) | [Web Link](https://form.gov.sg/61d7d0ef3cff10001210b7b5)
 | 10. | Apply/Update/Renew/Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
-| 11. | Authorisation of User Inventory Control system | [Web Link](https://www.customs.gov.sg/files/eservices/User-Inventory-Control-System.docx)
+| 11. | Authorisation of User Inventory Control system | [Web Link](https://go.gov.sg/auics)
 | 12. | Claimant Application by All Other Entities (e.g. Companies, Businesses) Apart from Embassy, High Commission Consulate, accredited Trade Mission, International Organisations, Foreign Military Forces, Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&amp;init=&amp;APPLICATION_ID=TXWP)
 | 13. | Claimant Application by Embassy, High Commission Consulate, Accredited Trade Mission and International Organisation with the MFA as Supporting Agency | [Web Link](https://form.gov.sg/5d0095fa0816b400111cd5b1)|
 | 14. | Claimant Application by Foreign Military Forces | [Web Link ](https://form.gov.sg/62b184bfbe2196001180ad44)
