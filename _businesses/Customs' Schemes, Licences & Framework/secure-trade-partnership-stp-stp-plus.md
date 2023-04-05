@@ -82,7 +82,7 @@ Click [here](/files/businesses/SEB/STP%20Handbook%20(Nov%202022).pdf) for the Ha
 -   Relevant security certifications if any (for example, Transported Asset Protection Association (TAPA), ISO 28000)
 -   Other relevant documents as specified in the instructions tab of the TradeFIRST Self-Assessment Checklist
 
-**Step 4**: Submit the checklist and supporting documents to Singapore Customs via your account Manager or email: [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg)
+**Step 4**: Submit the checklist and supporting documents to Singapore Customs via email: [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg)
 
 ## Frequently Asked Questions (FAQs)
 
