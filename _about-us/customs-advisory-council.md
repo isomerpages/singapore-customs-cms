@@ -22,24 +22,32 @@ Ministry of Finance
 Professor Emeritus of Finance (Practice)<br>
 Lee Kong Chian School of Business, Singapore Management University<br> 
 
+**Mr Christopher Charlton**<br>
+Vice President, Customs Brokerage APAC, Middle East &amp; Africa <br>
+UPS Singapore<br>
+
 **Mr Dave Ng Wee Peng**  
 Chairman  
 Singapore Logistics Association
 
 **Mr Hsu Sin Yun**  
 Deputy Commissioner (Operations)  
-Immigration & Checkpoints Authority
+Immigration &amp; Checkpoints Authority
 
 **Ms Jane Lim**  
 Deputy Secretary (Trade)  
 Ministry of Trade and Industry
+
+**Mr Kevin Shum**  
+Deputy Secretary (Planning)  
+Ministry of Finance
 
 **Ms Lim Khoon Ling**  
 Senior Vice President (South Asia)  
 Expeditors Singapore Pte Ltd
 
 **Mr Mahesh Sivaswamy**<br>
-Chairman & Chief Executive Officer<br>
+Chairman &amp; Chief Executive Officer<br>
 Transworld Group Singapore<br>
 
 **Mr Ong Kim Pong**  
@@ -49,10 +57,6 @@ PSA International Pte Ltd
 **Mr Paul Teo**  
 First Deputy Chairman  
 SAAA@Singapore
-
-**Mr Chris Charlton**<br>
-Vice President, Customs Brokerage APAC<br>
-Middle East & Africa, UPS Singapore<br>
 
 **Mr Shamir Rahim**  
 Chief Executive Officer  
@@ -66,6 +70,3 @@ Mediterranean Shipping Co. (Switzerland) Asia Regional Office Pte Ltd
 Executive Vice President, Airport Development  
 Changi Airport Group
 
-**Mr Yee Ping Yi**  
-Deputy Secretary (Planning)  
-Ministry of Finance
