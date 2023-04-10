@@ -11,7 +11,7 @@ inSYNC is a publication by Singapore Customs. We keep you updated on topics that
 {:.card-list}
 
 -   [![Issue 67](/images/inSYNC/issue67_thumbnail.jpg)<br>
-Issue 67](/files/news-and-media/2023-04-10-issue67.pdf)
+Issue 67](/files/2023-04-10-issue67.pdf)
 
 -   [![Issue 66](/images/inSYNC/Issue66_thumbnail.jpg)<br>
 Issue 66](/files/news-and-media/2023-01-19-Issue66.pdf)
