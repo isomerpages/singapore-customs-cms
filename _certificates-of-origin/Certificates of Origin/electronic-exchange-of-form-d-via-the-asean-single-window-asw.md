@@ -22,4 +22,6 @@ Under the live operation of the ASW, a Form D under ATIGA electronically transmi
 
 To transmit an e-ATIGA Form D, the exporter must first be registered with Singapore Customs to access TradeNet. There is no change to the Form D application procedures in TradeNet. However, the applicant must access the approved Form D in the TradeNet Backend thereafter to authorise and trigger the transmission of the e-ATIGA Form D to the importing country via the ASW.
 
+Detailed steps to perform the electronic transmission for the upcoming change in procedure can be found in this [handbook](/files/businesses/ttsb-roo/submitting%20and%20retrieving%20a%20form%20d%20via%20the%20asean%20single%20window%20(ics).pdf). You may refer to this [guidebook for the specific list of codes to be used for each field](https://go.gov.sg/codesrequiredforrespectivefieldsintn) as mentioned in the handbook on the electronic transmission of ATIGA e-form D via ASW.
+
 You may also find an infographic of the process [here](/files/businesses/asw-infograhic-myanmar-lao.pdf).
