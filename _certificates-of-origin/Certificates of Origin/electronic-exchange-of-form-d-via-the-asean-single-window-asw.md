@@ -24,4 +24,3 @@ To transmit an e-ATIGA Form D, the exporter must first be registered with Singap
 
 Detailed steps to perform the electronic transmission for the upcoming change in procedure can be found in this [handbook](/files/businesses/ttsb-roo/submitting%20and%20retrieving%20a%20form%20d%20via%20the%20asean%20single%20window%20(ics).pdf). You may refer to this [guidebook for the specific list of codes to be used for each field](https://go.gov.sg/codesrequiredforrespectivefieldsintn) as mentioned in the handbook on the electronic transmission of ATIGA e-form D via ASW.
 
-You may also find an infographic of the process [here](/files/businesses/asw-infograhic-myanmar-lao.pdf).
