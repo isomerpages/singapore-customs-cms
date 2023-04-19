@@ -89,6 +89,8 @@ Since 1 Jan 2021, the transboundary movement of certain types of plastic waste u
 	- Letter of confirmation or approval permits from the relevant authority of the importing/exporting country for the transboundary movement of plastic waste listed in Annex IX (i.e. to support that the shipment of plastic wastes is considered non-hazardous under the Basel Convention)
 	- Any other supporting documents relevant to the export or import shipments
 
+Note:<br>Prior approval via the TradeNet shall be obtained for the export and import of all plastic waste.
+
 ## Export and Import of Used Electrical &amp; Electronic Equipments
 
 **1.**  Declarant must declare the following in the export or import permit application:<br>
