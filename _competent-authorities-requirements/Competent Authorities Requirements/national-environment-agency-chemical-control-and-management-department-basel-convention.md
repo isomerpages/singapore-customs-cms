@@ -69,6 +69,26 @@ CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention i
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export, import and transit of all non-hazardous wastes.**
 
+## Export and Import of Plastic Waste
+
+Since 1 Jan 2021, the transboundary movement of certain types of plastic waste under Annexes II and VIII of the Basel Convention are subjected to the Prior Informed Consent (PIC) procedure, while plastic waste listed in Annex IX are exempted from the transboundary movement control and a Basel Permit is not required from CCMD. More information can be found here. 
+
+1. Declarant must declare the following in the export or import permit application:
+
+	- Item description and item quantity under ‘Item Details’ column
+	- The corresponding Product Codes depending on the purpose of export or import to the correct HS Codes
+
+2. Declarant would have to upload the following documents in TradeNet during the permit application, depending on the purpose of export or import:
+
+	- Invoice
+	- Bill of Lading (BL) / Air waybill (AWB)
+	- Photographic evidence of plastic waste for each import/export declaration for Annex IX plastic wastes
+	- Surveyor Report 
+	- Contractual agreements with the overseas counterparts
+	- Approvals from the relevant authority of the importing country/exporter’s declaration;
+	- Letter of confirmation or approval permits from the relevant authority of the importing/exporting country for the transboundary movement of plastic waste listed in Annex IX (i.e. to support that the shipment of plastic wastes is considered non-hazardous under the Basel Convention)
+	- Any other supporting documents relevant to the export or import shipments
+
 ## Export and Import of Used Electrical &amp; Electronic Equipments
 
 **1.**  Declarant must declare the following in the export or import permit application:<br>
