@@ -47,7 +47,7 @@ CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention i
 
    - Invoice
    - Bill of Lading (BL) / Air waybill (AWB)
-   - Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classify under the Basel Convention and importing country’s legislation
+   - Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classified under the Basel Convention and importing country’s legislation
    - An inspection certificate issued by an authorized surveyor for exports of copper scraps to China , Taiwan and Hong Kong
    - Any other supporting documents relevant to the export shipment
 
@@ -63,14 +63,13 @@ CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention i
 
    - Invoice
    - Bill of Lading (BL) / Air waybill (AWB)
-   - Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classify under the Basel Convention
-   
-- Any other supporting documents relevant to the import shipment
+   - Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classified under the Basel Convention
+   - Any other supporting documents relevant to the import shipment
 
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export, import and transit of all non-hazardous wastes.**
 
-## Export and Import of Used Electrical & Electronic Equipments
+## Export and Import of Used Electrical &amp; Electronic Equipments
 
 **1.**  Declarant must declare the following in the export or import permit application:<br>
 - Item description and item quantity under ‘Item Details’ column
@@ -84,9 +83,10 @@ Prior approval via the TradeNet shall be obtained for the export, import and tra
 -  Any other supporting documents relevant to the export or import shipments 
 
 **Note:  
-Prior approval via the TradeNet shall be obtained for the export and import of all Used Electrical & Electronic Equipments.**
+Prior approval via the TradeNet shall be obtained for the export and import of all Used Electrical &amp; Electronic Equipments.**
 
 ## Additional Notes:
 
-1.  The HS Codes and Product Codes for hazardous waste, controlled waste and Used Electrical & Electronic Equipments under the purview of NEA-CCMD can be found [here](https://www.nea.gov.sg/corporate-functions/resources/legislation-international-law/multilateral-environmental-agreements/chemical-safety/basel-convention).
+1.  The HS Codes and Product Codes for hazardous waste, controlled waste and Used Electrical &amp; Electronic Equipment and plastic waste under the purview of NEA-CCMD can be found [at the HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do).
+
 2.  If the importer / exporter does not have the required supporting documents (e.g. Basel permit etc), please contact CCMD officers at 67319061 for advice.
