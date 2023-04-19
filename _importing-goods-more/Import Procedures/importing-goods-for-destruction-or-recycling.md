@@ -5,9 +5,9 @@ third_nav_title: Import Procedures
 ---
 # Importing Goods from Free Trade Zone for Disposal
 
-An importer is required to obtain an  **In-Payment permit**  to pay the duty and/or GST of goods that are imported into Singapore's Customs Territory for destruction or recycling. The duty and/or GST shall be based on the Cost, Insurance and Freight (CIF) value of the goods incurred by the importer at the time of importation.
+Please note that the National Environment Agency (NEA) generally does not allow the import of goods from the Free Trade Zone (FTZ) into Customs Territory for the sole purpose of disposal. Importers should make arrangements to return goods to the country of origin or re-export to other destination countries while in compliance with requirements from all exporting and importing countries. If there are compelling reasons to import goods into Customs Territory for disposal, the importer shall seek a written approval from [NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview) prior to applying for an import permit to bring the goods into Customs Territory for disposal.
 
-For goods that are imported into Customs Territory for destruction or recycling, or where imported goods are accidentally damaged or destroyed while pending removal from a Free Trade Zone (FTZ), these goods can be removed from the FTZ into Customs Territory for destruction or recycling via the methods below.
+Upon receiving a written approval from NEA, the importer is required to obtain an In-Payment a permit to pay the duty and/or GST of goods (where applicable) that are imported into Singapore’s Customs Territory for disposal. The duty and/or GST shall be based on the Cost, Insurance and Freight (CIF) value of the goods incurred by the importer at the time of importation, as summarised below:
 
 | **Scenario** | **Permit Required and Value to be declared** |
 |--|--|
