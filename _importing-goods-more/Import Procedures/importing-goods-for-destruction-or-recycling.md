@@ -29,7 +29,7 @@ An importer or his appointed Declaring Agent should obtain a Short-Payment permi
 
 The importer or his appointed declaring agent must declare the previous  **In-Payment**  or  **In-Non-Payment (Destruction)**  permit number in the Previous Permit No. field.
 
-Please take note of the relevant procedural requirements when obtaining an In-Non-Payment (Destruction) permit for the disposal of imported goods listed in the respective categories below after a written approval from NEA has been obtained.
+Please take note of the relevant procedural requirements when obtaining an In-Non-Payment (Destruction) permit for the destruction or recycling of imported goods listed in the respective categories below.
 
 1. [Dutiable Motor Vehicles](/businesses/importing-goods/import-procedures/importing-goods-for-destruction-or-recycling/dutiable-motor-vehicles)
 
