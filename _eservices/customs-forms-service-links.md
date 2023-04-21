@@ -1,5 +1,5 @@
 ---
-title: Customs Forms &amp; Service Links
+title: Customs Forms & Service Links
 permalink: /eservices/customs-forms-and-service-links/
 ---
 ## ASEAN Customs Transit System/Declaration Document
@@ -25,9 +25,8 @@ permalink: /eservices/customs-forms-and-service-links/
 | 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp)|
 | 5. | Manufacturing Cost Statement Format | [Excel Doc](https://go.gov.sg/coststatementfeb2023updated)|
 | 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
-| 7. | Registration for the ASEAN Single Window | [Web Link](https://form.gov.sg/#!/5d1330b145677e0011c1c97a)|
-| 8. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/#!/5ced00d93abf730010ef8888)|
-| 9. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
+| 7. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/#!/5ced00d93abf730010ef8888)|
+| 8. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
