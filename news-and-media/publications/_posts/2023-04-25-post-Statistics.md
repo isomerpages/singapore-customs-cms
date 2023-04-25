@@ -1,6 +1,6 @@
 ---
 title: Statistics
-date: 2023-04-10
+date: 2023-04-25
 permalink: /news-and-media/publications/statistics/
 layout: post
 description: ""
