@@ -23,7 +23,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 2. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)|
 | 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a)|
 | 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp)|
-| 5. | Manufacturing Cost Statement Format | [Excel Doc](https://go.gov.sg/coststatementfeb2023updated)|
+| 5. | Manufacturing Cost Statement Format | [Excel Doc](https://go.gov.sg/coststatementapr2023)|
 | 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
 | 7. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/#!/5ced00d93abf730010ef8888)|
 | 8. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
