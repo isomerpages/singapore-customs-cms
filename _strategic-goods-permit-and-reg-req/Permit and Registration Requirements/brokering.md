@@ -25,7 +25,7 @@ You should register as a broker with Singapore Customs at least 14 working days 
 
 In addition, registered brokers are required to submit a  [half-yearly report on brokering activities](/eservices/customs-forms-and-service-links)  that have been carried out during that period. The report must be submitted to Singapore Customs by the 30th  day of June and December every year. Singapore Customs may also require the records to be audited and verified by an authorised officer at any time.
 
-Your application should be processed within seven working days. Please ensure that the information and documents provided are complete. However, some applications may take a longer time to process, depending on the nature of the item, destination or parties involved in the transaction. To avoid any possible delay in your brokering activities, you are encouraged to submit your application two months ahead for our assessment and processing. some applications may take longer to process, depending on the nature of the item, destination or parties involved in the transaction.
+Your application should be processed within seven working days. Please ensure that the information and documents provided are complete. However, some applications may take a longer time to process, depending on the nature of the item, destination or parties involved in the transaction. To avoid any possible delay in your brokering activities, you are encouraged to submit your application two months ahead for our assessment and processing. 
 
 ## Applying for a Brokering Permit
 
