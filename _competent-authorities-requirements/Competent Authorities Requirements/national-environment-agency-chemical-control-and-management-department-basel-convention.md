@@ -85,6 +85,15 @@ Prior approval via the TradeNet shall be obtained for the export, import and tra
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export and import of all Used Electrical &amp; Electronic Equipments.**
 
+## Export and Import Plastic Waste
+
+Since 1 Jan 2021, the transboundary movement of certain types of plastic waste under Annexes II and VIII of the Basel Convention are subjected to the Prior Informed Consent (PIC) procedure, while plastic waste listed in Annex IX are exempted from the transboundary movement control and a Basel Permit is not required from CCMD.
+
+For more information, please refer to the [circular ](https://www.nea.gov.sg/docs/default-source/our-services/pollution-control/hazardous-waste/circular-on-update-of-tradenet-requirements-for-transboundary-movement-of-plastic-waste.pdf) on Update on Tradenet Requirements for the Transboundary Movement of Plastic Waste under the Basel Convention
+
+1. Declarant must declare the following in the export or import permit application:
+
+
 ## Additional Notes:
 
 1.  The HS Codes and Product Codes for hazardous waste, controlled waste and Used Electrical &amp; Electronic Equipments under the purview of NEA-CCMD can be found [here](https://www.nea.gov.sg/corporate-functions/resources/legislation-international-law/multilateral-environmental-agreements/chemical-safety/basel-convention).
