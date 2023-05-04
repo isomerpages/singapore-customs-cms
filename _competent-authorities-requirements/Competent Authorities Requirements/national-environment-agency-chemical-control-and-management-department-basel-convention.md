@@ -91,11 +91,26 @@ Since 1 Jan 2021, the transboundary movement of certain types of plastic waste u
 
 For more information, please refer to the [circular ](https://www.nea.gov.sg/docs/default-source/our-services/pollution-control/hazardous-waste/circular-on-update-of-tradenet-requirements-for-transboundary-movement-of-plastic-waste.pdf) on Update on Tradenet Requirements for the Transboundary Movement of Plastic Waste under the Basel Convention
 
-1. Declarant must declare the following in the export or import permit application:
+**1.**  Declarant must declare the following in the export or import permit application: <br>
+-  Item description and item quantity under ‘Item Details’ column
+-  The corresponding Product Codes depending on the purpose of export or import to the correct HS Codes
 
+
+**2.**  Declarant would have to upload the following documents in TradeNet during the permit application, depending on the purpose of export or import: <br>
+-  Invoice
+-  Bill of Lading (BL) / AIr Waybill (AWB)
+-  Photographic evidence of plastic waste for each import/export declaration for Annex IX plastic wastes
+-  Surveyor Report
+-  Contractual agreements with the overseas counterparts
+-  Approvals from the relevant authority of the importing country/exporter's declaration
+-  Letter of confirmation or approval permits from the relevant authority of the importing/exporting country for the transboundary movement of plastic waste listed in Annex IX (i.e. to support that the shipment of plastic wastes is considered non-hazardous under the Basel Convention)
+-  Any other supporting documents relevant to the export or import shipments
+
+**Note**:<br>
+**Prior approval via the TradeNet shall be obtained for the export and import of all plastic waste.**
 
 ## Additional Notes:
 
-1.  The HS Codes and Product Codes for hazardous waste, controlled waste and Used Electrical &amp; Electronic Equipments under the purview of NEA-CCMD can be found [here](https://www.nea.gov.sg/corporate-functions/resources/legislation-international-law/multilateral-environmental-agreements/chemical-safety/basel-convention).
+1.  The HS Codes and Product Codes for hazardous waste, controlled waste and Used Electrical &amp; Electronic Equipments and plastic waste under the purview of NEA-CCMD can be found [at the HS/CA Product Code Search Engine.](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)
 
-2.  If the importer / exporter does not have the required supporting documents (e.g. Basel permit etc), please contact CCMD officers at 67319061 for advice.
+2.  If the importer / exporter does not have the required supporting documents required by NEA (e.g. Basel permit etc), please contact CCMD officers at 67319061 for advice.
