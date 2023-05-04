@@ -20,8 +20,7 @@ CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention i
     
     -  Basel Export, Import or Transit Permit No. under the 'Licence Details' column
     -  Item description and item quantity under ‘Item Details’ column
-    - The corresponding Product Codes to the correct HS Codes
-    
+    - The corresponding Product Codes to the correct Harmonised System (HS) Codes
 - Declarant would have to upload the following documents in TradeNet during the permit application:
     
      -  Invoice
@@ -41,7 +40,7 @@ CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention i
 
    - Purpose of export under the 'Remarks/Conditions’ column
    - Item description and item quantity under ‘Item Details’ column
-   - The corresponding Product Codes to the correct HS Codes
+   - The corresponding Product Codes to the correct Harmonised System (HS) Codes
 
 - Declarant would have to upload the following documents in TradeNet during the permit application:
 
