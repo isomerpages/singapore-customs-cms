@@ -73,9 +73,9 @@ The e-receipt is valid only on the date of arrival printed on the receipt. If th
 
 Please email [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@customs.gov.sg) , with all relevant supporting documents such as purchase receipt and flight cancellation document, to seek a refund if:
 
--   You have submitted a duplicate declaration;
--   Your trip to Singapore has been cancelled; or
--   The declared quantity exceeds the physical quantity in your possession. In this case, you are required to approach our officers at the Customs Tax Payment Office immediately upon arrival to verify the physical items.
+- &nbsp; You have submitted a duplicate declaration;
+- &nbsp; Your trip to Singapore has been cancelled; or
+- &nbsp; The declared quantity exceeds the physical quantity in your possession. In this case, you are required to approach our officers at the Customs Tax Payment Office immediately upon arrival to verify the physical items.
 
 All refund requests will be reviewed on a case-by-case basis. Therefore, please check your declarations carefully before submitting your declarations for payment via the Customs@SG web application.
 
@@ -99,7 +99,7 @@ You can access the Customs@SG web application via all browsers.
 
 **2.** **What payment mode does Customs@SG web application accept?**
 
-Visa and MasterCard.
+Visa, Mastercard and American Express.
 
 **3.** **Can I save my declaration as a draft before making payment?**
 
@@ -130,11 +130,11 @@ d. Chinese “Shao Jiu” or “Gao Liang Jiu”
 e. Baileys  
   
 **Answer**  
-a. DOM –> Liqueur / Cordials / Herbal liqueur  
-b. Yomeishu –> Liqueur / Cordials / Herbal liqueur  
-c. Umeshu –> Liqueur / Cordials / Herbal liqueur  
-d. Chinese “Shao Jiu” or “Gao Liang Jiu” –> Samsu   
-e. Baileys –> Liqueur / Cordials / Herbal liqueur
+a. DOM –&gt; Liqueur / Cordials / Herbal liqueur  
+b. Yomeishu –&gt; Liqueur / Cordials / Herbal liqueur  
+c. Umeshu –&gt; Liqueur / Cordials / Herbal liqueur  
+d. Chinese “Shao Jiu” or “Gao Liang Jiu” –&gt; Samsu   
+e. Baileys –&gt; Liqueur / Cordials / Herbal liqueur
 
 ***
 
@@ -154,7 +154,7 @@ c.	Brand, model, OS and version of the mobile device;<br>
 d.	Mode of connection (Wi-Fi or mobile data); and<br>
 e.	Whether there was any pop-up message while the traveller was making the declaration or making payment. If yes, what was the error message?
  
-## Terms & Conditions
+## Terms &amp; Conditions
    
 The terms and conditions for use of the **Customs@SG** web application for declaration and payment of duty and/or Goods and Services Tax (GST) are as follows:
 
