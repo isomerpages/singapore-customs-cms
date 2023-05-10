@@ -11,7 +11,7 @@ To determine if your product is controlled under the Strategic Goods (Control) A
 
 ## Determination Database
 
-The  [Determination Database](/files/businesses/Strategic-Goods-Determination-Database_Sep-19.xlsx)  is a list of products and their determination compiled from past applications. You may refer to it to view products which have been assessed by Singapore Customs.
+The  [Determination Database](https://go.gov.sg/strategic-goods-determination-database)  is a list of products and their determination compiled from past applications. You may refer to it to view products which have been assessed by Singapore Customs.
 
 _Disclaimer:_ _The determination of strategic goods provided here is for general reference only. Every effort has been made to ensure that the information presented is complete and accurate._ _Singapore Customs assumes no responsibility and accepts no liability for any action taken or omitted by you on the basis of the classification provided._
 
