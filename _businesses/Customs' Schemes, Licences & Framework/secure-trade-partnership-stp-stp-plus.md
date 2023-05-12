@@ -56,8 +56,8 @@ Please refer to the  [Factsheet on Mutual Recognition](/files/businesses/Factshe
 
 ## STP and STP-Plus Certified Companies
 
--   [STP Certified Companies](/files/businesses/SEB/STP%20Companies%20as%20at%201%20Feb%202023.pdf)
--   [STP - Plus Certified Companies](/files/businesses/SEB/STP-Plus%20Companies%20as%20at%201%20Feb%202023.pdf)
+-   [STP Certified Companies](/files/businesses/SEB/stp%20certified%20companies%20as%20at%2027%20apr%202023.pdf)
+-   [STP - Plus Certified Companies](/files/businesses/SEB/stp-plus%20certified%20companies%20as%20at%2027%20apr%202023.pdf)
 
 ## How to Qualify?
 
@@ -71,16 +71,16 @@ Click [here](/files/businesses/SEB/STP%20Handbook%20(Nov%202022).pdf) for the Ha
 
 ## How to Apply?
 
-**Step 1**: Complete the Application Form for STP at this link:  [www.go.gov.sg/stp-application](http://www.go.gov.sg/stp-application).
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022) and relevant Annexes. 
 
-**Step 2**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022) and relevant Annexes. 
-
-**Step 3**: Prepare these additional supporting documents:
+**Step 2**: Prepare these additional supporting documents:
 
 -   Accounting and Corporate Regulatory Authority BizFile Report
 -   Audited financial statements for the past 3 years
 -   Relevant security certifications if any (for example, Transported Asset Protection Association (TAPA), ISO 28000)
 -   Other relevant documents as specified in the instructions tab of the TradeFIRST Self-Assessment Checklist
+
+**Step 3**: Complete the Application Form for STP at this link:  [www.go.gov.sg/stp-application](http://www.go.gov.sg/stp-application).
 
 **Step 4**: Submit the checklist and supporting documents to Singapore Customs via email: [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg)
 
