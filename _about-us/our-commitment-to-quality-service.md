@@ -2,7 +2,6 @@
 title: Our Commitment To Quality Service
 permalink: /about-us/our-commitment-to-quality-service/
 ---
-
 # Our Commitment to Quality Service 
 
 ## Your Satisfaction, Our Pride
@@ -27,7 +26,7 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 
 |Traders                                                                            |                                                                                                                                                                    |
 |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|**Process TradeNet Declarations (and Amendments)**                                 | 99% within 10 minutes                                                                                                                                              |
+|**Process TradeNet Declarations (and Amendments)**                                 | More than 99% within 10 minutes                                                                                                                                              |
 |**Issue Customs Duty/Goods and Services Tax (GST) Refund**                         |  Within 5 working days (if supporting documents are **not** required)<br><br>Within 12 working days (upon receipt of all supporting documents)                     |
 |**Process Certificates of Origin Online Applications**                             |  Certificates of Origin for goods of Singapore origin applications within 2 working hours (upon receipt of all supporting documents)<br><br>Back-to-back Certificates of Origin applications within 2 working days(upon receipt of all supporting documents)    |
 |**Issue Import Certificates and Delivery Verifications (ICDV)**                    |  100% within 2 working days upon receipt of complete application with all the relevant supporting documents                                                        |
@@ -48,3 +47,4 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 Singapore Customs is committed to provide our customers with prompt and professional service.
 
 Through active engagement with our customers and benchmarking our services to best practices, we strive to delight them. We conduct surveys regularly to gather our customers’ feedback and to measure their satisfaction with our services so that we can serve them even better. 
+</sup>
