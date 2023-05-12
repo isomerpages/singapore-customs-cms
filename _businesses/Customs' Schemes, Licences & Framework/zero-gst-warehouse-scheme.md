@@ -50,7 +50,7 @@ With effect from 1 Jan 2018, to mitigate money laundering and terrorism financin
 -   Obtain, maintain and update information on identity of the person(s) with control over the listed goods and the person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 -   Conduct screening, maintain and update the screening records of customers who deposit the goods, person(s) with control over the listed goods and person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 
-You may refer to the HS Codes and HS descriptions for listed goods [here](/files/businesses/list-of-listed-goods.pdf).
+You may refer to the [HS Codes and HS descriptions for listed goods. ](/files/businesses/SEB/2022%20ahtn%20listed%20goods%20hs%20codes.pdf)
 
 ## Filing of Suspicious Transaction Report
 
