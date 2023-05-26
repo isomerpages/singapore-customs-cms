@@ -15,8 +15,8 @@ You can make a claim for refund in writing for an overpayment or erroneous payme
 | **Import Mode**  |  **Payment made through** |  **Submit refund through** |
 |---|---|---|
 | Air Freight  | TradeNet permits  |  Declaring Agent of the TradeNet permit |
-| Air Courier  |  Courier Service <br> (e.g. DHL, FedEx & UPS) |  Courier service company |
-|  Post (registered / ordinary mail) or Speedpost (Express Mail Service / Ordinary parcel) services | Singapore Post <br> ICA counter at Singapore Post Centre  |  Singapore Post <br> Directly to Singapore Customs using [“Application for Refund of Duty/GST”](/files/businesses/application-for-refund-of-duty-or-gst-form-5nov2018.doc) form |
+| Air Courier  |  Courier Service <br> (e.g. DHL, FedEx &amp; UPS) |  Courier service company |
+|  Post (registered / ordinary mail) or Speedpost (Express Mail Service / Ordinary parcel) services | Singapore Post <br>  |  Singapore Post [website](https://crmint.singpost.com/spcontactus) and choose *Speedpost*  &gt; *Speedpost* *International Incoming* &gt; GST<br>
 
 Your refund claim should be supported by the following supporting documents (where applicable):
 
@@ -34,7 +34,7 @@ From 1 Jan 2023, GST will be extended to LVG imported via air or post through th
 
 In the event that you had paid GST twice on the same goods (i.e. GST was charged on the sale of goods by the OVR Vendor and importation of goods was subjected to GST payment again at the border), you should seek the reimbursement of GST refund from the OVR vendor by providing evidence to substantiate that import GST was paid to Singapore Customs. 
 
-For more information on this, you may refer to IRAS webpage on GST on Imported Low-Value Goods: [http://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods](http://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods) > FAQs > D. Others 
+For more information on this, you may refer to IRAS webpage on GST on Imported Low-Value Goods: [http://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods](http://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods) &gt; FAQs &gt; D. Others 
 
 If the OVR vendor has refused to reimburse the GST, as a last resort, you may approach your transporter (e.g Declaring agent of the TradeNet Permit, courier service company, SingPost) to submit a refund application with the following supporting document to Singapore Customs for assessment:
 
