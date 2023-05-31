@@ -25,7 +25,7 @@ If you have a query, feedback or wish to report a problem related to this websit
 **Report a scam**<br>Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d)<br><hr>
 
 **Feedback on Service Quality**<br>**Quality Service Manager**<br>+65 6355 2959<br>For feedback regarding Quality Service<br>
-**Can’t find what you’re looking for?**<br>You may wish to fill in an [online form(mailto:https://www.customs.gov.sg/feedback/) if you have a query, feedback or wish to report a problem related to this website.<br>
+**Can’t find what you’re looking for?**<br>You may wish to fill in an [online form](https://www.customs.gov.sg/feedback/) if you have a query, feedback or wish to report a problem related to this website.<br>
 
 #### Our Locations <br>
 
