@@ -53,7 +53,7 @@ Please fill in the online form to
 **Quality Service Manager**<br>
 +65 6355 2959<br>
 For feedback regarding Quality Service<br>
-<br>
+
 **Can’t find what you’re looking for?**<br>
 You may wish to fill in an 
 [online form](mailto:https://www.customs.gov.sg/feedback/) if you have a query, feedback or wish to report a problem related to this website.<br>
