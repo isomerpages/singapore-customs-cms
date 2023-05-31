@@ -25,7 +25,8 @@ If you have a query, feedback or wish to report a problem related to this websit
 **Technical Issues**<br><br>**Technical issues or enquiries on NTP**<br>+65 6570 3053 <br>Operating hours: <br>8:30am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>Alternatively, you can reach us via [email](mailto:NTP_Helpdesk@ncs.com.sg)<br><br>**Technical issues or enquiries on TradeNet**<br>+65 6887 7888<br>Operating hours: <br>9am to 6pm (Monday to Friday)<br>9am to 1pm (Saturday)<br>Closed on Sundays and public holidays.<br><hr>
 
 **Report to Us**<br>Report smuggling activities and/or evasion of duty/Goods and Services Tax (GST)<br>1800 233 0000<br>
-**Report a scam**<br>Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d)<br><hr>
+**Report a scam**<br>Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d)<br>
+<hr>
 
 **Feedback on Service Quality**<br>**Quality Service Manager**<br>+65 6355 2959<br>For feedback regarding Quality Service<br>
 **Can’t find what you’re looking for?**<br>You may wish to fill in an [online form](https://www.customs.gov.sg/feedback/) if you have a query, feedback or wish to report a problem related to this website.<br>
