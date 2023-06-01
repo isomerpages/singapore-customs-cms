@@ -1,5 +1,5 @@
 ---
-title: 092023 Update on the Networked Trade Platform (NTP) Refresh and New Fee
+title: 09/2023 Update on the Networked Trade Platform (NTP) Refresh and New Fee
   Schedule
 date: 2023-06-01
 layout: file
