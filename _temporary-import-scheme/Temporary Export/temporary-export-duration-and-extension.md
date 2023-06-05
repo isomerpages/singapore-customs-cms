@@ -9,7 +9,7 @@ The same exporter should apply for the corresponding [ In-Non-Payment (TCI)](htt
 
 For goods temporarily exported as trade samples or for repair purposes, these goods have to be re-imported into Singapore within three months from the date of export. For all other goods and purposes, there is no limit to the duration you may temporarily export the goods.  
 
-You are required to provide the following documentary proof that the goods were GST-paid and previously temporarily exported from Singapore under an [Out (TCI) permit](https://www.customs.gov.sg/businesses/export:ing-goods/export-procedures/types-of-export-permits):
+You are required to provide the following documentary proof that the goods were GST-paid and previously temporarily exported from Singapore under an [Out (TCI) permit](https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits):
 
 -   Letter of explanation for goods re-imported into Singapore after three months (if applicable);
 -   Temporary export permit
