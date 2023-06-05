@@ -19,7 +19,7 @@ Singapore Customs actively conducts seminars to update the industry on the lates
 
 | Date | Title | Related Link |
 | -------- | -------- | --------|
-| 3 August 2023   | Joint Industry Outreach Seminar on Strategic Trade Management 2023 | [Web Link](https://www.customs.gov.sg/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2023)|
+| 3 August 2023   | Joint Industry Outreach Seminar on Strategic Trade Management 2023 | [Web Link](https://www.customs.gov.sg/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2023/)|
 
 
 
