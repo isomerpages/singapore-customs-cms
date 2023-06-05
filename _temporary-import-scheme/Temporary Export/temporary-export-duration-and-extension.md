@@ -1,19 +1,18 @@
 ---
 title: Temporary Export Duration and Extension
-permalink: /businesses/importing-goods/temporary-import-scheme/duration-and-extention-export
-third_nav_title: Temporary Export 
+permalink: /businesses/importing-goods/temporary-import-scheme/duration-and-extention-export/
+third_nav_title: Temporary Export
 ---
-
 # Temporary Export Duration and Extension
 
-For goods temporarily exported as trade samples or for repair purposes, these goods have to be re-imported into Singapore within 3 months from the date of export.
+The same exporter should apply for the corresponding [ In-Non-Payment (TCI)](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/types-of-import-permits/) permit and produce it, together with the goods, for clearance at the inward checkpoint
 
-If you require an extension beyond 3 months for such goods, please email us at [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg) with the relevant explanations and supporting documents for our assessment.
+For goods temporarily exported as trade samples or for repair purposes, these goods have to be re-imported into Singapore within three months from the date of export. For all other goods and purposes, there is no limit to the duration you may temporarily export the goods.  
 
-For all other goods and purposes, there is no limit to the duration you may export the goods. However, you may be required to provide the following documentary proof that the goods were GST-paid and previously temporarily exported from Singapore under a [Customs Out (Temporary Consignment) permit](/businesses/exporting-goods/export-procedures/types-of-export-permits):
+You are required to provide the following documentary proof that the goods were GST-paid and previously temporarily exported from Singapore under an [Out (TCI) permit](https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits):
 
+-   Letter of explanation for goods re-imported into Singapore after three months (if applicable);
 -   Temporary export permit
--   Bill of Lading or Airway Bill
--   Commercial invoice
--   Packing list
--   Any other documents as specified by Customs
+-   Import and export commercial invoices, bills of lading/air waybills and packing list;
+-   Documentation to substantiate that the temporarily exported goods are locally produced or payment permit to state that the item is GST paid if the item is sourced overseas; and
+-   Any other documents as specified by Customs.
