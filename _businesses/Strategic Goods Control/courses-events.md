@@ -3,7 +3,7 @@ title: Courses & Events
 permalink: /businesses/strategic-goods-control/courses-and-events/
 third_nav_title: Strategic Goods Control
 ---
-# Courses & Events
+# Courses &amp; Events
 
 ## Courses
 
@@ -14,6 +14,12 @@ The  Singapore Customs Academy provides courses to enhance the industry’s awar
 Singapore Customs actively conducts seminars to update the industry on the latest developments in strategic goods control. These seminars also provide a platform for the industry to pick up best practices for improved compliance.
 
 ## Upcoming Events
+
+
+
+| Date | Title | Related Link |
+| -------- | -------- | --------|
+| 3 August 2023   | Joint Industry Outreach Seminar on Strategic Trade Management 2023 | [Web Link](https://www.customs.gov.sg/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2023/)|
 
 
 
