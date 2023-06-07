@@ -88,12 +88,12 @@ However, the traveller can enjoy some GST import relief on a good if it meets th
 
 a)	it is a new article, souvenir, gift or food preparation; and 
 
-b)	it is for his/her personal (non-commercial) use or consumption. 
+ b)	it is for his/her personal (non-commercial) use or consumption. 
 
 The amount of GST import relief will depend on the duration that the traveller has spent outside Singapore.  Travellers will have to pay GST on the value of the goods which is in excess of the GST import relief granted to them.
 
 
-| Time Spent Away from Singapore | Value of Goods Granted GST Relief |
+| Time Spent Away from Singapore | Value of Goods Granted GST Import Relief |
 |--|--|
 | 48 hours or more | S$500 |
 | Less than 48 hours | S$100 |
