@@ -9,7 +9,7 @@ third_nav_title: Registration Services
 
 The bank account must be linked to your entity's Unique Entity Number and under one of the IBG participating banks listed in  [The Association of Banks in Singapore](https://abs.org.sg/docs/library/swift_bic_codes.pdf){:target="_blank"}'s website.
 
-To apply,  **mail**  the completed [Application for Inter-Bank Giro form](/eservices/customs-forms-and-service-links) to Singapore Customs' address as indicated in the form.
+To apply,  **mail**  the completed [Application for Inter-Bank Giro form](https://go.gov.sg/customs-ibg-form) to Singapore Customs' address as indicated in the form.
 
 The processing of the application usually takes three to four weeks.
 
