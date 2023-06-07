@@ -14,13 +14,13 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/sc
   to register for the courses.
 
 
-## Resources & Events for Businesses
+## Resources &amp; Events for Businesses
 
 | Title | Related Link |
 |--|--|
-| **Guide for Newly Registered Traders** | [PDF](/files/businesses/eguide-for-newly-registered-traders-updated-as-of-19-apr-2016.pdf) |
+| **Guide for Newly Registered Traders** | [PDF](https://go.gov.sg/guide-for-newly-registered-traders) |
 | **Guide to Customs’ Procedures** | [Web Link](https://www.customs.gov.sg/businesses/business-resources/elearning) |
-| **Temporary Import Scheme & Temporary Export Consignment Guide** | [PDF](/files/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
+| **Temporary Import Scheme &amp; Temporary Export Consignment Guide** | [PDF](/files/businesses/temporary-import-scheme-temporary-export-consigment-guide.pdf) |
 | **Handbook on Rules of Origin for Preferential Certificates of Origin** | [PDF](/files/businesses/handbookonrooforpcomar2020TTttsb.pdf) |
 | **Handbook on the Rules of Origin for Schemes of Preference** | [PDF](/files/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf) |
 | **Past and Upcoming Events for Traders under Specific Schemes** | [Web Link](/businesses/business-resources/courses-and-events/events-for-traders) |
