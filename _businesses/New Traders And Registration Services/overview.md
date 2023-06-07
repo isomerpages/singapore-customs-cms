@@ -36,7 +36,7 @@ You may wish to view the <a href="https://go.gov.sg/customschecklistforimportpro
 
 You are required to maintain an Inter-Bank GIRO (IBG) with Singapore Customs to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore from your bank account to Singapore Customs directly.
 
-To apply, mail the completed  [Application for Inter-Bank GIRO form](/eservices/customs-forms-and-service-links) to Singapore Customs’ address as indicated in the form.
+To apply, mail the completed  [Application for Inter-Bank GIRO form](https://go.gov.sg/customs-ibg-form) to Singapore Customs’ address as indicated in the form.
 
 The IBG application usually requires 3 to 4 weeks for the bank’s approval. Once it is approved, you will receive a notification by email depending on the contact details provided in your Customs Account.
 
@@ -54,7 +54,7 @@ Singapore Customs may also vary the security lodgement amount on a case-by-case 
 
 ## Authorising your Declaring Agent
 
-If you are the Key Personnel (for example, the owner, partner or director, based on ACRA’s records) or the Authorised Personnel of the entity, you may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"}   to use your:
+If you are the Key Personnel (for example, the owner, partner or director, based on ACRA’s records) or the Authorised Personnel of the entity, you may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP){:target="_blank"}   to use your:
 
 -   **Inter-Bank GIRO** for the payment of duties and GST for your customs permits; and,
 -   **Security** for your permit applications
