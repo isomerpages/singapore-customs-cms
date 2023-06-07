@@ -101,7 +101,7 @@ The amount of GST import relief will depend on the duration that the traveller h
 
 _What types of good and which types of travellers are not entitled to GST import relief?_
 
-Intoxicating liquor and tobacco, as well as goods imported for commercial purposes are excluded from this GST import relief for new articles. Please also refer to this [page](https://www.customs.gov.sg/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief/) for Customs & Excise duties applicable to liquor and tobacco.
+Intoxicating liquor and tobacco, as well as goods imported for commercial purposes are excluded from this GST import relief for new articles. Please also refer to this [page](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods/) for Customs & Excise duties applicable to liquor and tobacco.
 
 Holders of a work permit, employment pass, student pass, dependent pass or long-term pass issued by the Singapore Government, and crew members are also not entitled to this GST import relief.
 
