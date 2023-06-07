@@ -4,13 +4,12 @@ title: Singapore Customs
 description: Singapore Customs is the lead agency on trade facilitation and
   revenue enforcement.
 permalink: /
-notification: For best experiences, please use the latest version of Microsoft
-  Edge, Chrome, Firefox, Safari.<br> Make use of our digital services when
-  transacting with us! Businesses are encouraged to submit trade declarations
-  via TradeNet and access our eServices via the Networked Trade Platform
-  (www.ntp.gov.sg). <br> For payment of taxes at the various Checkpoints, please
-  make an advance declaration using Customs@SG Web application via our eServices
-  (www.customs.gov.sg/services).
+notification: Use our digital services when transacting with us! We encourage
+  businesses to submit trade declarations via TradeNet and access our eServices
+  via the Networked Trade Platform (www.ntp.gov.sg).<br> Travellers may use the
+  Customs@SG Web application via our eServices (www.customs.gov.sg/services) to
+  make advance declarations and tax payments. <br> For immigration requirements,
+  visit the ICA website (https://safetravel.ica.gov.sg/).
 sections:
   - hero:
       background: /images/Banner_resized_911.png
