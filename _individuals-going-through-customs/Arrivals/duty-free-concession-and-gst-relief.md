@@ -101,7 +101,7 @@ The amount of GST import relief will depend on the duration that the traveller h
 
 _What types of good and which types of travellers are not entitled to GST import relief?_
 
-Intoxicating liquor and tobacco, as well as goods imported for commercial purposes are excluded from this GST import relief for new articles. Please also refer to this [page](https://www.customs.gov.sg/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief/) for Customs & Excise duties applicable to liquor and tobacco.
+Intoxicating liquor and tobacco, as well as goods imported for commercial purposes are excluded from this GST import relief for new articles. Please also refer to this page for [Customs & Excise duties](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods/) applicable to liquor and tobacco.
 
 Holders of a work permit, employment pass, student pass, dependent pass or long-term pass issued by the Singapore Government, and crew members are also not entitled to this GST import relief.
 
@@ -129,19 +129,19 @@ For your convenience, you are encouraged to make an advance declaration and paym
 
 **Frequently Asked Questions**
 
-Q1.      If I were to buy a branded bag for S$2,000 while holidaying overseas, and were to start using it during the trip, do I have to pay GST when I bring the bag home? If so, how is the GST computed?
+**Q1.      If I were to buy a branded bag for S$2,000 while holidaying overseas, and were to start using it during the trip, do I have to pay GST when I bring the bag home? If so, how is the GST computed?**
 
 A1.      Yes, the bag is subject to the prevailing GST rate of 8 per cent. If you have been away from Singapore for more than 48 hours, you will be entitled to a GST import relief amount of S$500. Therefore, the amount of GST that you will have to pay is S$120 \[S$(2,000 – 500) x 8 per cent\]. If you have been away from Singapore for less than 48 hours, you will be entitled to a GST import relief amount of S$100. Therefore, the amount of GST that you will have to pay is S$152 \[S$(2,000 – 100) x 8 per cent\].
 
-Q2.      If I were to remove the price tag/packaging and use an item bought overseas immediately, before returning home to Singapore, is the item still subject to GST? What if the item was bought from a second-hand shop and is not brand new? Can it be considered a used article or personal belonging where GST import relief is granted regardless of its value?
+**Q2.      If I were to remove the price tag/packaging and use an item bought overseas immediately, before returning home to Singapore, is the item still subject to GST? What if the item was bought from a second-hand shop and is not brand new? Can it be considered a used article or personal belonging where GST import relief is granted regardless of its value?**
 
 A2.        In both cases, the item is still subject to GST as they were newly purchased or newly acquired overseas. GST is payable if the value of the item exceeds the GST import relief amount granted to new articles (see Q1). “Used articles and personal belongings” are items that you already had, prior to departure from Singapore.
 
-Q3.      If I already paid sales tax for an item purchased overseas and I did not claim tax refund, do I still have to pay GST?
+**Q3.      If I already paid sales tax for an item purchased overseas and I did not claim tax refund, do I still have to pay GST?**
 
 A3.      GST is applicable on all items brought into Singapore regardless of whether foreign sales tax was paid for the item overseas, and regardless of whether the traveller has claimed a tax refund for the item abroad. 
 
-Q4.      If I were to receive a gift while overseas, how is the tax calculated since I will not have a receipt and will not be able to estimate the value of the gift?
+**Q4.      If I were to receive a gift while overseas, how is the tax calculated since I will not have a receipt and will not be able to estimate the value of the gift?**
 
 A4.      If the receipt is not available, the value of the goods will be assessed based on the value of identical or similar goods when computing the GST payable.
 
