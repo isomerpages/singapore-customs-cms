@@ -76,7 +76,7 @@ There is no duty-free concession and GST relief on motor fuel including motor sp
 
 ## Goods and Services Tax (GST) Import Relief
 
-All goods brought into Singapore are subject to  Goods & Services Tax (GST). This is because GST is a tax on consumption and import of goods.The GST payable is the prevailing rate, levied on the value of the goods, which may include the Cost, Insurance and Freight (CIF) plus other chargeable costs and the customs and/or excise duty payable (if applicable).
+All goods brought into Singapore are subject to  Goods & Services Tax (GST). This is because GST is a tax on consumption and import of goods. The GST payable is the prevailing rate, levied on the value of the goods, which may include the Cost, Insurance and Freight (CIF) plus other chargeable costs and the customs and/or excise duty payable (if applicable).
 
 This is applicable to all travellers including foreign visitors and returning residents. 
 
@@ -95,8 +95,8 @@ The amount of GST import relief will depend on the duration that the traveller h
 
 | Time Spent Away from Singapore | Value of Goods Granted GST Import Relief |
 |--|--|
-| 48 hours or more | S$500 |
-| Less than 48 hours | S$100 |
+| 48 hours or more | Up to S$500 |
+| Less than 48 hours | Up to S$100 |
 
 
 _What types of good and which types of travellers are not entitled to GST import relief?_
