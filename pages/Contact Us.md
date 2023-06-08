@@ -37,14 +37,17 @@ Operating hours: <br>9am to 6pm (Monday to Friday)<br>9am to 1pm (Saturday)<br>C
 
 ---
 
-### Report to Us<br><br>
-**Report smuggling activities and/or evasion of duty/Goods and Services Tax (GST)**<br>1800 233 0000<br><br>
+### Report to Us<br>
+**Report smuggling activities and/or evasion of duty/Goods and Services Tax (GST)**<br>[1800 233 0000](tel:18002330000)<br>
+
 **Report a scam**<br>Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d)<br>
 
 ---
 
 ### Feedback on Service Quality<br>
-**Quality Service Manager**<br>+65 6355 2959<br><br>For feedback regarding Quality Service<br>
+**Quality Service Manager**<br>[+65 6355 2959](tel:+6563552959)
+
+For feedback regarding Quality Service.<br>
 
 ---
 
