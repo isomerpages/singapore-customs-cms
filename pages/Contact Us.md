@@ -6,16 +6,25 @@ description: ""
 # Get in touch with Singapore Customs
 
 
-### Contact Us
+### Enquiries<br>
+**Enquiries on Customs Procedures** 
 
-### Send us your feedback 
-If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form](/feedback/).<br>
+[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552183) <br>
 
-### Enquiries<br><br>
-**Enquiries on Customs Procedures** <br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at +65 6355 2000 <br>Our operating hours:<br> 8am to 6pm (Monday to Friday)<br> 8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.<br>Our peak hours are from 10am to 12pm, and 3pm to 5pm.<br>You are always welcome to engage with us via live-chat.<br>You may also leave a call-back request and we will aim to get back to you within 20 minutes.<br><br> 
+Our operating hours:<br> 8am to 6pm (Monday to Friday)<br> 8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.
 
-**Enquiries and Appeals Pertaining to Notice of Customs Offences** <br>
-**For Three Quarter Tank Rule Offences and Notice of Customs Offence issued by Singapore Customs Checkpoint Division** <br>+65 6355 2183 <br>Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>
+Our peak hours are from 10am to 12pm, and 3pm to 5pm.
+You are always welcome to engage with us via live-chat. You may also leave a call-back request and we will aim to get back to you within 20 minutes.<br>
+
+---
+
+### Enquiries and Appeals Pertaining to Notice of Customs Offence <br>
+
+**For Three Quarter Tank Rule Offences and Notice of Customs Offence issued by Singapore Customs Checkpoint Division** 
+
+[+65 6355 2183](tel:+6563552183)<br>
+
+Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>
 
 **Issued by Customs’ Suppression &amp; Community Engagement Branch or Special Investigation Branch**<br>[customs_special_investigation@customs.gov.sg](mailto:customs_special_investigation@customs.gov.sg)<br>
 
