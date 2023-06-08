@@ -6,7 +6,7 @@ third_nav_title: Courses and Events
 ---
 ## Joint Industry Outreach on Strategic Trade Management 2023
 
-![](/images/jio2023.png)
+![](/images/jio2023v2.jpg)
 
 #### **REGISTER  NOW!**
 
