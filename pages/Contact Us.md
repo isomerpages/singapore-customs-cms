@@ -6,10 +6,9 @@ description: ""
 # Get in touch with Singapore Customs
 
 
-### Enquiries<br>
-**Enquiries on Customs Procedures** 
+### Enquiries
 
-[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552183) <br>
+**Enquiries on Customs Procedures** <br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552183) <br>
 
 Our operating hours:<br> 8am to 6pm (Monday to Friday)<br> 8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.
 
@@ -21,8 +20,7 @@ You are always welcome to engage with us via live-chat. You may also leave a cal
 ### Enquiries and Appeals Pertaining to Notice of Customs Offence <br>
 
 **For Three Quarter Tank Rule Offences and Notice of Customs Offence issued by Singapore Customs Checkpoint Division** 
-
-[+65 6355 2183](tel:+6563552183)<br>
+<br>[+65 6355 2183](tel:+6563552183)<br>
 
 Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>
 
