@@ -31,7 +31,11 @@ Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and pub
 ---
 
 ### Technical Issues<br>
-**Technical issues or enquiries on NTP**<br>[+65 6570 3053](tel:+6565703053) <br>Operating hours: <br>8:30am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>Alternatively, you can reach us via [email](mailto:NTP_Helpdesk@ncs.com.sg)<br><br>**Technical issues or enquiries on TradeNet**<br>+65 6887 7888<br>Operating hours: <br>9am to 6pm (Monday to Friday)<br>9am to 1pm (Saturday)<br>Closed on Sundays and public holidays.<br>
+**Technical issues or enquiries on NTP**<br>[+65 6570 3053](tel:+6565703053)
+
+Operating hours: <br>8:30am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>Alternatively, you can reach us via [email](mailto:NTP_Helpdesk@ncs.com.sg)<br><br>**Technical issues or enquiries on TradeNet**<br>[+65 6887 7888](tel:+6568877888)
+
+Operating hours: <br>9am to 6pm (Monday to Friday)<br>9am to 1pm (Saturday)<br>Closed on Sundays and public holidays.<br>
 
 ---
 
