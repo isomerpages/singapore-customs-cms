@@ -8,7 +8,7 @@ description: ""
 
 ### Enquiries
 
-**Enquiries on Customs Procedures** <br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552183) <br>
+**Enquiries on Customs Procedures** <br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552183).<br>
 
 Our operating hours:<br> 8am to 6pm (Monday to Friday)<br> 8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.
 
@@ -31,7 +31,7 @@ Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and pub
 ### Technical Issues<br>
 **Technical issues or enquiries on NTP**<br>[+65 6570 3053](tel:+6565703053)
 
-Operating hours: <br>8:30am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>Alternatively, you can reach us via [email](mailto:NTP_Helpdesk@ncs.com.sg)<br><br>**Technical issues or enquiries on TradeNet**<br>[+65 6887 7888](tel:+6568877888)
+Operating hours: <br>8:30am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>Alternatively, you can reach us via [email](mailto:NTP_Helpdesk@ncs.com.sg).<br><br>**Technical issues or enquiries on TradeNet**<br>[+65 6887 7888](tel:+6568877888)
 
 Operating hours: <br>9am to 6pm (Monday to Friday)<br>9am to 1pm (Saturday)<br>Closed on Sundays and public holidays.<br>
 
