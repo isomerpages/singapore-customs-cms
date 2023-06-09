@@ -1,5 +1,5 @@
 ---
-title: 102023 Advisory Importers to be Declared in Permit Applications
+title: 10/2023 Advisory Importers to be Declared in Permit Applications
 date: 2023-06-09
 layout: file
 description: ""
