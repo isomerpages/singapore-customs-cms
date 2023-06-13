@@ -5,10 +5,10 @@ third_nav_title: Strategic Goods Control
 ---
 # Permit and Registration Requirements
 
-A strategic goods permit is required for any transfer or brokering of:
+A strategic goods permit is required for:
 
--   Strategic goods and related technology listed in the [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list){:target="_blank"}
--   Any goods or technology intended or likely to be used for or in connection with weapons of mass destruction.
+-  Any transfer (export, transhipment, transit, and/ or intangible transfer) of strategic goods and related technology listed in the [Strategic Goods Control List](/businesses/strategic-goods-control/strategic-goods-control-list); and
+-   Any transfer (export, transhipment, transit, intangible transfer, and/ or brokering) of goods or technology, which is intended or likely to be used for or in connection with weapons of mass destruction.
 
 ## Export, Transhipment, Transit and Intangible Transfer of Technology (ITT)
 
