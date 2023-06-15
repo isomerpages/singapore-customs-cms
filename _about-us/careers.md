@@ -12,8 +12,7 @@ We ensure that all our officers have opportunities for career advancement and de
 
 Our structured **Open Posting System (OPS)** will allow you to enhance your versatility and develop critical competencies, thereby supporting your professional growth and progression.
 
-![OPS](/images/ops%20(1).png)
-
+![OPS](/images/ops%20v2.png)
 
 ##### **We invest in your growth and development.**
 As a new officer, we will get you started on a strong footing with a comprehensive onboarding program offering a holistic understanding of the Singapore Customs. 
