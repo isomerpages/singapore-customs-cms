@@ -47,7 +47,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 LW licence types can be found in the [Licensed Warehouse Handbook](/files/businesses/SEB/LW%20Handbook_Jun%202022.pdf) (Chapter 2.8).
+A summary of the benefits for the 3 LW licence types can be found in the [Licensed Warehouse Handbook](/files/businesses/SEB/licensed%20warehouse%20handbook%20_%20jun%202023.pdf) (Chapter 2.8).
 
 ## How to Qualify?
 
@@ -84,7 +84,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
     -   Declare relevant Customs permits through  [TradeNet](/businesses/national-single-window/tradenet) for movement of all goods in and out of the licensed premises, and abide by the stipulated permit conditions
     -   Report to Singapore Customs if there is any discrepancy in the licensed premises by the next working day
     -   Provide assistance to Singapore Customs, including but not limited to manpower and system access for the purpose of any investigation, periodic audit, stock check and supervision operation conducted by Singapore Customs
-    -   Comply with the Customs Act, Customs Regulations and the licensing Terms & Conditions
+    -   Comply with the Customs Act, Customs Regulations and the licensing Terms &amp; Conditions
 
 -   **Accountability to Other Competent Authorities**
     -   Obtain the necessary approvals from the relevant Competent Authorities (for example, the storage of controlled goods, including Dangerous Goods)
@@ -154,7 +154,7 @@ For minor offences under the Customs Act, Singapore Customs may offer to compoun
 
 -   Incorrect declarations
     
-    -   Incorrect Harmonized System (HS) code, HS quantity & unit, packing/goods description
+    -   Incorrect Harmonized System (HS) code, HS quantity &amp; unit, packing/goods description
     -   Incorrect outward transport details and/or place of receipt that do not tally with the actual export shipment.
 
 You may view this table on common offences and the penalties upon conviction.
