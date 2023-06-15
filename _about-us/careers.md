@@ -22,9 +22,12 @@ You will then undergo targeted training to hone the necessary competencies to pe
 
 ##### **We value your contributions.**
 * **Sign-On Bonus**: Eligible officers who are newly appointed to the Public Service and Singapore Customs will receive a sign-on bonus of $8,000 paid in two tranches.
+
 * **Retention Bonus**: You will also receive attractive retention pay-outs in your 4th, 7th, and 10th year in service.
+
 * **Starting Salary**:
 ![Starting Salary](/images/careers/2022-10%20Starting%20Salary%20(updated).jpg)**Starting monthly salary may vary based on a holistic assessment of academic qualifications, relevant work experience and completion of full-time National Service.*
+
 * You will enjoy a **host of benefits** including:
 	* 14 to 18 days of annual Vacation Leave
 	* 60 days of annual Hospitalisation Leave (inclusive of 14 days of Sick Leave)
@@ -38,21 +41,21 @@ You will then undergo targeted training to hone the necessary competencies to pe
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">**Trade Facilitator**</label>
+    <label for="accordion1">Trade Facilitator</label>
     <div>
       <p>We facilitate customs connectivity across borders for a seamless and resilient end-to-end international supply chain and work closely with local and international partners to advance Singapore’s economy. For example, through Free Trade Agreements (FTAs), we work with our FTA partners to reduce trade barriers, enable faster and efficient clearance of goods, and provide for preferential tariff treatment for Singapore origin goods. Through Digital Economy Agreements (DEAs) and other bilateral agreements, we connect digitally to other Customs administrations to exchange data and digital documents, providing time and cost savings to companies.</p>
     </div>
                 </li> 
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">**Trade Regulator**</label>
+    <label for="accordion1">Trade Regulator</label>
     <div>
       <p>We uphold the rules of trade and tariffs and keep a close watch on strategic goods and technologies to maintain an effective and robust regulatory regime. In doing so, we contribute to international efforts to prevent the proliferation of arms, missiles and weapons of mass destruction and safeguard Singapore’s reputation as a global trade hub trusted by foreign trading partners and businesses. We maintain a robust duty and tax collection regime, that contributes about close to 15% of total government annual tax revenue, hence contributing to nation building.</p>
     </div>
                 </li> 
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">**Law Enforcer**</label>
+    <label for="accordion1">Law Enforcer</label>
     <div>
       <p>Adopting a whole-of-government approach, we protect Singapore’s revenue and level the playing field for law-abiding businesses by working closely with other agencies to enforce against revenue-related and trade offences. We also contribute to efforts to safeguard the integrity and security of the global supply chain by partnering regional and international counterparts to enforce against different types of illicit trade.</p>
     </div>
