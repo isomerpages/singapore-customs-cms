@@ -21,6 +21,7 @@ As a new officer, we will get you started on a strong footing with a comprehensi
 You will then undergo targeted training to hone the necessary competencies to perform your job effectively. This includes a combination of on-the-job learning, peer learning and specialised courses tailored to specific job functions within Customs. For instance, our enforcement officers go through the Customs Defensive Tactics Course while our export inspection officers participate in the Customs Export Threat Assessment Training.
 
 ##### **We value your contributions.**
+
 * **Sign-On Bonus**
 
 Eligible officers who are newly appointed to the Public Service and Singapore Customs will receive a sign-on bonus of $8,000 paid in two tranches.
