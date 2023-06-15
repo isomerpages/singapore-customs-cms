@@ -41,7 +41,6 @@ You will then undergo targeted training to hone the necessary competencies to pe
 	* Training and Personal Development Fund 
 	* Long Service Recognition
 	* Staff Recognition and Training Awards
-<br>
 
 ##### **Join our purpose-driven organisation now and make a difference in our nation-building efforts as**
 
