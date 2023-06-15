@@ -26,8 +26,9 @@ You will then undergo targeted training to hone the necessary competencies to pe
 
 * **Retention Bonus**: You will also receive attractive retention pay-outs in your 4th, 7th, and 10th year in service.
 
-* **Starting Salary**
-| Roles | Starting Monthly Salary*| 
+* **Starting Salary**:
+
+|Roles | Starting Monthly Salary*| 
 | -------- | -------- | 
 | **Customs officer (CUS Entry Grade 4)**| $3,575 - $4,015|
 |**Customs officer (CUS Entry Grade 1)**| $1,800 - $2,255|
