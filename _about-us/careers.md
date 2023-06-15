@@ -35,6 +35,7 @@ You will then undergo targeted training to hone the necessary competencies to pe
 
 	*Starting monthly salary may vary based on a holistic assessment of academic qualifications, relevant work experience and completion of full-time National Service.
 <br><br>
+
 * You will enjoy a **host of benefits** including:
 	* 14 to 18 days of annual Vacation Leave
 	* 60 days of annual Hospitalisation Leave (inclusive of 14 days of Sick Leave)
