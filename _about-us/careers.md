@@ -51,15 +51,15 @@ You will then undergo targeted training to hone the necessary competencies to pe
     </div>
                 </li> 
   <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">Trade Regulator</label>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">Trade Regulator</label>
     <div>
       <p>We uphold the rules of trade and tariffs and keep a close watch on strategic goods and technologies to maintain an effective and robust regulatory regime. In doing so, we contribute to international efforts to prevent the proliferation of arms, missiles and weapons of mass destruction and safeguard Singapore’s reputation as a global trade hub trusted by foreign trading partners and businesses. We maintain a robust duty and tax collection regime, that contributes about close to 15% of total government annual tax revenue, hence contributing to nation building.</p>
     </div>
                 </li> 
   <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">Law Enforcer</label>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">Law Enforcer</label>
     <div>
       <p>Adopting a whole-of-government approach, we protect Singapore’s revenue and level the playing field for law-abiding businesses by working closely with other agencies to enforce against revenue-related and trade offences. We also contribute to efforts to safeguard the integrity and security of the global supply chain by partnering regional and international counterparts to enforce against different types of illicit trade.</p>
     </div>
