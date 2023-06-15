@@ -24,11 +24,11 @@ You will then undergo targeted training to hone the necessary competencies to pe
 
 * **Sign-On Bonus**
 
-Eligible officers who are newly appointed to the Public Service and Singapore Customs will receive a sign-on bonus of $8,000 paid in two tranches.
+	Eligible officers who are newly appointed to the Public Service and Singapore Customs will receive a sign-on bonus of $8,000 paid in two tranches.
 
 * **Retention Bonus**
 
-You will also receive attractive retention pay-outs in your 4th, 7th, and 10th year in service.
+	You will also receive attractive retention pay-outs in your 4th, 7th, and 10th year in service.
 
 * **Starting Salary**
 
