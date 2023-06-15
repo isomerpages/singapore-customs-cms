@@ -26,7 +26,11 @@ You will then undergo targeted training to hone the necessary competencies to pe
 * **Retention Bonus**: You will also receive attractive retention pay-outs in your 4th, 7th, and 10th year in service.
 
 * **Starting Salary**:
-![Starting Salary](/images/careers/2022-10%20Starting%20Salary%20(updated).jpg)**Starting monthly salary may vary based on a holistic assessment of academic qualifications, relevant work experience and completion of full-time National Service.*
+| Roles | Starting Monthly Salary*| 
+| -------- | -------- | 
+| **Customs officer (CUS Entry Grade 4)**| $3,575 - $4,015|
+|**Customs officer (CUS Entry Grade 1)**| $1,800 - $2,255|
+	**Starting monthly salary may vary based on a holistic assessment of academic qualifications, relevant work experience and completion of full-time National Service.*
 
 * You will enjoy a **host of benefits** including:
 	* 14 to 18 days of annual Vacation Leave
@@ -61,6 +65,7 @@ You will then undergo targeted training to hone the necessary competencies to pe
     </div>
                 </li> 
 </ul>
+	
 	
 ![Customs Roles](/images/careers/2022-10%20Customs%20Roles.jpg)
 ##### **If what we’re offering is exactly what you’re looking for, kickstart your career with us by visiting [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html)**
