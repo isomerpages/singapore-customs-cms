@@ -68,7 +68,7 @@ You will then undergo targeted training to hone the necessary competencies to pe
                 </li> 
 </ul>
 	
-![Customs Roles](/images/careers/2022-10%20Customs%20Roles.jpg)
 ##### **If what we’re offering is exactly what you’re looking for, kickstart your career with us by visiting [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html)**
+![Customs Roles](/images/careers/2022-10%20Customs%20Roles.jpg)
 
 ![Email Signature](/images/careers/TS%20Email%20Signature%20Final.jpg)
