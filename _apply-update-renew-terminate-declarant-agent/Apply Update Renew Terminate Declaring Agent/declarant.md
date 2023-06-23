@@ -37,7 +37,7 @@ Enrol for the competency test [here](https://go.gov.sg/sc401){:target="_blank"}.
 | **Results** | Results will be emailed to all test participants about two weeks after the test date. Those who have passed the test will receive an E-certificate. |
 | **Fee Payable** | $29.96 (inclusive of GST) |
 | **Refund Policy** | Please ensure that you have carefully reviewed the test details, dates and availability before registering for the Customs Competency Test. <br><br> For any **cancellations and no-shows**, please take note of the following:<br><br> 1. Participants who cancelled their test registration are not eligible for a refund.<br><br>2. Participants who did not attend the test, or failed to show up, are not eligible for a refund. <br><br>If participants are unable to attend the test date they booked, a new booking will be required.
-|
+
 ### Renewal / Update / Termination Process
 
 For Declarants who are Work Pass holders, the DA's Key Personnel and Declarant will receive email notifications from Singapore Customs to update the new work pass expiry date of the Declarant before the expiry date of the Declarant's Work Pass.
