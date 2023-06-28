@@ -58,7 +58,7 @@ Under Section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (C
 
 You also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
 
-You may refer to the [red flag indicators](www.police.gov.sg/-/media/Spf/Advisories/TradeZeroGSTRatedLicensedWarehousesIndicators.ashx) for Zero-GST warehouse licensees to detect and file a STR with the STRO.
+You may refer to the [red flag indicators](https://www.police.gov.sg/-/media/Spf/Advisories/TradeZeroGSTRatedLicensedWarehousesIndicators.ashx) for Zero-GST warehouse licensees to detect and file a STR with the STRO.
 
 ## Licence Fee
 
