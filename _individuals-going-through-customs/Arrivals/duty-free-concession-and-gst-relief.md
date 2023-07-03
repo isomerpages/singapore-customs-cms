@@ -16,6 +16,9 @@ Travellers and bona fide crew members are entitled to duty-free concession for l
 -   The liquor is for your own consumption; and
 -   The liquor is not prohibited from import into Singapore.
 
+**Note:** You will be considered as having arrived from Malaysia if you obtained Malaysia’s immigration clearance prior to your arrival in Singapore. If that is the case, you are NOT entitled to duty-free concession.
+
+
 Travellers are given duty-free concession for liquors on one of the following options:
 
 | Option  | Spirits | Wine     | Beer     |
