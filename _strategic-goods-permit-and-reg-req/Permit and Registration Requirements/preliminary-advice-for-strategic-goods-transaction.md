@@ -1,16 +1,15 @@
 ---
-title: Preliminary Advice for Strategic Goods Transaction 
-permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction
+title: Preliminary Advice for Strategic Goods Transaction
+permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction/
 third_nav_title: Permit and Registration Requirements
 ---
-  
 # Preliminary Advice for Strategic Goods Transaction
 
 Before you decide whether your business should undertake any activities involving the controlled transfer of strategic goods, you may apply to seek preliminary advice from Singapore Customs. We will assess whether the  [controlled transfer](/businesses/strategic-goods-control-1/overview/scope-of-control)  of your strategic goods is likely to be approved when you submit your strategic goods permit application.
 
 ## Applying for Preliminary Advice
 
-**Step 1:** Complete the  [application form](/eservices/customs-forms-and-service-links).
+**Step 1:** Complete the [Application Form for Preliminary Advice on Strategic Goods Transaction](https://form.gov.sg/5cf5c9e27e0c0e001005a8c7).
 
 **Step 2**: Attach the supporting documents, where applicable:
 
