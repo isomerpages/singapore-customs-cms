@@ -1,6 +1,9 @@
 ---
-title: National Environment Agency - Radiation Protection and Nuclear Science Division (RPNSD)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---radiation-protection-and-nuclear-science-division-rpnsd
+title: National Environment Agency - Radiation Protection and Nuclear Science
+  Division (RPNSD)
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency/
+---
+radiation-protection-and-nuclear-science-division-rpnsd
 third_nav_title: Competent Authorities Requirements
 ---
 
@@ -41,7 +44,7 @@ If the item is a non-controlled item (eg. industrial vacuum cleaner) but is clas
 
 However, if the item is controlled by RPNSD (e.g. ultrasonic cleaning apparatus), then you must declare the RPSND Establishment Code (or Product Code) in the CA/SC Product Code field as explained in the earlier paragraphs.
 
-Please refer to  [Appendix C](/files/about-us/appendix-c-items-under-import-export-control.pdf) is the list of RPNSD controlled products and their HS codes for import and export.
+Please check if your items are controlled by RPNSD using the HS/CA Product Code Search Engine (https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
 
 ## Import/Export of Spare Parts (excluding X-ray tubes)
 
