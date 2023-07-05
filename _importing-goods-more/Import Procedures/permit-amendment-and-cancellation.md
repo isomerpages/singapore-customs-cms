@@ -5,7 +5,7 @@ third_nav_title: Import Procedures
 ---
 # Permit Amendment
 
-You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](/businesses/national-single-window/overview/annexes)  for the list of non-amendable fields.
+You may amend an approved permit via TradeNet if it is within the permit's validity period. There is no limit to the number of times a permit can be amended. Do note that not all fields are amendable. Please click  [here](https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/annex-b-fields-not-allowed-for-amendment.pdf)  for the list of non-amendable fields.
 
 You are not allowed to amend an import permit if:
 -   It has been used for cargo clearance;
@@ -16,7 +16,7 @@ You may extend the validity period of the payment permit after payment is receiv
 - For payment permits approved under the GF (payment by importer’s Inter-Bank Giro (IBG)) or G7 (payment by Declaring Agent’s IBG) condition, payment will be received 5 working days after the permit approval date. 
 - For payment permits approved under the G1 (payment by cash or cheque at any UOB branch) condition, payment will be received 5 working days after the cheque/ cash has been deposited at the UOB bank. 
 
-Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](/businesses/national-single-window/overview/annexes).
+Once the amendments have been made, the most updated approved copy of the permit must be produced to the checkpoint officers for verification at the time of cargo clearance, if required in the permit conditions. Please refer to the  [sample of an amended Cargo Clearance Permit](https://singapore-customs-cms-staging.netlify.app/files/businesses/PSB/TN%20Team/sample-CCP-Amendment.pdf).
 
 # Permit Cancellation
 
