@@ -24,7 +24,6 @@ Licence application form can be obtained from [BCA's website](http://www.bca.gov
 Applicants should submit the duly completed application form to the BCA.
 
 Applicants may approach the BCA for further enquiries:
-
 52 Jurong Gateway Road #12-01  
     Singapore 608550  
     Tel: 65340219
