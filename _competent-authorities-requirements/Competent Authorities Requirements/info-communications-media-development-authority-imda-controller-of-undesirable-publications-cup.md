@@ -8,7 +8,7 @@ third_nav_title: Competent Authorities Requirements
 
 A customs import permit must be obtained through TradeNet before the goods arrive in Singapore. When preparing the import permit applications, please take note of the following:
 
--   Declare the correct HS Code and the corresponding Product Code for the respective type of product (e.g. comics, books, audio materials etc.) and type of consignment (e.g. exempted categories, non-exempted categories, offshore, languages etc.). Please refer to the HS/CA Product Code Search Engine for the list of HS Codes and Product Codes.
+-   Declare the correct HS Code and the corresponding Product Code for the respective type of product (e.g. comics, books, audio materials etc.) and type of consignment (e.g. exempted categories, non-exempted categories, offshore, languages etc.). Please refer to the HS/CA Product Code Search Engine (https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="blank"} for the list of HS Codes and Product Codes.
 
 -   Provide under the "CA/SC Product Quantity" field the number of titles imported based on the invoices submitted.
 
