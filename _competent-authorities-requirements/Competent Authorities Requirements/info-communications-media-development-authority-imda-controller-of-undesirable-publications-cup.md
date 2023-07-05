@@ -14,6 +14,6 @@ A customs import permit must be obtained through TradeNet before the goods arriv
 
 -   Indicate "NMB" under the "CA/SC Product Quantity Unit" field.
 
--   For permit applications submitted to import Malaysian newspapers and periodicals, offshore newspapers as well as publications published in Singapore but printed outside Singapore and Malaysia, enter the numeric portion of the MCI permit number in the “CA Licence No.” field. For example, if the MCI permit number is “MCIP999012004”, declaring agents and traders will enter “999012004” in the “CA Licence No.” field.
+-   For permit applications submitted to import Malaysian newspapers and periodicals, offshore newspapers as well as publications published in Singapore but printed outside Singapore and Malaysia, enter the numeric portion of the MCI permit number in the “CA Licence No.” field. For example, if the MCI permit number is “MCIP999012004”, declaring agents and traders should enter “999012004” in the “CA Licence No.” field.
 
 -   Relevant supporting documents should be attached and submitted together with the permit application.
