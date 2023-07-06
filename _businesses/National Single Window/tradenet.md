@@ -1,9 +1,8 @@
 ---
 title: TradeNet
-permalink: /businesses/national-single-window/TradeNet
+permalink: /businesses/national-single-window/TradeNet/
 third_nav_title: National Single Window
 ---
-
 # TradeNet
 
 TradeNet is Singapore’s National Single Window for trade declaration. Launched on 1 Jan 1989, it allows various parties from the public and private sectors to exchange trade information electronically.
@@ -24,9 +23,4 @@ TradeNet has been the focus of several academic studies since its introduction. 
 
 {:.mobile-block}
 |---|---|---|---|
-| [![](/images/TradeNet/TN1.jpg)](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet) |[![](/images/TradeNet/TN2.jpg)](/businesses/national-single-window/overview/TradeNet-Solution-Providers)  | [![](/images/TradeNet/TN3.jpg)](/businesses/National-Single-Window/Overview/Competent-Authorities-Requirements) | [![](/images/TradeNet/TN4.jpg) ](/businesses/National-Single-Window/Overview/Annexes-and-appendices) |
-
-
-
-
-
+| [![](/images/TradeNet/TN1.jpg)](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet) |[![](/images/TradeNet/TN2.jpg)](/businesses/national-single-window/overview/TradeNet-Solution-Providers)  | [![](/images/TradeNet/TN3.jpg)](/businesses/National-Single-Window/Overview/Competent-Authorities-Requirements) | [![](/images/TradeNet/tn4annex.jpg) ](/businesses/National-Single-Window/Overview/Annexes) |
