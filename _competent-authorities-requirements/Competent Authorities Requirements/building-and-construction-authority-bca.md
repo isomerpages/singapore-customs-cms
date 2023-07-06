@@ -28,7 +28,6 @@ Applicants may approach the BCA for further enquiries:
 52 Jurong Gateway Road #12-01  
     Singapore 608550  
     Tel: 65340219
-		
    Operating Hours: Monday to Friday - 8.30am to 12.30pm & 1.30pm to 5.00pm
 
 ## TradeNet Permit Application  
