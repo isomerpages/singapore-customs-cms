@@ -8,7 +8,7 @@ description: ""
 
 ### Enquiries
 
-**Enquiries on Customs Procedures** <br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552183).<br>
+**Enquiries on Customs Procedures** <br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552000).<br>
 
 Our operating hours:<br> 8am to 6pm (Monday to Friday)<br> 8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.
 
