@@ -73,7 +73,7 @@ Please remember to upload the relevant supporting documents required by the CAs 
     -   [Hazardous Substances](/businesses/national-single-window/tradenet/competent-authorities-requirements/hazardous-substances)
     -   [Ozone Depleting Substances](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-ozone-depleting-substances)
     -   [Rotterdam Convention on the Prior Informed Consent (PIC) Procedure](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-rotterdam-convention-pic-procedure)
--   [Radiation Protection and Nuclear Science Division (RPNSD)](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency---radiation-protection-and-nuclear-science-division-rpnsd)
+-   [Radiation Protection and Nuclear Science Division (RPNSD)](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency/radiation-protection-and-nuclear-science-division-rpnsd)
 
 **10) National Parks Board (NParks)**
 
