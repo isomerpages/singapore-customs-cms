@@ -8,7 +8,7 @@ third_nav_title: Courses and Events
 
 ![](/images/jio2023v2.jpg)
 
-#### **REGISTER  NOW!**
+#### **REGISTER  NOW FOR THE VIRTUAL SESSION!**
 
 ##### **The 11th Joint Industry Outreach Seminar on Strategic Trade Management**
 
@@ -16,9 +16,9 @@ third_nav_title: Courses and Events
 
 **Date**: 3 August 2023
 
-**Venue**: To be confirmed
+**Venue**: Shangri-La Singapore
 
-**Time**: 9.00am - 5.00pm (Registration starts at 8.00am)
+**Time**: 9.00am - 5.00pm (Registration starts at 8.00am for the in-person session)
 
 The U.S. Department of State (DOS), the U.S. Department of Energy (DOE), the U.S. Department of Commerce (DOC), and Japan’s Ministry of Economy, Trade and Industry (METI) and Singapore Customs will be holding a one-day strategic trade control seminar on 3 August 2023.
 
@@ -33,6 +33,6 @@ The annual event will provide opportunities for you to hear from senior governme
 
 Manufacturers, exporters, logistics providers, freight forwarders, academics and researchers dealing with strategic goods or strategic goods technology are encouraged to attend the seminar.
 
-Registration is **free**. Due to limited space, we encourage interested parties to register and secure your seats **as soon as possible**. Participants can register for the seminar by clicking on the [registration link](https://llnl.cventevents.com/event/7652a027-85c6-449c-8b31-2dbba9083ae9/summary). **Registration deadline is 30 June 2023**.
+Registration for the seminar in-person is now closed. Due to overwhelming response, there will be a virtual session for the morning segment on regulatory updates. Participants can register for the virtual seminar by clicking on the [registration link](https://go.gov.sg/registration-jio-2023).
 
 All successful registrants will be notified via email and will receive an updated schedule and information.
