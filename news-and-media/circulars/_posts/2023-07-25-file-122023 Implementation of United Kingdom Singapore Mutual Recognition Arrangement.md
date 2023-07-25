@@ -1,6 +1,5 @@
 ---
-title: 122023 Implementation of United Kingdom Singapore Mutual Recognition
-  Arrangement
+title: 12/2023 Implementation of United Kingdom-Singapore Mutual Recognition Arrangement
 date: 2023-07-25
 layout: file
 description: ""
