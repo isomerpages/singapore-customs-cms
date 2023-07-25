@@ -47,12 +47,13 @@ Singapore Customs has signed and operationalised MRAs with:
 -   [Australia (2019)](/files/businesses/sgp-aus-mra.pdf)
 -   [New Zealand (2019)](/news-and-media/circulars/2019-07-25-Circular122019.pdf)
 -   [Thailand (2019)](/news-and-media/circulars/2019-08-26-Circular162019.pdf)
+-   [United Kingdom (2023)](/files/circular_12_2023.pdf)
 
 Exports from an STP-Plus certified company to these MRA partners will be recognised as being of lower risk and can enjoy a higher level of facilitation.
 
 Singapore Customs continues to engage like-minded customs administrations to expand our list of MRA partners, and bring about greater benefits to the trading community.
 
-Please refer to the  [Factsheet on Mutual Recognition](/files/businesses/Factsheet on MRA (updated June 2020).pdf)  for more details on the procedures to enjoy the benefits under the MRAs.
+Please refer to the  [Factsheet on Mutual Recognition](/files/fact%20sheet%20on%20mra.pdf)  for more details on the procedures to enjoy the benefits under the MRAs.
 
 ## STP and STP-Plus Certified Companies
 
