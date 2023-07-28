@@ -1,6 +1,6 @@
 ---
 title: How to cancel or amend a Certificate of Origin (CO) issued by Customs
-permalink: /businesses/certificates-of-origin/how-to-cancel-or-amend-a-co
+permalink: /businesses/certificates-of-origin/how-to-cancel-or-amend-a-co/
 third_nav_title: Certificates of Origin
 ---
 ## How to cancel a Certificate of Origin?
@@ -41,4 +41,4 @@ You should proceed to amend the field in the export permit electronically via Tr
 
 The CO that has been previously issued under this export permit should be cancelled in accordance to the revised cancellation procedures found in [Notice 19/2020](/news-and-media/notices/2020-12-31-N.pdf). Subsequently, you can proceed to apply for a pure CO application with the details you have amended in the export permit.
 
-Traders may also refer to this [handbook](/files/businesses/ttsb-roo/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Dec_2021.pdf) for more information on how to apply for a CO via Tradenet.
+Traders may also refer to this [handbook](/files/072023%20handbook_on_the_application_procedures_for_a_certificate_of_origin_via_tradenet.pdf) for more information on how to apply for a CO via Tradenet.
