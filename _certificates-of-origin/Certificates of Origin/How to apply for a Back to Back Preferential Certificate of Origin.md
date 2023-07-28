@@ -45,7 +45,7 @@ The required supporting documents include:
     
 -   Import permit (required only for application of Certificate Types 20, 28 and 32)
 
--  [Declaration Letter](https://go.gov.sg/rcepdeclarationletter) (required only for application of Certificate Type 34)
+-  [Declaration Letter](https://go.gov.sg/rcepdeclarationletterv2) (required only for application of Certificate Type 34)
     
 You can attach the supporting documents with the export permit and preferential CO application via TradeNet.
 
