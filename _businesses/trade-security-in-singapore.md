@@ -59,8 +59,9 @@ Read more about the inspections and the enhanced regulatory regime in Singapore 
 
 ## Suspicious Transaction Report
 
-Under Section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992, all traders, including freight forwarders and declaring agents, have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if they know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of their trade, profession, business or employment.
+Under Section 45 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992, all traders, including freight forwarders and declaring agents, have the legal obligation to [file a Suspicious Transaction Report (STR)](http://www.police.gov.sg/sonar) to the Suspicious Transaction Reporting Office (STRO) if they know or have reasonable grounds to suspect that any property is connected to criminal activity, in the course of their trade, profession, business or employment.
 
-Traders also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism-financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
+Traders also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism-financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act 2002 to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
 
-Traders may refer to the red flag indicators for Zero-GST warehouse licensees [here](https://www.police.gov.sg/-/media/tradezerogstratedlicensedwarehousesindicators.pdf) to detect and file a STR with the STRO.
+Traders may refer to the red flag indicators for Zero-GST warehouse licensees [here](  
+https://www.police.gov.sg/-/media/Spf/Advisories/TradeZeroGSTRatedLicensedWarehousesIndicators.ashx) to detect and file a STR with the STRO.
