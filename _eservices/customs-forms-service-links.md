@@ -36,7 +36,7 @@ permalink: /eservices/customs-forms-and-service-links/
 |--|--|--|
 | 1. | Product Enquiry | [Web Link](https://form.gov.sg/633a2c0848e7ff00120ffcfe)|
 | 2. |  Licence Application Cover Form/Update of Licensee Contact Information | [Web Link](https://form.gov.sg/633a2c6d3de7ce001269f228)|
-| 3. | End-User Certificate | [Word Doc](https://www.customs.gov.sg/files/eservices/End_User_Certificate.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/End_User_Certificate.pdf)|
+| 3. |   Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit &amp; Chemical Weapons Convention |[PDF](https://go.gov.sg/s377jr)|
 | 4. | Advanced Notifications on Transfer of Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.pdf)|
 | 5. | Licence Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.pdf)|
 | 6. | Licence Application Form (New/Renewal) | [Web Link](https://form.gov.sg/633a2cb587dd270012296b77)|
