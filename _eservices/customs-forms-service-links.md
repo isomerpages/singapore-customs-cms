@@ -142,6 +142,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 15. | Sample Format of the End User Statement for Strategic Trade Scheme Bulk Permit | [Web Link](https://www.customs.gov.sg/files/eservices/End-User-Statement-StratTradeScheme-Bulk.docx)
 | 16. | Sample Format of the End User Statement for Strategic Trade Scheme Individual Permit | [Word Doc](https://www.customs.gov.sg/files/eservices/EUS%20for%20individual%20permit.docx)
 | 17. | Template for Letter of Undertaking to be used for Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet Unavailability | [PDF](/files/eservices/LOU-TradeNetUnavailability.pdf)
+|18.| Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit to UNSC Countries | [PDF](http://go.gov.sg/1tismt.pdf)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
