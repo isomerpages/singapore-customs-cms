@@ -19,9 +19,9 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 **Strategic Goods (Control) Order**
 
-Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2023](https://sso.agc.gov.sg/SL/SGCA2002-S564-2021?DocDate=20220801&ValidDate=20221001){:target="_blank"}, effective from 1 October 2023. 
+Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2023](https://www.egazette.com.sg/pdf.aspx?ct=sls&yr=2023&filename=23sls541.pdf){:target="_blank"}, effective from 1 October 2023. 
 
-You may refer to the [amendment table](){:target="_blank"} for more information on the changes made.
+You may refer to the [amendment table](/files/businesses/TSSB/sgco2023%20amendments%20table.pdf){:target="_blank"} for more information on the changes made.
 
 You may also wish to visit our [Frequently Asked Questions](/files/businesses/TSSB/frequently%20asked%20questions_sgco2023.pdf){:target="_blank"} on the updates to the Strategic Goods (Control) Order 2023.
 
