@@ -1,5 +1,5 @@
 ---
-title: 142023 Changes to the Strategic Goods Control List
+title: 14/2023 Changes to the Strategic Goods Control List
 date: 2023-08-01
 layout: file
 description: ""
