@@ -36,7 +36,7 @@ permalink: /eservices/customs-forms-and-service-links/
 |--|--|--|
 | 1. | Product Enquiry | [Web Link](https://form.gov.sg/633a2c0848e7ff00120ffcfe)|
 | 2. |  Licence Application Cover Form/Update of Licensee Contact Information | [Web Link](https://form.gov.sg/633a2c6d3de7ce001269f228)|
-| 3. |   Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit &amp; Chemical Weapons Convention |[PDF](https://go.gov.sg/s377jr)|
+| 3. |   Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit &amp; Chemical Weapons Convention |[Word Doc](https://go.gov.sg/combinedeuc-sts1-and-cwc)|
 | 4. | Advanced Notifications on Transfer of Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.pdf)|
 | 5. | Licence Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.pdf)|
 | 6. | Licence Application Form (New/Renewal) | [Web Link](https://form.gov.sg/633a2cb587dd270012296b77)|
@@ -142,7 +142,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 15. | Sample Format of the End User Statement for Strategic Trade Scheme Bulk Permit | [Web Link](https://www.customs.gov.sg/files/eservices/End-User-Statement-StratTradeScheme-Bulk.docx)
 | 16. | Sample Format of the End User Statement for Strategic Trade Scheme Individual Permit | [Word Doc](https://www.customs.gov.sg/files/eservices/EUS%20for%20individual%20permit.docx)
 | 17. | Template for Letter of Undertaking to be used for Export, Transhipment and/or Bringing in Transit of Strategic Goods under Tier 1 of the Strategic Trade Scheme during TradeNet Unavailability | [PDF](/files/eservices/LOU-TradeNetUnavailability.pdf)
-|18.| Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit to UNSC Countries | [PDF](http://file.go.gov.sg/1tismt.pdf)
+|18.| Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit to UNSC Countries | [Word Doc](https://go.gov.sg/combinedeuc-sts-and-unsc)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
