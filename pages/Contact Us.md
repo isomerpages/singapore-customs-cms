@@ -45,9 +45,9 @@ Operating hours: <br>9am to 6pm (Monday to Friday)<br>9am to 1pm (Saturday)<br>C
 ---
 
 ### Feedback on Service Quality<br>
-**Quality Service Manager**<br>[+65 6355 2959](tel:+6563552959)
-
-For feedback regarding Quality Service.<br>
+**Quality Service Manager**<br>
+*For feedback regarding Quality Service.*<br>
+[+65 6355 2959](tel:+6563552959)
 
 Our operating hours:<br> 
 Monday - Friday: 8:30am to 5:30pm <br>
