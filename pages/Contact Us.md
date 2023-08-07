@@ -49,6 +49,11 @@ Operating hours: <br>9am to 6pm (Monday to Friday)<br>9am to 1pm (Saturday)<br>C
 
 For feedback regarding Quality Service.<br>
 
+Our operating hours:<br> 
+Monday - Friday: 8:30am to 5:30pm <br>
+Saturday, Sunday and public holidays: closed <br>
+Eves of Christmas, New Year and Chinese New Year: 8:30am to 1:00pm <br>
+
 ---
 
 ### Can’t find what you’re looking for?<br>
