@@ -8,7 +8,7 @@ third_nav_title: Courses and Events
 
 ![](/images/jio2023v2.jpg)
 
-#### **REGISTER  NOW FOR THE VIRTUAL SESSION!**
+#### **REGISTRATION IS NOW CLOSED**
 
 ##### **The 11th Joint Industry Outreach Seminar on Strategic Trade Management**
 
@@ -36,3 +36,6 @@ Manufacturers, exporters, logistics providers, freight forwarders, academics and
 Registration for the seminar in-person is now closed. Due to overwhelming response, there will be a virtual session for the morning segment on regulatory updates. Participants can register for the virtual seminar by clicking on the [registration link](https://go.gov.sg/registration-jio-2023).
 
 All successful registrants will be notified via email and will receive an updated schedule and information.
+
+##### Presentation Materials:
+1. Agenda
