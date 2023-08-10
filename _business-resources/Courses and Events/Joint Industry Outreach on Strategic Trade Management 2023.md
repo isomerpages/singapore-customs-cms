@@ -8,7 +8,7 @@ third_nav_title: Courses and Events
 
 ![](/images/jio2023v2.jpg)
 
-#### **REGISTER  NOW FOR THE VIRTUAL SESSION!**
+#### **REGISTRATION IS NOW CLOSED**
 
 ##### **The 11th Joint Industry Outreach Seminar on Strategic Trade Management**
 
@@ -36,3 +36,19 @@ Manufacturers, exporters, logistics providers, freight forwarders, academics and
 Registration for the seminar in-person is now closed. Due to overwhelming response, there will be a virtual session for the morning segment on regulatory updates. Participants can register for the virtual seminar by clicking on the [registration link](https://go.gov.sg/registration-jio-2023).
 
 All successful registrants will be notified via email and will receive an updated schedule and information.
+
+#### Presentation Materials:
+1. [Agenda](/files/businesses/TSSB/jio%20agenda%202023.pdf)
+2. **Southeast Asia Regulatory Updates**
+*  [Malaysia's Updates on Strategic Trade Management (Malaysia)](https://go.gov.sg/jio2023my)
+*  [Philippine Strategic Trade Management Act Regulatory Updates (The Philippines)](https://go.gov.sg/jio2023ph)
+*  [Updates on Singapore’s Strategic Trade Controls (Singapore)](https://go.gov.sg/jio2023sg)
+*  [Thailand Regulatory Updates (Thailand)](https://go.gov.sg/jio2023th)
+3. **International Regulatory Updates**
+*  [Regulatory Developments in Germany’s Strategic Trade Management (Germany)](https://go.gov.sg/jio2023de)
+*  [ Update on Japan’s Export Controls (Japan)](https://go.gov.sg/jio2023jp)
+*  [Developments in the European Union’s strategic trade control framework (European Union)](https://go.gov.sg/jio2023eu)
+*  [Export Administration Regulations (EAR) Updates (United States)](https://go.gov.sg/jio2023us)
+4. **Topic C: Utilizing Technology in Compliance**
+* [Digital Intelligence for Compliance and Risk Management (Exiger)](https://go.gov.sg/jio2023topiccexiger)
+* [The ROI of Automating Trade Compliance (AEB)](https://go.gov.sg/jio2023topiccaeb)
