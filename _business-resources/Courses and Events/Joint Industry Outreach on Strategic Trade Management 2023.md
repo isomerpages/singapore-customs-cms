@@ -52,3 +52,5 @@ All successful registrants will be notified via email and will receive an update
 4. **Topic C: Utilizing Technology in Compliance**
 * [Digital Intelligence for Compliance and Risk Management (Exiger)](https://go.gov.sg/jio2023topiccexiger)
 * [The ROI of Automating Trade Compliance (AEB)](https://go.gov.sg/jio2023topiccaeb)
+
+5. [**Full Video of the morning segment on regulatory updates**](https://www.youtube.com/watch?v=O4A_8sjWei4)
