@@ -1,17 +1,33 @@
 ---
-title: Enforcement 
-permalink: /businesses/strategic-goods-control-1/overview/enforcement
+title: Enforcement
+permalink: /businesses/strategic-goods-control-1/overview/enforcement/
 third_nav_title: Overview
 accordion:
   - title: Providing material support to a foreign terrorist organization
-    content: <br> A Singaporean man was convicted by the United States (US) Court for conspiring to provide material support to a foreign terrorist organisation. He had attempted to purchase arms and ammunitions for this organisation, an offence under Section 6(2)(b)(ii) of the SGCA. Following the US Government’s extradition request, the Singapore court ruled that the offender was to be extradited to face legal action in the US. He was sentenced to 57 months of imprisonment in the US. 
+    content: <br> A Singaporean man was convicted by the United States (US) Court
+      for conspiring to provide material support to a foreign terrorist
+      organisation. He had attempted to purchase arms and ammunitions for this
+      organisation, an offence under Section 6(2)(b)(ii) of the SGCA. Following
+      the US Government’s extradition request, the Singapore court ruled that
+      the offender was to be extradited to face legal action in the US. He was
+      sentenced to 57 months of imprisonment in the US.
   - title: Submission of false permit declarations
-    content: <br> A freight forwarding company exported controlled military electronic connectors without a valid strategic goods export permit and instead falsely declared the items as ordinary connectors. The company was prosecuted and fined by the court under Section 5(1)(a) of the SGCA. ([Media Release](/news-and-media/media-releases/2007-09-18-MR-worldfreight.pdf))
+    content: <br> A freight forwarding company exported controlled military
+      electronic connectors without a valid strategic goods export permit and
+      instead falsely declared the items as ordinary connectors. The company was
+      prosecuted and fined by the court under Section 5(1)(a) of the SGCA.
+      ([Media
+      Release](/news-and-media/media-releases/2007-09-18-MR-worldfreight.pdf))
   - title: Failure to register as a broker
-    content: <br> A company arranged with a foreign government to remove expired and damaged ammunition from its territory to another foreign country for disposal, without first registering as a broker with Singapore Customs. The company paid a composition sum for an offence committed under Section 6(1)(a) of the SGCA. <br><br> In another case, 2 individuals were sentenced to 9 and 18 months imprisonment for brokering arms to Syria. ([Media Release](/news-and-media/media-releases/2006-10-11-Press-Release.pdf)).    
+    content: <br> A company arranged with a foreign government to remove expired and
+      damaged ammunition from its territory to another foreign country for
+      disposal, without first registering as a broker with Singapore Customs.
+      The company paid a composition sum for an offence committed under Section
+      6(1)(a) of the SGCA. <br><br> In another case, 2 individuals were
+      sentenced to 9 and 18 months imprisonment for brokering arms to Syria.
+      ([Media
+      Release](/news-and-media/media-releases/2006-10-11-Press-Release.pdf)).
 ---
-
-
 # Enforcement
 
 Singapore Customs conducts regular checks on activities carried out by traders to ensure legitimate transfers of strategic goods and strategic goods technology.
@@ -24,21 +40,6 @@ You are reminded to exercise due diligence if you are involved in activities rel
 
 Members of the public with information on illegal dealings in strategic goods and technology may contact us at 1800-2330000 or email  [customs_intelligence@customs.gov.sg](mailto:customs_intelligence@customs.gov.sg).
 
-## Enforcement Actions
-
-Summary of minor or technical offences that were compounded:
-
-| Year | Number of cases | Goods |
-|---|---|---|
-| 2006 | 6 | Tri-ethanolamine; military batteries; fans and blowers| 
-| 2007 | 15 | Aluminium round bars; tri-ethanolamine; military aircraft parts |
-| 2008 | 13 | Flashtubes; night vision equipment; acoustic sound and  vibration detection equipment; optical equipment; aircraft parts | 
-| 2009 | 38 | Milling machines; integrated circuits; chemicals; lenses; communication equipment |
-| 2010 | 43 | Integrated circuits with and without cryptographic capability; fibrous or filamentary materials; communication equipment |
-| 2011 | 53 | Integrated circuits with and without cryptographic capability; lenses; communication equipment|
-| 2012 | 44 | Integrated circuits with and without cryptographic capability; chemicals; information security software |
-| 2013 | 69 | Integrated circuits with and without cryptographic capability; chemicals; information security software|
-| 2014 | 45 | Analogue devices and amplifiers; electronic parts; valves;   integrated circuits without and with encryption technology; information security hardware; and information security software|
 
 ## Examples of common offences
 
