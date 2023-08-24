@@ -1,6 +1,6 @@
 ---
 title: Excise Factory Scheme
-permalink: /businesses/customs-schemes-licences-framework/excise-factory-scheme
+permalink: /businesses/customs-schemes-licences-framework/excise-factory-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Excise Factory Scheme
@@ -140,4 +140,4 @@ Find out more about  [Permit Declaration](/businesses/new-traders-and-registrati
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
-Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/businesses/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf)  for more information.
+Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/businesses/SEB/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf) for more information.
