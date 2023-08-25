@@ -46,7 +46,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
 | **2206.00.99** | Other fermented beverages or mixtures of fermented beverages and non-alcoholic beverages not elsewhere specified |
 
 ## Application Procedures
-   To apply for duty exemption and GST relief, the event organiser should:
+To apply for duty exemption and GST relief for approved wine, the event organiser should:
 
 1) Obtain an import license from the Singapore Food Agency (SFA) prior to permit declaration for the import of approved wines.
 
@@ -60,7 +60,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
 -   A detailed list containing the names and Unique Entity Numbers (UENs) of the exhibitors that will be importing approved wines, along with their appointed freight forwarder, and their respective exhibition booth numbers.
 -   Details of the event venue (e.g. location, floor plan/layout)
 
-3) Upon receiving our approval, you or your appointed freight forwarder and participating exhibitor(s), that are registered with Accounting and Corporate Regulatory Authority (ACRA) must register with Singapore Customs as a claimant using your/their UEN. Exhibitors who are not registered in Singapore for business purposes (e.g. foreign companies) will need to get their appointed forwarder/event organiser to register with Singapore Customs as claimants before they can submit the required permit applications. The Claimant account must be de-registered with Singapore Customs immediately after the event. 
+3) Upon receiving our approval, you or your appointed freight forwarder and participating exhibitor(s), that are registered with Accounting and Corporate Regulatory Authority (ACRA), must register with Singapore Customs as a claimant using your/their UEN. Exhibitors who are not registered in Singapore for business purposes (e.g. foreign companies) will need to get their appointed forwarder/event organiser to register with Singapore Customs as claimants before they can submit the required permit applications. The Claimant account must be de-registered with Singapore Customs immediately after the event. 
 
 4) Apply for an [In-Non Payment (GST Relief and/or Duty Exemption)](/businesses/importing-goods/import-procedures/types-of-import-permits) or INP (GTR) permit in TradeNet prior to direct import or releaase of wine from Licensed Warehouse(LWs). The place of receipt code should be declared as "EXEMPTW". For all permit applications, the event name and year must be stated in the permit application's "Trader's Remarks" field.
 
@@ -78,7 +78,7 @@ The wine eligible for duty and GST exemption must be labelled with good quality 
 
 **Consumption of Wine**
 
-Exhibitors are strongly encouraged to fully consume wines that have been granted duty and GST exemption during the event. Duty and GST will be payable will be payable if these wines are sold, disposed, transferred locally, or used for any purpose other than sampling. 
+Exhibitors are strongly encouraged to consume wines that have been granted duty and GST exemption during the event. Duty and GST will be payable will be payable if these wines are sold, disposed, transferred locally, or used for any purpose other than sampling. 
 
 **Update of Exhibitor List**
 
@@ -86,4 +86,4 @@ If there are any changes to this list of participating exhibitors for the event,
 
 **On-site Inspections**
 
-Customs may request for an inspections at the exhibition premises either before or during the exhibition. Failure to comply with all requirements will result in the recovery of applicable duties and GST. Additionally, future applications for this facilitation by the errant event organiser or the exhibitor may not be approved. 
+Customs may request an inspections at the exhibition premises either before or during the exhibition. Failure to comply with all requirements will result in the recovery of applicable duties and GST. Additionally, future applications for this facilitation by the errant event organiser or the exhibitor may not be approved.
