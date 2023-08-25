@@ -86,4 +86,4 @@ If there are any changes to this list of participating exhibitors for the event,
 
 **On-site Inspections**
 
-Customs may request an inspections at the exhibition premises either before or during the exhibition. Failure to comply with all requirements will result in the recovery of applicable duties and GST. Additionally, future applications for this facilitation by the errant event organiser or the exhibitor may not be approved.
+Customs may request an inspection at the exhibition premises either before or during the exhibition. Failure to comply with all requirements will result in the recovery of applicable duties and GST. Additionally, future applications for this facilitation by the errant event organiser or the exhibitor may not be approved.
