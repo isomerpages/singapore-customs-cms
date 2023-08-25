@@ -6,7 +6,7 @@ third_nav_title: Establishing Customs Value for Imports
 
 # Exchange Rates
 
-If any component of the customs value is settled in a foreign currency, that value should be converted to Singapore Dollars using the current selling rate of that currency in Singapore, at the time when customs duty or excise duty is paid for the imported goods.
+If any component of the customs value is settled in a foreign currency, that value in foreign currency should be converted to Singapore Dollars using the prevailing selling rate of that currency in Singapore, on the date when import of the goods is approved by the proper officer of customs. For goods imported by post, the conversion to Singapore Dollars should be the prevailing selling rate of that currency in Singapore on the date when the value is assessed by a proper officer of customs.
 
 An example is shown below:
 
@@ -30,6 +30,6 @@ Please refer to the guide [here](/files/businesses/Retrieving_Weekly_Rates_from_
 
 ## Foreign currencies not listed in Exchange Rates
 
-If any component of the customs value is settled in a foreign currency not listed on Monetary Authority of Singapore's website, that value in foreign currency should be converted to Singapore Dollars using the current selling rate of that currency from reputable sources such as banks in Singapore, local circulated newspapers, reputable news agencies or online resources, on the date when import of the goods is approved by the proper officer of customs. For goods imported by post, the conversion to Singapore Dollars should be the current selling rate of that currency in Singapore on the date when the value is assessed by a proper officer of customs. 
+If any component of the customs value is settled in a foreign currency not listed on Monetary Authority of Singapore's website, that value in foreign currency should be converted to Singapore Dollars using the prevailing selling rate of that currency from reputable sources such as banks in Singapore, local circulated newspapers, reputable news agencies or online resources, on the date when import of the goods is approved by the proper officer of customs. For goods imported by post, the conversion to Singapore Dollars should be the prevailing selling rate of that currency in Singapore on the date when the value is assessed by a proper officer of customs. 
 
 You may contact us via [customs_ttsb@customs.gov.sg](mailto:customs_ttsb@customs.gov.sg) should you require any clarifications on the Exchange Rates.
