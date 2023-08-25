@@ -78,7 +78,7 @@ The wine eligible for duty and GST exemption must be labelled with good quality 
 
 **Consumption of Wine**
 
-Exhibitors are strongly encouraged to consume wines that have been granted duty and GST exemption during the event. Duty and GST will be payable will be payable if these wines are sold, disposed, transferred locally, or used for any purpose other than sampling. 
+Exhibitors are strongly encouraged to consume wines that have been granted duty and GST exemption during the event. Duty and GST will be payable if these wines are sold, disposed, transferred locally, or used for any purpose other than sampling. 
 
 **Update of Exhibitor List**
 
