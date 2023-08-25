@@ -91,7 +91,7 @@ However, the traveller can enjoy some GST import relief on a good if it meets th
 
 a)	it is a new article, souvenir, gift or food preparation; and 
 
- b)	it is for his/her personal (non-commercial) use or consumption. 
+b)	it is for his/her personal (non-commercial) use or consumption. 
 
 The amount of GST import relief will depend on the duration that the traveller has spent outside Singapore.  Travellers will have to pay GST on the value of the goods which is in excess of the GST import relief granted to them.
 
@@ -102,7 +102,7 @@ The amount of GST import relief will depend on the duration that the traveller h
 | Less than 48 hours | Up to S$100 |
 
 
-_What types of good and which types of travellers are not entitled to GST import relief?_
+_What types of goods and which types of travellers are not entitled to GST import relief?_
 
 Intoxicating liquor and tobacco, as well as goods imported for commercial purposes are excluded from this GST import relief for new articles. Please also refer to this page for [Customs & Excise duties](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods/) applicable to liquor and tobacco.
 
@@ -116,7 +116,7 @@ _What are “used articles”?_
 
 For individuals residing in Singapore (Singapore Citizens, Permanent Residents, as well as pass holders who reside in Singapore), used articles and personal belongings refer to items the traveller had with them, **prior to their departure from Singapore.**
 
-For individuals who do not reside in Singapore (e.g. short-term visitors), used articles and personal belongings refer to items the traveller had with them prior to their arrival in Singapore. They will also be expected to bring these items out of Singapore when they leave Singapore. 
+For individuals who do not reside in Singapore (e.g. short-term visitors), used articles and personal belongings refer to items the traveller had with them prior to their arrival in Singapore. They are expected to bring these items out of Singapore when they leave Singapore. 
 
 _What types of good and which types of travellers are not entitled to GST import relief?_
 
@@ -124,7 +124,7 @@ Intoxicating liquor and tobacco, as well as goods imported for commercial purpos
 
 **C) Goods Inspection**
 
-ICA officers conduct selective checks at the checkpoints. To facilitate the checking process, travellers are advised to have documents such as their goods’ receipts or GST payment receipts ready for inspection.
+Immigration and Checkpoints Authority (ICA) officers conduct selective checks at the checkpoints. To facilitate the checking process, travellers are advised to have documents such as their goods’ receipts or GST payment receipts ready for inspection.
 
 If receipts for the items are unavailable, their value will be based on the transaction value of identical or similar goods from the same country of origin or the original price payable for the goods as if they are sold for export to Singapore, inclusive of freight and insurance charges that are incurred for the shipment
 
@@ -134,11 +134,11 @@ For your convenience, you are encouraged to make an advance declaration and paym
 
 **Q1.      If I were to buy a branded bag for S$2,000 while holidaying overseas, and were to start using it during the trip, do I have to pay GST when I bring the bag home? If so, how is the GST computed?**
 
-A1.      Yes, the bag is subject to the prevailing GST rate of 8 per cent. If you have been away from Singapore for more than 48 hours, you will be entitled to a GST import relief amount of S$500. Therefore, the amount of GST that you will have to pay is S$120 \[S$(2,000 – 500) x 8 per cent\]. If you have been away from Singapore for less than 48 hours, you will be entitled to a GST import relief amount of S$100. Therefore, the amount of GST that you will have to pay is S$152 \[S$(2,000 – 100) x 8 per cent\].
+A1.      Yes, the bag is subject to the prevailing GST rate. If you have been away from Singapore for more than 48 hours, you will be entitled to a GST import relief amount of S$500. Therefore, the amount of GST that you will have to pay is \[S$(2,000 – 500) x prevailing GST rate\]. If you have been away from Singapore for less than 48 hours, you will be entitled to a GST import relief amount of S$100. Therefore, the amount of GST that you will have to pay is \[S$(2,000 – 100) x prevailing GST rate\].
 
 **Q2.      If I were to remove the price tag/packaging and use an item bought overseas immediately, before returning home to Singapore, is the item still subject to GST? What if the item was bought from a second-hand shop and is not brand new? Can it be considered a used article or personal belonging where GST import relief is granted regardless of its value?**
 
-A2.        In both cases, the item is still subject to GST as they were newly purchased or newly acquired overseas. GST is payable if the value of the item exceeds the GST import relief amount granted to new articles (see Q1). “Used articles and personal belongings” are items that you already had, prior to departure from Singapore.
+A2.        In both cases, the item is still subject to GST if they are to be brought into Singapore as they were newly purchased or newly acquired overseas. GST is payable if the value of the item exceeds the GST import relief amount granted to new articles (see Q1). “Used articles and personal belongings” are items that you already had, prior to departure from Singapore.
 
 **Q3.      If I already paid sales tax for an item purchased overseas and I did not claim tax refund, do I still have to pay GST?**
 
@@ -147,6 +147,10 @@ A3.      GST is applicable on all items brought into Singapore regardless o
 **Q4.      If I were to receive a gift while overseas, how is the tax calculated since I will not have a receipt and will not be able to estimate the value of the gift?**
 
 A4.      If the receipt is not available, the value of the goods will be assessed based on the value of identical or similar goods when computing the GST payable.
+
+**Q5.      What if I buy a S$1,000 bag from one of the duty-free shops at Changi Airport while on the way out of Singapore. Will I be required to pay GST on the bag when I return to Singapore?**
+
+A5.      The newly purchased bag is subject to GST if it exceeds the traveller’s GST relief amount.
 
 **Reminder**
 
