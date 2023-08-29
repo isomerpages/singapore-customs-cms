@@ -54,7 +54,7 @@ For more information on the types of Customs permits and situations where no cus
     
 -   [Depositing Goods in Free Trade Zones Pending Transhipment](/businesses/transhipping-goods/transhipment-procedures/depositing-goods-in-ftzpt)
     
--   [Transhipment of Class II/Dangerous Cargo](/businesses/transhipping-goods/transhipment-procedures/transhipment-of-class-II-dangerous-cargo)
+-   [Transhipment of Class II/Dangerous Cargo](/businesses/transhipping-goods/transhipment-procedures/transhipment-of-class-ii-dangerous-cargo)
     
 -   [Retaining Your Trade Documents](/businesses/transhipping-goods/transhipment-procedures/retaining-trade-documents)
     
@@ -138,4 +138,4 @@ You are accountable as a Transhipment Agent and Declaring Agent for the tranship
 {:.mobile-block}
 |  |  |  |  | 
 |--|--|--| -- | 
-|[ ![](/images/transhipment-procedures/TP1.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/transhipment-procedures/TP3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/transhipment-procedures/TP4.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/transhipment-procedures/TP2.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places) |
+|[ ![](/images/transhipment-procedures/tp1.jpg)](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits) |[![](/images/transhipment-procedures/tp3.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages) | [![](/images/transhipment-procedures/tp4.jpg)](/businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation) | [ ![](/images/transhipment-procedures/tp2.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places) |

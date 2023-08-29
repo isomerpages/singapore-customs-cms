@@ -134,10 +134,10 @@ The licence is strictly non-transferable. There should be no sub-letting of the 
 
 **6.** **How do I declare Customs permits?**
 
-Customs permits can be declared through  [TradeNet](/businesses/national-single-window/Overview).
+Customs permits can be declared through  [TradeNet](/businesses/national-single-window/overview).
 
 Find out more about  [Permit Declaration](/businesses/new-traders-and-registration-services/overview).
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
-Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/businesses/SEB/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf) for more information.
+Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/businesses/seb/20191202-excise-factory-scheme-microbrewery-handbook-fourth-ed.pdf) for more information.

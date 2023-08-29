@@ -6,7 +6,7 @@ third_nav_title: Courses and Events
 ---
 # Joint Industry Outreach on Strategic Trade Management 2022
 
-![](/images/joint_ind%20logo%202022%20Dark%20Blue%20Ribbon%20Nuclear%20symbol.png)
+![](/images/joint_ind%20logo%202022%20dark%20blue%20ribbon%20nuclear%20symbol.png)
 
 #### **REGISTRATION IS NOW CLOSED**
 
@@ -46,15 +46,15 @@ All successful registrants will be notified via email and will receive an update
 ##### [Agenda](https://go.gov.sg/amfvk0)
 ##### Day 1
 1. Southeast Asia Regulatory Updates
-* [STA2010 Regulatory Updates (Malaysia)](/files/businesses/TSSB/JIO2022_STA2010%20Regulatory%20Updates.pdf)
-* [Philippines Regulatory Updates (Philippines)](/files/businesses/TSSB/JIO2022_Philippines%20Regulatory%20Updates.pdf)
+* [STA2010 Regulatory Updates (Malaysia)](/files/businesses/tssb/jio2022_sta2010%20regulatory%20updates.pdf)
+* [Philippines Regulatory Updates (Philippines)](/files/businesses/tssb/jio2022_philippines%20regulatory%20updates.pdf)
 * [Updates on Singapore's Strategic Trade Controls (Singapore)](https://go.gov.sg/oohoe0)
 
 2. [Critical Technology Protection Best Practices](https://go.gov.sg/ojpno1)
 
 3. Emerging Technology
-* [Emerging Technology (Kharon)](/files/businesses/TSSB/JIO2022_Emerging%20Technology_Kharon.pdf)
-* [Regulatory Environment in Korea and Challenges of Managing Emerging Technology (STPI, Korea)](/files/businesses/TSSB/JIO2022_Regulatory%20Environment%20in%20Korea%20and%20Challenges%20of%20Managing%20Emerging%20Technology.pdf)
+* [Emerging Technology (Kharon)](/files/businesses/tssb/jio2022_emerging%20technology_kharon.pdf)
+* [Regulatory Environment in Korea and Challenges of Managing Emerging Technology (STPI, Korea)](/files/businesses/tssb/jio2022_regulatory%20environment%20in%20korea%20and%20challenges%20of%20managing%20emerging%20technology.pdf)
 * [Emerging Technologies and Export Controls (US BIS)](https://go.gov.sg/ui5tgr)
 
 ##### Day 2
@@ -64,7 +64,7 @@ All successful registrants will be notified via email and will receive an update
 * [Updates on Japan's Export Controls (METI)](https://go.gov.sg/tggymk)
 2. Compliance Challenges in a Complex Regulatory Landscape
 * [Protection and Indemnity's Insurance (Standard Club)](https://go.gov.sg/eqv4fc)
-* [China's Updates, and Findings and Tips (Shines Asia)](/files/businesses/TSSB/JIO2022_China%20updates,%20and%20findings%20and%20tips.pdf)
+* [China's Updates, and Findings and Tips (Shines Asia)](/files/businesses/tssb/jio2022_china%20updates,%20and%20findings%20and%20tips.pdf)
 * [Challenges in Conducting an Investigation (FTI Consulting)](https://go.gov.sg/t55cwc)
 3. U.S. Regulatory Updates
 * [Updates to the Export Administration Regulations (US BIS)](https://go.gov.sg/6hjivm)

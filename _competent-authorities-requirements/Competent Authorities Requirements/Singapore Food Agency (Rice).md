@@ -36,4 +36,4 @@ Upon approval, a lifetime licence will be issued to the importer. Generally, it 
 
 You may refer to the [SFA website](https://www.sfa.gov.sg/e-services?type=rice-import&page=1){:target="_blank"} for more information.
 
-[Link to List of Product Codes](/files/about-us//HScodelist.pdf)
+[Link to List of Product Codes](/files/about-us//hscodelist.pdf)

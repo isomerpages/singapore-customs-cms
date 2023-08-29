@@ -74,7 +74,7 @@ For information on security lodgement, please click  [here](/businesses/new-trad
 
 You allowed to obtain customs permits on behalf of your clients where a permit is  [required](/businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits). Please ensure that the permit declaration type and permit message are correct during your application process.
 
-All permit applications must be submitted via TradeNet. They will be accessible through [TradeNet front-end solution from an approved solution provider](/businesses/national-single-window/overview/TradeNet-Solution-Providers) or [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}
+All permit applications must be submitted via TradeNet. They will be accessible through [TradeNet front-end solution from an approved solution provider](/businesses/national-single-window/overview/tradenet-solution-providers) or [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}
 
 For permit applications involving strategic goods, please indicate “Strategic Trade Scheme (STS)” under the Customs Procedure Code (CPC) field.
 
@@ -107,6 +107,6 @@ Generally, you are required to retain all the relevant supporting documents rela
 
 You may be required to produce these supporting documents to Singapore Customs upon request.
 
-You may also use an image system to store [images](/files/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf) of the documents without retaining the physical copy. Please read the  [guidelines](/news-and-media/notices/46_Notice_05_2015_Ver1.pdf) here for storing images of trade documents.
+You may also use an image system to store [images](/files/businesses/customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf) of the documents without retaining the physical copy. Please read the  [guidelines](/news-and-media/notices/46_Notice_05_2015_Ver1.pdf) here for storing images of trade documents.
 
 ***

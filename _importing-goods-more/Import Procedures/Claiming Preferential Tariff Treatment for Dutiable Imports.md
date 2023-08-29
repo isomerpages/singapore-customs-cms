@@ -17,7 +17,7 @@ Depending on the Free Trade Agreement, you should support your claim with:
 -   Self-certification by the exporter, producer or importer; or
 -   E-ATIGA Form D reference number for Form Ds transmitted electronically via the ASEAN Single Window from Thailand.
 
-You may refer to the [Forms for Claiming Preferential Tariff Treatment for Dutiable Imports](/files/businesses/ttsb-roo/Forms%20for%20Claiming%20Preferential%20Tariff%20Treatment_May%202022.pdf) in Singapore for more details.
+You may refer to the [Forms for Claiming Preferential Tariff Treatment for Dutiable Imports](/files/businesses/ttsb-roo/forms%20for%20claiming%20preferential%20tariff%20treatment_may%202022.pdf) in Singapore for more details.
 
 Please obtain the forms issued and/or certified by the relevant parties as stated in the respective Free Trade Agreements and Schemes of Preferences.
 

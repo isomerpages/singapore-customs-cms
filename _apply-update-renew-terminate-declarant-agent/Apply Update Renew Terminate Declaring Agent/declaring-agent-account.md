@@ -26,13 +26,13 @@ Existing DAs that wish to update their particulars and contact details in the DA
 
 When applying for or renewing a DA Account, you will be assessed based on the assessment criteria under the DA Governance Framework illustrated below.
 
-**![](/images/DAA.png)**
+**![](/images/daa.png)**
 
 A DA must minimally possess the basic qualities (shown in red in the illustration) and should take pro-active steps to ensure compliance if they have self-assessed to be lacking in those areas. The  desirable qualities  (shown in black) are areas that DAs should also ideally achieve.
 
 When going through the checklist, DAs should answer "Yes" if they are  able to fulfil  and demonstrate the described requirement; or "No" if they are  not able to fulfil, or can only  partially fulfil the requirement.
 
-The assessment criteria are not prescriptive and allow DAs the flexibility to be in accordance to the framework according to their business operations. You can read through the [Assessment Criteria Guide](/files/businesses/AssessmentCriteriaGuide.pdf) to better understand the assessment criteria.
+The assessment criteria are not prescriptive and allow DAs the flexibility to be in accordance to the framework according to their business operations. You can read through the [Assessment Criteria Guide](/files/businesses/assessmentcriteriaguide.pdf) to better understand the assessment criteria.
 
 Singapore Customs will conduct selective validation checks at a DA’s premises. We may also request the company to submit its internal control procedures and processes when necessary.
 
@@ -40,7 +40,7 @@ Singapore Customs will conduct selective validation checks at a DA’s premises.
 
 The final assessment score will translate into one of the 5 bandings shown in the diagram below. In general, the validity or renewal period can range from 1 year to 3 years, and the security requirement can range from a 100% requirement to a waiver of the requirement for most types of transactions.
 
-**![](/images/DAA2.jpg)**
+**![](/images/daa2.jpg)**
 
 ## Exemptions
 

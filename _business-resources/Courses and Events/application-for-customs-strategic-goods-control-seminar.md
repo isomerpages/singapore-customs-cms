@@ -49,4 +49,4 @@ Registration for this event is now  **CLOSED**
 
 ----------
 
-![sgtc_seminar_jan16_logo.JPG](/images/sgtc_seminar_jan16_logo.JPG)
+![sgtc_seminar_jan16_logo.JPG](/images/sgtc_seminar_jan16_logo.jpg)

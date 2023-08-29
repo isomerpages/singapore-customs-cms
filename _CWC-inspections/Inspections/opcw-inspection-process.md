@@ -6,7 +6,7 @@ third_nav_title: Inspections
 
 # OPCW Inspection Process
 
-![](/images/OCPW.jpg)
+![](/images/ocpw.jpg)
 
 ## Inspection Notification
 

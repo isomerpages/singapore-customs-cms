@@ -20,7 +20,7 @@ In general, the re-export may be eligible for a back-to-back preferential CO iss
     
 -   The goods do not undergo any further processing in Singapore; and
     
--   The goods fulfill the relevant requirements in the [Operational Certification Procedures](/files/businesses/Back-to-back-pco-legal-text-reference-Aug-2019.pdf) of the FTA.
+-   The goods fulfill the relevant requirements in the [Operational Certification Procedures](/files/businesses/back-to-back-pco-legal-text-reference-aug-2019.pdf) of the FTA.
 
 Please refer to the legal text of the respective [Free Trade Agreements](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#){:target="_blank"} for the eligibility requirements for back-to-back preferential CO application.
 

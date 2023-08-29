@@ -56,7 +56,7 @@ accordion:
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Who Can Apply?</label>
     <div>
-			<p>If you are an importer importing stout/porter, beer including ale, medicated samsu and other samsu from these <a href="/files/businesses/Preferential Tariffs Table_as of 5 January 2021.pdf" target="new"> FTA Partners</a> under one of Singapore’s Free Trade Agreements, you may apply for a Customs Ruling on Origin Determination of Imported Goods.
+			<p>If you are an importer importing stout/porter, beer including ale, medicated samsu and other samsu from these <a href="/files/businesses/preferential tariffs table_as of 5 january 2021.pdf" target="new"> FTA Partners</a> under one of Singapore’s Free Trade Agreements, you may apply for a Customs Ruling on Origin Determination of Imported Goods.
 
 Please note that origin rulings are only applicable for use within Singapore. If your goods are imported into another country, please seek the advice of the relevant authority in the importing country.</p>
     </div>

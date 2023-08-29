@@ -40,21 +40,21 @@ If your organisation wishes to send additional representatives, please advise th
 
 Presentation materials:
 
--   [Agenda](/files/businesses/TSSB/Joint Industry Outreach 2018 - Agenda.pdf)
--   [Preparing for Strategic Trade Controls in Philippines](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by Philippines.pdf)
--   [Updates to Malaysia’s Strategic Trade Controls](/files/businesses/TSSB/Joint Industry Outreach 2018 - Updates to Malaysias Strategic Controls ver02122018 1.pdf)
--   [1st Panel Discussion: Regulation and Facilitation: Two sides to the same coin (Germany)](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by Germany.pdf)
--   [1st Panel Discussion: Regulation and Facilitation: Two sides to the same coin (Netherlands)](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by Netherlands.pdf)
--   [1st Panel Discussion: Regulation and Facilitation: Two sides to the same coin (Japan)](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by Japan Importance of Security Export Control in Industry.pdf)
--   [1st Panel Discussion: Regulation and Facilitation: Two sides to the same coin (US)](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by US Foreign Policy Controls.pdf)
--   [US brief on effects of proliferation of Weapons of Mass Destruction](/files/businesses/TSSB/Joint Industry Outreach 2018 - 1210 am Presentation by Teresa from US Dangers of Proliferation.pdf)
--   [2nd Panel Discussion: Closing the gaps to achieve a robust Internal Compliance Programme (Yokogawa Electric Corporation)](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by Yokogawa Electric Corporation.pdf)
--   [2nd Panel Discussion: Closing the gaps to achieve a robust Internal Compliance Programme (Keysight Technologies Malaysia Sdn Bhd)](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by Keysight Technologies Malaysia Sdn Bhd.pdf)
--   [2nd Panel Discussion: Closing the gaps to achieve a robust Internal Compliance Programme (CAPTCIS)](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by CAPTCIS.pdf)
--   [Compliance across the supply chain - Best practices for shipping goods via freight forwarders and agents](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by CCmB Singapore Customs.pdf)
--   [Strategic goods technology violations revealed - by METI](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by Japan Enforcement System and Recent Violation Cases.pdf)
--   [Counter-Proliferation case studies](/files/businesses/TSSB/Joint Industry Outreach 2018 - Presentation by US Case Examples.pdf)
--   [What to look out for Singapore's Catch-All Controls](/files/businesses/TSSB/Joint Industry Outreach 2018 - 1630 Presentation by TSSB.pdf)
+-   [Agenda](/files/businesses/tssb/joint industry outreach 2018 - agenda.pdf)
+-   [Preparing for Strategic Trade Controls in Philippines](/files/businesses/tssb/joint industry outreach 2018 - presentation by philippines.pdf)
+-   [Updates to Malaysia’s Strategic Trade Controls](/files/businesses/tssb/joint industry outreach 2018 - updates to malaysias strategic controls ver02122018 1.pdf)
+-   [1st Panel Discussion: Regulation and Facilitation: Two sides to the same coin (Germany)](/files/businesses/tssb/joint industry outreach 2018 - presentation by germany.pdf)
+-   [1st Panel Discussion: Regulation and Facilitation: Two sides to the same coin (Netherlands)](/files/businesses/tssb/joint industry outreach 2018 - presentation by netherlands.pdf)
+-   [1st Panel Discussion: Regulation and Facilitation: Two sides to the same coin (Japan)](/files/businesses/tssb/joint industry outreach 2018 - presentation by japan importance of security export control in industry.pdf)
+-   [1st Panel Discussion: Regulation and Facilitation: Two sides to the same coin (US)](/files/businesses/tssb/joint industry outreach 2018 - presentation by us foreign policy controls.pdf)
+-   [US brief on effects of proliferation of Weapons of Mass Destruction](/files/businesses/tssb/joint industry outreach 2018 - 1210 am presentation by teresa from us dangers of proliferation.pdf)
+-   [2nd Panel Discussion: Closing the gaps to achieve a robust Internal Compliance Programme (Yokogawa Electric Corporation)](/files/businesses/tssb/joint industry outreach 2018 - presentation by yokogawa electric corporation.pdf)
+-   [2nd Panel Discussion: Closing the gaps to achieve a robust Internal Compliance Programme (Keysight Technologies Malaysia Sdn Bhd)](/files/businesses/tssb/joint industry outreach 2018 - presentation by keysight technologies malaysia sdn bhd.pdf)
+-   [2nd Panel Discussion: Closing the gaps to achieve a robust Internal Compliance Programme (CAPTCIS)](/files/businesses/tssb/joint industry outreach 2018 - presentation by captcis.pdf)
+-   [Compliance across the supply chain - Best practices for shipping goods via freight forwarders and agents](/files/businesses/tssb/joint industry outreach 2018 - presentation by ccmb singapore customs.pdf)
+-   [Strategic goods technology violations revealed - by METI](/files/businesses/tssb/joint industry outreach 2018 - presentation by japan enforcement system and recent violation cases.pdf)
+-   [Counter-Proliferation case studies](/files/businesses/tssb/joint industry outreach 2018 - presentation by us case examples.pdf)
+-   [What to look out for Singapore's Catch-All Controls](/files/businesses/tssb/joint industry outreach 2018 - 1630 presentation by tssb.pdf)
 
 Full Video of the seminar (4 part video):
 

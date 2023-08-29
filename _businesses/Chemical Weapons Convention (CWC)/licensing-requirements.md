@@ -53,4 +53,4 @@ A CWC licence is required for the production of DOCs that meets either one or bo
 {:.mobile-block}
 |   |   |   |   |
 |---|---|---|---|
-|[![](/images/CWC/LR1.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity)  |[![](/images/CWC/LR2.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/licence-tc) |[![](/images/CWC/LR3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)  |[![](/images/CWC/LR4.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)  
+|[![](/images/cwc/lr1.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity)  |[![](/images/cwc/lr2.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/licence-tc) |[![](/images/cwc/lr3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)  |[![](/images/cwc/lr4.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)  

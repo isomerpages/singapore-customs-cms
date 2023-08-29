@@ -9,7 +9,7 @@ third_nav_title: Harmonised System (HS) Classification of Goods
 
 Singapore adopts the 8-digit HS Codes in the [ASEAN Harmonised Tariff Nomenclature](https://go.gov.sg/stcced2022) (AHTN), which is based on the World Customs Organisation (WCO) 6-digit level HS Codes, for use by all ASEAN Member States. To assist you in your self-classification journey, you may use the following resources to obtain the HS code for your product.
 
-![HSC5.png](/images/HSC5.png)
+![HSC5.png](/images/hsc5.png)
 
 **Is my Product a controlled item?**
   
@@ -19,7 +19,7 @@ The [HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/port
 
 You can also check if a product is subject to control by any competent authority. If a product is controlled, the "Import", "Export" and "Transhipment" columns of the search results will indicate the Competent Authority controlling the product. You may click on the Competent Authority's acronym to access its contact information.
 
-In view of the current COVID-19 situation, you may refer to the HS Classification Reference for Covid-19 Medical Supplies and vaccines on the [World Customs Organisation (WCO)](/files/businesses/HS-classification-reference-vaccines-_Feb_2021.pdf) website for more information.
+In view of the current COVID-19 situation, you may refer to the HS Classification Reference for Covid-19 Medical Supplies and vaccines on the [World Customs Organisation (WCO)](/files/businesses/hs-classification-reference-vaccines-_feb_2021.pdf) website for more information.
 
 ## Traders' Product Guide
 

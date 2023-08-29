@@ -137,4 +137,4 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
  
 ## For more information on: 
  
-  [![](/images/importing-goods/TIS.jpg)](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event)
+  [![](/images/importing-goods/tis.jpg)](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event)

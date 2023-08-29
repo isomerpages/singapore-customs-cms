@@ -63,5 +63,5 @@ Please note that existing domestic clearance procedures would still apply.
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-|[![](/images/ACTS/Overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/ACTS/Amendments-and-Cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)|[![](/images/ACTS/ATT.jpg)](/businesses/asean-customs-transit-system/overview/att)| [![](/images/ACTS/Customs-Forms-&amp;-Service-Links.jpg)](/eservices/customs-forms-and-service-links)|
-| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|
+|[![](/images/acts/overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/acts/amendments-and-cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)|[![](/images/acts/att.jpg)](/businesses/asean-customs-transit-system/overview/att)| [![](/images/acts/customs-forms-&amp;-service-links.jpg)](/eservices/customs-forms-and-service-links)|
+| [![](/images/acts/useful-links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|

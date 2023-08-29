@@ -6,5 +6,5 @@ third_nav_title: Apply Update Renew Terminate Declaring Agent
 
 # Terms and Conditions for DAs and Declarants 
 
--   [Terms and Conditions for DAs](/files/businesses/TCsDAfinal.pdf)
--   [Terms and Conditions for Declarants](/files/businesses/TCs-Declarant-final.pdf)
+-   [Terms and Conditions for DAs](/files/businesses/tcsdafinal.pdf)
+-   [Terms and Conditions for Declarants](/files/businesses/tcs-declarant-final.pdf)

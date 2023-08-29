@@ -5,7 +5,7 @@ third_nav_title: New Traders And Registration Services
 ---
 # Quick Guide for New Traders and Registration Services
 
-## [Permit Application Overview Guide](/files/businesses/PSB/Permit Application Overview Guide.pdf)
+## [Permit Application Overview Guide](/files/businesses/psb/permit application overview guide.pdf)
 
 ## Activating a Customs Account
 
@@ -27,7 +27,7 @@ To apply for your own customs permits or on behalf of your clients, you have to 
 
 You may apply for customs permits via:
 
--   TradeNet front-end solution purchased from  [approved solution providers](/businesses/national-single-window/overview/TradeNet-Solution-Providers), or
+-   TradeNet front-end solution purchased from  [approved solution providers](/businesses/national-single-window/overview/tradenet-solution-providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"} 
 
 You may wish to view the <a href="https://go.gov.sg/customschecklistforimportprocedures">checklist</a> for import permit applications.

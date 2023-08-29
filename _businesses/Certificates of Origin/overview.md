@@ -51,7 +51,7 @@ These handbooks provide more information on the rules of origin for preferential
  
 - [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Oct2022%20(clean).pdf)
     
-- [Handbook on the rules of origin for Schemes of Preference](/files/businesses/handbookonrooforschemeofpreferencesttsbMar2020.pdf)
+- [Handbook on the rules of origin for Schemes of Preference](/files/businesses/handbookonrooforschemeofpreferencesttsbmar2020.pdf)
     
 
 You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
@@ -79,8 +79,8 @@ All Preferential COs are issued only by Singapore Customs.
 {:.mobile-block}
 |  |   |   |   |
 |---|---|---|---|
-|[![](/images/Picture1.jpg)](/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco)|[![](/images/Picture2.jpg)](/businesses/certificates-of-origin/how-to-apply-for-b2b)|[![](/images/Picture4.jpg)](/businesses/certificates-of-origin/ASW)|[![](/images/Picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|
-|[![](/images/Picture3.jpg)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)|[![](/images/AECE.png)](/businesses/certificates-of-origin/aece)|[![](/images/Self-Certification3.png)](/businesses/certificates-of-origin/SC)| |
+|[![](/images/picture1.jpg)](/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco)|[![](/images/picture2.jpg)](/businesses/certificates-of-origin/how-to-apply-for-b2b)|[![](/images/picture4.jpg)](/businesses/certificates-of-origin/ASW)|[![](/images/picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|
+|[![](/images/picture3.jpg)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)|[![](/images/aece.png)](/businesses/certificates-of-origin/aece)|[![](/images/self-certification3.png)](/businesses/certificates-of-origin/SC)| |
 
 
 ## Best Practices

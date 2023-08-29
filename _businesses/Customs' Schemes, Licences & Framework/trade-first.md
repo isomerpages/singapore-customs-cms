@@ -19,7 +19,7 @@ Participation in [ASEAN Customs Declaration Document (ACDD)](https://www.customs
 
 We adopt a risk management approach to classify the level of facilitation into 5 bands - Basic, Standard, Intermediate, Enhanced and Premium.
 
-![tradefirst1 - Copy](/images/tradefirst1%20-%20Copy.jpg)
+![tradefirst1 - Copy](/images/tradefirst1%20-%20copy.jpg)
 
 **The higher your TradeFIRST band, the greater the facilitation accorded to you.**
 

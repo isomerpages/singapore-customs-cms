@@ -74,7 +74,7 @@ To apply for duty exemption and GST relief for approved wine, the event organise
 
 The wine eligible for duty and GST exemption must be labelled with good quality tamper-proof stickers that cannot be removed or reused. Exhibitors are required to print the event's name and year, along with the term "sampling" on the sticker. The sticker should then pasted on the bottle's side, positioned between the front and back wine labels.
 
-![ASP.PNG](/images/ASP.PNG)
+![ASP.PNG](/images/asp.png)
 
 **Consumption of Wine**
 
