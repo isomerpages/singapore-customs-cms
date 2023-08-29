@@ -1,6 +1,6 @@
 ---
 title: How to Make GST and Duty Payment
-permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/gst-and-duty-payment
+permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/gst-and-duty-payment/
 third_nav_title: Importing by Post or Courier Service
 ---
 ## How to Make GST and Duty Payment

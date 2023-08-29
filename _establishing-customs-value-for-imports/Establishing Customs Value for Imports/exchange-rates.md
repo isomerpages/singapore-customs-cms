@@ -1,6 +1,6 @@
 ---
 title: Exchange Rates
-permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates
+permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates/
 third_nav_title: Establishing Customs Value for Imports
 ---
 

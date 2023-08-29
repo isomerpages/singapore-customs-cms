@@ -1,6 +1,6 @@
 ---
 title: Definition of activity
-permalink: /businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity
+permalink: /businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity/
 third_nav_title: Additional Information
 ---
 

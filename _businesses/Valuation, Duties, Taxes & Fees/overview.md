@@ -1,6 +1,6 @@
 ---
 title: Overview 
-permalink: /businesses/valuation-duties-taxes-fees/overview
+permalink: /businesses/valuation-duties-taxes-fees/overview/
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
 

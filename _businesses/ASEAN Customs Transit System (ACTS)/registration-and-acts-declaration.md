@@ -1,6 +1,6 @@
 ---
 title: Registration and ACTS Declaration
-permalink: /businesses/asean-customs-transit-system/Registration-and-ACTS-Declaration/
+permalink: /businesses/asean-customs-transit-system/registration-and-acts-declaration/
 third_nav_title: ASEAN Customs Transit System (ACTS)
 ---
 ## Step 1: Register as ACTS Trader

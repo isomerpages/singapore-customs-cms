@@ -1,6 +1,6 @@
 ---
 title: Self-Compliance 
-permalink: /businesses/compliance/self-compliance
+permalink: /businesses/compliance/self-compliance/
 third_nav_title: Compliance
 ---
 

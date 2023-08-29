@@ -1,6 +1,6 @@
 ---
 title: Events for Traders 
-permalink: /business-resources/Courses-and-Events/events-for-traders
+permalink: /business-resources/courses-and-events/events-for-traders/
 third_nav_title: Courses and Events
 ---
 

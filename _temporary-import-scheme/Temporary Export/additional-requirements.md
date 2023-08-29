@@ -1,6 +1,6 @@
 ---
 title: Additional Requirements
-permalink: /businesses/importing-goods/temporary-import-scheme/additional-requirements-export
+permalink: /businesses/importing-goods/temporary-import-scheme/additional-requirements-export/
 third_nav_title: Temporary Export
 ---
 # Additional Requirements

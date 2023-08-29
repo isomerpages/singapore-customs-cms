@@ -1,6 +1,6 @@
 ---
 title: Customs Compliance Toolkit
-permalink: /businesses/compliance/customs-compliance-toolkit
+permalink: /businesses/compliance/customs-compliance-toolkit/
 third_nav_title: Compliance
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Import Certificate and Delivery Verification
-permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification
+permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification/
 third_nav_title: Strategic Goods Control
 ---
 # Import Certificate and Delivery Verification

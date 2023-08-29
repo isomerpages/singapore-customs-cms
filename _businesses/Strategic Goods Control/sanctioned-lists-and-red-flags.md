@@ -1,6 +1,6 @@
 ---
 title: Sanctioned Lists and Red Flags
-permalink: /businesses/strategic-goods-control/sanctioned-lists-and-red-flags
+permalink: /businesses/strategic-goods-control/sanctioned-lists-and-red-flags/
 third_nav_title: Strategic Goods Control
 ---
 # Sanctioned Lists and Red Flags

@@ -1,6 +1,6 @@
 ---
 title: Fees Charged by Service Providers
-permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/fees-charged-by-sp
+permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/fees-charged-by-sp/
 third_nav_title: Importing by Post or Courier Service 
 ---
 

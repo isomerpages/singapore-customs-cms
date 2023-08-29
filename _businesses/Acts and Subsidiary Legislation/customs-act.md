@@ -1,6 +1,6 @@
 ---
 title: Customs Act
-permalink: /businesses/acts-and-subsidiary-legislation/customs-act
+permalink: /businesses/acts-and-subsidiary-legislation/customs-act/
 third_nav_title: Acts and Subsidiary Legislation
 ---
 # Customs Act

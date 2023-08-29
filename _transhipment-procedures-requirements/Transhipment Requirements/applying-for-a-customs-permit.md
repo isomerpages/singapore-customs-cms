@@ -1,6 +1,6 @@
 ---
 title: Applying for a Customs Permit
-permalink: /businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit
+permalink: /businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit/
 third_nav_title: Transhipment Requirements 
 ---
 

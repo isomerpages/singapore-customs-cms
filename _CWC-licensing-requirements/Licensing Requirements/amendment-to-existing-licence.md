@@ -1,6 +1,6 @@
 ---
 title: Amendment to Existing Licence
-permalink: /businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence
+permalink: /businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence/
 third_nav_title: Licensing Requirements
 ---
 

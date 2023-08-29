@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /businesses/chemical-weapons-convention/introduction
+permalink: /businesses/chemical-weapons-convention/introduction/
 third_nav_title: Chemical Weapons Convention (CWC)
 accordion:
   - title: General Obligations

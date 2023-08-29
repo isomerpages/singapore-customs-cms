@@ -1,6 +1,6 @@
 ---
 title: "Individual Permit: Export, Transhipment and Transit"
-permalink: /individual-permit-export-transhipment-and-transit
+permalink: /individual-permit-export-transhipment-and-transit/
 third_nav_title: Permit and Registration Requirements
 description: ""
 ---

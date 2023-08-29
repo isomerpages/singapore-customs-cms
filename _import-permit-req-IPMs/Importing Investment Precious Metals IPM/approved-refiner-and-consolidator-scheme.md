@@ -1,6 +1,6 @@
 ---
 title: Approved Refiner and Consolidator Scheme
-permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/Approved-Refiner-and-Consolidator-Scheme
+permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/approved-refiner-and-consolidator-scheme/
 third_nav_title: Importing Investment Precious Metals IPM
 ---
 

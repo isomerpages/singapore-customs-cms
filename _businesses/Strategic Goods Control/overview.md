@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/strategic-goods-control/overview
+permalink: /businesses/strategic-goods-control/overview/
 third_nav_title: Strategic Goods Control
 ---
 

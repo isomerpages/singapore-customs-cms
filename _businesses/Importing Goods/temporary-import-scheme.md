@@ -1,6 +1,6 @@
 ---
 title: Temporary Import Scheme
-permalink: /businesses/importing-goods/temporary-import-scheme
+permalink: /businesses/importing-goods/temporary-import-scheme/
 third_nav_title: Importing Goods
 accordion:
   - title: Do

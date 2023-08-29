@@ -1,6 +1,6 @@
 ---
 title: Application for Customs Ruling on Valuation
-permalink: /businesses/valuation-duties-taxes-fees/application-for-customs-ruling-on-valuation
+permalink: /businesses/valuation-duties-taxes-fees/application-for-customs-ruling-on-valuation/
 third_nav_title: Valuation, Duties, Taxes & Fees
 accordion:
   - title: Who can apply?

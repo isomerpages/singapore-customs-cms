@@ -1,6 +1,6 @@
 ---
 title: Re-importing Shut-out Goods
-permalink: /businesses/importing-goods/import-procedures/re-importing-shut-out-goods
+permalink: /businesses/importing-goods/import-procedures/re-importing-shut-out-goods/
 third_nav_title: Import Procedures
 accordion:
   - title: GST Relief for Re-Importing Non-Dutiable Shut-out Goods within 24 hours

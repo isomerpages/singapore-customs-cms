@@ -1,6 +1,6 @@
 ---
 title: Importing Dutiable Motor Vehicles
-permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles
+permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/
 third_nav_title: Importing Goods
 accordion:
   - title: Customs Control*

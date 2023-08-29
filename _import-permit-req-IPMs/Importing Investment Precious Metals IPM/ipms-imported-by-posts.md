@@ -1,6 +1,6 @@
 ---
 title: IPMs Imported by Posts
-permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/IPMS-imported-by-posts
+permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/ipms-imported-by-posts/
 third_nav_title: Importing Investment Precious Metals IPM
 ---
 

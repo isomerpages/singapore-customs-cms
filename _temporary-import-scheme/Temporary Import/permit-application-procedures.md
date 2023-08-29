@@ -1,6 +1,6 @@
 ---
 title: Permit Application Procedures
-permalink: /businesses/importing-goods/temporary-import-scheme/permit-application-procedures
+permalink: /businesses/importing-goods/temporary-import-scheme/permit-application-procedures/
 third_nav_title: Temporary Import
 ---
 # Permit Application Procedures

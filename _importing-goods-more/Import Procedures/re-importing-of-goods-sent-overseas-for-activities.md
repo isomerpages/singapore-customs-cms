@@ -1,6 +1,6 @@
 ---
 title: Re-importing of Goods Sent Overseas for Activities
-permalink: /businesses/importing-goods/import-procedures/re-importing-of-goods-sent-overseas-for-activities
+permalink: /businesses/importing-goods/import-procedures/re-importing-of-goods-sent-overseas-for-activities/
 third_nav_title: Import Procedures
 accordion:
   - title: Re-Importing Temporary Exported Goods

@@ -1,6 +1,6 @@
 ---
 title: Licensing Requirements
-permalink: /businesses/chemical-weapons-convention/licensing-requirements
+permalink: /businesses/chemical-weapons-convention/licensing-requirements/
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 

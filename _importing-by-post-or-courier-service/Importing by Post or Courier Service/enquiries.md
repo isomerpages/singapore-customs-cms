@@ -1,6 +1,6 @@
 ---
 title: Enquiries
-permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/enquiries
+permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/enquiries/
 third_nav_title: Importing by Post or Courier Service 
 ---
 

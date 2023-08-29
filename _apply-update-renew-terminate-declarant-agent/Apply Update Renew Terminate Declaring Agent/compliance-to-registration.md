@@ -1,6 +1,6 @@
 ---
 title: Compliance to Registration
-permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/Compliance-to-registration
+permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/compliance-to-registration/
 third_nav_title: Apply Update Renew Terminate Declaring Agent
 ---
 

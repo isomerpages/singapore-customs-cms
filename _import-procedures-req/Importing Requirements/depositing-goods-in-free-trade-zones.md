@@ -1,6 +1,6 @@
 ---
 title: Depositing Goods in Free Trade Zones
-permalink: /businesses/importing-goods/import-procedures/depositing-goods-in-ftz
+permalink: /businesses/importing-goods/import-procedures/depositing-goods-in-ftz/
 third_nav_title: Importing Requirements
 ---
 

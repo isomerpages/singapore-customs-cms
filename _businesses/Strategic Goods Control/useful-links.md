@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /businesses/strategic-goods-control/useful-links
+permalink: /businesses/strategic-goods-control/useful-links/
 third_nav_title: Strategic Goods Control
 ---
 

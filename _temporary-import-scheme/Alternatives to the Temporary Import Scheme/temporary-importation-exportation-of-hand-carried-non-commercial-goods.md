@@ -1,6 +1,6 @@
 ---
 title: Temporary Importation/Exportation of Hand-carried Non-commercial Goods
-permalink: /businesses/importing-goods/temporary-import-scheme/hand-carried-nc-goods
+permalink: /businesses/importing-goods/temporary-import-scheme/hand-carried-nc-goods/
 third_nav_title: Alternatives to the Temporary Import Scheme
 ---
 

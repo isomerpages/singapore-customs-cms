@@ -1,6 +1,6 @@
 ---
 title: Notification Period 
-permalink: /businesses/chemical-weapons-convention/inspections/notification-period
+permalink: /businesses/chemical-weapons-convention/inspections/notification-period/
 third_nav_title: Inspections
 ---
 

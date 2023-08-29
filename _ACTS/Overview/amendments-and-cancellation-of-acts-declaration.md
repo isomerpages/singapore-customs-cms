@@ -1,6 +1,6 @@
 ---
 title: Amendments and Cancellation of ACTS Declaration
-permalink: /businesses/asean-customs-transit-system/overview/amendments-and-cancellation-of-ACTS-declaration
+permalink: /businesses/asean-customs-transit-system/overview/amendments-and-cancellation-of-acts-declaration/
 third_nav_title: Overview
 ---
 

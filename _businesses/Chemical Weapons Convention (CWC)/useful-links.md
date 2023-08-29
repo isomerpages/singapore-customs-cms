@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /businesses/chemical-weapons-convention/useful-links
+permalink: /businesses/chemical-weapons-convention/useful-links/
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 

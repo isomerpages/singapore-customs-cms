@@ -1,6 +1,6 @@
 ---
 title: TradeNet
-permalink: /businesses/national-single-window/TradeNet/
+permalink: /businesses/national-single-window/tradenet/
 third_nav_title: National Single Window
 ---
 # TradeNet

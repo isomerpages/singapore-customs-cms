@@ -1,6 +1,6 @@
 ---
 title: Major Exporter Scheme 
-permalink: /businesses/customs-schemes-licences-framework/iras-schemes/major-exporter-scheme
+permalink: /businesses/customs-schemes-licences-framework/iras-schemes/major-exporter-scheme/
 third_nav_title: IRAS Scheme
 ---
 

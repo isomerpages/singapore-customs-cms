@@ -1,6 +1,6 @@
 ---
 title: Application for Customs Ruling on Classification of Goods
-permalink: /businesses/Harmonized-System-HS-Classification-of-Goods/Application-for-Customs-Ruling-on-Classification-of-Goods
+permalink: /businesses/harmonized-system-hs-classification-of-goods/application-for-customs-ruling-on-classification-of-goods/
 third_nav_title: Harmonised System (HS) Classification of Goods
 accordion:
   - title: Who can apply?

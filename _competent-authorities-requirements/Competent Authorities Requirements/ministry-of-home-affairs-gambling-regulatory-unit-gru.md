@@ -1,6 +1,6 @@
 ---
 title: Ministry of Home Affairs - Gambling Regulatory Authority (GRA)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/MHA-Gambling-Regulatory-Authority
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/mha-gambling-regulatory-authority/
 third_nav_title: Competent Authorities Requirements
 ---
 # Ministry of Home Affairs - Gambling Regulatory Authority (GRA)

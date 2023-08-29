@@ -1,6 +1,6 @@
 ---
 title: Depositing Goods in Free Trade Zones Pending Transhipment
-permalink: /businesses/transhipping-goods/transhipment-procedures/depositing-goods-in-ftzpt
+permalink: /businesses/transhipping-goods/transhipment-procedures/depositing-goods-in-ftzpt/
 third_nav_title: Transhipment Requirements  
 ---
 

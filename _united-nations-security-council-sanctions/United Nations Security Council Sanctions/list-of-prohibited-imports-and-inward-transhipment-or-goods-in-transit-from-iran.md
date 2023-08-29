@@ -1,6 +1,6 @@
 ---
 title: List of Prohibited Imports and (Inward), Transhipment or goods in Transit from Iran
-permalink: /businesses/united-nations-security-council-sanctions/list-of-prohibited-imports-inward-transhipment-iran
+permalink: /businesses/united-nations-security-council-sanctions/list-of-prohibited-imports-inward-transhipment-iran/
 third_nav_title: United Nations Security Council Sanctions
 ---
 

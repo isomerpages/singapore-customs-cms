@@ -1,6 +1,6 @@
 ---
 title: Temporary Import Duration and Extension
-permalink: /businesses/importing-goods/temporary-import-scheme/duration-and-extension
+permalink: /businesses/importing-goods/temporary-import-scheme/duration-and-extension/
 third_nav_title: Temporary Import 
 ---
 

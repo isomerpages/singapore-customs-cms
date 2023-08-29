@@ -1,6 +1,6 @@
 ---
 title: Declaring Agent Account
-permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account
+permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account/
 third_nav_title: Apply Update Renew Terminate Declaring Agent
 ---
 

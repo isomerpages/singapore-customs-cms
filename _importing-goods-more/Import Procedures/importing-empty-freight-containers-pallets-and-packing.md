@@ -1,6 +1,6 @@
 ---
 title: Importing Empty Freight Containers, Pallets and Packing
-permalink: /businesses/importing-goods/import-procedures/importing-empty-freight-containers-pallets-and-packing
+permalink: /businesses/importing-goods/import-procedures/importing-empty-freight-containers-pallets-and-packing/
 third_nav_title: Import Procedures
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Apply/Update/Renew/Terminate Declaring Agent (DA) Account and Declarant
-permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant
+permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/
 third_nav_title: Registration Services
 ---
 

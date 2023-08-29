@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/Terms-and-conditions
+permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/terms-and-conditions/
 third_nav_title: Apply Update Renew Terminate Declaring Agent 
 ---
 

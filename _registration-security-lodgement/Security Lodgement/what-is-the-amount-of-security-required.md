@@ -1,6 +1,6 @@
 ---
 title: What Is The Amount of Security Required?
-permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/Amount-of-security-required
+permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/amount-of-security-required/
 third_nav_title: Security Lodgement
 ---
 

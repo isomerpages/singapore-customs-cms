@@ -1,6 +1,6 @@
 ---
 title: Transfer Pricing Adjustments on Imports
-permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/transfer-pricing-adjustments-on-imports
+permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/transfer-pricing-adjustments-on-imports/
 third_nav_title: Establishing Customs Value for Imports
 ---
 # Transfer Pricing Adjustments on Imports

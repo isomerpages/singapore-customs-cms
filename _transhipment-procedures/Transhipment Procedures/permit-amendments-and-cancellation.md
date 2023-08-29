@@ -1,6 +1,6 @@
 ---
 title: Permit Amendments and Cancellation
-permalink: /businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation
+permalink: /businesses/transhipping-goods/transhipment-procedures/permit-amendments-and-cancellation/
 third_nav_title: Transhipment Procedures
 ---
 # Permit Amendment and Cancellation

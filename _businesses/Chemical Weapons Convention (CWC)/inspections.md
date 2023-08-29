@@ -1,6 +1,6 @@
 ---
 title: Inspections
-permalink: /businesses/chemical-weapons-convention/inspections
+permalink: /businesses/chemical-weapons-convention/inspections/
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Application for Customs Strategic Goods Control Course
-permalink: /businesses/business-resources/courses-and-events/application-for-customs-strategic-goods-control-course
+permalink: /businesses/business-resources/courses-and-events/application-for-customs-strategic-goods-control-course/
 third_nav_title: Courses and Events
 ---
 

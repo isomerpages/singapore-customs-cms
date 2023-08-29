@@ -1,6 +1,6 @@
 ---
 title: Arrivals
-permalink: /individuals/going-through-customs/arrivals
+permalink: /individuals/going-through-customs/arrivals/
 third_nav_title: Going Through Customs
 ---
 

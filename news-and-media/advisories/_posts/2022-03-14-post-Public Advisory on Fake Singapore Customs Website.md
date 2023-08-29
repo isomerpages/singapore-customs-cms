@@ -1,6 +1,6 @@
 ---
 title: Public Advisory on Fake Singapore Customs Website
-permalink: /news-and-media/advisories/fake-customs-website
+permalink: /news-and-media/advisories/fake-customs-website/
 date: 2022-03-14
 layout: post
 description: ""

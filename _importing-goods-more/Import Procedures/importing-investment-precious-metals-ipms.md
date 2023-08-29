@@ -1,6 +1,6 @@
 ---
 title: Importing Investment Precious Metals (IPMs)
-permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms
+permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/
 third_nav_title: Import Procedures 
 ---
 

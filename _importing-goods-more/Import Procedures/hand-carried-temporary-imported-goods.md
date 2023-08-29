@@ -1,6 +1,6 @@
 ---
 title: Hand-carried temporary imported goods
-permalink: /businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods
+permalink: /businesses/importing-goods/import-procedures/hand-carried-temporary-imported-goods/
 third_nav_title: Import Procedures
 ---
 

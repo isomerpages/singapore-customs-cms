@@ -1,6 +1,6 @@
 ---
 title: Permit Amendments and Cancellation
-permalink: /businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation
+permalink: /businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation/
 third_nav_title: Export Procedures
 ---
 

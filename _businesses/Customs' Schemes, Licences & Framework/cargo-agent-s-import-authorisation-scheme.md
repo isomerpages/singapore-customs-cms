@@ -1,6 +1,6 @@
 ---
 title: Cargo Agent's Import Authorisation Scheme
-permalink: /businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme
+permalink: /businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Cargo Agent's Import Authorisation Scheme

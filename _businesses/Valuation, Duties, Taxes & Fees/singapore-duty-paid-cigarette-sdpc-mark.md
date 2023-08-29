@@ -1,6 +1,6 @@
 ---
 title: Singapore Duty-Paid Cigarette (SDPC) Mark
-permalink: /businesses/valuation-duties-taxes-fees/singapore-duty-paid-cigarette-sdpc-mark
+permalink: /businesses/valuation-duties-taxes-fees/singapore-duty-paid-cigarette-sdpc-mark/
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
 

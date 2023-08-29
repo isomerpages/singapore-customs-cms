@@ -1,6 +1,6 @@
 ---
 title: Registration Services
-permalink: /businesses/new-traders-and-registration-services/registration-services
+permalink: /businesses/new-traders-and-registration-services/registration-services/
 third_nav_title: New Traders And Registration Services
 ---
 

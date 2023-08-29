@@ -1,6 +1,6 @@
 ---
 title: Controlled & Prohibited Goods
-permalink: /businesses/exporting-goods/export-procedures/controlled-prohibited-goods
+permalink: /businesses/exporting-goods/export-procedures/controlled-prohibited-goods/
 third_nav_title: Exporting Requirements
 ---
 

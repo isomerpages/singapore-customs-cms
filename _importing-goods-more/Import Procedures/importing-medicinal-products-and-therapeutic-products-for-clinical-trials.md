@@ -1,6 +1,6 @@
 ---
 title: Importing Medicinal Products and Therapeutic Products for Clinical Trials
-permalink: /businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials
+permalink: /businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials/
 third_nav_title: Import Procedures
 ---
 ## Importing Medicinal Products and Therapeutic Products for Clinical Trials

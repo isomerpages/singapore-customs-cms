@@ -1,6 +1,6 @@
 ---
 title: Divisions and Structure
-permalink: /about-us/organisation-overview/division-and-structure
+permalink: /about-us/organisation-overview/division-and-structure/
 ---
 # Divisions and Branches
 

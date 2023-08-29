@@ -1,6 +1,6 @@
 ---
 title: Understanding HS Classification
-permalink: /businesses/harmonised-system-classification-of-goods/Understanding-HS-Classification
+permalink: /businesses/harmonised-system-classification-of-goods/understanding-hs-classification/
 third_nav_title: Harmonised System (HS) Classification of Goods
 ---
 # Understanding HS Classification

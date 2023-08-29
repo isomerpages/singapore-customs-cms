@@ -1,6 +1,6 @@
 ---
 title: Central Narcotics Bureau (CNB)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/CNB/
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/cnb/
 third_nav_title: Competent Authorities Requirements
 ---
 ## Import, Export or Transhipment of Controlled Substances

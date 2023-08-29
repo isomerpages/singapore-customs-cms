@@ -1,6 +1,6 @@
 ---
 title: Application for Customs Ruling on Origin Determination of Goods
-permalink: /businesses/certificates-of-origin/application-for-customs-ruling-on-origin-determination-of-goods
+permalink: /businesses/certificates-of-origin/application-for-customs-ruling-on-origin-determination-of-goods/
 third_nav_title: Certificates of Origin
 accordion:
   - title: Who can apply?

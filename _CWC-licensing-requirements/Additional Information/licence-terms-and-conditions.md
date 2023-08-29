@@ -1,6 +1,6 @@
 ---
 title: Licence Terms and Conditions
-permalink: /businesses/chemical-weapons-convention/licensing-requirements/licence-tc
+permalink: /businesses/chemical-weapons-convention/licensing-requirements/licence-tc/
 third_nav_title: Additional Information
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Duty Rates
-permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/duty-rates
+permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/duty-rates/
 third_nav_title: Importing Dutiable Motor Vehicles
 ---
 

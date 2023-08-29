@@ -1,7 +1,7 @@
 ---
 layout: boxy
 title: hidden 1a1
-permalink: /test/test1/test1a/test1a1
+permalink: /test/test1/test1a/test1a1/
 third_nav_title: test 1a
 boxes:
   - title: box 1

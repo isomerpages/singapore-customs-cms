@@ -1,6 +1,6 @@
 ---
 title: Depositing Goods in Licensed or Zero-GST Warehouses
-permalink: /businesses/importing-goods/import-procedures/depositing-goods-in-licensed-zerogstwarehouses
+permalink: /businesses/importing-goods/import-procedures/depositing-goods-in-licensed-zerogstwarehouses/
 third_nav_title: Importing Requirements
 ---
 
