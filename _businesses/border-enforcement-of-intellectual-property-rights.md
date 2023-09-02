@@ -28,11 +28,11 @@ Once informed of the seizure, you will have to commence an action for infringeme
   
 Besides seizure on request, Singapore Customs may also seize copies or goods which are reasonably suspected to infringe a registered trademark, a copyright or a registered geographical indication, and that are imported into or to be exported from Singapore. Singapore Customs will inform the owner or exclusive licensee of the copyright or the proprietor or licensee of the registered trademark (“the right holder”), or the registrant of the registered geographical indication, as soon as practicable after the seizure. 
 
-The right holder (for trademark or copyright), or the registrant or any producer or trader of goods or any association of such producers or traders (for geographical indication), may then request the Director-General of Customs to continue to detain the  goods. To do so, they must
+The rights holder (for trademark or copyright), or the registrant, or any producer or trader of goods or any association of such producers or traders (for geographical indication), may then request the Director-General of Customs to continue to detain the  goods. To do so, they must
 
-a)  Provide written notice to Singapore Customs within 48 hours after the date of the notice of the seizure from Singapore Customs. Singapore Customs will respond as soon as practicable with a notice to take action
+a)  Provide written notice to Singapore Customs within 48 hours after the date of the notice of the seizure from Singapore Customs. Singapore Customs will respond with a notice to take action as soon as practicable
 
-b)  Subsequently, they must commence an action for infringement of the trademark, copyright or geographical indication and notify the Director-General of Customs accordingly within 10 working days after the date specified in the notice to take action. 
+b)  Subsequently, commence an action for infringement of the trademark, copyright or geographical indication and notify the Director-General of Customs accordingly within 10 working days after the date specified in the notice to take action. 
 
 The time limit for initiating infringement action may be extended by a further 10 working days upon request.
   
