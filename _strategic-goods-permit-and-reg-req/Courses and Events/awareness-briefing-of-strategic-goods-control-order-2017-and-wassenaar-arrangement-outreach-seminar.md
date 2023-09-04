@@ -1,6 +1,6 @@
 ---
 title: Awareness Briefing of Strategic Goods Control Order 2017 and Wassenaar Arrangement Outreach Seminar
-permalink: /businesses/strategic-goods-control/courses-and-events/sgco-awareness-briefing-and-wa-outreach-seminar
+permalink: /businesses/strategic-goods-control/courses-and-events/sgco-awareness-briefing-and-wa-outreach-seminar/
 third_nav_title: Courses and Events
 ---
 
@@ -8,7 +8,7 @@ third_nav_title: Courses and Events
 
 This content is for Awareness Briefing on Strategic Goods Control Order 2017 and Wassenaar Arrangement Outreach Seminar page
 
-![banner](/images/Wassenaar-Arrangement-Outreach-Seminar-Banner.png)
+![banner](/images/wassenaar-arrangement-outreach-seminar-banner.png)
 
 **REGISTRATION HAS ENDED**
 

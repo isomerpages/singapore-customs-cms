@@ -51,7 +51,7 @@ Major traveller entry checkpoints in Singapore operate the Red and Green Channel
 
 ### When To Use 	The Red Channel
 
-![](/images/RedC.gif)
+![](/images/redc.gif)
 
 Proceed to the Red Channel if you are carrying:
 
@@ -84,7 +84,7 @@ More information on permit requirements is available  [here](/businesses/importi
 ***
 
 ## When to use the Green Channel
-![](/images/GreenC.gif)
+![](/images/greenc.gif)
 
 Proceed to the Green Channel if you are not carrying any declarable goods stated above. ICA officers will conduct selective checks at the Green Channel.
 

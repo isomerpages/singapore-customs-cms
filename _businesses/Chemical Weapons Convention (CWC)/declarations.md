@@ -1,6 +1,6 @@
 ---
 title: Declarations
-permalink: /businesses/chemical-weapons-convention/declarations
+permalink: /businesses/chemical-weapons-convention/declarations/
 breadcrumb: Declarations
 third_nav_title: Chemical Weapons Convention (CWC)
 ---

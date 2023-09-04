@@ -25,7 +25,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the [Zero-GST Warehouse Scheme Handbook ](/files/businesses/SEB/Zero-GST%20Warehouse%20Scheme%20Handbook%20-%20Nov%202022.pdf) (Chapter 2.10).
+A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the [Zero-GST Warehouse Scheme Handbook ](/files/businesses/seb/zero-gst%20warehouse%20scheme%20handbook%20-%20nov%202022.pdf) (Chapter 2.10).
 
 ## How to Qualify?
 
@@ -50,7 +50,7 @@ With effect from 1 Jan 2018, to mitigate money laundering and terrorism financin
 -   Obtain, maintain and update information on identity of the person(s) with control over the listed goods and the person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 -   Conduct screening, maintain and update the screening records of customers who deposit the goods, person(s) with control over the listed goods and person(s) with beneficial ownership over the listed goods. The information maintained must be produced to Singapore Customs upon request
 
-You may refer to the [HS Codes and HS descriptions for listed goods. ](/files/businesses/SEB/2022%20ahtn%20listed%20goods%20hs%20codes.pdf)
+You may refer to the [HS Codes and HS descriptions for listed goods. ](/files/businesses/seb/2022%20ahtn%20listed%20goods%20hs%20codes.pdf)
 
 ## Filing of Suspicious Transaction Report
 

@@ -1,6 +1,6 @@
 ---
 title: Vessel Registration Requirement
-permalink: /businesses/transhipping-goods/transhipment-procedures/vessel-registration-requirement
+permalink: /businesses/transhipping-goods/transhipment-procedures/vessel-registration-requirement/
 third_nav_title: Transhipment Requirements 
 ---
 

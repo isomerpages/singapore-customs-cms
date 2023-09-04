@@ -17,7 +17,7 @@ To export goods from Singapore, you are required to declare the goods to Singapo
 
 ### General Export FlowChart
 
-![Export FlowChart](/images/ExportFlowChart.png) 
+![Export FlowChart](/images/exportflowchart.png) 
 
 To account for the export of your goods (for example, from customs territory, zero-GST warehouse, licensed warehouse or goods imported under the Major Exporter Scheme to a free trade zone (FTZ) or exit checkpoint), please follow the steps below to obtain the relevant export permits and authorisation (if the goods are subject to control) from the relevant CAs.
 
@@ -46,7 +46,7 @@ You may:
 
 All permit applications must be submitted electronically via TradeNet, which is accessible through:
 
--   TradeNet front-end solution from any  [approved solution provider](/businesses/national-single-window/overview/TradeNet-Solution-Providers), or
+-   TradeNet front-end solution from any  [approved solution provider](/businesses/national-single-window/overview/tradenet-solution-providers), or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}.
 
 Please refer to [Permits, Documentation and Other Fees ](https://www.customs.gov.sg/businesses/valuation-duties-taxes-fees/permits-documentation-and-other-fees/) for more information. Declaring agents may charge additional service fees. You may wish to check with your appointed declaring agent on the charges involved.
@@ -98,7 +98,7 @@ Please note that partial clearance is not allowed for goods departing Singapore 
 
 Generally, you are required to retain the relevant supporting documents relating to the purchase, import, sale or export of the goods for a period of 5 years from the date of approval of the Customs permit.
 
-These documents can be stored as physical hardcopies or as [images](/files/businesses/Customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf). 
+These documents can be stored as physical hardcopies or as [images](/files/businesses/customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf). 
 <br> You are required to produce these supporting documents to Singapore Customs upon request.
 
 ***

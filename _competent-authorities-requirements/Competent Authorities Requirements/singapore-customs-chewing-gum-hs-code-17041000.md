@@ -1,6 +1,6 @@
 ---
 title: Singapore Customs - Chewing Gum (HS CODE 17041000)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/Chewing-gum
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/chewing-gum/
 third_nav_title: Competent Authorities Requirements
 ---
 

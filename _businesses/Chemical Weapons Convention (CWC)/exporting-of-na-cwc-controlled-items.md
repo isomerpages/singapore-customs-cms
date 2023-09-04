@@ -1,6 +1,6 @@
 ---
 title: Exporting of NA(CWC) Controlled Items
-permalink: /businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items
+permalink: /businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items/
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
 # Exporting of NA(CWC) Controlled Items

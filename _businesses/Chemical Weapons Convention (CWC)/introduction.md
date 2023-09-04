@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /businesses/chemical-weapons-convention/introduction
+permalink: /businesses/chemical-weapons-convention/introduction/
 third_nav_title: Chemical Weapons Convention (CWC)
 accordion:
   - title: General Obligations
@@ -82,6 +82,6 @@ The NA(CWC) is the national focal point and liaison with the Organisation for th
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-| [![](/images/CWC/CWC1.jpg)](/businesses/chemical-weapons-convention/legislation) | [![](/images/CWC/CWC12.jpg)](/businesses/chemical-weapons-convention/announcement) |[![](/images/CWC/CWC2.jpg)](/businesses/chemical-weapons-convention/controlled-chemicals) | [![](/images/CWC/CWC3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements) | 
-| [![](/images/CWC/CWC4.jpg)](/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items) | [![](/images/CWC/CWC5.jpg)](/businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items)| [![](/images/CWC/CWC6.jpg)](/businesses/chemical-weapons-convention/declarations) | [![](/images/CWC/CWC7.jpg)](/businesses/chemical-weapons-convention/inspections)|
-| [![](/images/CWC/CWC8.jpg)](/businesses/chemical-weapons-convention/offences) | [![](/images/CWC/CWC9.jpg)](/eservices/customs-forms-and-service-links)| [![](/images/CWC/CWC10.jpg)](/businesses/chemical-weapons-convention/glossary)| [![](/images/CWC/CWC11.jpg)](/businesses/chemical-weapons-convention/useful-links)  | | |
+| [![](/images/cwc/cwc1.jpg)](/businesses/chemical-weapons-convention/legislation) | [![](/images/cwc/cwc12.jpg)](/businesses/chemical-weapons-convention/announcement) |[![](/images/cwc/cwc2.jpg)](/businesses/chemical-weapons-convention/controlled-chemicals) | [![](/images/cwc/cwc3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements) | 
+| [![](/images/cwc/cwc4.jpg)](/businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items) | [![](/images/cwc/cwc5.jpg)](/businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items)| [![](/images/cwc/cwc6.jpg)](/businesses/chemical-weapons-convention/declarations) | [![](/images/cwc/cwc7.jpg)](/businesses/chemical-weapons-convention/inspections)|
+| [![](/images/cwc/cwc8.jpg)](/businesses/chemical-weapons-convention/offences) | [![](/images/cwc/cwc9.jpg)](/eservices/customs-forms-and-service-links)| [![](/images/cwc/cwc10.jpg)](/businesses/chemical-weapons-convention/glossary)| [![](/images/cwc/cwc11.jpg)](/businesses/chemical-weapons-convention/useful-links)  | | |

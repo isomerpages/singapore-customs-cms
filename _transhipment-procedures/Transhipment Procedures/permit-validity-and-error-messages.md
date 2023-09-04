@@ -1,6 +1,6 @@
 ---
 title: Permit Validity and Error Messages
-permalink: /businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages
+permalink: /businesses/transhipping-goods/transhipment-procedures/permit-validity-and-error-messages/
 third_nav_title: Transhipment Procedures
 ---
 

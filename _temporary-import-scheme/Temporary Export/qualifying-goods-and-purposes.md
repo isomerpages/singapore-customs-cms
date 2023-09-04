@@ -1,6 +1,6 @@
 ---
 title: Qualifying Goods and Purposes
-permalink: /businesses/importing-goods/temporary-import-scheme/qualifying-gooods-purposes-export
+permalink: /businesses/importing-goods/temporary-import-scheme/qualifying-gooods-purposes-export/
 third_nav_title: Temporary Export 
 ---
 

@@ -16,7 +16,7 @@ Obtain a  [complete list](/files/businesses/complete-list-trade-nett.pdf) of Tra
 
 All Customs permit applications must be submitted via TradeNet, accessible through:
 
--   TradeNet front-end solution purchased any  [approved solution provider](/businesses/national-single-window/overview/TradeNet-Solution-Providers); or
+-   TradeNet front-end solution purchased any  [approved solution provider](/businesses/national-single-window/overview/tradenet-solution-providers); or
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"}
 
 You may:

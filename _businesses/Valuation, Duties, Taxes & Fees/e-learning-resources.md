@@ -1,6 +1,6 @@
 ---
 title: E-learning Resources
-permalink: /businesses/valuation-duties-taxes--fees/e-learning-resources
+permalink: /businesses/valuation-duties-taxes--fees/e-learning-resources/
 third_nav_title: Valuation, Duties, Taxes & Fees
 ---
 

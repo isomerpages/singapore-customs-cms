@@ -1,7 +1,7 @@
 ---
 title: National Environment Agency - Chemical Control and Management Department
   (Ozone Depleting Substances)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-ozone-depleting-substances
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-ozone-depleting-substances/
 third_nav_title: Competent Authorities Requirements
 ---
 

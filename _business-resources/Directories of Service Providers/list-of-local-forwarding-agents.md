@@ -1,6 +1,6 @@
 ---
 title: List of Local Forwarding Agents
-permalink: /businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents
+permalink: /businesses/business-resources/directories-of-service-providers/list-of-local-forwarding-agents/
 third_nav_title: Directories of Service Providers
 ---
 

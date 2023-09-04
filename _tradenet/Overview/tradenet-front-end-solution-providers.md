@@ -1,6 +1,6 @@
 ---
 title: TradeNet Front-End Solution Providers
-permalink: /businesses/national-single-window/overview/TradeNet-Solution-Providers/
+permalink: /businesses/national-single-window/overview/tradenet-solution-providers/
 third_nav_title: Overview
 ---
 # TradeNet Front-end Solution Providers

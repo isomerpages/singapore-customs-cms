@@ -1,6 +1,6 @@
 ---
 title: Understanding HS Classification
-permalink: /businesses/harmonised-system-classification-of-goods/Understanding-HS-Classification
+permalink: /businesses/harmonised-system-classification-of-goods/understanding-hs-classification/
 third_nav_title: Harmonised System (HS) Classification of Goods
 ---
 # Understanding HS Classification
@@ -23,15 +23,15 @@ The HS comprises 21 Sections covering 97 Chapters. It consists of:
 -   A list of headings arranged in systematic order, divided into subheadings, where appropriate
 -   General Interpretative Rules (GIR)
 
-![HSC2.png](/images/HSC2.png)
+![HSC2.png](/images/hsc2.png)
 
 The goods in the HS are arranged in order of their degree of manufacture. The same order is arranged within each Chapter and its headings.
 
-![HSC3.jpg](/images/HSC3.jpg)
+![HSC3.jpg](/images/hsc3.jpg)
 
 
 ## Process of Classification
-  ![HSC4.jpg](/images/HSC4.jpg)
+  ![HSC4.jpg](/images/hsc4.jpg)
     
 In every case, the goods must first be classified in the appropriate 4-digit HS heading, followed by the appropriate 1-dash subheading, and the appropriate 2-dash subheading and so on. You should  **not**  proceed directly to the lower-level subheadings without first determining the appropriate heading.
     
@@ -44,7 +44,7 @@ Click  [here](/files/businesses/apply-gir.pdf)  for guiding questions on how to 
     
 The ASEAN Harmonised Tariff Nomenclature (AHTN) is an 8-digit HS nomenclature used by all ASEAN Member States (AMS). The AHTN facilitates trade among AMS through consistent and uniform interpretation in the classification of goods. It is based on the 6-digit Harmonised Commodity Description and Coding System Nomenclature developed by WCO.
 
-The last amendment to AHTN was done in 2022 where all 351 sets of 2022 amendments to the WCO's HS nomenclature was incorporated. The latest tariff schedule is available in [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2022](https://go.gov.sg/stcced2022). You may refer to the [highlights on key amendments](/files/AHTN%202022%20Changes.pdf).
+The last amendment to AHTN was done in 2022 where all 351 sets of 2022 amendments to the WCO's HS nomenclature was incorporated. The latest tariff schedule is available in [Singapore Trade Classification, Customs and Excise Duties (STCCED) 2022](https://go.gov.sg/stcced2022). You may refer to the [highlights on key amendments](/files/ahtn%202022%20changes.pdf).
 
 
 ## Course and Self-Learning Resources
@@ -55,9 +55,9 @@ If you wish to pick up basic skills on the Harmonised System (HS) classification
 
 **Handy Guides on HS Classification**
 
-Download handy guide on [How to determine HS code](/files/businesses/How-to-determine-HS-code.pdf).
+Download handy guide on [How to determine HS code](/files/businesses/how-to-determine-hs-code.pdf).
 
-Download handy guide on [How to read the HS](/files/businesses/How-to-read-the-HS.pdf).
+Download handy guide on [How to read the HS](/files/businesses/how-to-read-the-hs.pdf).
 
 
 **E-learning Modules**

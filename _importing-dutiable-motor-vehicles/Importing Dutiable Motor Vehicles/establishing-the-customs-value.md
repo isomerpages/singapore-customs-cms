@@ -1,6 +1,6 @@
 ---
 title: Establishing the Customs Value
-permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value
+permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/establishing-the-customs-value/
 third_nav_title: Importing Dutiable Motor Vehicles 
 ---
 

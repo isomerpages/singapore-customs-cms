@@ -1,6 +1,6 @@
 ---
 title: Authorise a Declaring Agent
-permalink: /businesses/new-traders-and-registration-services/registration-services/authorise-a-declaring-agent
+permalink: /businesses/new-traders-and-registration-services/registration-services/authorise-a-declaring-agent/
 third_nav_title: Registration Services
 ---
 # Authorise a Declaring Agent (DA)

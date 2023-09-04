@@ -1,6 +1,6 @@
 ---
 title: Exporting Pets
-permalink: /businesses/exporting-goods/export-procedures/exporting-pets
+permalink: /businesses/exporting-goods/export-procedures/exporting-pets/
 third_nav_title: Export Procedures
 ---
 

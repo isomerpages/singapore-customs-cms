@@ -1,6 +1,6 @@
 ---
 title: Singapore Customs - Kimberley Process Certification Scheme
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---kimberley-process-certification-scheme
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---kimberley-process-certification-scheme/
 third_nav_title: Competent Authorities Requirements
 ---
 

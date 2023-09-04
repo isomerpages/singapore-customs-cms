@@ -1,6 +1,6 @@
 ---
 title: For Individuals or Parallel Importers
-permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles/individuals-or-pi
+permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles/individuals-or-pi/
 third_nav_title: Guide to Importing Dutiable Motor Vehicles
 ---
 # For Individuals or Parallel Importers

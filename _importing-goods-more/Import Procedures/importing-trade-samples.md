@@ -1,6 +1,6 @@
 ---
 title: Importing Trade Samples
-permalink: /businesses/importing-goods/import-procedures/importing-trade-samples
+permalink: /businesses/importing-goods/import-procedures/importing-trade-samples/
 third_nav_title: Import Procedures 
 ---
 

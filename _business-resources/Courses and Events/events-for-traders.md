@@ -1,6 +1,6 @@
 ---
 title: Events for Traders 
-permalink: /business-resources/Courses-and-Events/events-for-traders
+permalink: /business-resources/courses-and-events/events-for-traders/
 third_nav_title: Courses and Events
 ---
 
@@ -54,7 +54,7 @@ Please click [here](/files/businesses/workplanseminar-ttsb-roo-fta.pdf) for the 
 | Dialogue Session with Licensed Warehouse Operators (LW & LWV)<br><br>Please click here for the Dialogue  [Slides](/files/businesses/2012dialoguewithlicensedwarehouseoperators1.pdf).<br><br>Please click here for the [Q&As](/files/businesses/faqtieredlws1.pdf). | Current licensees |20 February 2012|
 |Dialogue Session with Microbrewery Licensees<br><br>Please click  [here](/files/businesses/microbrewerydialoguefeb2012.pdf)  for the Dialogue Slides and the Q&As.<br><br>Please click [here](/files/businesses/dcaformuser.doc) for the Direct Credit Authorization Form and here for the TradeFIRST Self-Assessment Form.  | Current licensees |15 February 2012|
 | SCIC (Singapore Chemical Industry Council) – SC Dialogue Session<br><br>Please click [here](/files/businesses/qa.pdf) for the Q&As. | SCIC Members |30 October 2011|
-| Outreach on TradeNet Version 4.1 and AHTN 2012<br><br>Please click below to download Outreach slides.<br><br>-   [TradeNet version 4.1](/files/businesses/part1tradenetver41.pdf)<br><br>-   [AHTN2012 - Part 1](/files/businesses/ahtn2012partI.pdf)<br><br>-   [AHTN2012 - Part 2](/files/businesses/ahtn2012partII.pdf) | Traders, Importers, Exporters, Freight Forwarders, Cargo and Carrier Agents |-   11 October 2011<br><br>-   7 October 2011<br><br>-   4 October 2011<br><br>-   23 September 2011<Br><br>-   21 September 2011<br><br>-   15 September 2011|
+| Outreach on TradeNet Version 4.1 and AHTN 2012<br><br>Please click below to download Outreach slides.<br><br>-   [TradeNet version 4.1](/files/businesses/part1tradenetver41.pdf)<br><br>-   [AHTN2012 - Part 1](/files/businesses/ahtn2012parti.pdf)<br><br>-   [AHTN2012 - Part 2](/files/businesses/ahtn2012partii.pdf) | Traders, Importers, Exporters, Freight Forwarders, Cargo and Carrier Agents |-   11 October 2011<br><br>-   7 October 2011<br><br>-   4 October 2011<br><br>-   23 September 2011<Br><br>-   21 September 2011<br><br>-   15 September 2011|
 |Dialogue Session with STS Tier 2 & 3 Permit Holders<br><br>Please click [here](/files/businesses/tradenetupgradefrom40to41final.pdf) for the Dialogue <br> Slides and [here](/files/businesses/faqsforstsdialoguesession29september2011final2.pdf) for the Q&As.  | Current STS Tier 2 & 3 Permit Holders |29 September 2011|
 | Dialogue Session with Zero-GST Warehouse Operators | Current licensees |15 August 2011|
 | Dialogue Session with Petroleum Licensees | Current licensees |4 August 2011|

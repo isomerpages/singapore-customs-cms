@@ -1,6 +1,6 @@
 ---
 title: National Parks Board/Animal & Veterinary Service (Ornamental Fish)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/AVS-Fish/
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/avs-fish/
 third_nav_title: Competent Authorities Requirements
 ---
 # National Parks Board/Animal & Veterinary Service (Ornamental Fish)

@@ -1,6 +1,6 @@
 ---
 title: Three Quarter Tank Rule
-permalink: /individuals/going-through-customs/departure/three-quarter-tank-rule
+permalink: /individuals/going-through-customs/departure/three-quarter-tank-rule/
 third_nav_title: Departure
 ---
 # Three-Quarter Tank Rule

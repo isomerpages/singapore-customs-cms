@@ -1,6 +1,6 @@
 ---
 title: Sealing and Unstuffing
-permalink: /businesses/importing-goods/import-procedures/sealing-and-unstuffling
+permalink: /businesses/importing-goods/import-procedures/sealing-and-unstuffling/
 third_nav_title: Importing Requirements
 ---
 

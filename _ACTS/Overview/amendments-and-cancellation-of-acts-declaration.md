@@ -1,6 +1,6 @@
 ---
 title: Amendments and Cancellation of ACTS Declaration
-permalink: /businesses/asean-customs-transit-system/overview/amendments-and-cancellation-of-ACTS-declaration
+permalink: /businesses/asean-customs-transit-system/overview/amendments-and-cancellation-of-acts-declaration/
 third_nav_title: Overview
 ---
 
@@ -17,6 +17,6 @@ You should cancel an ACTS declaration if it is not utilised for transit movement
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-|[![](/images/ACTS/Overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/ACTS/Registration-and-ACTS-Declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration) |[![](/images/ACTS/ATT.jpg)](/businesses/asean-customs-transit-system/overview/att)|[![](/images/ACTS/Customs-Forms-&-Service-Links.jpg)](/eservices/customs-forms-and-service-links)|
-| [![](/images/ACTS/Useful-Links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
+|[![](/images/acts/overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/acts/registration-and-acts-declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration) |[![](/images/acts/att.jpg)](/businesses/asean-customs-transit-system/overview/att)|[![](/images/acts/customs-forms-&-service-links.jpg)](/eservices/customs-forms-and-service-links)|
+| [![](/images/acts/useful-links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
 

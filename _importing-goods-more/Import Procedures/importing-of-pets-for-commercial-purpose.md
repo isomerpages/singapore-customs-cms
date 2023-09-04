@@ -1,6 +1,6 @@
 ---
 title: Importing of Pets for Commercial Purpose
-permalink: /businesses/importing-goods/import-procedures/importing-of-pets-for-commercial-purpose
+permalink: /businesses/importing-goods/import-procedures/importing-of-pets-for-commercial-purpose/
 third_nav_title: Import Procedures
 ---
 # Importing of Pets for Commercial Purpose

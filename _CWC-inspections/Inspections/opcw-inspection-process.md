@@ -1,12 +1,12 @@
 ---
 title: OPCW Inspection Process 
-permalink: /businesses/chemical-weapons-convention/inspections/opcw-inspection-process
+permalink: /businesses/chemical-weapons-convention/inspections/opcw-inspection-process/
 third_nav_title: Inspections
 ---
 
 # OPCW Inspection Process
 
-![](/images/OCPW.jpg)
+![](/images/ocpw.jpg)
 
 ## Inspection Notification
 

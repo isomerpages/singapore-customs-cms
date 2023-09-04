@@ -1,6 +1,6 @@
 ---
 title: ATA Carnet
-permalink: /businesses/importing-goods/temporary-import-scheme/ata-carnet
+permalink: /businesses/importing-goods/temporary-import-scheme/ata-carnet/
 third_nav_title: Alternatives to the Temporary Import Scheme
 ---
 

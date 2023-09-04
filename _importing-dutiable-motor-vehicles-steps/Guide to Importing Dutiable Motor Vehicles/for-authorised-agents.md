@@ -1,6 +1,6 @@
 ---
 title: For Authorised Agents
-permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles/authorised-agents
+permalink: /businesses/importing-goods/importing-dutiable-motor-vehicles/guide-to-importing-dutiable-motor-vehicles/authorised-agents/
 third_nav_title: Guide to Importing Dutiable Motor Vehicles
 ---
 # For Authorised Agents

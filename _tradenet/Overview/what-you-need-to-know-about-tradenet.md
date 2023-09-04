@@ -1,6 +1,6 @@
 ---
 title: What You Need to Know about TradeNet
-permalink: /businesses/national-single-window/overview/what-you-need-to-know-about-tradenet
+permalink: /businesses/national-single-window/overview/what-you-need-to-know-about-tradenet/
 third_nav_title: Overview 
 ---
 
@@ -12,7 +12,7 @@ CrimsonLogic Pte Ltd is the appointed TradeNet administrator. It provides accoun
 
 To register, please refer to the  [Declaring Agent and Declarant Registration page](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant) for more information.
 
-You will need Internet access and the TradeNet front-end solution from any of the  [approved providers](/businesses/national-single-window/overview/TradeNet-Solution-Providers) to submit applications via TradeNet.
+You will need Internet access and the TradeNet front-end solution from any of the  [approved providers](/businesses/national-single-window/overview/tradenet-solution-providers) to submit applications via TradeNet.
 
 ## How to be a TradeNet user?
 

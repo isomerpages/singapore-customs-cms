@@ -1,6 +1,6 @@
 ---
 title: Joint Industry Outreach Seminar on Strategic Trade Management 2017
-permalink: /business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2017
+permalink: /business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2017/
 third_nav_title: Courses and Events
 ---
 
@@ -42,18 +42,18 @@ To register, please email Zhang Zhixin at  _Zhixin_ZHANG_from.TP@customs.gov.sg_
 
 Seminar Materials
 
--   [Agenda](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Agenda.pdf)
+-   [Agenda](/files/businesses/tssb/joint industry outreach seminar 2017 - agenda.pdf)
     
--   [What to Expect at a BIS End-use Check](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - What to expect at BIS End Use Check.pdf)
+-   [What to Expect at a BIS End-use Check](/files/businesses/tssb/joint industry outreach seminar 2017 - what to expect at bis end use check.pdf)
     
--   [Exports to Iran under the Joint Comprehensive Plan of Action](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Exports to Iran under the Joint Comprehensive Plan.pdf)
+-   [Exports to Iran under the Joint Comprehensive Plan of Action](/files/businesses/tssb/joint industry outreach seminar 2017 - exports to iran under the joint comprehensive plan.pdf)
     
--   [Sharing by General Electric on ICP](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by General Electric on ICP.pdf)
+-   [Sharing by General Electric on ICP](/files/businesses/tssb/joint industry outreach seminar 2017 - sharing by general electric on icp.pdf)
     
--   [Sharing by NEC Corporation](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by NEC Corporation.pdf)
+-   [Sharing by NEC Corporation](/files/businesses/tssb/joint industry outreach seminar 2017 - sharing by nec corporation.pdf)
     
--   [Sharing by CISTEC](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sharing by CISTEC.pdf)
+-   [Sharing by CISTEC](/files/businesses/tssb/joint industry outreach seminar 2017 - sharing by cistec.pdf)
     
--   [Strategic Trade Control in Singapore](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Strategic Trade Control in Singapore.pdf)
+-   [Strategic Trade Control in Singapore](/files/businesses/tssb/joint industry outreach seminar 2017 - strategic trade control in singapore.pdf)
     
--   [Sustaining the Future with Compliance](/files/businesses/TSSB/Joint Industry Outreach Seminar 2017 - Sustaining the Future with Compliance.pdf)
+-   [Sustaining the Future with Compliance](/files/businesses/tssb/joint industry outreach seminar 2017 - sustaining the future with compliance.pdf)

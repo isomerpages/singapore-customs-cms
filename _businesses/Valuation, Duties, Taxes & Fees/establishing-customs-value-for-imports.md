@@ -1,6 +1,6 @@
 ---
 title: Establishing Customs Value for Imports
-permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports
+permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/
 third_nav_title: Valuation, Duties, Taxes & Fees
 accordion:
   - title: ^Definition of Cost, Insurance and Freight incoterms
@@ -122,4 +122,4 @@ If the transaction value method cannot be used, the following alternatives will 
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-| **[![](/images/valuation-duties/Eastablishing1.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](/images/valuation-duties/Eastablishing2.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rate-for-insurance)** | **[![](/images/valuation-duties/Eastablishing3.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates)** | **[![](/images/valuation-duties/Eastablishing4.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/transfer-pricing-adjustments-on-imports)** |
+| **[![](/images/valuation-duties/eastablishing1.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)** | **[![](/images/valuation-duties/eastablishing2.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rate-for-insurance)** | **[![](/images/valuation-duties/eastablishing3.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates)** | **[![](/images/valuation-duties/eastablishing4.jpg)](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/transfer-pricing-adjustments-on-imports)** |

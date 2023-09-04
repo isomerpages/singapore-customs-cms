@@ -1,6 +1,6 @@
 ---
 title: HS Codes For IPMs
-permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/HS-Codes-For-IPMs
+permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/hs-codes-for-ipms/
 third_nav_title: Importing Investment Precious Metals IPM
 ---
 

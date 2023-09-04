@@ -1,6 +1,6 @@
 ---
 title: Industrial Exemption Factory Scheme
-permalink: /businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme
+permalink: /businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Industrial Exemption Factory Scheme

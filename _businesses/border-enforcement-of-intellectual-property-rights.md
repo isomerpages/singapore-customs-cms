@@ -28,11 +28,11 @@ Once informed of the seizure, you will have to commence an action for infringeme
   
 Besides seizure on request, Singapore Customs may also seize copies or goods which are reasonably suspected to infringe a registered trademark, a copyright or a registered geographical indication, and that are imported into or to be exported from Singapore. Singapore Customs will inform the owner or exclusive licensee of the copyright or the proprietor or licensee of the registered trademark (“the right holder”), or the registrant of the registered geographical indication, as soon as practicable after the seizure. 
 
-The right holder (for trademark or copyright), or the registrant or any producer or trader of goods or any association of such producers or traders (for geographical indication), may then request the Director-General of Customs to continue to detain the  goods. To do so, they must
+The rights holder (for trademark or copyright), or the registrant, or any producer or trader of goods, or any association of such producers or traders (for geographical indication), may then request the Director-General of Customs to continue to detain the  goods. To do so, they must
 
-a)  Provide written notice to Singapore Customs within 48 hours after the date of the notice of the seizure from Singapore Customs. Singapore Customs will respond as soon as practicable with a notice to take action
+a)  Provide written notice to Singapore Customs within 48 hours after the date of the notice of the seizure from Singapore Customs. Singapore Customs will respond with a notice to take action as soon as practicable
 
-b)  Subsequently, they must commence an action for infringement of the trademark, copyright or geographical indication and notify the Director-General of Customs accordingly within 10 working days after the date specified in the notice to take action. 
+b)  Subsequently commence an action for infringement of the trademark, copyright or geographical indication and notify the Director-General of Customs accordingly within 10 working days after the date specified in the notice to take action. 
 
 The time limit for initiating infringement action may be extended by a further 10 working days upon request.
   
@@ -85,9 +85,9 @@ The templates for the guarantee and letter of undertaking can be found below.
 | Letter of Undertaking under Geographical Indications Act| [Link](https://go.gov.sg/louginov22) |
 | Letter of Undertaking under Registered Designs Act| [Link](https://go.gov.sg/lourdnov22) |
 
-The fee of S$200 and security (if furnished in the form of deposit of money) shall be made via crossed cheque payable to "Singapore Customs" or bank transfer to Singapore Customs' bank account (DBS 001-028867-9).
+The fee of S$200 and security deposit shall be made via bank transfer to Singapore Customs.
 
-The required documents shall be submitted to Singapore Customs (attention: Operations Management Branch) at 55 Newton Road, #07-01, Revenue House, Singapore 307987.
+The required documents shall be submitted to Singapore Customs (attention: Operations Management Branch) at 1 Bulim Drive, Singapore 648171.
 
 For more information on border enforcement measures under the Trade Marks Act 1998, Copyright Act 2021, Geographical Indications Act 2014 and Registered Designs Act 2000, please refer to the following:
   
@@ -95,7 +95,7 @@ For more information on border enforcement measures under the Trade Marks Act 19
   -   [Trade Marks (Border Enforcement Measures) Rules](https://sso.agc.gov.sg/SL/TMA1998-R2?DocDate=20191112){:target="_blank"}
   -   [Trade Marks (Border Enforcement Measures Fees) Rules](https://sso.agc.gov.sg/SL/TMA1998-S749-2019?DocDate=20191112){:target="_blank"}
   -   [Part 6 Division 3 of the Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021?ProvIds=pr329-,pr330-,pr331-,pr332-,pr333-,pr334-,pr335-,pr336-,pr337-,pr338-,pr339-,pr340-,pr341-,pr342-,pr343-,pr344-,pr345-,pr346-,pr347-,pr348-,pr349-,pr350-,pr351-,pr352-,pr353-,pr354-,pr355-,pr356-,pr357-,pr358-,pr359-,pr360-,pr361-,pr362-,pr363-,pr364-,pr365-,pr366-,pr367-,pr368-){:target="_blank"}
-  -   [Part 5 Division 2 of the Copyright Regulations](https://sso.agc.gov.sg/SL/CA2021-S882-2021?DocDate=20211119&ProvIds=pr82-,pr83-,pr84-,pr85-,pr86-,pr87-,pr88-,pr89-){:target="_blank"}
+  -   [Part 5 Division 2 of the Copyright Regulations](https://sso.agc.gov.sg/SL/CA2021-S882-2021?DocDate=20211119&amp;ProvIds=pr82-,pr83-,pr84-,pr85-,pr86-,pr87-,pr88-,pr89-){:target="_blank"}
   -   [Copyright (Border Enforcement Measures Fees) Regulations](https://sso.agc.gov.sg/SL/CA2021-S881-2021?DocDate=20211119){:target="_blank"}
   -   [Part 6 of the Geographical Indications Act 2014](https://sso.agc.gov.sg/Act/GIA2014?ProvIds=P16-#P16-){:target="_blank"}
   -   [Geographical Indications (Border Enforcement Measures) Rules 2022](https://sso.agc.gov.sg/SL/GIA2014-S816-2022?DocDate=20221021){:target="_blank"}

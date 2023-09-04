@@ -1,6 +1,6 @@
 ---
 title: Importing Ethyl Alcohol
-permalink: /businesses/importing-goods/import-procedures/importing-ethyl-alcohol
+permalink: /businesses/importing-goods/import-procedures/importing-ethyl-alcohol/
 third_nav_title: Import Procedures
 ---
 

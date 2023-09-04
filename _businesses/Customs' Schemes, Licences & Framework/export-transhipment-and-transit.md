@@ -38,7 +38,7 @@ The 7 ICP elements are:
 
 *The appointed strategic goods control officer(s)/administrator(s) must be based in Singapore or remain contactable via a Singapore contact. The personnel must also be familiar with the SGCA and its Regulations and other related domestic legislations.
 
-You may refer to Annex A of the  [STS Handbook](/files/businesses/SEB/STS%20Handbook%20-%20May%202022%20.pdf) for more details.
+You may refer to Annex A of the  [STS Handbook](/files/businesses/seb/sts%20handbook%20-%20may%202022%20.pdf) for more details.
 
 ## Applying for Bulk Permit
 
@@ -52,7 +52,7 @@ We will conduct a TradeFIRST assessment on the company during a site validation,
 
 If your strategic goods transactions are pre-approved under the Bulk Permit, you should apply for a TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents.
 
-For the transfer of strategic goods such as arms, munitions and chemical weapons precursors which are also controlled by other  [Competent Authorities (CAs)](/businesses/National-Single-Window/Overview/Competent-Authorities-Requirements), you need to submit only one TradeNet permit application, as the application will also be routed to the relevant CAs for processing.
+For the transfer of strategic goods such as arms, munitions and chemical weapons precursors which are also controlled by other  [Competent Authorities (CAs)](/businesses/national-single-window/overview/competent-authorities-requirements), you need to submit only one TradeNet permit application, as the application will also be routed to the relevant CAs for processing.
 
 ## Key Responsibilities of a Bulk Permit Holder
 
@@ -64,6 +64,6 @@ A Bulk Permit holder must:
 -   Ensure that any goods or technology transfer made under the Bulk Permit is not transferred to United Nations Security Council–sanctioned countries or entities
 -   Maintain records of strategic goods transactions for at least 5 years
 
-Please refer to Section 4.9 of the [STS Handbook](/files/businesses/SEB/STS%20Handbook%20-%20May%202022%20.pdf)
+Please refer to Section 4.9 of the [STS Handbook](/files/businesses/seb/sts%20handbook%20-%20may%202022%20.pdf)
 
 *Local registered entities are required to take up their own Bulk Permit and the Bulk Permit shall not be transferred to any other person/company.

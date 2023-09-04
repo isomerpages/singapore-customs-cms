@@ -1,6 +1,6 @@
 ---
 title: Post-Clearance Audit
-permalink: /businesses/compliance/post-clearance-audit
+permalink: /businesses/compliance/post-clearance-audit/
 third_nav_title: Compliance
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: National Environment Agency - Chemical Control and Management Department
   (Basel Convention)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/Basel-convention/
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/basel-convention/
 third_nav_title: Competent Authorities Requirements
 ---
 # National Environment Agency - Chemical Control and Management Department (Basel Convention)

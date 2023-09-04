@@ -1,6 +1,6 @@
 ---
 title: Apex Licence
-permalink: /businesses/customs-schemes-licences-framework/apex-licence
+permalink: /businesses/customs-schemes-licences-framework/apex-licence/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Apex Licence

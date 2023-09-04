@@ -1,6 +1,6 @@
 ---
 title: Obtain a Short-Payment Permit
-permalink: /businesses/importing-goods/import-procedures/apply-short-payment-permit
+permalink: /businesses/importing-goods/import-procedures/apply-short-payment-permit/
 third_nav_title: Importing Requirements
 ---
 # Obtain a Short-Payment Permit

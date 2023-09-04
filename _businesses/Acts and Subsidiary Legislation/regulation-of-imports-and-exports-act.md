@@ -1,6 +1,6 @@
 ---
 title: Regulation of Imports and Exports Act
-permalink: /businesses/acts-and-subsidiary-legislation/regulation-of-imports-and-exports-act
+permalink: /businesses/acts-and-subsidiary-legislation/regulation-of-imports-and-exports-act/
 third_nav_title: Acts and Subsidiary Legislation
 ---
 # Regulation of Imports and Exports Act

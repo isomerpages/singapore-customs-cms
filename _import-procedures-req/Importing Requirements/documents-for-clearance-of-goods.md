@@ -1,6 +1,6 @@
 ---
 title: Documents for Clearance of Goods
-permalink: /businesses/importing-goods/import-procedures/documents-for-clearance-of-goods
+permalink: /businesses/importing-goods/import-procedures/documents-for-clearance-of-goods/
 third_nav_title: Importing Requirements
 ---
 # Documents for Clearance of Goods

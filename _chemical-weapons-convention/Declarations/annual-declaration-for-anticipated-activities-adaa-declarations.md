@@ -1,6 +1,6 @@
 ---
 title: Annual Declaration for Anticipated Activities (ADAA) (Declarations)
-permalink: /businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa
+permalink: /businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa/
 third_nav_title: Declarations
 ---
 

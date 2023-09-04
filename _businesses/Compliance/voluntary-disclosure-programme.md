@@ -1,6 +1,6 @@
 ---
 title: Voluntary Disclosure Programme
-permalink: /businesses/compliance/voluntary-disclosure-programme
+permalink: /businesses/compliance/voluntary-disclosure-programme/
 third_nav_title: Compliance
 ---
 # Voluntary Disclosure Programme

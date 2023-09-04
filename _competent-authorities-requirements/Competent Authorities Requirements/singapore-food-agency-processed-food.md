@@ -1,6 +1,6 @@
 ---
 title: Singapore Food Agency (Processed Food)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Processed-Food
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-processed-food/
 third_nav_title: Competent Authorities Requirements
 ---
 

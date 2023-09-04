@@ -1,6 +1,6 @@
 ---
 title: List of Prohibited Imports and (Inward) Transhipment or goods in Transit from the DPRK
-permalink: /businesses/united-nations-security-council-sanctions/list-of-prohibited-import-dprk
+permalink: /businesses/united-nations-security-council-sanctions/list-of-prohibited-import-dprk/
 third_nav_title: United Nations Security Council Sanctions
 ---
 

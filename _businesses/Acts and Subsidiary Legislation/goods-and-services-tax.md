@@ -1,6 +1,6 @@
 ---
 title: Goods and Services Tax
-permalink: /businesses/acts-and-subsidiary-legislation/goods-and-services-tax
+permalink: /businesses/acts-and-subsidiary-legislation/goods-and-services-tax/
 third_nav_title: Acts and Subsidiary Legislation
 ---
 # Goods and Services Tax

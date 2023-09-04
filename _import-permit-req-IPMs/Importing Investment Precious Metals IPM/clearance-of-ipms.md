@@ -1,6 +1,6 @@
 ---
 title: Clearance Of IPMs
-permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/Clearance-Of-IPMs
+permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/clearance-of-ipms/
 third_nav_title: Importing Investment Precious Metals IPM
 ---
 

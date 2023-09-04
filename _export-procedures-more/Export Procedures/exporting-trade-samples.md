@@ -1,6 +1,6 @@
 ---
 title: Exporting Trade Samples
-permalink: /businesses/exporting-goods/export-procedures/exporting-trade-samples
+permalink: /businesses/exporting-goods/export-procedures/exporting-trade-samples/
 third_nav_title: Export Procedures
 ---
 

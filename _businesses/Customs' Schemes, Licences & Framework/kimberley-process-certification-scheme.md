@@ -1,6 +1,6 @@
 ---
 title: Kimberley Process Certification Scheme
-permalink: /businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme
+permalink: /businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
 ---
 # Kimberley Process Certification Scheme

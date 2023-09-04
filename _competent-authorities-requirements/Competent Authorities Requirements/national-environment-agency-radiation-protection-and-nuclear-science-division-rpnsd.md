@@ -1,6 +1,6 @@
 ---
 title: National Environment Agency - Radiation Protection and Nuclear Science Division (RPNSD)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency/radiation-protection-and-nuclear-science-division-rpnsd
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency/radiation-protection-and-nuclear-science-division-rpnsd/
 third_nav_title: Competent Authorities Requirements
 ---
 

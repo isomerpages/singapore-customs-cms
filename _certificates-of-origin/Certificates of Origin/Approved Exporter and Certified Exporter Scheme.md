@@ -1,6 +1,6 @@
 ---
 title: Approved Exporter and Certified Exporter Scheme
-permalink: /businesses/certificates-of-origin/AECE/
+permalink: /businesses/certificates-of-origin/aece/
 third_nav_title: Certificates of Origin
 description: ""
 ---
@@ -13,10 +13,10 @@ There are currently 2 authorised self-certification regimes administered by Sing
 
 # Benefits of Authorised Self-Certification Regimes
 
-![](/images/Benefits of Authorised Self Cert Regime_new.png)
+![](/images/benefits of authorised self cert regime_new.png)
 
 # How does an Authorised Self-Certification Regime work?
-![](/images/How does Authroised Self Cert Regime Work.png)
+![](/images/how does authroised self cert regime work.png)
 
 Exporters are required to apply to be part of the Authorised Self- Certification regime based on domestic regulation of the competent authority (CA). After which, this information provided by successfully registered exporters will be shared among the Parties of the FTA.  Customs authorities of Parties of the FTA will be able to access this information and undertake verification of Origin/Invoice Declaration submitted by the authorised exporters.
 # How to participate
@@ -32,7 +32,7 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 
 ## Step 2 – Apply and register with us as an Approved/Certified Exporter
 
-![](/images/Step 2.png)
+![](/images/step 2.png)
 
 Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://form.gov.sg/#!/61ca95006c60da001289b97a)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://form.gov.sg/#!/61ca9492fb72b000129d0670).
 
@@ -46,6 +46,6 @@ Upon successful registration as an AE/CE, the AE/CE may proceed to self-certify 
 
 Need more information on how the various scheme work, the benefits, and the criteria for companies to become an AE/CE. Here are some resources which might be useful: 
 
-- Our latest [handbook](/files/businesses/ttsb-roo/Handbook%20on%20the%20implementation%20of%20the%20Authorised%20Self%20Certification%20Regime%20V3_clean%20(002).pdf). 
+- Our latest [handbook](/files/businesses/ttsb-roo/handbook%20on%20the%20implementation%20of%20the%20authorised%20self%20certification%20Regime%20V3_clean%20(002).pdf). 
 
 -  [Infographic](https://asean.org/wp-content/uploads/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/wp-content/uploads/2012/05/04-AWSC-Brochure.pdf) by [ASEAN](https://app.awsc.asean.org/) on AWSC.

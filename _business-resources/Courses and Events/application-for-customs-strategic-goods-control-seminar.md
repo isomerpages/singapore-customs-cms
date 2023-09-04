@@ -1,6 +1,6 @@
 ---
 title: Application for Customs Strategic Goods Control Seminar
-permalink: /business-resources/courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management-jan-2016
+permalink: /business-resources/courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management-jan-2016/
 third_nav_title: Courses and Events
 ---
 
@@ -49,4 +49,4 @@ Registration for this event is now  **CLOSED**
 
 ----------
 
-![sgtc_seminar_jan16_logo.JPG](/images/sgtc_seminar_jan16_logo.JPG)
+![sgtc_seminar_jan16_logo.JPG](/images/sgtc_seminar_jan16_logo.jpg)

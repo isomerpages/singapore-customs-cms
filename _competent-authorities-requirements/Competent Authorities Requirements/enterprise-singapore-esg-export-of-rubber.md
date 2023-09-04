@@ -1,6 +1,6 @@
 ---
 title: Enterprise Singapore (ESG) - Export of Rubber
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ESG-Rubber/
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/esg-rubber/
 third_nav_title: Competent Authorities Requirements
 ---
 ## Export of Rubber

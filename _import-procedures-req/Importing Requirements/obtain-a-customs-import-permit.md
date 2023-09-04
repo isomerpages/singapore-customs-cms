@@ -1,6 +1,6 @@
 ---
 title: Obtain a Customs Import Permit
-permalink: /businesses/importing-goods/import-procedures/apply-customs-import-permit
+permalink: /businesses/importing-goods/import-procedures/apply-customs-import-permit/
 third_nav_title: Importing Requirements
 ---
 

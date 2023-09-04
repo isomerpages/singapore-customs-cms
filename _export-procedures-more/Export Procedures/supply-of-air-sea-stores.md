@@ -1,6 +1,6 @@
 ---
 title: Supply of Air/Sea Stores
-permalink: /businesses/exporting-goods/export-procedures/supply-of-air-sea-stores 
+permalink: /businesses/exporting-goods/export-procedures/supply-of-air-sea-stores/ 
 third_nav_title: Export Procedures
 ---
 

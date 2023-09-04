@@ -1,6 +1,6 @@
 ---
 title: List of Prohibited Exports and (Outward) Transhipment, or goods in Transit to Iran
-permalink: /businesses/united-nations-security-council-sanctions/list-of-prohibited-exports-outward-transhipment-iran
+permalink: /businesses/united-nations-security-council-sanctions/list-of-prohibited-exports-outward-transhipment-iran/
 third_nav_title: United Nations Security Council Sanctions
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Offences & Penalties
-permalink: /businesses/compliance/offences-and-penalties
+permalink: /businesses/compliance/offences-and-penalties/
 third_nav_title: Compliance
 ---
 

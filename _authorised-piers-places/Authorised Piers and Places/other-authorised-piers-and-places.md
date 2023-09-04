@@ -1,6 +1,6 @@
 ---
 title: Other Authorised Piers and Places
-permalink: /businesses/exporting-goods/export-procedures/authorised-piers-places/other-authorised-piers-and-places
+permalink: /businesses/exporting-goods/export-procedures/authorised-piers-places/other-authorised-piers-and-places/
 third_nav_title: Authorised Piers and Places
 ---
 

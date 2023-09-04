@@ -1,6 +1,6 @@
 ---
 title: IPMs Imported by Hand-Carry
-permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/IPMs-Imported-by-Hand-Carry
+permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/ipms-imported-by-hand-carry/
 third_nav_title: Importing Investment Precious Metals IPM
 ---
 

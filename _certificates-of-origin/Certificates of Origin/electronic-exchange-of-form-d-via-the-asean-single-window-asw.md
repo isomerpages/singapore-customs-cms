@@ -1,6 +1,6 @@
 ---
 title: Electronic Exchange of Form D via the ASEAN Single Window (ASW)
-permalink: /businesses/certificates-of-origin/ASW/
+permalink: /businesses/certificates-of-origin/asw/
 third_nav_title: Certificates of Origin
 ---
 ## Electronic Exchange of Form D via the ASEAN Single Window (ASW)

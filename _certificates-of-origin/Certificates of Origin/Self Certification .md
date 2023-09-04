@@ -1,6 +1,6 @@
 ---
 title: Self Certification
-permalink: /businesses/certificates-of-origin/SC/
+permalink: /businesses/certificates-of-origin/sc/
 description: ""
 third_nav_title: Certificates of Origin
 ---

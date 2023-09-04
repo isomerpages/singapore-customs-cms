@@ -1,6 +1,6 @@
 ---
 title: Approved Import GST Suspension Scheme 
-permalink: /businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme
+permalink: /businesses/customs-schemes-licences-framework/iras-schemes/approved-import-gst-suspension-scheme/
 third_nav_title: IRAS Scheme
 ---
 

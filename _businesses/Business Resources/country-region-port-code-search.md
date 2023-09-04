@@ -1,6 +1,6 @@
 ---
 title: Country/Region/Port Code Search
-permalink: /businesses/business-resources/country-and-port-codes
+permalink: /businesses/business-resources/country-and-port-codes/
 third_nav_title: Business Resources
 ---
 

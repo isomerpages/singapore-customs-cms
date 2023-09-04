@@ -1,6 +1,6 @@
 ---
 title: Free Trade Zones Act
-permalink: /businesses/acts-and-subsidiary-legislation/free-trade-zones-act
+permalink: /businesses/acts-and-subsidiary-legislation/free-trade-zones-act/
 third_nav_title: Acts and Subsidiary Legislation
 ---
 # Free Trade Zones Act

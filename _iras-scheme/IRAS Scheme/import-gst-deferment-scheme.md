@@ -1,6 +1,6 @@
 ---
 title: Import GST Deferment Scheme 
-permalink: /businesses/customs-schemes-licences-framework/iras-schemes/import-gst-deferment-scheme-igds
+permalink: /businesses/customs-schemes-licences-framework/iras-schemes/import-gst-deferment-scheme-igds/
 third_nav_title: IRAS Scheme
 ---
 

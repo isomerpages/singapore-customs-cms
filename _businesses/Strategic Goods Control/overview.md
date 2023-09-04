@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /businesses/strategic-goods-control/overview
+permalink: /businesses/strategic-goods-control/overview/
 third_nav_title: Strategic Goods Control
 ---
 
@@ -28,4 +28,4 @@ Singapore Customs also coordinates closely with other government agencies such a
 {:.mobile-block}
 |  |  |  |
 |--|--|--|
-| **[![](/images/SGC/SGC1.jpg)](/businesses/strategic-goods-control-1/overview/legislation)** |**[![](/images/SGC/SGC2.jpg)](/businesses/strategic-goods-control-1/overview/scope-of-control)** | **[![](/images/SGC/SGC3.jpg)](/businesses/strategic-goods-control-1/overview/enforcement)** |
+| **[![](/images/sgc/sgc1.jpg)](/businesses/strategic-goods-control-1/overview/legislation)** |**[![](/images/sgc/sgc2.jpg)](/businesses/strategic-goods-control-1/overview/scope-of-control)** | **[![](/images/sgc/sgc3.jpg)](/businesses/strategic-goods-control-1/overview/enforcement)** |

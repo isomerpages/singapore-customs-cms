@@ -1,6 +1,6 @@
 ---
 title: Flat Rate for Insurance
-permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rate-for-insurance
+permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rate-for-insurance/
 third_nav_title: Establishing Customs Value for Imports
 accordion:
   - title: ^Definition of Cost and Freight incoterms

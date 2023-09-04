@@ -1,6 +1,6 @@
 ---
 title: e-Learning for Handling of LCL Consolidated Cargoes
-permalink: /businesses/compliance/e-learning
+permalink: /businesses/compliance/e-learning/
 third_nav_title: Compliance
 ---
 # e-Learning for Handling of LCL Consolidated Cargoes

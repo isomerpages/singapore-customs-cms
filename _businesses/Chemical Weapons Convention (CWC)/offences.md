@@ -1,6 +1,6 @@
 ---
 title: Offences
-permalink: /businesses/chemical-weapons-convention/offences
+permalink: /businesses/chemical-weapons-convention/offences/
 third_nav_title: Chemical Weapons Convention (CWC)
 accordion:
   - title: Do

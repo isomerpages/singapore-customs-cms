@@ -1,6 +1,6 @@
 ---
 title: Temporary Import Scheme
-permalink: /businesses/importing-goods/temporary-import-scheme
+permalink: /businesses/importing-goods/temporary-import-scheme/
 third_nav_title: Importing Goods
 accordion:
   - title: Do
@@ -137,4 +137,4 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
  
 ## For more information on: 
  
-  [![](/images/importing-goods/TIS.jpg)](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event)
+  [![](/images/importing-goods/tis.jpg)](/businesses/importing-goods/temporary-import-scheme-2/approved-wine-event)

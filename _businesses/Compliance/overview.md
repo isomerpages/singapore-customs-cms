@@ -1,6 +1,6 @@
 ---
 title: Overview 
-permalink: /businesses/compliance/overview
+permalink: /businesses/compliance/overview/
 third_nav_title: Compliance
 accordion:
   - title: Customs Procedures

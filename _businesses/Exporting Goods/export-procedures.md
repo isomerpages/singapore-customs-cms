@@ -1,6 +1,6 @@
 ---
 title: Export Procedures
-permalink: /businesses/exporting-goods/export-procedures
+permalink: /businesses/exporting-goods/export-procedures/
 third_nav_title: Exporting Goods
 accordion:
   - title: Do
@@ -50,7 +50,7 @@ Generally, the exporter will be the party that issues the commercial invoice to 
 
 The exporter is also required to declare the Free on Board (FOB) value of the goods in the export permit application.
 
-Please refer to [Customs Circular No. 13/2021](/files/2021-11-12-Circular132021Ver%201.pdf) for more information on the responsibilities of an exporter.
+Please refer to [Customs Circular No. 13/2021](/files/2021-11-12-circular132021ver%201.pdf) for more information on the responsibilities of an exporter.
 
 A Customs export permit is required for:
 
@@ -225,5 +225,5 @@ You are accountable as an exporter or declaring agent for the export of your goo
 {:.mobile-block}
 |   |   |   |   |
 |---|---|---|---|
-|[![](/images/export-procedures/EP1.jpg)](/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods) |[![](/images/export-procedures/EP2.jpg)](/businesses/exporting-goods/export-procedures/types-of-export-permits)  |[![](/images/export-procedures/EP3.jpg)](/businesses/exporting-goods/export-procedures/permit-validity-and-error-messages)  |[![](/images/export-procedures/EP4.jpg)](/businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation)  |
-|[![](/images/export-procedures/EP7.jpg)](/businesses/exporting-goods/export-procedures/exporting-trade-samples) |[![](/images/export-procedures/EP5.jpg)](/businesses/exporting-goods/export-procedures/exporting-pets)  | [![](/images/export-procedures/EP6.jpg)](/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores) |[![](/images/export-procedures/EP8.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places)|
+|[![](/images/export-procedures/ep1.jpg)](/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods) |[![](/images/export-procedures/ep2.jpg)](/businesses/exporting-goods/export-procedures/types-of-export-permits)  |[![](/images/export-procedures/ep3.jpg)](/businesses/exporting-goods/export-procedures/permit-validity-and-error-messages)  |[![](/images/export-procedures/ep4.jpg)](/businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation)  |
+|[![](/images/export-procedures/ep7.jpg)](/businesses/exporting-goods/export-procedures/exporting-trade-samples) |[![](/images/export-procedures/ep5.jpg)](/businesses/exporting-goods/export-procedures/exporting-pets)  | [![](/images/export-procedures/ep6.jpg)](/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores) |[![](/images/export-procedures/ep8.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places)|

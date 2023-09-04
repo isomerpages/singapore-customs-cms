@@ -1,6 +1,6 @@
 ---
 title: Temporary Import of Scientific or Technical Goods
-permalink: /businesses/importing-goods/temporary-import-scheme/temporary-import-of-scientific-technical-goods
+permalink: /businesses/importing-goods/temporary-import-scheme/temporary-import-of-scientific-technical-goods/
 third_nav_title: Temporary Import 
 ---
 

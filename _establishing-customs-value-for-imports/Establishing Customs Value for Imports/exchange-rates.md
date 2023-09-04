@@ -1,6 +1,6 @@
 ---
 title: Exchange Rates
-permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates
+permalink: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates/
 third_nav_title: Establishing Customs Value for Imports
 ---
 
@@ -26,7 +26,7 @@ To provide facilitation, you may use the weekly average exchange rates, publishe
 
 E.g. Exchange rates for the period 4 May – 10 May 2020 are based on the weekly average exchange rates for Period ending 30 Apr 2020 from the Monetary Authority of Singapore.
 
-Please refer to the guide [here](/files/businesses/Retrieving_Weekly_Rates_from_MAS.pdf){:target="_blank"} on retrieving the weekly average exchange rates.
+Please refer to the guide [here](/files/businesses/retrieving_weekly_rates_from_mas.pdf){:target="_blank"} on retrieving the weekly average exchange rates.
 
 ## Foreign currencies not listed in Exchange Rates
 

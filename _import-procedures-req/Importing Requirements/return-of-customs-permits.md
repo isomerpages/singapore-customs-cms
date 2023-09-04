@@ -1,6 +1,6 @@
 ---
 title: Return of Customs Permits
-permalink: /businesses/importing-goods/import-procedures/return-customs-permits
+permalink: /businesses/importing-goods/import-procedures/return-customs-permits/
 third_nav_title: Importing Requirements
 ---
 
