@@ -55,7 +55,7 @@ If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg
 ## Step 3: Apply for Inter-Bank GIRO
 You or your Declaring Agent must maintain an Inter-Bank GIRO (IBG) with Singapore Customs to make payment of duties, taxes, fees, penalties and other charges on services offered by Singapore Custom from your bank account to Singapore Customs directly.
 
-Mail the completed  [Application for Inter-Bank GIRO form]([Go.gov.sg](https://go.gov.sg/customs-ibg-form)){:target="_blank"} to Singapore Customs’ address as indicated in the form.
+Mail the completed  [Application for Inter-Bank GIRO form]((https://go.gov.sg/customs-ibg-form)){:target="_blank"} to Singapore Customs’ address as indicated in the form.
 
 You may  [authorise your Declaring Agent](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP){:target="_blank"} to use your IBG for the payment of duties and GST for your customs permit one day after the approval of your IBG application. If you do not maintain an IBG with Singapore Customs, the duties and GST will be deducted from your Declaring Agent’s IBG.
 
