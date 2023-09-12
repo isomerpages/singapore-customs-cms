@@ -1,47 +1,50 @@
 title: Singapore Customs
 url: https://customs.gov.sg
 favicon: /images/favicon.png
-
-# Site colors
 colors:
-  primary-color: '#20639b'
-  secondary-color: '#041D42'
+  primary-color: "#20639b"
+  secondary-color: "#041D42"
   media-colors:
     - title: media-color-one
-      color: '#A2AAAD'
+      color: "#A2AAAD"
     - title: media-color-two
-      color: '#20639B'
+      color: "#20639B"
     - title: media-color-three
-      color: '#990000'
+      color: "#990000"
     - title: media-color-four
-      color: '#5B6B79'
+      color: "#5B6B79"
     - title: media-color-five
-      color: '#041D42'
-
+      color: "#041D42"
 resources_name: news-and-media
-
-
 google_analytics: UA-70503404-1
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-
 staging: https://staging.d2y2jvgj8f3vk2.amplifyapp.com/
 prod: https://master.d2y2jvgj8f3vk2.amplifyapp.com/
 plugins:
@@ -50,3 +53,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
