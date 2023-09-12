@@ -1,8 +1,7 @@
 ---
 layout: homepage
 title: Singapore Customs
-description: Singapore Customs is the lead agency on trade facilitation and
-  revenue enforcement.
+description: test test
 permalink: /
 notification: Use our digital services when transacting with us! We encourage
   businesses to submit trade declarations via TradeNet and access our eServices
@@ -35,4 +34,5 @@ sections:
       title: News and Media
       subtitle: Media Releases
       button: View more
+image: /images/isomer-logo.svg
 ---
