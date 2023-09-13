@@ -3,5 +3,5 @@ title: Customs operation saw two arrested; more than 1,600 cartons of duty-unpai
 date: 2022-02-26
 layout: file
 description: ""
-file_url: /files/news-and-media/Singapore Customs Press Release_26 Feb_Final.pdf
+file_url: /files/news-and-media/singapore customs press release_26 feb_final.pdf
 ---

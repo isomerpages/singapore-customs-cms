@@ -5,5 +5,5 @@ date: 2022-12-13
 layout: file
 description: ""
 image: ""
-file_url: /files/Singapore_Customs_Press_Release_13_Dec.pdf
+file_url: /files/singapore_customs_press_release_13_dec.pdf
 ---

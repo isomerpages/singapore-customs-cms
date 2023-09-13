@@ -5,6 +5,6 @@ date: 2022-11-08
 layout: file
 description: ""
 image: ""
-file_url: /files/Notice 19_2022 (Ver 1).pdf
+file_url: /files/notice 19_2022 (ver 1).pdf
 ---
 

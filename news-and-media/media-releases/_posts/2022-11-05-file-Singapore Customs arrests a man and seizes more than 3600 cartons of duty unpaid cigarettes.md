@@ -4,5 +4,5 @@ date: 2022-11-05
 layout: file
 description: ""
 image: ""
-file_url: /files/Singapore_Customs_Press_Release_5_Nov_Final.pdf
+file_url: /files/singapore_customs_press_release_5_nov_final.pdf
 ---

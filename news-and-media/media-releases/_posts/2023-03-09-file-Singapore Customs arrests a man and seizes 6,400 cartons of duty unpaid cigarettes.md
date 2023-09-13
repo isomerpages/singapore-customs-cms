@@ -4,5 +4,5 @@ date: 2023-03-09
 layout: file
 description: ""
 image: ""
-file_url: /files/Singapore_Customs_Press_Release_9_Mar_2023.pdf
+file_url: /files/singapore_customs_press_release_9_mar_2023.pdf
 ---

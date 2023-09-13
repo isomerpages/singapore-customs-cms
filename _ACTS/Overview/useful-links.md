@@ -14,6 +14,6 @@ third_nav_title: Overview
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-|[![](/images/acts/overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/acts/registration-and-acts-declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration)|[![](/images/acts/att.jpg)](/businesses/asean-customs-transit-system/overview/att)|[![](/images/acts/amendments-and-cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)|
+|[![](/images/acts/overview.jpg)](/businesses/asean-customs-transit-system/overview)|[![](/images/acts/registration-and-acts-declaration.jpg)](/businesses/asean-customs-transit-system/registration-and-acts-declaration)|[![](/images/acts/att.jpg)](/businesses/asean-customs-transit-system/overview/att)|[![](/images/acts/amendments-and-cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration)|
 |[![](/images/acts/customs-forms-&-service-links.jpg)](/eservices/customs-forms-and-service-links)|
 

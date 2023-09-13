@@ -19,7 +19,7 @@ accordion:
       DOCs (Those that do not contain phosphorus, sulphur or fluorine) <br>
   - title: Determining if your product is controlled
     content: <br> Please refer to the [list of scheduled
-      chemicals](/files/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf)
+      chemicals](/files/businesses/guide_to_nacwc_lic_-_with_sch_chem_list-(2020).pdf)
       to check if your product is controlled by the NA(CWC). <br><br> You may
       also check using the description of the goods, Harmonized System (HS) code
       or Competent Authority (CA) product code on this [search
@@ -58,7 +58,7 @@ The schedules are organised to reflect the risk posed by the chemical to the obj
 | 2 |  Schedule 2 covers chemicals which are potential chemical warfare agents (Schedule 2A and 2A*), <br> and other chemical weapons precursors (Schedule 2B). <br><br> They pose a significant risk to the objectives of <br> the Convention and have moderate level of commercial application.|  Methylphosphonyl dichloride <br><br>   Arsenic trichloride |  - Insecticides <br> - Herbicides <br> - Epoxy resins <br> - Flame-retardant additive research (plastics, resins, fibres) <br> - Medicinal & pharmaceutical preparations <br> -  Metal plating preparations |
 | 3 |  Schedule 3 covers chemicals which had previously <br> been produced, stockpiled or used as a <br> chemical weapon. <br><br> They pose a risk to the objectives <br> of the Convention by virtue of its importance in <br> the production of one or more chemicals listed in <br>Schedule 1 or Schedule 2B. Schedule 3 chemicals have widespread commercial application. |   Triethanolamine <br><br>  Methyldiethanolamine |  - Pesticides <br> - Insecticides <br> - Toiletries <br> - Pharmaceutical <br> - Metal plating preparations <br> - Surfactants for detergents, oil drilling emulsions <br> - Corrosion inhibitors <br> - Soil fumigants |
 
-See full list of scheduled chemicals [here](/files/businesses/Guide_to_NACWC_Lic_-_with_Sch_Chem_List-(2020).pdf).
+See full list of scheduled chemicals [here](/files/businesses/guide_to_nacwc_lic_-_with_sch_chem_list-(2020).pdf).
 
 <ul class="jekyllcodex_accordion">
   <li>

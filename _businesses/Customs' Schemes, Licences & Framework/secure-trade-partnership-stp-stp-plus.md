@@ -68,7 +68,7 @@ To qualify for the STP, the company must:
 -   Have good compliance records with Singapore Customs
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining  the minimum “Intermediate” and “Premium” bands to qualify for the STP and STP-Plus certifications respectively
 
-Click [here](/files/businesses/SEB/STP%20Handbook%20(Nov%202022).pdf) for the Handbook on Secure Trade Partnership
+Click [here](/files/businesses/seb/stp%20handbook%20(nov%202022).pdf) for the Handbook on Secure Trade Partnership
 
 ## How to Apply?
 

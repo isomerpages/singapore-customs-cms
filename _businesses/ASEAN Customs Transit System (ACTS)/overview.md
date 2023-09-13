@@ -28,6 +28,6 @@ Vehicles that are used to transport goods under the ACTS must each be allocated 
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-|[![](/images/acts/registration-and-acts-declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration)|[![](/images/acts/amendments-and-cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration) |[![](/images/acts/att.jpg)](/businesses/asean-customs-transit-system/overview/att)| [![](/images/acts/customs-forms-&-service-links.jpg)](/eservices/customs-forms-and-service-links)|
+|[![](/images/acts/registration-and-acts-declaration.jpg)](/businesses/asean-customs-transit-system/registration-and-acts-declaration)|[![](/images/acts/amendments-and-cancellation.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/amendments-and-cancellation-of-ACTS-declaration) |[![](/images/acts/att.jpg)](/businesses/asean-customs-transit-system/overview/att)| [![](/images/acts/customs-forms-&-service-links.jpg)](/eservices/customs-forms-and-service-links)|
 | [![](/images/acts/useful-links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
 

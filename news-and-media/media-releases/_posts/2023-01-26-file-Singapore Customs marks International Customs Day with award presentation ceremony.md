@@ -5,5 +5,5 @@ date: 2023-01-26
 layout: file
 description: ""
 image: ""
-file_url: /files/Singapore_Customs_Press_Release_26_Jan_2023.pdf
+file_url: /files/singapore_customs_press_release_26_jan_2023.pdf
 ---

@@ -1,4 +1,4 @@
 ---
 title: Highway for Trade
-file_url: /news-and-media/publications/Highway-for-Trade.pdf
+file_url: /news-and-media/publications/highway-for-trade.pdf
 ---

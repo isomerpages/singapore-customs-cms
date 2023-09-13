@@ -17,6 +17,6 @@ You should cancel an ACTS declaration if it is not utilised for transit movement
 {:.mobile-block}
 |  |  |  |  |
 |--|--|--|--|
-|[![](/images/acts/overview.jpg)](/businesses/ASEAN-Customs-Transit-System/overview)|[![](/images/acts/registration-and-acts-declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration) |[![](/images/acts/att.jpg)](/businesses/asean-customs-transit-system/overview/att)|[![](/images/acts/customs-forms-&-service-links.jpg)](/eservices/customs-forms-and-service-links)|
+|[![](/images/acts/overview.jpg)](/businesses/asean-customs-transit-system/overview)|[![](/images/acts/registration-and-acts-declaration.jpg)](/businesses/ASEAN-Customs-Transit-System/Registration-and-ACTS-Declaration) |[![](/images/acts/att.jpg)](/businesses/asean-customs-transit-system/overview/att)|[![](/images/acts/customs-forms-&-service-links.jpg)](/eservices/customs-forms-and-service-links)|
 | [![](/images/acts/useful-links.jpg)](/businesses/ASEAN-Customs-Transit-System/overview/useful-links)|  
 

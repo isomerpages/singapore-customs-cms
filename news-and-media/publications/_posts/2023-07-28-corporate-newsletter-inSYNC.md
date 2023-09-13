@@ -17,7 +17,7 @@ Issue 68](/files/2023-07-28-issue68.pdf)
 Issue 67](/files/2023-04-10-issue67.pdf)
 
 -   [![Issue 66](/images/insync/issue66_thumbnail.jpg)<br>
-Issue 66](/files/news-and-media/2023-01-19-Issue66.pdf)
+Issue 66](/files/news-and-media/2023-01-19-issue66.pdf)
 
 -   [![Issue 65](/images/insync/issue65_thumbnail.jpg)<br>
 Issue 65](/news-and-media/publications/2022-10-07-Issue65.pdf)
@@ -26,10 +26,10 @@ Issue 65](/news-and-media/publications/2022-10-07-Issue65.pdf)
 Issue 64](/news-and-media/publications/2022-07-15-Issue64.pdf)
 
 -   [![Issue 63](/images/insync/issue63_thumbnail.jpg)<br>
-Issue 63](/files/news-and-media/2022-05-13-Issue63.pdf)
+Issue 63](/files/news-and-media/2022-05-13-issue63.pdf)
 
 -   [![Issue 62](/images/insync/issue62_thumbnail.jpg)<br>
-Issue 62](/files/news-and-media/2022-02-15-Issue62.pdf)
+Issue 62](/files/news-and-media/2022-02-15-issue62.pdf)
 
 -   [![Issue 61](/images/insync/issue61_thumbnail.jpg)<br>
 Issue 61](/news-and-media/publications/2021-07-30-Issue61.pdf)
