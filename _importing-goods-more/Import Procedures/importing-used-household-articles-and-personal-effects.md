@@ -125,6 +125,22 @@ Before you import your goods, please also see the lists of [controlled and prohi
     </div>  
 	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP">TradeNet</a></li>
 <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 10 working days of receiving Customs’ approval of GST relief.</li>
+<p>The following fields should be declared in the In-Non-Payment (GST Relief) permit application:</p>
+    <div>
+      <ul>
+        <li> Claimant UEN </li>
+        <li> Claimant Organisation Name </li>
+        <li> Claimant name</li>
+        <li> Claimant Code</li>
+        <li> Importer UEN</li>
+        <li> Importer Name</li>
+       <li> HS code (for personal effects)</li>
+       <li> Licence number (Approved PE reference number, for importation of manifested cargo where a DOF had been approved)</li>
+       <li> Place of Receipt code </li>
+        <li> Trader’s remarks (PE reference number)</li>
+      </ul>
+<p> Please note that certain items require proper authorisation from the Competent Authorities (CAs) before they may be imported into, or transhipped via, or exported from Singapore. To determine if your item is controlled, you may do a search via the  <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do">HS/CA Product Code search engine</a> by entering a description of the item, Harmonised System (HS) code or CA product code. If the item is subject to control, the name and contact person of the CA will be indicated next to the HS code description in the hyperlinks under the “import”, “export” and “transhipment" columns in the search results. You can liaise directly with the contact person of the CA(s) for their additional licensing requirements.</p>
+    </div>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
 <li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects. </li>
 <p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
