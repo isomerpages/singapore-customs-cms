@@ -2,6 +2,7 @@ collections:
   individuals:
     output: true
     order:
+      - Re importing of Goods Sent Overseas for Activities.md
       - overview.md
       - Going Through Customs/.keep
       - Going Through Customs/arrivals.md
