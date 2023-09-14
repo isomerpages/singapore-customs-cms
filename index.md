@@ -1,8 +1,7 @@
 ---
 layout: homepage
 title: Singapore Customs
-description: Singapore Customs is the lead agency on trade facilitation and
-  revenue enforcement.
+description: test test
 permalink: /
 notification: Use our digital services when transacting with us! We encourage
   businesses to submit trade declarations via TradeNet and access our eServices
@@ -12,7 +11,7 @@ notification: Use our digital services when transacting with us! We encourage
   visit the ICA website (https://safetravel.ica.gov.sg/).
 sections:
   - hero:
-      background: /images/Banner_resized_911.png
+      background: /images/banner_resized_911.png
       key_highlights:
         - title: Duty-Free Concession and GST Relief
           url: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
@@ -29,10 +28,11 @@ sections:
         your trade operations.
       button: More info on NTP
       url: /businesses/national-single-window/networked-trade-platform
-      image: /images/NTP.png
+      image: /images/ntp.png
       alt: More information on the NTP.
   - resources:
       title: News and Media
       subtitle: Media Releases
       button: View more
+image: /images/isomer-logo.svg
 ---

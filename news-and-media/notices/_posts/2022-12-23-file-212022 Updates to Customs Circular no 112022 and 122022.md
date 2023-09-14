@@ -4,7 +4,7 @@ date: 2022-12-23
 layout: file
 description: ""
 image: ""
-file_url: /files/Notice_21_2022 (Ver 1).pdf
+file_url: /files/notice_21_2022 (ver 1).pdf
 ---
 
 

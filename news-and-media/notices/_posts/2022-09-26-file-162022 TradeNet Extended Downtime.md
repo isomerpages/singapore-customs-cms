@@ -4,5 +4,5 @@ date: 2022-09-26
 layout: file
 description: ""
 image: ""
-file_url: /files/Notice_16_2022_ver 1.pdf
+file_url: /files/notice_16_2022_ver 1.pdf
 ---

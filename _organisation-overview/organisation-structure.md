@@ -8,4 +8,4 @@ Singapore Customs' work is performed by the Trade Division, Compliance Division,
 
 The Internal Audit Branch, TradeNet Office and Transformation Office report directly to the Director-General of Customs.
 
-![Organisation Structure](/images/about-us/Customs%20Org%20Chart%20(Internet)%20-%201%20Nov%202022.jpg)
+![Organisation Structure](/images/about-us/customs%20org%20chart%20(internet)%20-%201%20nov%202022.jpg)

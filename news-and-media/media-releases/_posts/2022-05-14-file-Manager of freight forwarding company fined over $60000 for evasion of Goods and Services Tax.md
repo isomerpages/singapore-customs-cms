@@ -4,5 +4,5 @@ title: Manager of freight forwarding company fined over $60,000 for evasion of
 date: 2022-05-14
 layout: file
 description: ""
-file_url: /files/Singapore_Customs_Press_Release_14_May_Final.pdf
+file_url: /files/singapore_customs_press_release_14_may_final.pdf
 ---

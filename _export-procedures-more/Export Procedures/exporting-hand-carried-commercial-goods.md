@@ -20,7 +20,7 @@ The HCES digital service on the NTP allows businesses exporting goods hand-carri
 
 Information on how to set up your NTP account can be found at <a href="https://www.ntp.gov.sg/home/">www.ntp.gov.sg</a>. 
 
-For more information on the Digital HCES Digital Service, please refer to Customs [Circular No.: 01/2023.](/files/Circular_01_2023%20(Ver1).pdf)
+For more information on the Digital HCES Digital Service, please refer to Customs [Circular No.: 01/2023.](/files/circular_01_2023%20(ver1).pdf)
 
 1.	For enquiries related to the clearance of your HCES permit, please email [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@customs.gov.sg)
 2.	For NTP related queries, email to [NTP_helpdesk@ncs.com.sg](mailto:NTP_helpdesk@ncs.com.sg)

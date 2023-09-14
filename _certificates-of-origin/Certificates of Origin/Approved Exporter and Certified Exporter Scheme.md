@@ -46,6 +46,6 @@ Upon successful registration as an AE/CE, the AE/CE may proceed to self-certify 
 
 Need more information on how the various scheme work, the benefits, and the criteria for companies to become an AE/CE. Here are some resources which might be useful: 
 
-- Our latest [handbook](/files/businesses/ttsb-roo/handbook%20on%20the%20implementation%20of%20the%20authorised%20self%20certification%20Regime%20V3_clean%20(002).pdf). 
+- Our latest [handbook](/files/businesses/ttsb-roo/handbook%20on%20the%20implementation%20of%20the%20authorised%20self%20certification%20regime%20v3_clean%20(002).pdf). 
 
 -  [Infographic](https://asean.org/wp-content/uploads/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/wp-content/uploads/2012/05/04-AWSC-Brochure.pdf) by [ASEAN](https://app.awsc.asean.org/) on AWSC.

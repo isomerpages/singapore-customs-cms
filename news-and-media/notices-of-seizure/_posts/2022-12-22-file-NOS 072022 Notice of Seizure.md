@@ -4,5 +4,5 @@ date: 2022-12-22
 layout: file
 description: ""
 image: ""
-file_url: /files/Notice of Seizure_07_2022.pdf
+file_url: /files/notice of seizure_07_2022.pdf
 ---

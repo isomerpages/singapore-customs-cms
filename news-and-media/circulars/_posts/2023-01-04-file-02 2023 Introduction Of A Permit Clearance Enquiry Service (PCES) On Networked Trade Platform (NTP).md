@@ -4,5 +4,5 @@ date: 2023-01-04
 layout: file
 description: ""
 image: ""
-file_url: /files/news-and-media/Circular_02_2023 (Ver1).pdf
+file_url: /files/news-and-media/circular_02_2023 (ver1).pdf
 ---

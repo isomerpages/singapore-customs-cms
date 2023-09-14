@@ -4,5 +4,5 @@ date: 2023-03-03
 layout: file
 description: ""
 image: ""
-file_url: /files/Notice 02_2023_Ver_1.pdf
+file_url: /files/notice 02_2023_ver_1.pdf
 ---

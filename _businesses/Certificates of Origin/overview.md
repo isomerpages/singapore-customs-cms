@@ -49,7 +49,7 @@ A preferential CO allows your buyer to pay lower or no customs duty when you exp
 
 These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
  
-- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Oct2022%20(clean).pdf)
+- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/handbook_on_roo_for_pco_oct2022%20(clean).pdf)
     
 - [Handbook on the rules of origin for Schemes of Preference](/files/businesses/handbookonrooforschemeofpreferencesttsbmar2020.pdf)
     
@@ -79,7 +79,7 @@ All Preferential COs are issued only by Singapore Customs.
 {:.mobile-block}
 |  |   |   |   |
 |---|---|---|---|
-|[![](/images/picture1.jpg)](/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco)|[![](/images/picture2.jpg)](/businesses/certificates-of-origin/how-to-apply-for-b2b)|[![](/images/picture4.jpg)](/businesses/certificates-of-origin/ASW)|[![](/images/picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|
+|[![](/images/picture1.jpg)](/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco)|[![](/images/picture2.jpg)](/businesses/certificates-of-origin/how-to-apply-for-b2b)|[![](/images/picture4.jpg)](/businesses/certificates-of-origin/asw)|[![](/images/picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|
 |[![](/images/picture3.jpg)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)|[![](/images/aece.png)](/businesses/certificates-of-origin/aece)|[![](/images/self-certification3.png)](/businesses/certificates-of-origin/SC)| |
 
 
