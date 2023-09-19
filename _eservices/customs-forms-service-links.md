@@ -116,7 +116,7 @@ permalink: /eservices/customs-forms-and-service-links/
 | 14. | Claimant Application by Foreign Military Forces | [Web Link ](https://form.gov.sg/62b184bfbe2196001180ad44)
 | 15. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://form.gov.sg/62b184bfbe2196001180ad44)
 | 16. | Claimant Application by International Organisations Supported by an Agency Other than the MFA | [Web Link ](https://form.gov.sg/62b184bfbe2196001180ad44)
-| 17. | Security Application Template | [Word Doc](https://www.customs.gov.sg/files/eservices/Security-Application-template.doc)
+| 17. | Security Application Template | [Word Doc](https://go.gov.sg/customs-security-template)
 | 18. | Security Extension Template (For New Security Lodged from 15 April 2019) | [Word Doc](https://go.gov.sg/customs-security-extension-template-ver3)
  
 [Back to Top](/eservices/customs-forms-and-service-links)
