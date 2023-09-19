@@ -6,5 +6,4 @@ social_media:
 links:
   - title: Careers
     url: /careers/
-  - title: FAQ
-    url: https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx
+faq: https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=18336588
