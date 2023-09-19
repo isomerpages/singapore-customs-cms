@@ -33,7 +33,7 @@ You are required to approach any of the participating financial institutions lis
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
  
 <i>**How to apply for hardcopy guarantees** </i><br>
-Download the [Security Application Form](https://safe.menlosecurity.com/https://www.customs.gov.sg/files/eservices/Security-Application-template.doc) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. 
+Download the [Security Application Form](https://go.gov.sg/customs-security-template) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. 
 
 Please note that the processing by your bank, finance company or insurance company may **take up to three to four weeks**. You are encouraged to submit your new security to Singapore Customs **at least two weeks** before your intended date of shipment to allow sufficient time for processing and amendments in case of discrepancies.
 
@@ -58,7 +58,7 @@ Upon receipt of the security, Singapore Customs will register the security withi
 					   3. Inform the bank that you wish to extend your guarantee under eGuarantee@Gov programme, with template reference “CUSTOMS_REG"</p>
 			<p> Once the eGuarantee has been received and successfully registered by Singapore Customs, we will send an email notification to the primary and secondary contact registered in your entity’s Customs Account as per the current notification process.</p>
 			<p> NOTE: The procedure above only applies for cases where you are amending the eGuarantee expiry date only. If you are amending the amount to be lodged, you will have to apply for a new guarantee.</p>
-			<p>For hardcopy guarantees:You may extend the expiry date of your existing security using the <a href="https://go.gov.sg/customs-security-template" target="new">Security Extension Form</a>. Please note that the processing by your bank, finance company or insurance company may take up to three to four weeks. You are encouraged to submit your security extension to Singapore Customs at least two weeks before the expiry of your existing security to allow sufficient time for processing and amendments in case of discrepancies. </p>
+			<p>For hardcopy guarantees:You may extend the expiry date of your existing security using the <a href="https://go.gov.sg/customs-security-extension-template-ver3" target="new">Security Extension Form</a>. Please note that the processing by your bank, finance company or insurance company may take up to three to four weeks. You are encouraged to submit your security extension to Singapore Customs at least two weeks before the expiry of your existing security to allow sufficient time for processing and amendments in case of discrepancies. </p>
 			<p> If you had previously applied for a hardcopy guarantee and wish to extend the validity, you will have to extend it as a hardcopy guarantee. You will NOT be able to extend it via the eGuarantee@Gov programme.</p>
 			<p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
   </div>
