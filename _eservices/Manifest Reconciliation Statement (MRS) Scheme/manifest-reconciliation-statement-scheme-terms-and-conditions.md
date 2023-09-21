@@ -1,6 +1,6 @@
 ---
 title: Manifest Reconciliation Statement Scheme Terms and Conditions 
-Permalink: /eservices/manifest-reconciliation-statement-scheme
+Permalink: /eservices/manifest-reconciliation-statement-scheme/manifest-reconciliation-statement-scheme-terms-and-conditions
 third_nav_title: Manifest Reconciliation Statement (MRS) Scheme
 ---
 
