@@ -1,6 +1,5 @@
 ---
-title: 172023 Mandatory For All Securities Issued To Customs To Be In The Form
-  Of Eguarantees
+title: 17/2023 Mandatory for All Securities Issued to Customs to Be in the Form of E-Guarantees
 date: 2023-09-20
 layout: file
 description: ""
