@@ -17,7 +17,7 @@ This guidebook explains "catch-all" controls in the context of strategic goods m
 
 This guide outlines the Intangible Transfer of Technology (ITT) in the context of managing strategic goods technology. It defines the intangible transfer of technology under the Strategic Goods Control Act (SGCA), explains the need to control ITT and its corresponding legal provisions, and advises traders on the permit requirements. It also contains the best practices before applying for an ITT permit to transmit strategic goods technology to any parties, and includes case study examples. 
 
-**[Guidebook on the Determination of Strategic Goods](/files/businesses/guidebook-on-the-determination-of-strategic-goods-3-oct-2019.pdf)**
+**[Guidebook on the Determination of Strategic Goods](/files/businesses/tssb/strategicgoodsguidebook%201oct%202023.pdf)** 
 
 This guidebook advises readers on the Strategic Goods Control List, and provides guidance on the determination of strategic goods. It also includes cases studies and frequently asked questions on strategic goods control.
 
