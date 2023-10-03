@@ -5,7 +5,7 @@ third_nav_title: Additional Information
 ---
 # Licence Terms and Conditions
 
-You are required to abide by the [terms and conditions](/files/businesses/NEW_T-and-C_from_23-JUN-2023.pdf) stated in the CWC licence.
+You are required to abide by the [terms and conditions](/files/businesses/new_t-and-c_from_23-jun-2023.pdf) stated in the CWC licence.
 
 Please note that all premises that store or handle CWC chemicals are subject to licensing requirements under the National Environment Agency (NEA) and/or Singapore Civil Defence Force (SCDF). You may find the full list of CWC scheduled chemicals here.
 
