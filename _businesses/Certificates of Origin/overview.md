@@ -51,7 +51,6 @@ These handbooks provide more information on the rules of origin for preferential
  
 - [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/handbook_on_roo_for_pco_oct2022%20(clean).pdf)
     
-- [Handbook on the rules of origin for Schemes of Preference](/files/businesses/handbookonrooforschemeofpreferencesttsbmar2020.pdf)
     
 
 You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
