@@ -23,4 +23,4 @@ This guidebook advises readers on the Strategic Goods Control List, and provides
 
 **Amendment to the Strategic Goods Control List**
 
-This [document](/files/businesses/tssb/sgco2023%20amendments%20table.pdf) provides updates on the amendments to the Strategic Goods Control List 2023 (effective on 1 October 2023), in particular details on changes from Strategic Goods (Control) Order 2021 to Strategic Goods (Control) Order 2023.
+This [document](/files/businesses/tssb/sgco%202023%20-%20amendments%20table%20(edited).pdf) provides updates on the amendments to the Strategic Goods Control List 2023 (effective on 1 October 2023), in particular details on changes from Strategic Goods (Control) Order 2021 to Strategic Goods (Control) Order 2023.
