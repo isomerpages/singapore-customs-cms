@@ -5,7 +5,7 @@ third_nav_title: Security Lodgement
 ---
 # What is the Amount of Security Required?
 
-The amount of security required for a permit application is dependent on the movement type and goods type, as well as the declaring entities or their appointed declaring agent's banding under the trade Facilitation &amp; Integrated Risk-based System (TradeFIRST) / Declarant Agent Framework. Declaring entities and declaring agents will be accorded different levels of security requirements ranging from a 100% requirement to a waiver of the security requirement depending on their TradeFIRST and DA banding. 
+Generally, the amount of security required for a permit application is dependent on the movement type and goods type, as well as the declaring entities or their appointed declaring agent's banding under the trade Facilitation &amp; Integrated Risk-based System (TradeFIRST) / Declarant Agent Framework. Declaring entities and declaring agents will be accorded different levels of security requirements ranging from a 100% requirement to a waiver of the security requirement depending on their TradeFIRST and DA banding. 
 
 ## Temporary Importation of Goods for Approved Purposes
 
