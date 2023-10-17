@@ -3,10 +3,9 @@ title: What Is The Amount of Security Required?
 permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/amount-of-security-required/
 third_nav_title: Security Lodgement
 ---
-
 # What is the Amount of Security Required?
 
-The amount of security required for a permit application is dependent on the movement type and goods type:
+The amount of security required for a permit application is dependent on the movement type and goods type, as well as the declaring entities or their appointed declaring agent's banding under the trade Facilitation &amp; Integrated Risk-based System (TradeFIRST) / Declarant Agent Framework. Declaring entities and declaring agents will be accorded different levels of security requirements ranging from a 100% requirement to a waiver of the security requirement depending on their TradeFIRST and DA banding. 
 
 ## Temporary Importation of Goods for Approved Purposes
 
@@ -27,7 +26,7 @@ The amount of security required for a permit application is dependent on the mov
 
 | Movement  Type | Dutiable Goods*  |
 |--|--|
-| **Inward Movement**<br> 1.  Import of Goods for Destruction<br><br> 2. Re-import of Shut-out Goods<br><Br> 3. Import of Goods Granted Duty Exemption<br><br>4.  Import of Goods for Re-Export ( for Re-Export of Liquor and Tobacco Products  by Road, see [Outward Movement by Road](/news-and-media/circulars/2016-01-15-Circular012016.pdf) ) | a. 50% of the potential duty for liquor and tobacco products<br><br> b. 10% of the potential duty for motor vehicles |
+| **Inward Movement**<br> 1.  Import of Goods for Destruction<br><br> 2. Re-import of Shut-out Goods<br><br> 3. Import of Goods Granted Duty Exemption<br><br>4.  Import of Goods for Re-Export ( for Re-Export of Liquor and Tobacco Products  by Road, see [Outward Movement by Road](/news-and-media/circulars/2016-01-15-Circular012016.pdf) ) | a. 50% of the potential duty for liquor and tobacco products<br><br> b. 10% of the potential duty for motor vehicles |
 | **Inward Movement**<br>Import of Goods into Licensed Warehouse for Storage | 50% of the potential duty for liquor and tobacco products |
 | **Inward Movement**  <br>Release of Goods for Local Consumption | 100% of the duty payment |
 | **Inward Movement** <br> Import of Goods with Movement Through Customs Territory for Storage in Second or Subsequent FTZ | 10% of the potential duty for motor vehicles |
