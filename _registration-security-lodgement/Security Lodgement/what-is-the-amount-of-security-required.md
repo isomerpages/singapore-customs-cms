@@ -3,12 +3,11 @@ title: What Is The Amount of Security Required?
 permalink: /businesses/new-traders-and-registration-services/registration-services/security-lodgement/amount-of-security-required/
 third_nav_title: Security Lodgement
 ---
-
 # What is the Amount of Security Required?
 
-The amount of security required for a permit application is dependent on the movement type and goods type:
+Generally, the amount of security required for a permit application is dependent on the movement type and goods type, as well as the declaring entities' or their appointed declaring agent's banding under the trade Facilitation &amp; Integrated Risk-based System (TradeFIRST) / Declarant Agent Framework. Declaring entities and declaring agents will be accorded different levels of security requirements ranging from a 100% requirement to a waiver of the security requirement depending on their TradeFIRST and DA banding. 
 
-## Temporary Importation of Goods for Approved Purposes
+## Temporary Importation of Goods under Tax Suspension for approved Purposes
 
 |Movement Type| Goods Type: Dutiable Goods* |Motor Vehicles|
 |--|--|--|
@@ -23,18 +22,17 @@ The amount of security required for a permit application is dependent on the mov
 | **Inward Movement** <br> [Temporary Import (TI) of Goods for Approved Purposes](/businesses/importing-goods/temporary-import-scheme) | Non-GST Registered Entity |100% of potential GST|50% of potential GST|
 
 
-## Movements Involving Dutiable Goods not under Temporary Import
+## Movements Involving Dutiable Goods under Tax Suspension, not under Temporary Import
 
 | Movement  Type | Dutiable Goods*  |
 |--|--|
-| **Inward Movement**<br> 1.  Import of Goods for Destruction<br><br> 2. Re-import of Shut-out Goods<br><Br> 3. Import of Goods Granted Duty Exemption<br><br>4.  Import of Goods for Re-Export ( for Re-Export of Liquor and Tobacco Products  by Road, see [Outward Movement by Road](/news-and-media/circulars/2016-01-15-Circular012016.pdf) ) | a. 50% of the potential duty for liquor and tobacco products<br><br> b. 10% of the potential duty for motor vehicles |
-| **Inward Movement**<br>Import of Goods into Licensed Warehouse for Storage | 50% of the potential duty for liquor and tobacco products |
-| **Inward Movement**  <br>Release of Goods for Local Consumption | 100% of the duty payment |
-| **Inward Movement** <br> Import of Goods with Movement Through Customs Territory for Storage in Second or Subsequent FTZ | 10% of the potential duty for motor vehicles |
-| **Transhipment Movement** <br>Transhipment of Goods under “**Through**” or “**Non-Through**” Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by **Sea or Air**  (for Transhipment of Goods under “**Through**” or “**Non-Through**” Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by Road, see  [Outward Movement by Road](/news-and-media/circulars/2016-01-15-Circular012016.pdf) ) | 50% of the potential duty for liquor and tobacco products |
-|**Movement between Licensed Warehouses**  **(With Effect from 1 Apr 2016)**<br> Movement of Goods from one Licensed Warehouse to another Licensed Warehouse  | 50% of the potential duty for liquor and tobacco products |
-| **Outward Movement by Sea or Air (With Effect from 1 Apr 2016)**<br>Export of Goods from Licensed Warehouse  by Sea or Air  (for Export of Goods by Road, see Outward Movement by Road | 50% of the potential duty for liquor and tobacco products |
-| **Outward Movement by Road  (With Effect from 1 Apr 2016)** <br>1.  Import of Goods for Re-Export  by Road** <br><br>2.  Transhipment of Goods under “**Through**” ***  or “**Non-Through**” ****  Bill of Lading or Airway Bill through Customs Territory with [Outward Movement by Road](/news-and-media/circulars/2016-01-15-Circular012016.pdf) <br><br>3. Export of Goods from Licensed Premises by Road ** | For liquor and tobacco products, the highest of:<br><br> a. Average weekly potential duty involved in outward movement of such goods by road^; or<br><br> b. 50% of the potential duty; or<br><br> c. $10,000 |
+| **Inward Movement**<br> 1.  Import of goods for destruction<br><br> 2. Re-import of shut-out goods<br><br> 3. Import of goods granted duty exemption<br><br>4.  Import of goods for re-export ( for re-export of liquor and tobacco products by road, see [Outward Movement by Road](/news-and-media/circulars/2016-01-15-Circular012016.pdf) ) | a. 50% of the potential duty for liquor and tobacco products<br><br> b. 10% of the potential duty for motor vehicles |
+| **Inward Movement**<br>Import of goods into licensed warehouse for storage | 50% of the potential duty for liquor and tobacco products |
+ **Inward Movement** <br> Import of goods with Movement Through Customs Territory for Storage in Second or Subsequent FTZ | 10% of the potential duty for motor vehicles |
+| **Transhipment Movement** <br>Transhipment of goods under “**Through**” or “**Non-Through**” Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by **Sea or Air**  (for Transhipment of goods under “**Through**” or “**Non-Through**” Bill of Lading or Airway Bill through Customs Territory with Outward Movement  by Road, see  [Outward Movement by Road](/news-and-media/circulars/2016-01-15-Circular012016.pdf) ) | 50% of the potential duty for liquor and tobacco products |
+|**Movement between Licensed Warehouses**  **(With Effect from 1 Apr 2016)**<br> Movement of goods from one licensed Warehouse to another licensed warehouse  | 50% of the potential duty for liquor and tobacco products |
+| **Outward Movement by Sea or Air (With Effect from 1 Apr 2016)**<br>Export of goods from licensed warehouse by Sea or Air  (for Export of goods by Road, see Outward Movement by Road | 50% of the potential duty for liquor and tobacco products |
+| **Outward Movement by Road  (With Effect from 1 Apr 2016)** <br>1.  Import of goods for re-export by road** <br><br>2.  Transhipment of goods under Through*** or Non-Through****  Bill of Lading or Airway Bill through Customs Territory with [Outward Movement by Road](/news-and-media/circulars/2016-01-15-Circular012016.pdf) <br><br>3. Export of goods from licensed Premises by Road ** | For liquor and tobacco products, the highest of:<br><br> a. Average weekly potential duty involved in outward movement of such goods by road^; or<br><br> b. 50% of the potential duty; or<br><br> c. $10,000 |
 
 
 *[List of Dutiable Goods](/businesses/valuation-duties-taxes-fees/duties-and-dutiable-goods/list-of-dutiable-goods)

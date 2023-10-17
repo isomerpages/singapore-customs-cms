@@ -5,7 +5,7 @@ third_nav_title: Registration Services
 ---
 # Security Lodgement
 
-[Declaring Entities](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account), or their appointed  [Declaring Agents](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant), are required to furnish security for various scenarios, such as:
+To facilitate the import of duty and/or GST suspended goods into Singapore, [Declaring Entities](/businesses/new-traders-and-registration-services/registration-services/activate-customs-account), or their appointed  [Declaring Agents](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant) are required to furnish security for various scenarios,
 
 -   Temporary importation of goods for approved purposes
 -   Movements involving dutiable goods not under temporary import
