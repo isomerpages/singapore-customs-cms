@@ -1,5 +1,5 @@
 ---
-title: 192023 Implementation of Revised GST Rate of 9
+title: 202023 Implementation of Revised GST Rate of 9
 date: 2023-10-20
 layout: file
 description: ""
