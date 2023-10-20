@@ -9,6 +9,6 @@ The EODES, established on 1 November 2019, enables the electronic submission of 
 
 Apart from exporters, importers who wish to claim preferential treatment for import of goods from China to Singapore or to apply for a back-to-back PCO would be able to retrieve the electronic PCO issued by China via the International Connectivity PCO (IC PCO) service. 
 
-For more information on how you could sign up for the IC PCO service, please refer to [Notice 18/2019](/files/2019-10-15-n.pdf) under News and Media > Notices. Additonally, you may wish to download the [handbook](/files/businesses/transmission and receipt of electronic preferential certificate of origin via networked trade platform december 2021.pdf) for the procedures in transmitting the PCO and CNM electronically to China.
+For more information on how you could sign up for the IC PCO service, please refer to [Notice 18/2019](/files/2019-10-15-n.pdf) under News and Media > Notices. Additonally, you may wish to download the [handbook](/files/businesses/ttsb-roo/handbook%20on%20the%20transmission%20and%20receipt%20of%20electronic%20preferential%20of%20origin%20in%20ics.pdf) for the procedures in transmitting the PCO and CNM electronically to China.
 
 For all enquires related to Certificate of Origin matters or EODES, you may direct them to us through our [online form](https://form.gov.sg/#!/5e7025bbbce24a0011937cbd).
