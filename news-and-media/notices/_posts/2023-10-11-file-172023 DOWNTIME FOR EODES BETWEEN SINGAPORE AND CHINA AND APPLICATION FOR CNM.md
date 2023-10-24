@@ -1,5 +1,5 @@
 ---
-title: 172023 DOWNTIME FOR EODES BETWEEN SINGAPORE AND CHINA AND APPLICATION FOR CNM
+title: 17/2023 Downtime for EODES between Singapore and China and application for CNM
 date: 2023-10-11
 layout: file
 description: ""
