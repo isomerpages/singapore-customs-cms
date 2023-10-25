@@ -58,7 +58,7 @@ The schedules are organised to reflect the risk posed by the chemical to the obj
 | 2 |  Schedule 2 covers chemicals which are potential chemical warfare agents (Schedule 2A and 2A*), <br> and other chemical weapons precursors (Schedule 2B). <br><br> They pose a significant risk to the objectives of <br> the Convention and have moderate level of commercial application.|  Methylphosphonyl dichloride <br><br>   Arsenic trichloride |  - Insecticides <br> - Herbicides <br> - Epoxy resins <br> - Flame-retardant additive research (plastics, resins, fibres) <br> - Medicinal &amp; pharmaceutical preparations <br> -  Metal plating preparations |
 | 3 |  Schedule 3 covers chemicals which had previously <br> been produced, stockpiled or used as a <br> chemical weapon. <br><br> They pose a risk to the objectives <br> of the Convention by virtue of its importance in <br> the production of one or more chemicals listed in <br>Schedule 1 or Schedule 2B. Schedule 3 chemicals have widespread commercial application. |   Triethanolamine <br><br>  Methyldiethanolamine |  - Pesticides <br> - Insecticides <br> - Toiletries <br> - Pharmaceutical <br> - Metal plating preparations <br> - Surfactants for detergents, oil drilling emulsions <br> - Corrosion inhibitors <br> - Soil fumigants |
 
-See full list of scheduled  chemicals.
+See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled  chemicals.
 
 <ul class="jekyllcodex_accordion">
   <li>
