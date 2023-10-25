@@ -13,7 +13,7 @@ A valid CWC licence is required before the start of these activities.
 
 Before applying, please check:
 
--   The chemical falls under the  [list of scheduled chemicals](/files/businesses/guide_to_nacwc_lic_-_with_sch_chem_list-(2020).pdf)  or fits the definition of a DOC; and
+-   The chemical falls under the  [list of scheduled chemicals](/files/businesses/guide_to_nacwc_licence_2023.pdf)  or fits the definition of a DOC; and
 -   The activity which you intend to engage in is a  [controlled activity](/businesses/chemical-weapons-convention/licensing-requirements)
 
 ## Pre-licence site visit
