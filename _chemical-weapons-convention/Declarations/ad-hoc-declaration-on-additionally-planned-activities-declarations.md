@@ -3,7 +3,6 @@ title: Ad Hoc Declaration on Additionally Planned Activities (Declarations)
 permalink: /businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities/
 third_nav_title: Declarations
 ---
-
 # Ad Hoc Declaration on Additionally Planned Activities
 
 If an activity involving  [scheduled chemicals](/businesses/chemical-weapons-convention/controlled-chemicals) was not declared during the  [Annual Declaration of Anticipated Activities (ADAA)](/businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa), the licensee should report the activity using the Ad-hoc Declaration on Additionally Planned Activities (AH).
@@ -21,8 +20,8 @@ The table below indicates the activities that may be reported in an AH.
 | Storage | X | X | X |
 | Local Sales/Distribution | X | X | X |
 
-√ : indicates that ADPA is required.   
-See [full list](/files/businesses/guide_to_nacwc_lic_-_with_sch_chem_list-(2020).pdf) of scheduled chemicals.
+√ : indicates that ADAA is required.   
+See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled chemicals.
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
 
