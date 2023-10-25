@@ -3,7 +3,6 @@ title: Importing of NA(CWC) Controlled Items
 permalink: /businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items/
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
-
 # Importing of NA(CWC) Controlled Items
 
 A  [Chemical Weapons Convention (CWC) licence](/businesses/chemical-weapons-convention/licensing-requirements) is required for any import of items controlled by the  [NA(CWC).](/businesses/chemical-weapons-convention/introduction)
@@ -33,14 +32,14 @@ If the import is not subject to the restrictions below, you may apply for an imp
 | **Item Description** | 1.   Description of the item <br> 2. Please state the name of the controlled chemical in the description as well. (for example, photographic solution containing triethanolamine) |
 | **HS Code** | Product Harmonized System (HS) code |
 | **CA/SC Product Code 1** | Enter the product code of the chemical (found in licence) |
-| **CA/SC Product Code Quantity & Unit** | Enter the quantity and unit |
+| **CA/SC Product Code Quantity &amp; Unit** | Enter the quantity and unit |
 | **CA/SC Code 1** | Enter the purity of the controlled chemical (for example, 40%) |
 
 ----
 
 ## Restrictions for Import from Non-Member States
 
-The following restrictions apply to the import of [scheduled chemicals](/files/businesses/guide_to_nacwc_lic_-_with_sch_chem_list-(2020).pdf) from [non-Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}.
+The following restrictions apply to the import of [scheduled chemicals](/files/businesses/guide_to_nacwc_licence_2023.pdf) from [non-Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}.
 
 | Schedules | Schedule 1 | Schedule 2 |  Schedule 3 |
 |---|---|---|---|
