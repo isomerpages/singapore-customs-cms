@@ -3,7 +3,6 @@ title: Annual Declaration for Anticipated Activities (ADAA) (Declarations)
 permalink: /businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa/
 third_nav_title: Declarations
 ---
-
 # Annual Declaration for Anticipated Activities (ADAA)
 
 The Annual Declaration for Anticipated Activities (ADAA) is required for licensees that intend to produce, process or consume  [scheduled chemicals](/businesses/chemical-weapons-convention/controlled-chemicals) in the coming year. Licensees should submit an  [ad-hoc declaration](/businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities) if there is any change to the anticipated activities after the ADAA submission.
@@ -21,7 +20,7 @@ The table below indicates the activities that require an ADAA.
 | Storage | X| X | X |  
 | Local Sales/Distribution | X | X | X |  
 
-√ : indicates that ADAA is required. <br> See [full list](/files/businesses/guide_to_nacwc_lic_-_with_sch_chem_list-(2020).pdf) of scheduled chemicals. 
+√ : indicates that ADAA is required. <br> See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled chemicals. 
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
 

@@ -3,7 +3,6 @@ title: Licensing Requirements
 permalink: /businesses/chemical-weapons-convention/licensing-requirements/
 third_nav_title: Chemical Weapons Convention (CWC)
 ---
-
 # Licensing Requirements
 
 A Chemical Weapons Convention (CWC) licence is required  **before the start** of the following activities for scheduled chemicals and unscheduled discrete organic chemicals.
@@ -32,7 +31,7 @@ b) import or export of mixture containing 30% or less of a Schedule 2B chemical 
 c) import or export of mixture containing 30% or less of a Schedule 3 chemical to a member state to the Chemical Weapons Convention;  
 d) plant site that  **exclusively**  produces by synthesis hydrocarbons or explosives.
 
-See  [full list](/files/businesses/guide_to_nacwc_lic_-_with_sch_chem_list-(2020).pdf)  of scheduled chemicals.  
+See  [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled chemicals.  
 Check if your product is  [controlled](/businesses/chemical-weapons-convention/controlled-chemicals).
 
 
@@ -53,4 +52,4 @@ A CWC licence is required for the production of DOCs that meets either one or bo
 {:.mobile-block}
 |   |   |   |   |
 |---|---|---|---|
-|[![](/images/cwc/lr1.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity)  |[![](/images/cwc/lr2.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/licence-tc) |[![](/images/cwc/lr3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)  |[![](/images/cwc/lr4.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)  
+|[![](/images/cwc/lr1.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/definition-of-activity)  |[![](/images/cwc/lr2.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/licence-tc) |[![](/images/cwc/lr3.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence)  |[![](/images/cwc/lr4.jpg)](/businesses/chemical-weapons-convention/licensing-requirements/amendment-to-existing-licence)

@@ -3,7 +3,6 @@ title: Annual Declaration for Past Activities
 permalink: /businesses/chemical-weapons-convention/declarations/annual-declaration-for-past-activities/
 third_nav_title: Declarations
 ---
-
 # Annual Declaration for Past Activities
 
 The Annual Declaration for Past Activities (ADPA) is required for facilities that have produced, processed, consumed, imported, and exported or locally transferred  [scheduled chemicals](/businesses/chemical-weapons-convention/controlled-chemicals) or  [unscheduled discrete organic chemicals (DOCs)](/businesses/chemical-weapons-convention/controlled-chemicals#udoc)  in the preceding year.
@@ -21,7 +20,7 @@ The table below indicates the activities involving scheduled chemicals that requ
 | Storage | √ | X | X |
 | Local Sales/Distribution | √ | X | X |
 
-√ : indicates that ADPA is required. <br> See [full list](/files/businesses/guide_to_nacwc_lic_-_with_sch_chem_list-(2020).pdf) of scheduled chemicals.
+√ : indicates that ADPA is required. <br> See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled chemicals.
 
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
