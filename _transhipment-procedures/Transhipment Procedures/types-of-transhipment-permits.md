@@ -9,7 +9,6 @@ A transhipment permit is required to account for the following transhipment move
 
 -   For goods (all types) that are transhipped from one Free Trade Zone (FTZ) to another FTZ, a  **Transhipment (Through Transhipment with Inter-Gateway Movement (TTI)) permit**  is required.
 -   For controlled goods transhipped within the same FTZ, a  **Transhipment (Through Transhipment within the same FTZ (TTF)) permit**  is required.
--   For  **Class II/Dangerous Goods**, which are to be transported to an approved Class II yard for storage (subject to the relevant Competent Authorities' approval), a  **Customs Transhipment (TTI) permit**  is required. The valid licence number for the Class II Yard is to be declared in the "Place of Storage" field. The same Customs Transhipment (TTI) permit can be used to cover the transportation of the goods from the approved Class II yard to the same FTZ or another FTZ.
 
 | Message Type | Declaration Type | Code |
 |--|--|--|
