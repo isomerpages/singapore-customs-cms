@@ -46,15 +46,13 @@ For more information on the types of Customs permits and situations where no cus
 
 **Visit links below for more information of Transhipment requirements:** 
 
--   [Controlled & Prohibited Goods](/businesses/transhipping-goods/transhipment-procedures/controlled-prohibited-goods)
+-   [Controlled &amp; Prohibited Goods](/businesses/transhipping-goods/transhipment-procedures/controlled-prohibited-goods)
     
 -   [Vessel Registration Requirement](/businesses/transhipping-goods/transhipment-procedures/vessel-registration-requirement)
     
 -   [Obtaining a Customs Permit](/businesses/transhipping-goods/transhipment-procedures/applying-for-a-customs-permit)
     
 -   [Depositing Goods in Free Trade Zones Pending Transhipment](/businesses/transhipping-goods/transhipment-procedures/depositing-goods-in-ftzpt)
-    
--   [Transhipment of Class II/Dangerous Cargo](/businesses/transhipping-goods/transhipment-procedures/transhipment-of-class-ii-dangerous-cargo)
     
 -   [Retaining Your Trade Documents](/businesses/transhipping-goods/transhipment-procedures/retaining-trade-documents)
     
