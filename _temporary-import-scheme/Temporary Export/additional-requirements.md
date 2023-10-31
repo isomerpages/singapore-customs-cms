@@ -39,7 +39,7 @@ The importer, haulier or declarant must submit an online Application for [Custom
 
 |  |  |
 |--|--|
-| AB | An e-file application must be made to Company Compliance Branch for customs clearance of the goods from the Class II Bonded Warehouse or Container Freight Warehouse. |
+| AB | An e-file application must be made to Company Compliance Branch for customs clearance of the goods from the Container Freight Warehouse. |
 | B2 | An e-file application must be made to Company Compliance Branch for supervision of unstuffing of containers (website: [https://www.customs.gov.sg/](https://www.customs.gov.sg/)).|
 | D3 | An e file application must be made To Company Compliance Branch for supervision of unstuffing and/or loading of containers. (website: [https://www.customs.gov.sg/](https://www.customs.gov.sg/))|
 | K2 | An e file application must be made to Company Compliance Branch for escort/supervision of destruction of liquors, tobacco or dutiable m/vehicles.|
