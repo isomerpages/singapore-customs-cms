@@ -98,7 +98,7 @@ The following [e-learning videos and information on Customs Procedures](https://
 | 2. | What you need to know about TradeNet | [Web Link](/businesses/national-single-window/tradenet) |
 | 3. | Controlled & Prohibited Goods for Import | [Web Link](/businesses/importing-goods/controlled-and-prohibited-goods-for-import) |
 | 4. | List of Message and Declaration types for permit application | [PDF](/files/businesses/psb/tn team/module_5_-_list_of_message_and_declaration_types_for_permit_applications.pdf) |
-| 5. | Types of Permit Applications | [PDF](/files/businesses/psb/tn team/module_5_-_types_of_permit_applications.pdf) |
+| 5. | Types of Permit Applications | [PDF](/files/businesses/psb/tn team/module_5_-_types_of_permit_applications(updated).pdf) |
 | 6. | Important Permit Fields | [PDF](/files/important%20permit%20fields.pdf) |
 | 7. | List of Non-Amendable Permit Fields | [PDF](/files/about-us/annexb_04102013.pdf) |
 | 8. | Sample CCP | [PDF](/files/about-us/sampleccporiginal1.pdf) |
