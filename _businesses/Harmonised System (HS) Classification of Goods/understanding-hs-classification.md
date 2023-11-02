@@ -37,7 +37,6 @@ In every case, the goods must first be classified in the appropriate 4-digit HS 
     
 When classifying your products, one will need to apply the  [General Interpretative Rules (GIR)](/files/businesses/generalrulesfortheinterpretation.pdf)  which provide a step-by-step basis for the classification of goods and to ensure uniform interpretation of the Harmonised System (HS) nomenclature.  _(Note: GIR must be applied in sequential order)._
     
-Click  [here](/files/businesses/apply-gir.pdf)  for guiding questions on how to apply GIR.
 
     
 ## ASEAN Harmonised Tariff Nomenclature (AHTN)
