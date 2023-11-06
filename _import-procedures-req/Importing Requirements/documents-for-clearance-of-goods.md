@@ -2,6 +2,7 @@
 title: Documents for Clearance of Goods
 permalink: /businesses/importing-goods/import-procedures/documents-for-clearance-of-goods/
 third_nav_title: Importing Requirements
+variant: markdown
 ---
 # Documents for Clearance of Goods
 
@@ -43,7 +44,7 @@ For a consignment which requires **partial clearance**, the same customs permit 
 
 GST relief and permit waiver is granted on non-controlled and non-dutiable air imports imported by post or air with a total [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports) not exceeding S$400.00. To facilitate the cargo clearance of such air courier parcels/consignments at the Changi Airfreight Centre (CAC) Checkpoint, freight forwarders/handling agents are allowed to use a summary list, together with the invoice and House Airway Bill (HAWB)/consignment note for each parcel/consignment with a CIF value not exceeding S$400.00 containing only non-controlled and non-dutiable items.  
 
-There is no GST relief for goods originally imported by land, sea or truck-flights and subsequently presented for clearance at CAC Checkpoint, even if the CIF value of the goods does not exceed S$400.  See [Circular No. 01/2021](/news-and-media/circulars/2021-01-15-Circular012021.pdf) for details.  For more information on how to determine the total CIF value of a parcel/consignment, please refer to [Circular No: 04/2016](/news-and-media/circulars/2016-03-16-Circular042016.pdf) for more information.
+There is no GST relief for goods originally imported by land, sea or truck-flights and subsequently presented for clearance at CAC Checkpoint, even if the CIF value of the goods does not exceed S$400.  See [Circular No. 01/2021](/news-and-media/circulars/2021-01-15-Circular012021.pdf) for details.  For more information on how to determine the total CIF value of a parcel/consignment, please refer to [Circular No: 04/2016](/news-and-media/circulars/2016-03-16-Circular042016.pdf) and [Circular No: 21/2023](https://www.customs.gov.sg/files/circular%2021_2023.pdf) for more information.
 
 The **summary list** is to be printed on A4-sized paper in a minimum font size of 12 and shall contain the following information stated below in English:
 
