@@ -2,6 +2,7 @@
 title: Importing by Postal or Courier Service
 permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/
 third_nav_title: Import Procedures
+variant: markdown
 ---
 # Importing by Postal or Courier Service
 
@@ -23,7 +24,7 @@ You may refer to the following IRAS’ webpage for more information:<br>
 
 **Determining the total CIF value**
 
-To determine the total CIF value, all **goods consigned to the same importer and arriving in Singapore on the same flight** are treated as a whole, even if the goods are covered by **different freight documents**. The importer is the party indicated as the consignee in the freight documents such as the House Airway Bill (HAWB) or consignment note. In cases where end buyers are named as the consignees in different consignment notes and the courier service company or freight forwarder is named as the consignee in the HAWB, each of the end buyers may be considered as an importer.
+To determine the total CIF value, all goods **with the same consignor**, **consigned to the same importer and arriving in Singapore on the same flight** are treated as a whole, even if the goods are covered by **different freight documents**. The importer is the party indicated as the consignee in the freight documents such as the House Airway Bill (HAWB) or consignment note. In cases where end buyers are named as the consignees in different consignment notes and the courier service company or freight forwarder is named as the consignee in the HAWB, each of the end buyers may be considered as an importer.
 
 Where the insurance and freight charges are excluded from the value of the goods, importers may use the  [flat rates for freight and insurance](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/flat-rates-for-freight-and-insurance)  provided by Singapore Customs to compute the customs value of the goods and determine the GST and/or duty payable. For goods imported by **post**, if the insurance and freight charges are excluded from the value of the goods, the postage charge paid shall be taken as the insurance and freight charges to be included in the CIF value of the goods and determination of the GST and/or duty payable.
 
