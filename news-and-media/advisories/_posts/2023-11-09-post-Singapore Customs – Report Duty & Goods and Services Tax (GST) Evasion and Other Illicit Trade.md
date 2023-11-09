@@ -38,14 +38,14 @@ We will review the information received from you and commence investigation if t
 
 ##### FAQs
 
-###### 1. Do I have to give my name if I submit a report on a tax evasion case?
+**1. Do I have to give my name if I submit a report on a tax evasion case?**
 You may choose not to give your name when providing the information. However, providing your name and contact details allow us to clarify with you on the information furnished if it is necessary. Your identity and all information provided will be kept strictly confidential.
 
-###### 2.	I have hearsay information from a third party, would such information be useful?
+**2.	I have hearsay information from a third party, would such information be useful?**
 You are encouraged to provide information which you have personally come across or information which you assessed to be highly credible. 
 
-###### 3.	Will Singapore Customs update me on the status of my report?
+**3.	Will Singapore Customs update me on the status of my report?**
 We are unable to provide an update on the status of any actions taken by us as there are strict rules limiting the disclosure of government information.  
 
-###### 4.	Can I receive immunity from prosecution if I provide information about someone evading tax?
+**4.	Can I receive immunity from prosecution if I provide information about someone evading tax?**
 If you had committed, aided or abetted any tax evasion or illicit trade activities, you may be subjected to enforcement action. However, your cooperation in providing information may be considered in deciding on the actions to be taken against you.
