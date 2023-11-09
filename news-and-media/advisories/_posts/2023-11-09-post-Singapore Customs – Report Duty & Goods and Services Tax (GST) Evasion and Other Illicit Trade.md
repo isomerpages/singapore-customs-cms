@@ -27,7 +27,7 @@ Tell-tale signs that an individual or business may be evading duty/GST:
 * Sale of goods (e.g. liquor) that is below the cost of goods plus the duty/GST payable.
 
 ##### **Report tax evasion or fraud:**
-If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the below template:
+If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the following link:
 [https://form.gov.sg/64e554f0ffdaa600136b17e1](https://form.gov.sg/64e554f0ffdaa600136b17e1)
 
 ##### **Confidentiality of information:**
