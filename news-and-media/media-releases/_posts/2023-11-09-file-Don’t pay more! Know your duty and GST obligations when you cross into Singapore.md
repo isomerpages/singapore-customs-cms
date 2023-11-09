@@ -1,6 +1,5 @@
 ---
-title: Don’t pay more! Know your duty and GST obligations when you cross into
-  Singapore
+title: Don’t pay more! Know your duty and GST obligations when you cross into Singapore via Woodlands and Tuas Checkpoints
 date: 2023-11-09
 layout: file
 description: ""
