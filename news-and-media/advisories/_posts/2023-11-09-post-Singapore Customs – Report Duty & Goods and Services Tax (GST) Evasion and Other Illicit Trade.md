@@ -8,11 +8,11 @@ description: ""
 image: ""
 variant: markdown
 ---
-### Singapore Customs – Report Duty/Goods and Services Tax (GST) Evasion and Other Illicit Trade
+### **Singapore Customs – Report Duty/Goods and Services Tax (GST) Evasion and Other Illicit Trade**
 
 Singapore Customs takes a serious view of import tax evasion and other violations of Customs laws relating to import, export and transhipment of goods. By reporting illicit trade practices, you will contribute to maintaining the integrity of Singapore’s trading system where individuals and businesses conduct trade fairly, and pay the correct amount of taxes.
 
-##### What is tax evasion?
+##### **What is tax evasion?**
 Tax evasion occurs when an individual or business has deliberately omitted to pay or under-pay duty/GST on imported goods, or obtained undue duty/GST refunds.
 
 Examples of tax evasion include:
@@ -26,17 +26,17 @@ Tell-tale signs that an individual or business may be evading duty/GST:
 * Keeping two different sets of documents and accounts for the same transactions; or
 * Sale of goods (e.g. liquor) that is below the cost of goods plus the duty/GST payable.
 
-##### Report tax evasion or fraud:
+##### **Report tax evasion or fraud:**
 If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the below template:
 https://form.gov.sg/64e554f0ffdaa600136b17e1
 
-##### Confidentiality of information:
+##### **Confidentiality of information:**
 Your identity and the information provided to Singapore Customs will be kept strictly confidential. You may also choose to remain anonymous. Nonetheless, you are encouraged to provide your contact details, so that we can follow up with you for clarifications on the information provided.
 
-##### What we do with the information provided:
+##### **What we do with the information provided:**
 We will review the information received from you and commence investigation if there is prima facie evidence that an offence has been committed. Information without merit will be disregarded.
 
-##### FAQs
+##### **FAQs**
 
 **1. Do I have to give my name if I submit a report on a tax evasion case?**
 
