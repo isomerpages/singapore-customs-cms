@@ -67,6 +67,7 @@ accordion:
       -   Other supporting documents (e.g., letter of employment or a letter of
       undertaking from the local employer or in-principle approval from the
       Ministry of Manpower) <br><br>
+variant: markdown
 ---
 # Importing Used Household Articles and Personal Effects
 
@@ -200,20 +201,20 @@ Taking Delivery of the Personal Effects</label>
 			<p>This refers to goods that are hand-carried in the owner’s accompanied baggage upon his or her arrival in Singapore.
 
 To apply for GST relief, the owner should complete the "<a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links">
-				Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets</a>" form with the following supporting documents for assessment of eligibility for GST relief at least 3 working days before arrival in Singapore</p>
+				Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets</a>" form with the following supporting documents for assessment of eligibility for at least 3 working days before arriving in Singapore</p>
       <ul>
 				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b></li>
     <div>
       <ul>
         <li>Copy of passport or identity card (NRIC)</li>
-        <li>Proof of employment overseas (e.g., work permit visa, employment pass, letter of appointment)</li>
+        <li>Proof of employment overseas (e.g., work permit visa, employment pass or letter of appointment)</li>
       </ul>
     </div>
 <li><b>Returning Singaporeans &amp; Permanent Residents studying overseas</b></li>
     <div>
       <ul>
 				<li>Copy of passport or identity card (NRIC)</li>
-        <li>Proof of overseas study (e.g., student visa, student pass)</li>
+        <li>Proof of overseas study (e.g., student visa or student pass)</li>
       </ul>
     </div>				
 <li><b>Foreigners transferring residence</b></li>
@@ -221,7 +222,7 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
       <ul>
         <li>Copy of passport</li>
         <li>Proof of transfer of residence to Singapore (e.g., employment pass, dependant pass, student pass)</li>
-				<li>Other supporting documents (e.g., letter of employment or a letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower)</li>
+				<li>Other supporting documents [e.g., letter of employment or a letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower (MOM)]</li> Owners who fail to get the necessary approval for GST relief before arriving in Singapore are required to pay GST for their hand-carried items via the <a href="https://www.customs.gov.sg/eservices/customs-sg-web-application/">Customs@SG web application.</a> GST relief applications made after arrival will not be entertained.
       </ul>
     </div>
 	</ul>
