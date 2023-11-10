@@ -224,7 +224,7 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
         <li>Proof of transfer of residence to Singapore (e.g., employment pass, dependant pass, student pass)</li>
 				<li>Other supporting documents [e.g., letter of employment or a letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower (MOM)]</li> 
 
-<p>Owners who fail to get the necessary approval for GST relief before arriving in Singapore are required to pay GST for their hand-carried items via the <a href="https://www.customs.gov.sg/eservices/customs-sg-web-application/">Customs@SG web application.</a> GST relief applications made after arrival will not be entertained.</p>
+<p>Owners who fail to get the necessary approval for GST relief before arriving in Singapore are required to pay GST for their hand-carried items via the <a href="https://www.customs.gov.sg/eservices/customs-sg-web-application/">Customs@SG web application</a> GST relief applications made after arrival will not be entertained.</p>
       </ul>
     </div>
 	</ul>
