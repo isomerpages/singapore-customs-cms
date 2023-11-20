@@ -1,6 +1,7 @@
 ---
 title: Our Commitment To Quality Service
 permalink: /about-us/our-commitment-to-quality-service/
+variant: markdown
 ---
 # Our Commitment to Quality Service 
 
@@ -34,17 +35,8 @@ Our response time depends on the nature and complexity of the enquiry or feedbac
 
 <br>
 
-|Travellers                                                                       |                       |
-|---------------------------------------------------------------------------------|-----------------------|
-|**Endorse Tourist GST Refund Claim Forms**\*                                     | 95% within 10 minutes |
-|**Process Assessment and Collection of Duty/GST from Travellers/Crew Members**\* | 95% within 8 minutes  |
-|**Endorse Export Permits under the Hand-Carried Exports Scheme**\*               | 95% within 15 minutes |
-
-<sup>**\* On weekends and public holidays, the processing time may be a little longer. You are advised to come to the Singapore Customs counter early.**
-
 ## Delighting Our Customers
 
 Singapore Customs is committed to provide our customers with prompt and professional service.
 
 Through active engagement with our customers and benchmarking our services to best practices, we strive to delight them. We conduct surveys regularly to gather our customers’ feedback and to measure their satisfaction with our services so that we can serve them even better. 
-</sup>
