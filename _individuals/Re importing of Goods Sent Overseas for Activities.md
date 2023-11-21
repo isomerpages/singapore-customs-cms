@@ -77,8 +77,6 @@ Please view the tabs below for more information on re-importing goods under diff
 			<br>- The GST and/or duty previously paid on the goods has not been claimed from IRAS or refunded by Singapore Customs; and
 			<br>- The goods were re-imported in the same state without any alteration or reprocessing while abroad
 <br><br>The commercial value should be based on the transaction value of identical or similar goods from the same country of origin exported around the same time. The commercial invoice may indicate Value for Customs Purposes Only, which means that there is no sale of goods involved. However, the importer should provide supporting trade documents to substantiate the commercial value of the imported goods.
-			
-			
 			<br><br><b>For Taxable Companies</b>
 			<br><br>Taxable companies registered with the <a href="https://www.iras.gov.sg/">Inland Revenue Authority of Singapore (IRAS)</a> may obtain an In-Payment (GST) permit to cover the re-import of their goods, and claim the GST levied from IRAS.
 			<br><br>The company must submit the Customs OUT (Direct) permit, and all relevant records (for example, Bill of Lading, commercial invoices, packing list, freight charges) to IRAS during the company’s monthly or quarterly accounting returns.
