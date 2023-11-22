@@ -98,7 +98,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 7.1 The Director-General may, in his sole discretion, take action against the User and/or the Declarant for breach of any of these terms and conditions including but not limited to:
 
-  - non-delivery of the MRS to the Director-General ;
+  - non-delivery of the MRS to the Director-General;
 
   - late delivery of the MRS beyond the stipulated time period;
 
@@ -112,7 +112,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
   - increased frequency of Audits;
 
-  - disallowing the Declarant from preparing and signing, the MRS on the User’s behalf;
+  - disallowing the Declarant from preparing and signing the MRS on the User’s behalf;
 
   - ordering the User to authorise a new Declarant; and
 
