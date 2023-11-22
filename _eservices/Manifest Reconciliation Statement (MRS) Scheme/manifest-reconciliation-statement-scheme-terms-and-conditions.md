@@ -92,7 +92,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 6.4 The User shall co-operate and assist the Customs officers in collecting the manifests and supporting documents whether the Audit is conducted at the User’s premises or at the Director-General’s office.
 
-6.5 At the conclusion of the Audit, unless otherwise indicated by the User at the time of delivery of the documents to the Director-General or at the time when the documents are taken by the Director-General from the User’s premises, the documents will be duly destroyed by the Director-General . The User shall not hold the Director-General liable or responsible for any consequences arising from the destruction of the said documents.
+6.5 At the conclusion of the Audit, unless otherwise indicated by the User at the time of delivery of the documents to the Director-General or at the time when the documents are taken by the Director-General from the User’s premises, the documents will be duly destroyed by the Director-General. The User shall not hold the Director-General liable or responsible for any consequences arising from the destruction of the said documents.
 
 ## 7. Penalties for Non-Compliance with the Terms and Conditions
 
