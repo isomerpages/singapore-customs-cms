@@ -110,13 +110,13 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 7.2 The action taken by the Director-General includes the following:
 
-  - 7.2.1 increased frequency of Audits;
+  - increased frequency of Audits;
 
-  - 7.2.2 disallowing the Declarant from preparing and signing, the MRS on the User’s behalf;
+  - disallowing the Declarant from preparing and signing, the MRS on the User’s behalf;
 
-  - 7.2.3 ordering the User to authorise a new Declarant; and
+  - ordering the User to authorise a new Declarant; and
 
-  - 7.2.4 any other action permitted under the Regulation of Imports and Exports Act (Cap 272A) and/or any other regulations made thereunder or any other written law in Singapore administered by the Director-General.
+  - any other action permitted under the Regulation of Imports and Exports Act (Cap 272A) and/or any other regulations made thereunder or any other written law in Singapore administered by the Director-General.
 
 ## 8. General
 
