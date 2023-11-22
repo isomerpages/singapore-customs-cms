@@ -47,7 +47,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 3.2 Users will be required to login using CorpPass to submit the MRS via Web Manifest Reconciliation Statement System for Sea Shipments (WMRS).
 
-3.3 It will be the responsibility of the User to ensure that all MRS delivered by the User to the Director-General are accurate and complete notwithstanding that the MRS may be signed by their respective Declarants. The User will be held liable for the accuracy and completeness of all MRS submitted by them or on their behalf to the Director-General . The Declarants will also be held liable for the accuracy and completeness of any MRS which they have signed, or any breach of these terms and conditions.
+3.3 It will be the responsibility of the User to ensure that all MRS delivered by the User to the Director-General are accurate and complete notwithstanding that the MRS may be signed by their respective Declarants. The User will be held liable for the accuracy and completeness of all MRS submitted by them or on their behalf to the Director-General. The Declarants will also be held liable for the accuracy and completeness of any MRS which they have signed, or any breach of these terms and conditions.
 
 3.4 Where any breach of these terms and conditions is committed by or is attributable to any of the employees of the User, whether they are Declarants or not, the User shall be deemed to be guilty of the breach and shall be liable to penalties as provided for in clause 7.2 below.
 
@@ -64,7 +64,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 4.4 The Director-General may exempt the User from the requirement to submit Nil MRS within seventeen (17) days from the arrival of the vessel and fourteen (14) days from the departure of the vessel.
 
-4.5 There shall be no amendments to or re-deliveries of any MRS once it has been duly sent to the Director-General except as allowed by the Director-General or where hereinafter provided for. The User will receive an acknowledgement for all MRS successfully delivered via the Internet to the Director-General . In the event that the User does not receive such acknowledgement within 24 hours of submission of the MRS, the User is to re-deliver the MRS via the Internet to the Director-General.
+4.5 There shall be no amendments to or re-deliveries of any MRS once it has been duly sent to the Director-General except as allowed by the Director-General or where hereinafter provided for. The User will receive an acknowledgement for all MRS successfully delivered via the Internet to the Director-General. In the event that the User does not receive such acknowledgement within 24 hours of submission of the MRS, the User is to re-deliver the MRS via the Internet to the Director-General.
 
 ## 5. Storage of Manifests and Supporting Documents
 
