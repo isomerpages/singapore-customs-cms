@@ -162,6 +162,6 @@ variant: markdown
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Web Manifest Reconciliation System | [Web Link](https://eservices.customs.gov.sg/scripts/customs/mrs/)|
+| 1. | Web Manifest Reconciliation Statement System for Sea Shipments | [Web Link](https://eservices.customs.gov.sg/scripts/customs/mrs/)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
