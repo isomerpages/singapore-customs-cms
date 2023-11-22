@@ -72,7 +72,7 @@ The following words and expressions shall have meanings hereby assigned to them 
 
 5.2 Supporting documents in lieu of permits include:
 
-  - ATA Carnet endorsed by Immigration and Checkpoints Authority (ICA).
+  - ATA Carnet endorsed by Immigration and Checkpoints Authority (ICA); and
 
   - Carnet de Passage for used passenger motor vehicles endorsed by Automobile Association of Singapore.
 
