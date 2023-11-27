@@ -57,6 +57,7 @@ accordion:
       for
       a  [step-by-step](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore){:target="_blank"}
       guide to pet immigration in Singapore.
+variant: markdown
 ---
 # Importing Personal Pets
 
@@ -106,7 +107,7 @@ An importer who is transferring residence to Singapore (including returning Sing
 				<br>- Proof of transfer of residence to Singapore (e.g., employment pass, dependent pass, student pass)
 				<br>- Other supporting documents (e.g. letter of employment or letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower)
 			<br><br><b>Clearance of Hand-carried Personal Pets</b>
-			<br><br>If the application is approved, the pet owner will receive an approval email on his successful GST relief application, which must be presented to the checkpoint officer at the Red Channel for their verification on the day of the pet.
+			<br><br>If the application is approved, the pet owner will receive an approval email on his successful GST relief application, which must be presented to the checkpoint officer at the Red Channel for their verification on the day of collection of the pets.
 			<br><br>A pet owner who hand-carries his personal pets from overseas and not eligible for GST relief must obtain a Customs In-Payment (GST) permit to import the pet instead. This includes pet owner who are unable to submit the full set of supporting documents stated above in time for our assessment of GST import relief. For more details, please refer to the<b> table </b> below on the <b>Procedures and Requirements for Importing Personal Pets</b>
 				<br><br>Click here for a <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore">step-by-step</a> guide to pet immigration in Singapore.
 </div>
