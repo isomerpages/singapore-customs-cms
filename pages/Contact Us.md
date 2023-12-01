@@ -38,7 +38,9 @@ Our operating hours: <br>8am to 6pm (Monday to Friday)<br>8am to 12pm (Saturday)
 ---
 
 ### Report to Us<br>
-**Report smuggling activities and/or evasion of duty/Goods and Services Tax (GST)**<br>[1800 233 0000](tel:18002330000)<br>
+**[Report duty/Goods and Services Tax (GST) Evasion and Other Illicit Trade](https://www.customs.gov.sg/news-and-media/advisories/permalink/)**<br>
+
+If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the [reporting template](https://form.gov.sg/64e554f0ffdaa600136b17e1). 
 
 **Report a scam**<br>Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d).<br>
 
