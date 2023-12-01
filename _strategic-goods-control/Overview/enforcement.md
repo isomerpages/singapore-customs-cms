@@ -27,6 +27,7 @@ accordion:
       sentenced to 9 and 18 months imprisonment for brokering arms to Syria.
       ([Media
       Release](/news-and-media/media-releases/2006-10-11-Press-Release.pdf)).
+variant: markdown
 ---
 # Enforcement
 
@@ -38,7 +39,7 @@ Enforcement action is carried out based on specific intelligence and risk profil
 
 You are reminded to exercise due diligence if you are involved in activities relating to the transfer or brokering of strategic goods or strategic goods technology. To ensure compliance with the Strategic Goods (Control) Act (SGCA) and its subsidiary legislations, you are advised to implement an internal compliance programme as outlined in the  [Strategic Trade Scheme Handbook](/files/businesses/seb/sts%20handbook%20-%201%20oct%202023.pdf).
 
-Members of the public with information on illegal dealings in strategic goods and technology may contact us at 1800-2330000 or email  [customs_intelligence@customs.gov.sg](mailto:customs_intelligence@customs.gov.sg).
+Members of the public with information on illegal dealings in strategic goods and technology may [report to Singapore Customs](https://www.customs.gov.sg/news-and-media/advisories/permalink/).
 
 
 ## Examples of common offences
