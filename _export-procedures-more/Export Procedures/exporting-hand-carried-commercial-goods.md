@@ -2,12 +2,13 @@
 title: Exporting Hand-Carried Commercial Goods
 permalink: /businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods/
 third_nav_title: Export Procedures
+variant: markdown
 ---
 # Exporting Hand-Carried Commercial goods
 
 ## Exporting under Hand-Carried Export Scheme (HCES)
 
-The Hand-Carried Export Scheme (HCES) is administered by IRAS and effective since 1 Apr 2009. The HCES allows local exporters to zero-rate their supplies to overseas customers for goods hand-carried out of Singapore via Changi International Airport. You may refer to IRAS’ website for more details on <a href= "https://www.iras.gov.sg/irashome/Schemes/GST/Hand-Carried-Exports-Scheme--HCES-/">HCES</a>.
+The Hand-Carried Export Scheme (HCES) is administered by IRAS and effective since 1 Apr 2009. The HCES allows local exporters to zero-rate their supplies to overseas customers for goods hand-carried out of Singapore via Changi International Airport. You may refer to IRAS’ website for more details on <a href="https://www.iras.gov.sg/irashome/Schemes/GST/Hand-Carried-Exports-Scheme--HCES-/">HCES</a>.
 
 For departure via Changi International Airport, traders must present the goods with the relevant Customs Export permit, supporting invoice and boarding pass/confirmed air-ticket to Singapore Customs officers for inspection.
 
@@ -23,7 +24,7 @@ Information on how to set up your NTP account can be found at <a href="https://w
 For more information on the Digital HCES Digital Service, please refer to Customs [Circular No.: 01/2023.](/files/circular_01_2023%20(ver1).pdf)
 
 1.	For enquiries related to the clearance of your HCES permit, please email [customs_checkpoints@customs.gov.sg](mailto:customs_checkpoints@customs.gov.sg)
-2.	For NTP related queries, email to [NTP_helpdesk@ncs.com.sg](mailto:NTP_helpdesk@ncs.com.sg)
+2.	For NTP related queries, please call [+65 6355 2000](tel:+6563552000)
 3.	For any clarifications on the Hand-Carried Exports Scheme, please refer to IRAS’ e-Tax Guide “GST: Guide on Hand-Carried Exports Scheme” or contact IRAS at
 [gst@iras.gov.sg](mailto:gst@iras.gov.sg)
 

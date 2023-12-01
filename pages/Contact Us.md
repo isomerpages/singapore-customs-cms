@@ -35,8 +35,6 @@ Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and pub
 Our operating hours: <br>8am to 6pm (Monday to Friday)<br>8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.<br>
 <br>**Technical issues or enquiries on TradeNet**<br>[+65 6887 7888](tel:+6568877888)
 
-Operating hours: <br>9am to 6pm (Monday to Friday)<br>9am to 1pm (Saturday)<br>Closed on Sundays and public holidays.<br>
-
 ---
 
 ### Report to Us<br>
