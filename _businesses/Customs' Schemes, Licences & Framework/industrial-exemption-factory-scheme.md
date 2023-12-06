@@ -24,7 +24,7 @@ To qualify for the Industrial Exemption Factory Scheme, the company must:
 
 ## Annual Fee
 
-An annual fee of S$620 is payable upon issuance of the certificate of exemption.
+An annual fee of $620 is payable upon issuance of the certificate of exemption.
 
 ## Key Responsibilities
 
