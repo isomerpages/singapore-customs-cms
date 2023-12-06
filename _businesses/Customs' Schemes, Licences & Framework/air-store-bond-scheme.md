@@ -32,7 +32,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 
 
 | Projected Potential Duty | Licence Fee for the period stating on or after 1 Jan 2024 but before 1 Jan 2025 | Licence Fee for the period starting on or after 1 Jan 2025 |
-| -------- | -------- | -------- |
+| ------------- | -------- | -------- |
 | S$1 million or less     | S$2,990    | S$3,480     |
 | More than S$1 million but less than S$10 million     | S$4,785     | S$5,570     |
 | S$10 million or more  | S$21,000    | S$21,000     |
