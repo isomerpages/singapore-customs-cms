@@ -2,6 +2,7 @@
 title: Air Store Bond Scheme
 permalink: /businesses/customs-schemes-licences-framework/air-store-bond-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Air Store Bond Scheme
 
@@ -28,11 +29,13 @@ To qualify for the Air Store Bond Scheme, the company must:
 
 An annual licence fee is payable upon issuance of the licence. It is based on the projected potential duty* or the average past monthly duty** of the dutiable goods stored:
 
-| Projected Potential Duty | Licence Fee |
-|--------------------------|-------------|
-| S$1 million or less | S$2,500 |
-| More than S$1 million but less than S$10 million | S$4,000 |
-| S$10 million or more | S$21,000 |
+
+
+| Projected Potential Duty | Licence Fee for the period stating on or after 1 Jan 2024 but before 1 Jan 2025 | Licence Fee for the period starting on or after 1 Jan 2025 |
+| -------- | -------- | -------- |
+| S$1 million or less     | S$2,990    | S$3,480     |
+| More than S$1 million but less than S$10 million     | S$4,785     | S$5,570     |
+| S$10 million or more  | S$21,000    | S$21,000     |
 
 
 *Projected potential duty refers to the total customs and excise duties of the projected maximum quantity of goods that can be stored at any one time in the intended licensed premises.  
