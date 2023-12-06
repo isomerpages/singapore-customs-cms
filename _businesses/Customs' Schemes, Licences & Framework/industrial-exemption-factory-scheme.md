@@ -2,6 +2,7 @@
 title: Industrial Exemption Factory Scheme
 permalink: /businesses/customs-schemes-licences-framework/industrial-exemption-factory-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Industrial Exemption Factory Scheme
 
@@ -23,7 +24,7 @@ To qualify for the Industrial Exemption Factory Scheme, the company must:
 
 ## Annual Fee
 
-An annual fee of S$600 is payable upon issuance of the certificate of exemption.
+An annual fee of S$620 is payable upon issuance of the certificate of exemption.
 
 ## Key Responsibilities
 
@@ -123,7 +124,7 @@ For your company to benefit from the duty exemption, you should declare the rele
 
 | **Declaration Field** | **Information to be Declared** |
 |--|--|
-| Place of Receipt Code | < insert your company's IEF Code > |
-| Item Description | < insert Description of Duty-Exempted Raw Material >
-| HS Code | < insert HS Code of Duty-Exempted Raw Material > |
-| CA/SC Product Code | < insert Product Code of Duty-Exempted Raw Material > |
+| Place of Receipt Code | &lt; insert your company's IEF Code &gt; |
+| Item Description | &lt; insert Description of Duty-Exempted Raw Material &gt;
+| HS Code | &lt; insert HS Code of Duty-Exempted Raw Material &gt; |
+| CA/SC Product Code | &lt; insert Product Code of Duty-Exempted Raw Material &gt; |
