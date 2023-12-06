@@ -2,6 +2,7 @@
 title: Zero-GST Warehouse Scheme
 permalink: /businesses/customs-schemes-licences-framework/zero-gst-warehouse-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Zero-GST Warehouse Scheme
 
@@ -64,11 +65,13 @@ You may refer to the [red flag indicators](https://www.police.gov.sg/-/media/Spf
 
 An annual licence fee is payable when the licence is issued. It is based on the average stock value of the goods stored in the licensed premises.
 
-| Average Stock Value | Fee |
-|---------------------|-----|
-| S$1 million or less | S$1,000 |
-| More than S$1 million but less than S$5 million | S$2,500 |
-| S$5 million or more | S$4,000 |
+
+
+| Average Stock Value | Licence Fee for the period starting on or after 1 Jan 2024 | Licence Fee for the period starting on or after 1 Jan 2025 |
+| ---------------------- | -------- | -------- |
+| S$1 million or less      | S$1,195     | S$1,390     |
+| More than S$1 million but less than S$5 million      | S$2,990     | S$3,480    |
+| S$5 million or more     | S$4,785     | S$5,570     |
 
 
 ## Key Responsibilities
