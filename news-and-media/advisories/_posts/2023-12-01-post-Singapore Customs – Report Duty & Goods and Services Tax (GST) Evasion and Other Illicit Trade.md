@@ -28,7 +28,7 @@ Tell-tale signs that an individual or business may be evading duty/GST:
 
 ##### **Report tax evasion or fraud:**
 If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the following link:
-[https://form.gov.sg/64e554f0ffdaa600136b17e1](https://form.gov.sg/64e554f0ffdaa600136b17e1)
+[https://go.gov.sg/reportcustomsoffence](https://go.gov.sg/reportcustomsoffence)
 
 ##### **Confidentiality of information:**
 Your identity and the information provided to Singapore Customs will be kept strictly confidential. You may also choose to remain anonymous. Nonetheless, you are encouraged to provide your contact details, so that we can follow up with you for clarifications on the information provided.
