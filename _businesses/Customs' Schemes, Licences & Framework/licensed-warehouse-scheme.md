@@ -24,6 +24,7 @@ accordion:
       premises meant for duty-unpaid goods. (Except for LW Type III licensees)
       <br><br> ✖ Allow any unauthorised personnel to enter the licensed premises
       meant for duty unpaid goods. <br>
+variant: markdown
 ---
 # Licensed Warehouse Scheme
 
@@ -65,12 +66,12 @@ To qualify for the Licensed Warehouse Scheme, the company must:
 
 An annual licence fee is payable upon issuance of the licence. It is based on the projected potential duty*  or the average past monthly duty**  of the dutiable goods stored in the licensed premises:
 
-| Projected Potential Duty or Average Past Monthly Duty | Fee |
-|-------------------------------------------------------|-----|
-| S$1 million or less | S$2,500 |
-| More than S$1 million but less than S$10 million | S$4,000 |
-| S$10 million or more | S$21,000 |
 
+| Projected Potential Duty or Average Past Monthly Duty | Licence Fee for the period starting on or after 1 Jan 2024 but before 1 Jan 2025 | Licence Fee for the period starting on or after 1 Jan 2025 |
+| -------- | -------- | -------- |
+| S$1 million or less     | S$2,990     | S$3,480     |
+| More than S$1 million but less than S$10 million     | S$4,785    | S$5,570     |
+| S$10 million or more   | S$21,000    | S$21,000    |
 
 *Projected potential duty is the total customs and excise duties of the projected maximum quantity of goods at any one time in the proposed licensed premises.
 
