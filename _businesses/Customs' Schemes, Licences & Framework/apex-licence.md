@@ -2,6 +2,7 @@
 title: Apex Licence
 permalink: /businesses/customs-schemes-licences-framework/apex-licence/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Apex Licence
 
@@ -26,7 +27,7 @@ To qualify for the Apex Licence, the company must:
 
 The Apex Licence fee is pegged to the highest licence fee of any individual licence the company holds with Singapore Customs.
 
-For example, if a company is paying $4,000 for the Licensed Warehouse licence and $2,500 for the Zero-GST Warehouse licence, the fee for the Apex Licence would be $4,000.
+For example, if a company is paying $4,785 for the Licensed Warehouse licence and $2,990 for the Zero-GST Warehouse licence, the fee for the Apex Licence would be $4,785.
 
 ## How to Apply?
 
