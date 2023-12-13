@@ -102,7 +102,7 @@ An annual licence fee is payable upon issuance of the licence. It is based on th
 
 For containers sealed with a red customs seal, the application to unstuff dutiable goods at a licensed warehouse should be  [e-filed](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)  to the Company Compliance Branch one working day before the unstuffing.
 
-Goods that are not fit for human consumption may be destroyed under Customs’ supervision.
+For the disposal and destruction of duty suspended goods that are unfit for consumption or use, the licensee is required to seek approval from Customs in writing before disposing of such goods. These goods may be destroyed under Customs' supervision.
 
 [Fees for supervision of unstuffing, survey and destruction](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010)  are applicable accordingly.
 
