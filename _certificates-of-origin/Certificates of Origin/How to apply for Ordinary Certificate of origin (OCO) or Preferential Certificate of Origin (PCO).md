@@ -4,6 +4,7 @@ title: How to apply for Ordinary Certificate of origin (OCO) or Preferential
 permalink: /businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/
 third_nav_title: Certificates of Origin
 description: ""
+variant: markdown
 ---
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
@@ -25,7 +26,7 @@ You may update the company’s contact details or Authorised Person, [via the on
     
 After registration, submit the manufacturing cost statement to Singapore Customs for verification that the goods in question meet the origin criteria under the respective Free Trade Agreements and Schemes.
     
-The submission should be made using the latest [Manufacturing Cost Statement template](https://go.gov.sg/coststatementapr2023). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
+The submission should be made using the latest [Manufacturing Cost Statement template](https://go.gov.sg/coststatementdec2023). The cost statement will be valid for 1 year from the date of the manufacturing cost statement.
     
 The typical processing time for a Manufacturing Cost Statement is 7 working days upon receipt of the submission provided the submission is complete and accurate.
     
