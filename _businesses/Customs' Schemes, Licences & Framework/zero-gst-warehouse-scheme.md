@@ -102,7 +102,9 @@ An annual licence fee is payable when the licence is issued. It is based on the 
 
 For containers sealed with a red customs seal, the application to unstuff GST-unpaid goods at a zero-GST warehouse should be  [e-filed](http://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp){:target="_blank"} to the Company Compliance Branch 1 working day before the intended unstuffing.
 
-Goods that are not fit for use may be destroyed under Customs’ supervision. [Fees for supervision of unstuffing, survey and destruction](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010){:target="_blank"} are applicable accordingly.
+For the disposal and destruction of GST suspended goods that are unfit for consumption or use, the licensee is required to seek approval from Customs in writing before disposing of such goods. These goods may be destroyed under Customs’ supervision.
+
+[Fees for supervision of unstuffing, survey and destruction](https://sso.agc.gov.sg/SL/CA1960-S634-2012?DocDate=20131010){:target="_blank"} are applicable accordingly.
 
 
 ## How to Apply?
