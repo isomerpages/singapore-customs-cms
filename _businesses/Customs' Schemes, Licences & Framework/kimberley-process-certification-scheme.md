@@ -51,7 +51,7 @@ To apply for a KP Certificate, you need to:
 
 -   Have a valid KP Licence with Singapore Customs; and
 -   Have a valid  [Inter-Bank GIRO (IBG) account](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro/)  with Singapore Customs for the deduction of a S$5 fee per KP Certificate issued; and
--   Submit the  ["Application for KP Certificate"](/eservices/customs-forms-and-service-links)  through FormSG with all supporting documents (i.e. KP Licence, commercial invoice, packing list and Airway Bill etc); and ensure that you adhere to all the terms and conditions for the KP Certificate.
+-   Submit the  [Application for KP Certificate](/eservices/customs-forms-and-service-links)  through FormSG with all supporting documents (i.e. KP Licence, commercial invoice, packing list and Airway Bill etc); and ensure that you adhere to all the terms and conditions for the KP Certificate.
 
 ## How to Apply for a Customs Permit
 
