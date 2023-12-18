@@ -2,6 +2,7 @@
 title: Kimberley Process Certification Scheme
 permalink: /businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Kimberley Process Certification Scheme
 
@@ -36,12 +37,11 @@ Under the KPCS, a Kimberley Process (KP) Licence is required for the import and 
 To apply for a KP Licence,  you need to:
 
 -   Register with the Accounting and Corporate Regulatory Authority (ACRA) to obtain a Unique Entity Number (UEN) account;
--   Activate your Customs Account;
--   Have a valid  [Inter-Bank GIRO (IBG) account](/eservices/customs-forms-and-service-links)  with Singapore Customs for the deduction of the annual licence fee (S$50 per year or part thereof);
--   Register for a Corppass Account and a Networked Trade Platform (NTP) account; and
--   Submit the  KP Licence application form and all supporting documents via the online application form found on the [Networked Trade Platform (NTP) website](http://www.ntp.gov.sg/).
+-   Activate your Customs account;
+-   Have a valid  [Inter-Bank GIRO (IBG) account](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro/)  with Singapore Customs for the deduction of the annual licence fee (S$50 per year or part thereof);
+-   Submit an application form for KP and all supporting documents through FormSG with all the supporting documents required (i.e. Business process flowchart, credentials of staff doing rough diamond processing work, website business profile of applicant etc).
 
-The  Kimberley Process licence expires on 31 December of the year in which it is issued and needs to be renewed annually thereafter. The licence renewal is subject to Customs’ review and assessment before it can be renewed. Please refer to the  KP Licence application form for the terms and conditions for the KP Licence.
+The  KP Licence expires on 31 December of the year in which it is issued and needs to be renewed annually thereafter. The renewal is subject to Customs’ review and assessment. Please refer to the  KP Licence application form for the terms and conditions. 
 
 ## How to Apply for a Kimberley Process Certificate?
 
@@ -50,8 +50,8 @@ Under the KPCS, a KP Certificate issued by Singapore Customs is required for the
 To apply for a KP Certificate, you need to:
 
 -   Have a valid KP Licence with Singapore Customs; and
--   Have a valid  [Inter-Bank GIRO (IBG) account](/eservices/customs-forms-and-service-links)  with Singapore Customs for the deduction of a S$5.00 fee per KP Certificate issued; and
--   Submit the  ["Application for Kimberley Process Certificate"](/eservices/customs-forms-and-service-links)  form with all supporting documents (i.e. the overseas KP Certificate, KP licence, commercial invoice, packing list and Airway Bill); and ensure that you adhere to all the terms and conditions for the KP Certificate.
+-   Have a valid  [Inter-Bank GIRO (IBG) account](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro/)  with Singapore Customs for the deduction of a S$5 fee per KP Certificate issued; and
+-   Submit the  ["Application for KP Certificate"](/eservices/customs-forms-and-service-links)  through FormSG with all supporting documents (i.e. KP Licence, commercial invoice, packing list and Airway Bill etc); and ensure that you adhere to all the terms and conditions for the KP Certificate.
 
 ## How to Apply for a Customs Permit
 
