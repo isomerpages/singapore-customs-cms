@@ -29,8 +29,8 @@ You will then undergo targeted training to hone the necessary competencies to pe
 
 |Roles | Starting Monthly Salary*| 
 | -------- | -------- | 
-| **Customs officer (CUS Entry Grade 4)**| $3,575 - $4,015|
-|**Customs officer (CUS Entry Grade 1)**| $1,800 - $2,255|
+| **Customs officer (CUS Entry Grade 4)**| $4,020 - $4,510|
+|**Customs officer (CUS Entry Grade 1)**| $1,800 - $2,565|
 
 	*Starting monthly salary may vary based on a holistic assessment of academic qualifications, relevant work experience and completion of full-time National Service.
 
