@@ -1,6 +1,7 @@
 ---
 title: Careers
 permalink: /about-us/careers/
+variant: markdown
 ---
 # Careers
 *If you're seeking a rewarding career with plentiful opportunities for personal and professional growth, you've come to the right place.*
@@ -30,9 +31,9 @@ You will then undergo targeted training to hone the necessary competencies to pe
 |Roles | Starting Monthly Salary*| 
 | -------- | -------- | 
 | **Customs officer (CUS Entry Grade 4)**| $4,020 - $4,510|
-|**Customs officer (CUS Entry Grade 1)**| $1,800 - $2,565|
+|**Customs officer (CUS Entry Grade 1)**| $1,800 - $2,663|
 
-	*Starting monthly salary may vary based on a holistic assessment of academic qualifications, relevant work experience and completion of full-time National Service.
+	*Starting monthly salary may vary based on a holistic assessment of academic qualifications, demonstration of relevant competencies, relevant work experience and completion of full-time National Service.
 
 * You will enjoy a **host of benefits** including:
 	* 14 to 18 days of annual Vacation Leave
