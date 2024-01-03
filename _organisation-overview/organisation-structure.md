@@ -1,6 +1,7 @@
 ---
 title: Organisation Structure
 permalink: /about-us/organisation-overview/organisation-structure/
+variant: markdown
 ---
 # Organisation Structure
 
@@ -8,4 +9,4 @@ Singapore Customs' work is performed by the Trade Division, Compliance Division,
 
 The Internal Audit Branch, TradeNet Office and Transformation Office report directly to the Director-General of Customs.
 
-![Organisation Structure](/images/about-us/customs%20org%20chart%20(internet)%20-%201%20nov%202022.jpg)
+![Org Chart 2 Jan 24](/images/about-us/Customs_Org_Chart__Internet____2_Jan_2024.jpg)
