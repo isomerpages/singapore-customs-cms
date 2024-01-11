@@ -2,6 +2,7 @@
 title: TradeNet Front-End Solution Providers
 permalink: /businesses/national-single-window/overview/tradenet-solution-providers/
 third_nav_title: Overview
+variant: markdown
 ---
 # TradeNet Front-end Solution Providers
 
@@ -29,11 +30,11 @@ Fax: (65) 6299 5506
 Email: [helpdesk@clord.com](mailto:helpdesk@clord.com)
 
 
-**GeTS Asia Pte Ltd**
+**CrimsonLogic eTrade Asia Pte Ltd**
 
 Tel: (65) 6887 7333  
 Fax: (65) 6887 7429  
-Email:  [sales@globaletrade.services](mailto:sales@globaletrade.services)
+Email:  [insidesales@crimsonlogic.com](mailto:insidesales@crimsonlogic.com)
 
 
 **Innosys Pte Ltd**

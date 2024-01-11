@@ -33,7 +33,7 @@ Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and pub
 **Technical issues or enquiries on NTP**<br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552000).
 
 Our operating hours: <br>8am to 6pm (Monday to Friday)<br>8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.<br>
-<br>**Technical issues or enquiries on TradeNet**<br>[+65 6887 7888](tel:+6568877888)
+<br>**Technical issues on TradeNet**<br>[+65 6887 7888](tel:+6568877888) <br><br>Our operating hours: <br>24 hours
 
 ---
 
