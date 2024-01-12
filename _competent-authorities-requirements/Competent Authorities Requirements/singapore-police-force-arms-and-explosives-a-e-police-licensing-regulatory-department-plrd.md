@@ -3,6 +3,7 @@ title: Singapore Police Force - Arms and Explosives (A&E) - Police Licensing &
   Regulatory Department (PLRD)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-arms-and-explosives/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
 # Singapore Police Force - Arms and Explosives (A&E) - Police Licensing & Regulatory Department (PLRD)
 
@@ -108,7 +109,7 @@ Kindly note that AED PLRD no longer accepts submissions of supporting documents 
 
 The Product Code for HS codes controlled by AED (PLRD) have to be declared with the Product Code Quantity and Unit. Please note that the Product Code Quantity and Unit for AED (PLRD)’s product codes will be in accordance to the declared HS Unit of Quantity.
 
-The list of AED PLRD regulated Harmonised System Codes and Product Codes can be found  [here](/files/about-us/appendix-d-items-under-import-export-transhipment-control.pdf).
+The list of AED PLRD regulated Harmonised System Codes and Product Codes can be found  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
 
 When you are importing, exporting or transhipping non-controlled goods which are classified under AED PLRD’s controlled HS codes, you shall declare the product code as “MISC” for these HS codes.
 
