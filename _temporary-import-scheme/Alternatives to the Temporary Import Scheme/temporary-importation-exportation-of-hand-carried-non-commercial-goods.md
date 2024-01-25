@@ -18,7 +18,7 @@ Travellers who wish to hand-carry items belonging to an organisation for activit
     -   Hotel reservation confirmation
     -   Any other documents as specified by Singapore Customs
     
-    You may email the documents to [Customs Documentation Enquiry Form   ]( https://form.gov.sg/6530a1bd9137a80012ee39eb) for assessment.
+    You may email the documents to [Customs Documentation Enquiry Form   ]( https://go.gov.sg/customs-doc) for assessment.
     
 3.  Upon receiving approval from Singapore Customs, please produce Singapore Customs' approved declaration and supporting documents with the hand-carried items to checkpoint officers for clearance on your arrival into Singapore or departure from Singapore.
 
