@@ -23,7 +23,7 @@ variant: markdown
 -   Bill of Lading/Airway Bill
 -   Any other documents as specified by Singapore Customs
 
-These documents can be submitted by email at [Customs Documentation Enquiry Form](https://form.gov.sg/6530a1bd9137a80012ee39eb).
+These documents can be submitted by email at [Customs Documentation Enquiry Form](https://go.gov.sg/customs-doc).
 
 3.  Upon approval by Customs, apply for the [Customs In-Non Payment (Temporary Consignment) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) via TradeNet.
 4.  Produce the permit and supporting documents for endorsement by checkpoints officers during import cargo clearance.
