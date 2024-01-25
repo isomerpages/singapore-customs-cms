@@ -52,6 +52,7 @@ accordion:
       re-importation or importation into Customs territory. <br><br> 2) The
       importer or his agent is required to obtain an In-Payment (GST) permit for
       non-dutiable goods via TradeNet before the re-importation or importation.
+variant: markdown
 ---
 # Re-importing Shut-out Goods
 
@@ -73,7 +74,7 @@ The importer or the appointed freight handling agent should follow the steps in 
 
 **Duty Exemption and GST Relief for Re-Importing Dutiable Shut-Out Goods Previously Released From a Licensed Warehouse, Into a licensed Warehouse**
 
-1) Submit the following supporting documents to the Permits Unit of the Procedures & Systems Branch of Singapore Customs via [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg):
+1) Submit the following supporting documents via [the Customs Documentation Enquiry Form](https://go.gov.sg/customs-doc):
 
 -   A cover letter from the exporter or his agent stating reasons for the re-importation; and
 -   A copy of the previous Customs OUT (Approved Premises/Schemes) permit before the intended exportation.
@@ -102,7 +103,7 @@ Please refer to  [Circular No. 02/2015](/news-and-media/circulars/2015-01-19-Cir
 
 1) Dutiable shut-out goods will not have duty exemption and GST relief upon re-importation or importation into customs territory.
 
-2) The importer or his agent is required to obtain an In-Payment (Duty & GST) permit for dutiable goods via TradeNet before the re-importation or importation.
+2) The importer or his agent is required to obtain an In-Payment (Duty &amp; GST) permit for dutiable goods via TradeNet before the re-importation or importation.
 
 ## B) Non-Dutiable Shut-out Goods
 
@@ -119,7 +120,7 @@ The importer or the appointed freight handling agent should follow the steps in 
 <br>- Delivery note;
 <br>- Commercial invoice; and
 <br>- Other relevant supporting documents.</p>
-  <li>
+  </div></li><li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">GST Relief for Re-Importing Non-Dutiable Shut-out Goods after 24 hours of entering FTZ or Authorised Pier/Place into Customs Territory (not previously Released from a Zero GST Warehouse, not under the Temporary Import Scheme and not under Transhipment with Inter-Gateway Movement)</label>
 		<div>
@@ -127,16 +128,16 @@ The importer or the appointed freight handling agent should follow the steps in 
 			<br>2) When obtaining the permit, please take note of the following -
 			<p>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
 <br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.
-			<p>3) Produce the permit and supporting documents (for example, commercial invoice, packing list and Bill of Lading) to the checkpoint officers for verification during cargo clearance.</p>
-        <li>
+			</p><p>3) Produce the permit and supporting documents (for example, commercial invoice, packing list and Bill of Lading) to the checkpoint officers for verification during cargo clearance.</p>
+        </div></li><li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">GST Relief for Re-Importing Non-Dutiable Shut-out Goods Previously Released from a Zero GST Warehouse, into a Zero GST Warehouse</label>
     <div>
       <br>1) <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/">Obtain</a>  a Customs In-Non-Payment (Shut-out) permit via TradeNet before the re-importation of non-dutiable goods into a Zero GST warehouse.
 	<p>2) When obtaining the permit, please take note of the following -
-		<p>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
+		</p><p>- The previous customs permit number must be declared in the “Previous Permit No.” field; and
 			<br>- Indicate “the goods are shut-out cargoes” in the “Traders’ Remarks” field.</p>
-  <li>
+  </div></li><li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">GST Relief for Re-Importing Non-Dutiable Shut-out Goods Previously Under Transhipment with Inter-Gateway Movement ( i.e. Transhipment from first Checkpoint to second CheckPoint, and Shut-out from Second CheckPoint) Into a Zero GST Warehouse</label>
     <div>
@@ -153,4 +154,4 @@ The importer or the appointed freight handling agent should follow the steps in 
 <br>1) Non-dutiable shut-out goods will not have GST relief upon re-importation or importation into Customs territory.
 	<p>2) The importer or his agent is required to obtain an In-Payment (GST) permit for non-dutiable goods via TradeNet before the re-importation or importation.</p>
     </div>
-  </li>
+  </li></ul>
