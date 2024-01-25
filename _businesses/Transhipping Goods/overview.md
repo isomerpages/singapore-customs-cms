@@ -2,6 +2,7 @@
 title: Overview
 permalink: /businesses/transhipping-goods/quick-guide-on-transhipping-goods/
 third_nav_title: Transhipping Goods
+variant: markdown
 ---
 # Quick Guide on Transhipping Goods
 
@@ -46,7 +47,7 @@ An entity that intends to engage in transhipment activities in Singapore; and ap
 -   [Activate its Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}
 -   Register with Customs as a  [Declaring Agent](/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant)
 -   Register with Customs as a Transhipment Agent (Note: To be a Transhipment Agent, your registered business with ACRA is required to be a shipping agent, air cargo agent or freight forwarder)
--   Email your registration request to customs_documentation@customs.gov.sg and provide your entity's name and UEN to register your entity as a Transhipment Agent
+-   Submit your registration request via  [the Customs Documentation Enquiry Form](https://go.gov.sg/customs-doc) and provide your entity's name and UEN to register your entity as a Transhipment Agent
 
 Singapore Customs will provide an email reply to inform you of the outcome of the request. Once the registration has been approved, your entity will be able to submit transhipment permit applications.
 

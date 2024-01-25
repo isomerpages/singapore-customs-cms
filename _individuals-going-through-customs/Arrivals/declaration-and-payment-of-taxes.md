@@ -2,6 +2,7 @@
 title: Declaration and Payment of Taxes
 permalink: /individuals/going-through-customs/arrivals/declaration-and-payment-of-taxes/
 third_nav_title: Arrivals
+variant: markdown
 ---
 # Declaration and Payment of Taxes
 
@@ -79,7 +80,7 @@ You need to present a valid  **Customs import permit**  for clearance if you are
 -   The Declaring Agent may declare using the Miscellaneous Unique Entity Number (UEN), 99999990000C, in the permit application for individuals importing goods (including goods subject to control of Competent Authorities) for non-commercial purposes only. For more information on the correct usage of the generic UEN in permit applications, please refer to [Customs Circular No. 11/2014](/news-and-media/circulars/2014-07-17-Circular112014.pdf).
 
 
-More information on permit requirements is available  [here](/businesses/importing-goods/import-procedures/types-of-import-permits). Alternatively, you may contact us on (+65) 63552000 or email us at  [customs_documentation@customs.gov.sg](mailto:Customs_Documentation@Customs.gov.sg).
+More information on permit requirements is available at [Types of Import Permits](/businesses/importing-goods/import-procedures/types-of-import-permits). Alternatively, you may contact us at (+65) 63552000 or submit your enquiry via [the Customs Documentation Enquiry Form](https://go.gov.sg/customs-doc)
 
 ***
 

@@ -129,8 +129,8 @@ If the permit was utilised for cargo clearance, the approved MES trader should i
 				</li></ul>
 	<ul>
 				<li><b>Wrong importer name and UEN declared</b><br>
-The declaring Agent (DA) needs to obtain a replacement In-Non-Payment "Approved Premises/Schemes" (INP-APS) permit with the correct MES trader declared as the importer. Thereafter, the DA should email a copy of the original permit and replacement permit together with the relevant supporting documents (e.g. commercial invoices and appropriate shipping documents) to Permits Unit, attention: Permits Officer, at <a href="mailto:customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a>
-					with the email subject title "Request to invalidate unused replacement permit for a permit with incorrect MES trader declared as the importer" to request for invalidation of the unused replacement permit. Only the importer’s name and UEN should be amended; all other permit fields should remain unchanged.
+The declaring Agent (DA) needs to obtain a replacement In-Non-Payment "Approved Premises/Schemes" (INP-APS) permit with the correct MES trader declared as the importer. Thereafter, the DA should submit a copy of the original permit and replacement permit together with the relevant supporting documents (e.g. commercial invoices and appropriate shipping documents) via <a href="https://go.gov.sg/customs-doc">the Customs Documentation Enquiry Form</a>
+					to request for invalidation of the unused replacement permit. Only the importer’s name and UEN should be amended; all other permit fields should remain unchanged.
 </li>
 				</ul>
     </div>
