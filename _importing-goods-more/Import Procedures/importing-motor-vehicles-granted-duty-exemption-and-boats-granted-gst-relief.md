@@ -22,7 +22,7 @@ accordion:
       is not entitled to purchase a new duty-free vehicle until after 6 years;
       and <br> - Must not be disposed to a person not entitled to duty
       exemption, otherwise excise duty will be applicable. <br><br> **Off-Road
-      Racing Cars and Motorcycles** <Br> - Must not be registered for use on
+      Racing Cars and Motorcycles** <br> - Must not be registered for use on
       public roads; <br>  Must be registered as off-road racing cars or
       motorcycles by the LTA; and <br> - Must not be disposed for use other than
       racing without approval from Singapore Customs. <br><br> While excise duty
@@ -61,6 +61,7 @@ accordion:
       GST relief and can be imported without a permit. <br><br> The pleasure
       boat must depart Singapore once the purpose has been accomplished. GST is
       payable if the boat is subsequently sold, disposed or transferred locally.
+variant: markdown
 ---
 # Importing Motor Vehicles Granted Duty Exemption and Boats Granted GST Relief
 
@@ -97,7 +98,7 @@ However, there are selected types of motor vehicles that are granted duty exempt
 	<input type="checkbox" id="accordion2">
     <label for="accordion2">Application for Duty Exemption on Selected Motor Vehicles</label>
     <div>
-			<br>1) Prior to the importation of the motor vehicle from overseas or removal from <a href="https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme">licensed warehouse</a>, you or your appointed freight handling agent must submit the following supporting documents to <a href="mailto:customs_documentation@customs.gov.sg">customs_documentation@customs.gov.sg</a> for Singapore Customs’ assessment of your eligibility for duty exemption
+			<br>1) Prior to the importation of the motor vehicle from overseas or removal from <a href="https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme">licensed warehouse</a>, you or your appointed freight handling agent must submit the following supporting documents via the <a href="https://go.gov.sg/customs-doc">the Customs Documentation Enquiry Form</a> for Singapore Customs’ assessment of your eligibility for duty exemption
 			<br><br>- Cover letter stating purpose of request
 			<br>- Land Transport Authority (LTA)’s approval letter (if applicable)
 <br>- Commercial invoice
