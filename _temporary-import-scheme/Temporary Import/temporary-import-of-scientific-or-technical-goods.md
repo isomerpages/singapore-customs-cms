@@ -1,9 +1,9 @@
 ---
 title: Temporary Import of Scientific or Technical Goods
 permalink: /businesses/importing-goods/temporary-import-scheme/temporary-import-of-scientific-technical-goods/
-third_nav_title: Temporary Import 
+third_nav_title: Temporary Import
+variant: markdown
 ---
-
 # Permit Application Procedures for Temporary Import of Scientific or Technical Goods
 
 1.  Seek approval from the relevant Competent Authority (CA) if you are importing scientific or technical goods that are controlled.
@@ -23,7 +23,7 @@ third_nav_title: Temporary Import
 -   Bill of Lading/Airway Bill
 -   Any other documents as specified by Singapore Customs
 
-These documents can be submitted by email at [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg).
+These documents can be submitted by email at [Customs Documentation Enquiry Form](https://form.gov.sg/6530a1bd9137a80012ee39eb).
 
 3.  Upon approval by Customs, apply for the [Customs In-Non Payment (Temporary Consignment) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) via TradeNet.
 4.  Produce the permit and supporting documents for endorsement by checkpoints officers during import cargo clearance.
