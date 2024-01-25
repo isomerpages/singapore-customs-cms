@@ -2,6 +2,7 @@
 title: Apply For Inter-Bank GIRO (IBG)
 permalink: /businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro/
 third_nav_title: Registration Services
+variant: markdown
 ---
 # Application Procedure
 
@@ -41,6 +42,6 @@ Please ensure that you maintain sufficient funds in your entity's bank account a
 
 ## Terminating your IBG Arrangement with Singapore Customs
 
-Please contact your bank directly to terminate your IBG arrangement. Upon successful termination by your bank, please email your IBG termination to [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg)
+Please contact your bank directly to terminate your IBG arrangement. Upon successful termination by your bank, please submit your IBG termination via [the Customs Documentation Enquiry Form](https://go.gov.sg/customs-doc)
 
 However, if you are a Declaring Agent, it is mandatory for you to maintain a valid IBG with Singapore Customs. If you intend to change your bank account used for IBG deduction, you are required to submit a new IBG application. Your existing IBG with Singapore Customs will be terminated when your new IBG application is approved.
