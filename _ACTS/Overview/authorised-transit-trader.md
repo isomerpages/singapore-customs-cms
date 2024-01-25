@@ -2,8 +2,8 @@
 title: Authorised Transit Trader
 permalink: /businesses/asean-customs-transit-system/overview/att/
 third_nav_title: Overview
+variant: markdown
 ---
-
 # Authorised Transit Trader (ATT)
 
 ## What is it?
@@ -21,7 +21,6 @@ In Singapore’s context, all border clearance procedures will be carried out at
 To qualify for the ATT status, the company must:
 
 - Have a valid Customs Account.
-- Be registered as transit traders by the Customs administration in ACTS. Traders may submit the application forms to [Customs_Documentation@customs.gov.sg](mailto:Customs_Documentation@customs.gov.sg).
 - Applicants need to have frequent transit movements and must lodge full Banker’s Guarantee.
 - Applicants to self-declare and fulfil all the criteria in the ATT application form.
 - Have good compliance records with Singapore Customs.
