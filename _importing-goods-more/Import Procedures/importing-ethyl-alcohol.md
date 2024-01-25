@@ -2,8 +2,8 @@
 title: Importing Ethyl Alcohol
 permalink: /businesses/importing-goods/import-procedures/importing-ethyl-alcohol/
 third_nav_title: Import Procedures
+variant: markdown
 ---
-
 # Importing Ethyl Alcohol
 
 ## Dutiable Ethyl Alcohol
@@ -30,7 +30,7 @@ The import of dutiable ethyl alcohol by the following organisations or persons f
 
 3) Once the claimant registration is approved, obtain a  [Customs In-Payment (GST including duty exemption) permit](/businesses/importing-goods/import-procedures/types-of-import-permits) with the place of receipt code declared as “ETHYL”.
 
-If you decide to increase or decrease the quantity of ethyl alcohol to import, please provide the following information to  [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg):
+If you decide to increase or decrease the quantity of ethyl alcohol to import, please provide the following information via  [the Customs Documentation Enquiry Form](https://go.gov.sg/customs-doc):
 
 -   How the duty-exempted ethyl alcohol would be used.
 -   How the stock of duty-exempted ethyl alcohol will be accounted (In/Out stock batch of ethyl alcohol to be linked to the permit number). Please note records should be maintained for the purpose of inspection.
