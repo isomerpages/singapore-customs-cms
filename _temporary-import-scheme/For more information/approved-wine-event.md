@@ -2,6 +2,7 @@
 title: Approved Wine Event
 permalink: /businesses/importing-goods/temporary-import-scheme-2/approved-wine-event/
 third_nav_title: For more information
+variant: markdown
 ---
 # Approved Wine Event
 
@@ -50,7 +51,7 @@ To apply for duty exemption and GST relief for approved wine, the event organise
 
 1) Obtain an import license from the Singapore Food Agency (SFA) prior to permit declaration for the import of approved wines.
 
-2) Submit the following details to [customs_documentation@customs.gov.sg](mailto:customs_documentation@customs.gov.sg) for our further assessment:
+2) Submit the following details via [the Customs Documentation Enquiry Form](https://go.gov.sg/customs-doc) for our further assessment:
 
 -   Cover letter containing:
     -   Brief description of event
