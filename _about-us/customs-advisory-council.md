@@ -1,6 +1,7 @@
 ---
 title: Customs Advisory Council
 permalink: /about-us/customs-advisory-council/
+variant: markdown
 ---
 # Customs Advisory Council
 
@@ -69,4 +70,9 @@ Mediterranean Shipping Co. (Switzerland) Asia Regional Office Pte Ltd
 **Mr Yam Kum Weng**  
 Executive Vice President, Airport Development  
 Changi Airport Group
+
+
+
+
+
 
