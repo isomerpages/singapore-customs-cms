@@ -163,5 +163,6 @@ variant: markdown
 | No. | E-Services | Links |
 |--|--|--|
 | 1. | Web Manifest Reconciliation Statement System for Sea Shipments | [Web Link](https://eservices.customs.gov.sg/scripts/customs/mrs/)|
+| 2. | Choose your International Connectivity Services &amp; Authorise your Declaring Agent | [Web Link](https://form.gov.sg/65aa0d644c2f3e0012ac93a4)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
