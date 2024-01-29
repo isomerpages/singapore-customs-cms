@@ -1,5 +1,5 @@
 ---
-title: 072023 Introduction of Electronic Sanitary & Phytosanitary Certificate
+title: 07/2023 Introduction of Electronic Sanitary & Phytosanitary Certificate
   (ESPS) Enquiry Service on NTP
 date: 2023-05-12
 layout: file
