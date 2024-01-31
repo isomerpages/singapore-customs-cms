@@ -2,6 +2,7 @@
 title: Electronic Origin Data Exchange System (EODES) with China
 permalink: /businesses/certificates-of-origin/eodes-with-china/
 third_nav_title: Certificates of Origin
+variant: markdown
 ---
 # Electronic Origin Data Exchange System (EODES) with China
 
@@ -15,4 +16,4 @@ Exporters and their appointed declaring agents/freight forwarders should leverag
 
 Importers who wish to claim preferential treatment for import of goods from China to Singapore or to apply for a back-to-back PCO can also retrieve the electronic PCO issued by China via the same e-service on NTP. ["Electronic Preferential Certificate of Origin transmitted to The People's Republic of China" > inbound enquiry > Electronic Preferential Certificate of origin ("ePCO")]
 
-For more information, please refer to the  [updated procedure involving the Electronic Origin Data Exchange System (EODES) ](/files/news-and-media/circular%2019_2023.pdf) between Singapore and China and   [the Transmission and Receipt of Electronic Preferential of Origin via Networked Trade Platform](/files/businesses/ttsb-roo/handbook%20on%20the%20transmission%20and%20receipt%20of%20electronic%20preferential%20of%20origin%20in%20ics.pdf).
+For more information, please refer to the  [updated procedure involving the Electronic Origin Data Exchange System (EODES) ](/files/news-and-media/circular%2019_2023.pdf) between Singapore and China and [ the Transmission and Receipt of Electronic Preferential of Origin via Networked Trade Platform](/files/businesses/ttsb-roo/Handbook_on_the_Transmission_and_Receipt_of_Electronic_Preferential_of_Origin_in_International_Connectivity_Service__ICS___updated_on_29_Jan_2024_.pdf).
