@@ -2,6 +2,7 @@
 title: Import Certificate
 permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification/import-certificate/
 third_nav_title: Import Certificate and Delivery Verification
+variant: markdown
 ---
 # Import Certificate 
 
@@ -36,8 +37,8 @@ Submit the [application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab).
 
 The supporting documents for your IC application include:
 
--   An  [Exporter Declaration Letter](/files/businesses/PSB/Exporter Declaration Letter.docx)  that an IC is required
--   An  [End-User Declaration Letter](/files/businesses/PSB/End-User Declaration Letter.docx) that the goods to be imported are for the end user’s own use, if the end-user is a local party
+-   An  [Exporter Declaration Letter](https://go.gov.sg/exporter-declaration-letter)  that an IC is required
+-   An  [End-User Declaration Letter](https://go.gov.sg/end-user-declaration-letter) that the goods to be imported are for the end user’s own use, if the end-user is a local party
 -   An  [End-User Statement](https://www.customs.gov.sg/eservices/customs-forms-and-service-links), if the end-user is a foreign party
 -   If you are re-exporting the goods from Singapore, an export licence (and its English translation) from the exporting country, or a confirmation from the exporting country that they do not control the re-export of the goods
 -   Technical specifications of the goods to be imported (for example, operating instructions, manuals, brochures, data sheets, catalogues)
