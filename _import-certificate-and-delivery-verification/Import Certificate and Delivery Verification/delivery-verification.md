@@ -2,6 +2,7 @@
 title: Delivery Verification
 permalink: /businesses/strategic-goods-control/import-certificate-and-delivery-verification/delivery-verification/
 third_nav_title: Import Certificate and Delivery Verification
+variant: markdown
 ---
 # Delivery Verification
 
@@ -22,14 +23,11 @@ This refers to verifying the delivery of the goods under the IC when they are im
 
 For verification of partial delivery, please upload:
 
--   Copy of the  [Statement for Partial Delivery Verification](/files/businesses/PSB/Statement for Partial Delivery Verification.docx)
+-  Importer's ICDV
 -   Copy of the import permit(s)
--   Bill of Lading or Air Waybill
--   Copy of the [Importer Declaration Letter](/files/businesses/PSB/Importer Declaration Letter.docx)
--   Export Licence (and its English translation) from the originating country
--   Business transaction documents (for example, invoice, packing list, delivery order)
+-   Copy of the  [Delivery Verification Declaration Letter](https://go.gov.sg/delivery-verification-declaration-letter)
 
-We will endorse the Statement of Delivery Verification and send the copy to you via email. When all the goods under the IC have been imported, you should apply for verification for the complete delivery.
+We will endorse the Delivery Verification Declaration Letter and send the copy to you via email. When all the goods under the IC have been imported, you should apply for verification for the complete delivery.
 
 ## Complete Delivery Verification
 
@@ -39,10 +37,7 @@ For verification of complete delivery, please upload:
 
 -   Importer's ICDV
 -   Copy of the import permit(s)
--   Bill of Lading or Air Waybill
--   Copy of the  [Importer Declaration Letter](/files/businesses/PSB/Importer Declaration Letter.docx)
--   Export Licence (and its English translation) from the originating country
--   Business transaction documents (for example, invoice, packing list, delivery order)
+-   Copy of the  [Delivery Verification Declaration Letter](https://go.gov.sg/delivery-verification-declaration-letter)
 
 We will verify that the goods in its stated quantity have arrived in Singapore based on the documents provided.
 
