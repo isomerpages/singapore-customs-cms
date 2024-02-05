@@ -2,14 +2,13 @@
 title: Health Science Authority (HSA)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/hsa/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
-
-
-# Health Sciences Authority HSA
+# Health Sciences Authority (HSA)
 
 ## Import Declaration of Health Products
 
-For the following health products  that are subject to HSA’s licensing and/or approval requirements before importation, an importer or dealer is required to submit import declarations using applicable HSA Product Codes and furnish the relevant licence and/or approval information:
+For the following health products  that are subject to HSA’s licensing and/or approval requirements before importation, an importer is required to submit import declarations using applicable HSA Product Codes and furnish the relevant licence and/or approval information:
 
 **Table 1. Health Products Subject to HSA Licensing/Approval Requirements** 
 
@@ -40,8 +39,9 @@ b. Health supplements; <br>
 c. Quasi-medicines; <br> _(e.g. anti-dandruff preparations, medicated soaps, medicated plasters, medicated beverages, vitamin or<br>nutritional preparations from any plant, animal or mineral, medicated toothpaste, medicated cosmetic products for treatment of<br>pimples or acne which are exempted from product registration)_  <br>
 d. Traditional medicines such as Jamu and Ayurvedic medicines; <br> _(excluding Chinese Proprietary Medicines)_  <br>
 e. Medicated oil and balm; <br> 
-f. Herbal materials; and <br> 
-g. Homoeopathic medicines <br>
+f. Herbal materials; <br> 
+g. Homeopathic medicines; and<br>
+h. Topical antiseptics.<br>
 
 ## HSA Product Codes
 
@@ -66,12 +66,14 @@ g. Homoeopathic medicines <br>
 |               | Clinical Research Materials                                              |
 |               | They should not contain controlled drugs or psychotropic substances and imported with special authorisation or approval from HSA on a consignment basis.  _(e.g. Imports of medicinal or therapeutic products for clinical research, imports of therapeutic products for use by named patients, imports for re-export, imports for supply to ships and aircraft, imports for non-clinical purposes (such as laboratory/stability testing, machine test runs, investigations, destruction/ disposal, static displays in exhibitions, etc.)_ |
 |---------------|--------------------------------------------------------------------------|
-| HSAPOIS       | Substances specified in the Poisons Act including raw materials, laboratory reagents and reference standards not including controlled drugs or psychotropic substances |
+| HSAPOIS       | Substances specified in the Poisons Act including raw materials, laboratory reagents and reference standards, not including controlled drugs or psychotropic substances |
+|        | Active ingredients specified in the Health Products (Active Ingredients) Regulations 2023, not including controlled drugs or psychotropic substances |
 |---------------|--------------------------------------------------------------------------|
 | HSACDPSY      | Substances regulated as controlled drugs under the Misuse of Drugs Act   |
 |               | Substances regulated as psychotropic substances under the Medicines (Export Licence for Psychotropic Substances) Regulations |
 |               | Therapeutic products and clinical research materials containing psychotropic substances specified in the Health Products (Therapeutic Products) Regulations 2016 |
-|               | All products containing controlled drugs or psychotropic substances      |
+|               | All products containing controlled drugs or psychotropic substances  |
+|         | Active ingredients specified in the Health Products (Active Ingredients) Regulations 2023, of controlled drugs or psychotropic substances                 |
 |---------------|--------------------------------------------------------------------------|
 |  HSAIPU       | Therapeutic products                                                     |
 |               | Medical devices                                                          |
@@ -80,9 +82,9 @@ g. Homoeopathic medicines <br>
 
 
 
-**_License/Approval Information To Be Declared With HSA Product Codes_**
+**_Licence/Approval Information To Be Declared With HSA Product Codes_**
 
-In addition to the HSA Product Codes in Table 2 above, importers and dealers are also required to furnish all relevant HSA licence/approval information in the CA/SC code 1, 2 and 3 fields, where applicable. For information on application of relevant licence / approvals, please visit HSA website at [www.hsa.gov.sg](http:www.hsa.gov.sg). Details of the information to be furnished for therapeutic products, medical devices, cell, tissue and gene therapy products, Chinese Proprietary Medicines and other types of imports are provided in Tables 3 to 7.
+In addition to the HSA Product Codes in Table 2 above, importers are also required to furnish all relevant HSA licence/approval information in the CA/SC code 1, 2 and 3 fields, where applicable. For information on application of relevant licence / approvals, please visit HSA website at [www.hsa.gov.sg](http:www.hsa.gov.sg). Details of the information to be furnished for therapeutic products, medical devices, cell, tissue and gene therapy products, Chinese Proprietary Medicines and other types of imports are provided in Tables 3 to 7.
 
 ## Information to be Declared for Health Products Subjected to Licensing/Approval Requirements
 
@@ -96,7 +98,7 @@ When submitting a declaration, please observe the following requirements:
 
 **Tables 3 to 7**
 
-The Tables 3 to 7 below provide guidance to importers and dealers on licence information and/or other approval information that needs to be declared and the specific CA/SC Code fields that they should use to provide the information.
+The Tables 3 to 7 below provide guidance to importers on licence information and/or other approval information that needs to be declared and the specific CA/SC Code fields that they should use to provide the information.
 
 [**Table 3**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table3_therapeutic-products.pdf)  Therapeutic Products
 
@@ -106,8 +108,7 @@ The Tables 3 to 7 below provide guidance to importers and dealers on licence inf
 
 [**Table 6**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table6_chinese-proprietary-medicines.pdf)  Chinese Proprietary Medicines
 
-[**Table 7**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table7_other-category-products.pdf)  Other Products regulated by HSA including Poisons, Controlled Drugs, Psychotropic Substances and Oral Dental Gums
+[**Table 7**](https://www.hsa.gov.sg/docs/default-source/hprg-ald/table7_other-category-products.pdf)  Other Products regulated by HSA including Active Ingredients, Poisons, Controlled Drugs, Psychotropic Substances and Oral Dental Gums
 
 ***
 ## [Frequently Asked Questions (FAQs)](https://www.hsa.gov.sg/docs/default-source/hprg-ald/frequently_asked_questions.pdf)
-
