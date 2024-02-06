@@ -30,7 +30,7 @@ Fax: (65) 6299 5506
 Email: [helpdesk@clord.com](mailto:helpdesk@clord.com)
 
 
-**CrimsonLogic eTrade Asia Pte Ltd**
+**CrimsonLogic eTrade (Asia) Pte Ltd**
 
 Tel: (65) 6887 7333  
 Fax: (65) 6887 7429  
