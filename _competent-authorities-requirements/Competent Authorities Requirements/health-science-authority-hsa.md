@@ -29,6 +29,8 @@ For the following health products  that are subject to HSA’s licensing and/or 
 | 7. | Oral dental gums | Regulation of Imports and Exports (Chewing Gum) Regulations <br> Health Products (Oral Dental Gums) Regulations 2016 |
 | --- | --- | --- |
 | 8. | Substances specified as “poisons” | Poisons Act and Rules |
+| --- | --- | --- |
+| 9. | Active ingredients | Health Products (Active Ingredients) Regulations 2023 |
 
 ***
 
