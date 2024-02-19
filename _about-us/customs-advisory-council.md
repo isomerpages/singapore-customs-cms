@@ -55,10 +55,6 @@ Expeditors Singapore Pte Ltd
 Chairman &amp; Chief Executive Officer<br>
 Transworld Group Singapore<br>
 
-**Mr Ong Kim Pong**  
-Regional Chief Executive Officer, Southeast Asia  
-PSA International Pte Ltd
-
 **Mr Paul Teo**  
 First Deputy Chairman  
 SAAA@Singapore
@@ -75,6 +71,3 @@ VersaFleet Pte Ltd
 Managing Director (Asia Regional Office)  
 Mediterranean Shipping Co. (Switzerland) Asia Regional Office Pte Ltd
 
-**Mr Yam Kum Weng**  
-Executive Vice President, Airport Development  
-Changi Airport Group
