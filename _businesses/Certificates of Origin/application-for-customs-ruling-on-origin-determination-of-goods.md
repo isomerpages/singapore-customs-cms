@@ -23,10 +23,10 @@ accordion:
       origin determination of ONE product. The contact details are enclosed in
       the application form. <br>
   - title: How much does it cost to apply?
-    content: <br> A fee of S$75 inclusive of Goods & Services Tax will be charged
-      for each application. Payment must be made upon receiving the billing
-      notification from Singapore Customs. The billing indicates the bill
-      reference number and would only be generated after we received the
+    content: <br> A fee of S$75 inclusive of Goods & Services Tax will be
+      charged for each application. Payment must be made upon receiving the
+      billing notification from Singapore Customs. The billing indicates the
+      bill reference number and would only be generated after we received the
       complete submission of your application form and supporting documents.
       <br><br> You may pay via Inter Bank Giro (IBG), NETS or credit card.
       Payment by NETS or credit card can be made at any SingPost branch.  <br>
@@ -48,6 +48,7 @@ accordion:
       the way that provision applies in this ruling, which ever comes earlier.
       The issued Customs ruling may also be withdrawn or rescinded on the
       grounds stated in paragraph 7(9) of the Schedule to the Customs Act.
+variant: markdown
 ---
 **Application for Customs Ruling on Origin Determination of Goods**
 
@@ -71,14 +72,14 @@ Please note that origin rulings are only applicable for use within Singapore. If
 - Manufacturing process
 - Documentation provided by the manufacturer/supplier to establish the originating status of the product.
 
-Each application is for the origin determination of ONE product. The contact details are enclosed in the application form.</P> 
+Each application is for the origin determination of ONE product. The contact details are enclosed in the application form.</p> 
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How Much Does It Cost To Apply?</label>
     <div>
-			<p> A fee of S$75 inclusive of Goods & Services Tax will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting documents.
+			<p> A fee of S$75 will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting documents.
 
 You may pay via Inter Bank Giro (IBG), NETS or credit card. Payment by NETS or credit card can be made at any SingPost branch.</p>
     </div>
@@ -100,6 +101,6 @@ The origin determination process may take up to 30 days, depending on the comple
 
 You may appeal for a review of the Customs Ruling issued. The appeal must be submitted within 10 working days from the date of issuance of the ruling. You have to state the grounds of appeal and submit all supporting documents to substantiate the appeal.
 
-Upon receipt of the appeal, Singapore Customs will conduct a review and inform you of the outcome via email.</P>
+Upon receipt of the appeal, Singapore Customs will conduct a review and inform you of the outcome via email.</p>
     </div>
-	</li>
+	</li></ul>
