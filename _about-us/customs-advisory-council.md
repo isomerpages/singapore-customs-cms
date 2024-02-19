@@ -43,6 +43,10 @@ Ministry of Trade and Industry
 Deputy Secretary (Planning)  
 Ministry of Finance
 
+**Mr Lim Ching Kiat**  
+Executive Vice President, Air Hub and Cargo Development  
+Changi Airport Group
+
 **Ms Lim Khoon Ling**  
 Senior Vice President (South Asia)  
 Expeditors Singapore Pte Ltd
@@ -59,6 +63,10 @@ PSA International Pte Ltd
 First Deputy Chairman  
 SAAA@Singapore
 
+**Ms Seow Hwee**  
+Head of Port+ Business Division, Southeast Asia  
+PSA International Pte Ltd
+
 **Mr Shamir Rahim**  
 Chief Executive Officer  
 VersaFleet Pte Ltd
@@ -70,9 +78,3 @@ Mediterranean Shipping Co. (Switzerland) Asia Regional Office Pte Ltd
 **Mr Yam Kum Weng**  
 Executive Vice President, Airport Development  
 Changi Airport Group
-
-
-
-
-
-
