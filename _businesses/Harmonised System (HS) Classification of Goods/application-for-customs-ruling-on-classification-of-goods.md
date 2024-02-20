@@ -89,7 +89,7 @@ variant: markdown
     <input type="checkbox" id="accordion3">
     <label for="accordion3">How much does it cost to apply?</label>
     <div>
-      <p>A fee of S$75 will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting document.</p>
+      <p>A fee of S$75 inclusive of Goods and Services Tax will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting document.</p>
 <p>You may pay via Inter Bank Giro (IBG), cash, NETS or credit card. Payment by cash, NETS or credit card can be made at any SingPost branch.</p>
 </div>
   </li> 
