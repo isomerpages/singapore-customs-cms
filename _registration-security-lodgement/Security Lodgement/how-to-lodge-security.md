@@ -12,6 +12,9 @@ You are strongly encouraged to apply for the guarantee with any of the participa
 
 When you lodge the guarantee via the eGuarantee@Gov programme, you would not need to collect the hardcopy guarantee from the bank and bring it to Singapore Customs. The financial institution will send it electronically to Singapore Customs, saving you time and courier costs.
 
+With effect from 1 October 2023, Singapore Customs does not accept hardcopy guarantees and securities.&nbsp;eGuarantees will be&nbsp;mandatory&nbsp;for all securities issued to Singapore Customs
+
+
 **1) For new applications**
 
 ***How to apply for eGuarantee*** <br>
@@ -32,21 +35,9 @@ You are required to approach any of the participating financial institutions lis
 |**9**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2022 <br>**Note: There will be a claim period of 90 days after the guarantee expiry date**.
 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
+
+If you had previously applied for a hardcopy guarantee and wish to extend the validity, please apply for a new guarantee under the eGuarantee@Gov programme instead.
  
-<i>**How to apply for hardcopy guarantees** </i><br>
-Download the [Security Application Form](https://go.gov.sg/customs-security-template) and bring it to your bank, finance company or insurance company for lodgement of the Banker’s Guarantee/Finance Company Guarantee/Insurance Bond. 
-
-Please note that the processing by your bank, finance company or insurance company may **take up to three to four weeks**. You are encouraged to submit your new security to Singapore Customs **at least two weeks** before your intended date of shipment to allow sufficient time for processing and amendments in case of discrepancies.
-
-**Submit the original security to:**<br>
-Registration Unit <br>
-Procedures &amp; Systems Branch  
-Singapore Customs  
-55 Newton Road   
-Revenue House  
-Level 1 Singapore Customs Metal Box 6<br>
-Singapore 307987
-
 Upon receipt of the security, Singapore Customs will register the security within three working days. Upon successful registration, we will send a notification by email to the primary contact (or the secondary contact should transmission to your primary contact fails) registered in your [Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct). Please ensure that the particulars of the primary contact and secondary contact registered in your Customs Account are updated for them to receive the notifications.<br>
   <ul class="jekyllcodex_accordion">
   <li>
