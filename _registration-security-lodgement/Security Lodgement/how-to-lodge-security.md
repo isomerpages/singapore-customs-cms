@@ -49,7 +49,6 @@ Upon receipt of the security, Singapore Customs will register the security withi
 			<p> Once the eGuarantee has been received and successfully registered by Singapore Customs, we will send an email notification to the primary and secondary contact registered in your entity’s Customs Account as per the current notification process.</p>
 			<p> NOTE: The procedure above only applies for cases where you are amending the eGuarantee expiry date only. If you are amending the amount to be lodged, you will have to apply for a new guarantee.</p>
 			<p> If you had previously applied for a hardcopy guarantee and wish to extend the validity, you will have to extend it as a hardcopy guarantee. You will NOT be able to extend it via the eGuarantee@Gov programme.</p>
-			<p>You are strongly encouraged to apply for a new guarantee under the eGuarantee@Gov programme instead of extending the validity via hardcopy guarantee.</p>
   </div>
 </li>
 	<li>
