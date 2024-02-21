@@ -35,8 +35,6 @@ You are required to approach any of the participating financial institutions lis
 |**9**|Guarantee Expiry Date |Please indicate the expiry date of the security in the format DD/MM/YYYY E.g. 31/12/2022 <br>**Note: There will be a claim period of 90 days after the guarantee expiry date**.
 
 Once the eGuarantee has been received and successfully registered by Singapore Customs, the primary and secondary contact registered in your entity’s Customs Account will receive an email notifying that the eGuarantee has been successfully registered.
-
-If you had previously applied for a hardcopy guarantee and wish to extend the validity, please apply for a new guarantee under the eGuarantee@Gov programme instead.
  
 Upon receipt of the security, Singapore Customs will register the security within three working days. Upon successful registration, we will send a notification by email to the primary contact (or the secondary contact should transmission to your primary contact fails) registered in your [Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct). Please ensure that the particulars of the primary contact and secondary contact registered in your Customs Account are updated for them to receive the notifications.<br>
   <ul class="jekyllcodex_accordion">
