@@ -17,7 +17,7 @@ Singapore Customs. The financial institution will send it electronically
 to Singapore Customs, saving you time and courier costs.</p>
 <p>With effect from 1 October 2023, Singapore Customs does not accept hardcopy
 guarantees and securities. eGuarantees will be mandatory&nbsp;for all securities
-issued to Singapore Customs. You may refer to <a href="https://www.customs.gov.sg/files/circular 17_2023 (ver 1).pdf" rel="noopener noreferrer nofollow" target="_blank">Circular No: 17/2023</a>
+issued to Singapore Customs. You may refer to <a href="https://www.customs.gov.sg/files/circular 17_2023 (ver 1).pdf" rel="noopener noreferrer nofollow" target="_blank">Circular No: 17/2023.</a>
 </p>
 <p><strong>1) For new applications</strong>
 </p>
