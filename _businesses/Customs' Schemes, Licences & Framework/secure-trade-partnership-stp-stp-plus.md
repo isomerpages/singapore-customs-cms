@@ -2,6 +2,7 @@
 title: Secure Trade Partnership (STP) & STP-Plus
 permalink: /businesses/customs-schemes-licences-framework/secure-trade-partnership-stp/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Secure Trade Partnership (STP) & STP-Plus
 
@@ -57,8 +58,8 @@ Please refer to the  [Factsheet on Mutual Recognition](/files/fact%20sheet%20on%
 
 ## STP and STP-Plus Certified Companies
 
--   [STP Certified Companies](/files/businesses/seb/stp%20certified%20companies%20.pdf)
--   [STP - Plus Certified Companies](/files/businesses/seb/stp-plus%20certified%20companies.pdf)
+-   [STP Certified Companies](/files/businesses/seb/STP_Certified_Companies_9_Feb_2024.pdf)
+-   [STP-Plus Certified Companies](/files/businesses/seb/STP_Plus_Certified_Companies_9_Feb_2024.pdf)
 
 ## How to Qualify?
 
