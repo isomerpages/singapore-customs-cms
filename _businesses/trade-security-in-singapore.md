@@ -31,7 +31,7 @@ Strict controls and limits are imposed on activities permissible within the FTZs
 
 Singapore Customs has revised the FTZ regime and implemented further measures to enhance the governance of FTZs and combat criminal misuse of the FTZs, effective from 1 March 2024.
 
-As part of the revised FTZ regime, Singapore Customs has introduced a new licensing regime to license entities managing the FTZs as "FTZ Operators". Specified FTZ cargo handlers are also given explicit responsibilities and requirements by Customs.
+As part of the revised FTZ regime, Singapore Customs has introduced a new licensing regime to license entities managing the FTZs as "FTZ Operators". Specified FTZ cargo handlers are also given explicit responsibilities and requirements by Singapore Customs.
 
 For example, other than the main role of managing an FTZ, the FTZ Operators are also required to support or assist Singapore Customs officers in performing any duty (within the FTZ) under the FTZ Act or other written law, and to implement systems and procedures to monitor and ensure the security of the FTZ.
 
