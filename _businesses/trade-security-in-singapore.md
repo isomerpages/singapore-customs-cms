@@ -1,6 +1,7 @@
 ---
 title: Trade Security In Singapore
 permalink: /businesses/trade-security-in-singapore/
+variant: markdown
 ---
 # Singapore's Trade Security
 
@@ -25,6 +26,16 @@ Singapore’s Free Trade Zones (FTZs) play a critical role in building Singapore
 A robust regulatory regime of the FTZs has been put in place to govern the security of our FTZs.
 
 Strict controls and limits are imposed on activities permissible within the FTZs. Transactions and activities within the FTZs must comply with all laws and regulations in Singapore, which empower government authorities to impose controls on the FTZs and undertake enforcement action such as routine checks and operations against illicit trading activities. There are no other exemptions or special treatment for FTZs operators.
+
+## Additional Requirements under the Revised FTZ Regime
+
+Singapore Customs has revised the FTZ regime and implemented further measures to enhance the governance of FTZs and combat criminal misuse of the FTZs, effective from 1 March 2024.
+
+As part of the revised FTZ regime, Singapore Customs has introduced a new licensing regime to license entities managing the FTZs as “FTZ Operators” and entities handling cargoes in FTZs, upon the cargoes being brought into Singapore, as “FTZ Cargo Handlers”, with explicit responsibilities and requirements being imposed on them.
+
+For example, other than the main role of managing an FTZ, the FTZ Operators are also required to support or assist Singapore Customs officers in performing any duty (within the FTZ) under the FTZ Act or other written law, and to implement systems and procedures to monitor and ensure the security of the FTZ.
+
+Another additional requirement under the revised FTZ regime is for shipping agents to submit cargo-related data to specified FTZ Cargo Handlers, and for the FTZ Operators and Cargo Handlers to provide Singapore Customs with conveyance-related and/or cargo-related data (via system-to-system transmission). This will improve Singapore Customs’ and other law enforcement agencies’ visibility of cargoes within the FTZs and enhance risk profiling and targeting of high-risk cargoes, including suspected trade-based money laundering cases.
 
 ## Enforcement in FTZs
 
