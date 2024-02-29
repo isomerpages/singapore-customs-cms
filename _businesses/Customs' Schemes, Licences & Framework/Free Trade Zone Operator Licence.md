@@ -47,7 +47,7 @@ or maintenance of the FTZ</p>
 </ul>
 <p><strong>Step 2</strong>: <a href="https://form.gov.sg/65b6f21690d4ae5b33a60840" rel="noopener noreferrer nofollow" target="_blank">Apply Online </a>(Note:
 Singapore Customs will contact you to follow up on your application upon
-receipt of complete set of supporting documents)</p>
+receipt of the complete set of supporting documents)</p>
 <p><strong>Step 3</strong>: On-site assessment will be scheduled and conducted,
 upon receipt of relevant supporting documents.</p>
 <p><strong>Step 4</strong>: Receive your application outcome.</p>
