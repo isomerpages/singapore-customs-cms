@@ -21,29 +21,29 @@ In countering illicit trade, a whole-of-government and layered approach is adopt
 
 ## Free Trade Zones
 
-Singapore’s Free Trade Zones (FTZs) play a critical role in building Singapore’s position as a trading hub. To maintain the competitiveness of our FTZs, we need to ensure that they remain secure.
+Singapore’s Free Trade Zones (FTZ) play a critical role in building Singapore’s position as a trading hub. To maintain the competitiveness of our FTZ, we need to ensure that they remain secure.
 
-A robust regulatory regime of the FTZs has been put in place to govern the security of our FTZs.
+A robust regulatory regime of the FTZ has been put in place to govern the security of our FTZ.
 
-Strict controls and limits are imposed on activities permissible within the FTZs. Transactions and activities within the FTZs must comply with all laws and regulations in Singapore, which empower government authorities to impose controls on the FTZs and undertake enforcement action such as routine checks and operations against illicit trading activities. There are no other exemptions or special treatment for FTZs operators.
+Strict controls and limits are imposed on activities permissible within the FTZ. Transactions and activities within the FTZ must comply with all laws and regulations in Singapore, which empower government authorities to impose controls on the FTZ and undertake enforcement action such as routine checks and operations against illicit trading activities. There are no other exemptions or special treatment for FTZ operators.
 
 ## Additional Requirements under the Revised FTZ Regime
 
-Singapore Customs has revised the FTZ regime and implemented further measures to enhance the governance of FTZs and combat criminal misuse of the FTZs, effective from 1 March 2024.
+Singapore Customs has revised the FTZ regime and implemented further measures to enhance the governance of FTZ and combat criminal misuse of the FTZ, effective from 1 March 2024.
 
-As part of the revised FTZ regime, Singapore Customs has introduced a new licensing regime to license entities managing the FTZs as "FTZ Operators". Specified FTZ cargo handlers are also given explicit responsibilities and requirements by Singapore Customs.
+As part of the revised FTZ regime, Singapore Customs has introduced a new licensing regime to license entities managing the FTZ as "FTZ Operators". Specified FTZ cargo handlers are also given explicit responsibilities and requirements by Singapore Customs.
 
 For example, other than the main role of managing an FTZ, the FTZ Operators are also required to support or assist Singapore Customs officers in performing any duty (within the FTZ) under the FTZ Act or other written law, and to implement systems and procedures to monitor and ensure the security of the FTZ.
 
-Another additional requirement under the revised FTZ regime is for shipping agents to submit cargo-related data to specified FTZ Cargo Handlers, and for the FTZ Operators and Cargo Handlers to provide Singapore Customs with conveyance-related and/or cargo-related data (via system-to-system transmission). This will improve Singapore Customs’ and other law enforcement agencies’ visibility of cargoes within the FTZs and enhance risk profiling and targeting of high-risk cargoes, including suspected trade-based money laundering cases.
+Another additional requirement under the revised FTZ regime is for shipping agents to submit cargo-related data to specified FTZ Cargo Handlers, and for the FTZ Operators and Cargo Handlers to provide Singapore Customs with conveyance-related and/or cargo-related data (via system-to-system transmission). This will improve Singapore Customs’ and other law enforcement agencies’ visibility of cargoes within the FTZ and enhance risk profiling and targeting of high-risk cargoes, including suspected trade-based money laundering cases.
 
-## Enforcement in FTZs
+## Enforcement in FTZ
 
-Singapore Customs partners enforcement agencies such as the Singapore Police Force and the Immigration & Checkpoints Authority (ICA) to ensure the security of the FTZs, and has established operating procedures with other law enforcement agencies to act promptly on actionable intelligence on illicit trade. 
+Singapore Customs partners enforcement agencies such as the Singapore Police Force and the Immigration & Checkpoints Authority (ICA) to ensure the security of the FTZ, and has established operating procedures with other law enforcement agencies to act promptly on actionable intelligence on illicit trade. 
 
-Singapore Customs also cooperates with its international counterparts to help prevent and combat illicit trade in FTZs. We share information (such as passing information to the next port of call) and respond to requests for information. Such assistance is done bilaterally as well as through regional and international fora such as the Regional Intelligence Liaison Office under the World Customs Organisation (WCO).
+Singapore Customs also cooperates with its international counterparts to help prevent and combat illicit trade in FTZ. We share information (such as passing information to the next port of call) and respond to requests for information. Such assistance is done bilaterally as well as through regional and international fora such as the Regional Intelligence Liaison Office under the World Customs Organisation (WCO).
 
-Read about some of the regular enforcement operations conducted in the FTZs featured in Singapore Customs’ corporate magazine, inSYNC, here:
+Read about some of the regular enforcement operations conducted in the FTZ featured in Singapore Customs’ corporate magazine, inSYNC, here:
 
  - [Upholding The Security Of Free Trade Zone (page10)](/news-and-media/publications/2017-10-01-Issue47.pdf)
  - [Singapore Customs Foils Syndicates’ Attempts To Smuggle Duty-Unpaid Cigarettes Out Of Changi Airfreight Centre (page 5 & 6)](/news-and-media/publications/2018-01-01-Issue48.pdf)
