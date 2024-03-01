@@ -15,7 +15,6 @@ Click on the links below to view the Free Trade Zones Act and selected subsidiar
 -   [Free Trade Zones (Declared Areas) Notification](https://sso.agc.gov.sg/SL/FTZA1966-N3){:target="_blank"}
 -   [Free Trade Zones (Manufacture) Regulations](https://sso.agc.gov.sg/SL/FTZA1966-RG2){:target="_blank"}
 -   [Free Trade Zones (Prescribed Goods) Notification](https://sso.agc.gov.sg/SL/FTZA1966-N1){:target="_blank"}
--   Free Trade Zones (Data Sharing) Regulations
--   Free Trade Zones (Composition of Offences) Regulations
+-   [Free Trade Zone (Composition of Offences) Regulations](https://sso.agc.gov.sg/SL/FTZA1966-S149-2024?DocDate=20240228)
 
 *Please note that only key subsidiary legislation have been reproduced on this website.*
