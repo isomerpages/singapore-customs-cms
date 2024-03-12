@@ -19,8 +19,8 @@ A Customs In-Payment (Duty and GST) permit is required to account for its import
 The import of dutiable ethyl alcohol by the following organisations or persons for approved purposes are exempted from excise duty. Please note that GST is still applicable.
 
 -   Educational and research establishments, Singapore government departments, statutory bodies and any company with research and development facilities solely for instructional, official or research and development purposes
--   Registered pharmacists for medical purposes and purposes authorised in  [Part II of the Schedule to the Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5?DocDate=20121228){:target="_blank"}
--   Registered medical practitioners, registered dentists, veterinary surgeons and any person in charge of a hospital or kindred institution for scientific purposes and purposes authorised in  [Part II of the Schedule to the Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-OR5?DocDate=20121228){:target="_blank"}
+-   Registered pharmacists for medical purposes and purposes authorised in  [Part II of the Schedule to the Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL-Supp/S667-2021/Published/20210902?DocDate=20210902&ProvIds=Sc-#Sc-){:target="_blank"}
+-   Registered medical practitioners, registered dentists, veterinary surgeons and any person in charge of a hospital or kindred institution for scientific purposes and purposes authorised in  [Part II of the Schedule to the Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL-Supp/S667-2021/Published/20210902?DocDate=20210902&ProvIds=Sc-#Sc-){:target="_blank"}
 
 ## Application for Duty Exemption of Ethyl Alcohol
 
