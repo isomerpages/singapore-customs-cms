@@ -141,6 +141,3 @@ You may complete your [applications for changes to schemes for existing licensee
 Declaring Agents (DAs) can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DAs.
 
 In order to authorise a DA, the licensed premises operator is required to complete and submit the [Application for the Authorisation of DAs for Licensed Premises](https://form.gov.sg/63c50316d4e11c0012da2b09) form. The application will take 2 working days to process.
-
-
-
