@@ -2,6 +2,7 @@
 title: Excise Factory Scheme
 permalink: /businesses/customs-schemes-licences-framework/excise-factory-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Excise Factory Scheme
 
@@ -39,7 +40,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 | (i) 400,000 litres or more | $23,500 | Enhanced |
 | (ii) less than 400,000 litres | $10,200 | Standard
 | To manufacture cigarettes | $120,000 | Enhanced |
-| To manufacture tobacco other than cigarettes | $1,800 | Enhanced | 
+| To manufacture tobacco other than cigarettes | $2,160 (Starting on or after 1 Jan 2025: $2,510)  | Enhanced | 
 | To bottle, blend, compound or vary intoxicating liquors in accordance with Section 66 of the Customs Act | $7,600 | Standard |
 | To refine and treat petroleum or biodiesel blends | $75,000 | Enhanced |
 | To manufacture compressed natural gas for supply to motor vehicles | $2,600 | Standard |
