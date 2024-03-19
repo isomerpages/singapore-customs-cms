@@ -2,6 +2,7 @@
 title: Authorise a Declaring Agent
 permalink: /businesses/new-traders-and-registration-services/registration-services/authorise-a-declaring-agent/
 third_nav_title: Registration Services
+variant: markdown
 ---
 # Authorise a Declaring Agent (DA)
 
@@ -20,6 +21,7 @@ You need not re-authorise your DA when you change the bank account used for your
 
 **Authorisation of Declaring Agent (DA) for Licensed Premises**
 
-•	DA(s) can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DA(s).
 
-•	To [apply,](https://www.customs.gov.sg/eservices/customs-forms-and-service-links) please download the form: Application for the Authorisation of Declaring Agent(s) for Licensed Premises. The licensee is required to complete the application form and email it to customs_schemes@customs.gov.sg. The processing time is 2 working days.
+Declaring Agents (DAs) can only apply for permits involving movements of goods into, between and out of licensed premises after the licensed premises operator has authorised the DAs.
+
+In order to authorise a DA, the licensed premises operator is required to complete and submit the [Application for the Authorisation of DAs for Licensed Premises](https://form.gov.sg/63c50316d4e11c0012da2b09) form. The application will take 2 working days to process.
