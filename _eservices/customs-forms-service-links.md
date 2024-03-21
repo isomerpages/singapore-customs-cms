@@ -86,7 +86,7 @@ variant: markdown
 
 | No. | E-services | Links |
 |--|--|--|
-| 1. | Application for Certificate of Free Sale (CFS)<br> (Please access this under Government Services andd  search for "Certificate of Free Sale (CFS)") |[Web Link](https://www.ntp.gov.sg/home/)|
+| 1. | Application for Certificate of Free Sale (CFS)<br> (Please access this under Government Services and search for "Certificate of Free Sale (CFS)") |[Web Link](https://www.ntp.gov.sg/home/)|
 | 2. | CFS Application Form | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
 | 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)|
 | 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
