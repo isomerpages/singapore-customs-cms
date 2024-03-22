@@ -17,7 +17,7 @@ for experimentation/demonstration):</p>
 <a href="/businesses/importing-goods/controlled-and-prohibited-goods-for-import" rel="noopener noreferrer nofollow" target="_blank">importing controlled goods</a>.</p>
 </li>
 <li>
-<p>Obtain the <a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits/" rel="noopener noreferrer nofollow" target="_blank">Customs Out (Temporary Consignment - TCI) permit</a> via
+<p>Apply for a <a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits/" rel="noopener noreferrer nofollow" target="_blank">Customs Out (Temporary Consignment - TCI) permit</a> via
 TradeNet.</p>
 </li>
 <li>
