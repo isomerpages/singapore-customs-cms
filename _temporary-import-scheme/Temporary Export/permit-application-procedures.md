@@ -60,10 +60,9 @@ declaration:</p>
 officers during import cargo clearance.</p>
 </li>
 <li>
-<p>For re-exportation of goods imported under TIS, apply for a corresponding
-Customs Out (Temporary Consignment) permit via TradeNet before the actual
-export. The previous In-Non Payment permit number must be declared in the
-“Previous Permit No.” field.</p>
+<p>Before the re-importation of the goods, apply for a corresponding <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/types-of-import-permits/" rel="noopener noreferrer nofollow" target="_blank">Customs In-Non-Payment (TCI) permit</a>*
+through Tradenet. The previous <a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits/" rel="noopener noreferrer nofollow" target="_blank">Out (Temporary Consignment) permit</a> number
+must be declared in the "Previous Permit No." field.</p>
 </li>
 <li>
 <p>Produce the permit and supporting documents for endorsement by checkpoints
