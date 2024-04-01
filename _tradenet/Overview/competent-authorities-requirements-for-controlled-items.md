@@ -2,29 +2,30 @@
 title: Competent Authorities' Requirements for Controlled Items
 permalink: /businesses/national-single-window/overview/competent-authorities-requirements/
 third_nav_title: Overview
+variant: markdown
 ---
 # Competent Authorities' Requirements for Controlled Items
 
 All imports, exports and transhipments must be covered by the relevant permits.
 
-If the goods are subject to control by the relevant Competent Authority (CA), you are required to comply with the respective CA’s requirements in order to prepare a correct and complete permit application.
+If the goods are subject to control by the relevant Competent Authority (CA), you are required to comply with the respective CA’s when preparing and completing a permit application for submission via TradeNet.
 
 Before you put up a permit application for controlled items, please note these 3 steps:
 
-**Step 1**: Identify the item and its corresponding CA.
+**Step 1**: Identify the Harmonised System (HS) code of the item and its corresponding CA(s).
 
-Example:
-
-|  CA Control | HS Code  |  Description of goods |
-|---|---|---|
-| IMDA  |  84713020 |  Computer Notebook|
-| IMDA  | 84433131  |  Colour 3 in 1 Printer Copier Fax Machine |
-| -  | 42021110  | Notebook carrying case, leather with maximum dimensions of 56cm x 45cm x 25cm  |
-
-
-You may refer to the link below for the Harmonized System (HS) codes of controlled items under the various CAs’ control, and the contact information of the CAs:
+You may refer to the link below for the HS Codes of controlled items under the various CAs’ control, and the contact information of the CA(s):
 
 -   [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}
+
+Examples:
+
+|   | HS Code  |  Description of goods |
+|---|---|---|
+| Example 1: SFA (Processed Food) controls the import of the item  |  19059030 |  Cakes|
+| Example 2: NParks (CITES) controls the import, export and transhipment of the item  | 12111090  |  Ginseng roots chilled or frozen |
+| Example 3: SFA (Processed Food) and Health Sciences Authority (Health Products Regulation Group) controls the import of the item  | 21069072 | Other food supplements excluding those based on ginseng  |
+| Example 4: Non-controlled item | 42021110 | Suitcase or briefcase with outer surface of leather or of composition leader with maximum dimensions of 56cm x 45cm x 25cm  |
     
 
     
