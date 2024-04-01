@@ -67,7 +67,7 @@ the various CAs’ control, and the contact information of the CA(s):</p>
 of the item</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12111090</p>
+<p>12112090</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ginseng roots chilled or frozen</p>
