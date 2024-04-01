@@ -112,7 +112,7 @@ Products Regulation Group) controls the import of the item</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Suitcase or briefcase with outer surface of leather or of composition
-leader with maximum dimensions of 56cm x 45cm x 25cm</p>
+leather with maximum dimensions of 56cm x 45cm x 25cm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
