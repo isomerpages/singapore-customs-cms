@@ -2,108 +2,304 @@
 title: Competent Authorities' Requirements for Controlled Items
 permalink: /businesses/national-single-window/overview/competent-authorities-requirements/
 third_nav_title: Overview
+variant: tiptap
 ---
-# Competent Authorities' Requirements for Controlled Items
-
-All imports, exports and transhipments must be covered by the relevant permits.
-
-If the goods are subject to control by the relevant Competent Authority (CA), you are required to comply with the respective CA’s requirements in order to prepare a correct and complete permit application.
-
-Before you put up a permit application for controlled items, please note these 3 steps:
-
-**Step 1**: Identify the item and its corresponding CA.
-
-Example:
-
-|  CA Control | HS Code  |  Description of goods |
-|---|---|---|
-| IMDA  |  84713020 |  Computer Notebook|
-| IMDA  | 84433131  |  Colour 3 in 1 Printer Copier Fax Machine |
-| -  | 42021110  | Notebook carrying case, leather with maximum dimensions of 56cm x 45cm x 25cm  |
-
-
-You may refer to the link below for the Harmonized System (HS) codes of controlled items under the various CAs’ control, and the contact information of the CAs:
-
--   [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}
-    
-
-    
-
-**Step 2**: Determine the category the controlled item fall under, whether it is:
-
--   Controlled & non-dutiable
-    
--   Controlled & dutiable
-    
-    
-
-**Step 3**: Comply with the specific [CA's requirements](/files/businesses/psb/tn team/annex-d-competent-authorities-requirements.pdf) to avoid delays in processing, and obtain approval from the CA.
-Please remember to upload the relevant supporting documents required by the CAs in your TradeNet permit application. For example, CAs such as Controller of Undesirable Publications would require applications to be attached with the supporting documents before they process the permit applications.
-
-### Competent Authorities' Specific Requirements
-
-**1)  [Building and Construction Authority (BCA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/bca)**
-
-**2)  [Central Narcotics Bureau (CNB)](/businesses/national-single-window/tradenet/competent-authorities-requirements/cnb)**
-
-**3) [Enterprise Singapore (ESG)](/businesses/national-single-window/tradenet/competent-authorities-requirements/esg-rubber)**
-
-**4)  [Health Sciences Authority (HSA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/hsa)**
-
-**5) Info-communications Media Development Authority (IMDA)**
-
--   [Controller of Undesirable Publications (CUP)](/businesses/national-single-window/tradenet/competent-authorities-requirements/imda-cup)
--   [Radiocomm & Dealer Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/imda-radiocomm-and-dealer-licensing)
-
-**6) [Land Transport Authority (LTA)](/businesses/national-single-window/tradenet/competent-authorities-requirements/lta/)**
-
-**7) Ministry of Health (MOH)**
-
--   [Biosafety Branch](/businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health)
-
-**8) Ministry of Home Affairs (MHA)**
-
--   [Ministry of Home Affairs - Gambling Regulatory Authority](/businesses/national-single-window/tradenet/competent-authorities-requirements/mha-gambling-regulatory-authority)
-
-**9) National Environment Agency (NEA)**
-
--   Chemical Control and Management Department (CCMD)
-    
-    -   [Basel Convention](/businesses/national-single-window/tradenet/competent-authorities-requirements/basel-convention)
-    -   [Hazardous Substances](/businesses/national-single-window/tradenet/competent-authorities-requirements/hazardous-substances)
-    -   [Ozone Depleting Substances](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-ozone-depleting-substances)
-    -   [Rotterdam Convention on the Prior Informed Consent (PIC) Procedure](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-rotterdam-convention-pic-procedure)
--   [Radiation Protection and Nuclear Science Division (RPNSD)](/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency/radiation-protection-and-nuclear-science-division-rpnsd)
-
-**10) National Parks Board (NParks)**
-
--   [NParks (CITES)](/businesses/national-single-window/tradenet/competent-authorities-requirements/nparks-cites)
--   [NParks (Plant Health)](/businesses/national-single-window/tradenet/competent-authorities-requirements/nparks-planthealth)
--   [NParks/Animal & Veterinary Service (Animal)](/businesses/national-single-window/tradenet/competent-authorities-requirements/avs-animals)
--   [NParks/Animal & Veterinary Service (Ornamental Fish)](/businesses/national-single-window/tradenet/competent-authorities-requirements/avs-fish)
-
-**11)  [Singapore Civil Defence Force (SCDF)](/businesses/national-single-window/tradenet/competent-authorities-requirements/scdf)**
-
-**12) Singapore Customs (Customs)**
-
--   [Chewing Gum (HS Code 17041000)](/businesses/national-single-window/tradenet/competent-authorities-requirements/chewing-gum)
--   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](/businesses/national-single-window/tradenet/competent-authorities-requirements/icdv)
--   [Import of Mastering Equipment and Replication Equipment](/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment)
--   [Kimberley Process Certification Scheme](/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---kimberley-process-certification-scheme)
--   [National Authority (Chemical Weapons Convention)](/businesses/chemical-weapons-convention/controlled-chemicals)
--   [Strategic Goods Control](/businesses/strategic-goods-control/overview)
--   [United Nations Security Council (UNSC) Sanctions](/businesses/united-nations-security-council-sanctions/)
-
-**13) Singapore Food Agency (SFA)**
-
--   [SFA (Fresh Fruits & Vegetables)](/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-fruits-and-vegetables)
--   [SFA (Livestock & Animal Products)](/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-livestocks)
--   [SFA (Meat)](/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-meat)
--   [SFA (Processed Food)](/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-processed-food)
--   [SFA (Rice)](/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Rice)
--   [SFA (Seafood)](/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-seafood)
-
-**14) Singapore Police Force (SPF)**
-
--   [Arms and Explosives](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-arms-and-explosives)
--   [Public Entertainment & Liquor Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-public-entertainment-liquor-licensing)
+<h1>Competent Authorities' Requirements for Controlled Items</h1>
+<p>All imports, exports and transhipments must be covered by the relevant
+permits.</p>
+<p>If the goods are subject to control by the relevant Competent Authority
+(CA), you are required to comply with the respective CA’s requirement when
+preparing and completing a permit application for submission via TradeNet.</p>
+<p>Before you put up a permit application for controlled items, please note
+these 3 steps:</p>
+<p><strong>Step 1</strong>: Identify the Harmonised System (HS) code of the
+item and its corresponding CA(s).</p>
+<p>You may refer to the link below for the HS codes of controlled items under
+the various CAs’ control, and the contact information of the CA(s):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a>{:target="_blank"}</p>
+</li>
+</ul>
+<p>Examples:</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HS Code</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HS Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Import</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Export</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Transhipment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Example 1: SFA (Processed Food) controls the import of the item</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19059030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cakes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PFO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Example 2: NParks (CITES) controls the import, export and transhipment
+of the item</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12111090</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ginseng roots chilled or frozen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CIT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Example 3: SFA (Processed Food) and Health Sciences Authority (Health
+Products Regulation Group) controls the import of the item</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21069072</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Other food supplements excluding those based on ginseng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PFO, HPR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Example 4: Non-controlled item</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42021110</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Suitcase or briefcase with outer surface of leather or of composition
+leader with maximum dimensions of 56cm x 45cm x 25cm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Step 2</strong>: Determine whether the item is controlled by more
+than one CA (refer to the lists of “All HS/CA Product Code” and “All Product
+Code Pair” downloadable from the <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a>{:target="_blank"})
+and the product code(s) to be declared. Please note that for paired product
+codes, both CAs’ product codes must be declared in the permit application.</p>
+<p><strong>Step 3</strong>: Comply with the specific [CA's requirements](/files/businesses/psb/tn
+team/annex-d-competent-authorities-requirements.pdf) to avoid delays in
+processing, and obtain approval from the CA. Please remember to upload
+the relevant supporting documents required by the CAs in your TradeNet
+permit application.</p>
+<h3>Competent Authorities' Specific Requirements</h3>
+<p><strong>1) <a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/bca" rel="noopener noreferrer nofollow" target="_blank">Building and Construction Authority (BCA)</a></strong>
+</p>
+<p><strong>2) <a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/cnb" rel="noopener noreferrer nofollow" target="_blank">Central Narcotics Bureau (CNB)</a></strong>
+</p>
+<p><strong>3) <a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/esg-rubber" rel="noopener noreferrer nofollow" target="_blank">Enterprise Singapore (ESG)</a></strong>
+</p>
+<p><strong>4) <a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/hsa" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority (HSA)</a></strong>
+</p>
+<p><strong>5) Info-communications Media Development Authority (IMDA)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/imda-cup" rel="noopener noreferrer nofollow" target="_blank">Controller of Undesirable Publications (CUP)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/imda-radiocomm-and-dealer-licensing" rel="noopener noreferrer nofollow" target="_blank">Radiocomm &amp; Dealer Licensing</a>
+</p>
+</li>
+</ul>
+<p><strong>6) <a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/lta/" rel="noopener noreferrer nofollow" target="_blank">Land Transport Authority (LTA)</a></strong>
+</p>
+<p><strong>7) Ministry of Health (MOH)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health" rel="noopener noreferrer nofollow" target="_blank">Biosafety Branch</a>
+</p>
+</li>
+</ul>
+<p><strong>8) Ministry of Home Affairs (MHA)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/mha-gambling-regulatory-authority" rel="noopener noreferrer nofollow" target="_blank">Ministry of Home Affairs - Gambling Regulatory Authority</a>
+</p>
+</li>
+</ul>
+<p><strong>9) National Environment Agency (NEA)</strong>
+</p>
+<ul>
+<li>
+<p>Chemical Control and Management Department (CCMD)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/basel-convention" rel="noopener noreferrer nofollow" target="_blank">Basel Convention</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/hazardous-substances" rel="noopener noreferrer nofollow" target="_blank">Hazardous Substances</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-ozone-depleting-substances" rel="noopener noreferrer nofollow" target="_blank">Ozone Depleting Substances</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-rotterdam-convention-pic-procedure" rel="noopener noreferrer nofollow" target="_blank">Rotterdam Convention on the Prior Informed Consent (PIC) Procedure</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency/radiation-protection-and-nuclear-science-division-rpnsd" rel="noopener noreferrer nofollow" target="_blank">Radiation Protection and Nuclear Science Division (RPNSD)</a>
+</p>
+</li>
+</ul>
+<p><strong>10) National Parks Board (NParks)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/nparks-cites" rel="noopener noreferrer nofollow" target="_blank">NParks (CITES)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/nparks-planthealth" rel="noopener noreferrer nofollow" target="_blank">NParks (Plant Health)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/avs-animals" rel="noopener noreferrer nofollow" target="_blank">NParks/Animal &amp; Veterinary Service (Animal)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/avs-fish" rel="noopener noreferrer nofollow" target="_blank">NParks/Animal &amp; Veterinary Service (Ornamental Fish)</a>
+</p>
+</li>
+</ul>
+<p><strong>11) <a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/scdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Civil Defence Force (SCDF)</a></strong>
+</p>
+<p><strong>12) Singapore Customs (Customs)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/chewing-gum" rel="noopener noreferrer nofollow" target="_blank">Chewing Gum (HS Code 17041000)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/icdv" rel="noopener noreferrer nofollow" target="_blank">Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment" rel="noopener noreferrer nofollow" target="_blank">Import of Mastering Equipment and Replication Equipment</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---kimberley-process-certification-scheme" rel="noopener noreferrer nofollow" target="_blank">Kimberley Process Certification Scheme</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/chemical-weapons-convention/controlled-chemicals" rel="noopener noreferrer nofollow" target="_blank">National Authority (Chemical Weapons Convention)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/strategic-goods-control/overview" rel="noopener noreferrer nofollow" target="_blank">Strategic Goods Control</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/united-nations-security-council-sanctions/" rel="noopener noreferrer nofollow" target="_blank">United Nations Security Council (UNSC) Sanctions</a>
+</p>
+</li>
+</ul>
+<p><strong>13) Singapore Food Agency (SFA)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-fruits-and-vegetables" rel="noopener noreferrer nofollow" target="_blank">SFA (Fresh Fruits &amp; Vegetables)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-livestocks" rel="noopener noreferrer nofollow" target="_blank">SFA (Livestock &amp; Animal Products)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-meat" rel="noopener noreferrer nofollow" target="_blank">SFA (Meat)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-processed-food" rel="noopener noreferrer nofollow" target="_blank">SFA (Processed Food)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Rice" rel="noopener noreferrer nofollow" target="_blank">SFA (Rice)</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-seafood" rel="noopener noreferrer nofollow" target="_blank">SFA (Seafood)</a>
+</p>
+</li>
+</ul>
+<p><strong>14) Singapore Police Force (SPF)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-arms-and-explosives" rel="noopener noreferrer nofollow" target="_blank">Arms and Explosives</a>
+</p>
+</li>
+<li>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-public-entertainment-liquor-licensing" rel="noopener noreferrer nofollow" target="_blank">Public Entertainment &amp; Liquor Licensing</a>
+</p>
+</li>
+</ul>
+<p></p>

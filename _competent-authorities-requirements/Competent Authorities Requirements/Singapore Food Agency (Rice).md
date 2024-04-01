@@ -3,6 +3,7 @@ title: Singapore Food Agency (Rice)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-rice/
 third_nav_title: Competent Authorities Requirements
 description: ""
+variant: markdown
 ---
 # Singapore Food Agency (SFA) – Import of Rice
 
@@ -36,4 +37,4 @@ Upon approval, a lifetime licence will be issued to the importer. Generally, it 
 
 You may refer to the [SFA website](https://www.sfa.gov.sg/e-services?type=rice-import&page=1){:target="_blank"} for more information.
 
-[Link to List of Product Codes](/files/about-us//hscodelist.pdf)
+[Link to List of Product Codes in the HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}
