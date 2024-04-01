@@ -16,11 +16,8 @@ these 3 steps:</p>
 item and its corresponding CA(s).</p>
 <p>You may refer to the link below for the HS codes of controlled items under
 the various CAs’ control, and the contact information of the CA(s):</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a>{:target="_blank"}</p>
-</li>
-</ul>
+<p><a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a>
+</p>
 <p>Examples:</p>
 <table>
 <tbody>
@@ -132,8 +129,8 @@ leader with maximum dimensions of 56cm x 45cm x 25cm</p>
 <p></p>
 <p><strong>Step 2</strong>: Determine whether the item is controlled by more
 than one CA (refer to the lists of “All HS/CA Product Code” and “All Product
-Code Pair” downloadable from the <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a>{:target="_blank"})
-and the product code(s) to be declared. Please note that for paired product
+Code Pair” downloadable from the <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a> and
+the product code(s) to be declared. Please note that for paired product
 codes, both CAs’ product codes must be declared in the permit application.</p>
 <p><strong>Step 3</strong>: Comply with the specific [CA's requirements](/files/businesses/psb/tn
 team/annex-d-competent-authorities-requirements.pdf) to avoid delays in
