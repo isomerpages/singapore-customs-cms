@@ -20,14 +20,13 @@ You may refer to the link below for the HS Codes of controlled items under the v
 
 Examples:
 
-|   | HS Code  |  Description of goods |
+|   | HS Code  |  Description of goods 
 |---|---|---|
 | Example 1: SFA (Processed Food) controls the import of the item  |  19059030 |  Cakes|
-| Example 2: NParks (CITES) controls the import, export and transhipment of the item  | 12111090  |  Ginseng roots chilled or frozen |
+| Example 2: NParks (CITES) controls the import, export and transhipment of the item  | 12111090  |  Ginseng roots chilled or frozen ||||
 | Example 3: SFA (Processed Food) and Health Sciences Authority (Health Products Regulation Group) controls the import of the item  | 21069072 | Other food supplements excluding those based on ginseng  |
 | Example 4: Non-controlled item | 42021110 | Suitcase or briefcase with outer surface of leather or of composition leader with maximum dimensions of 56cm x 45cm x 25cm  |
     
-
     
 
 **Step 2**: Determine the category the controlled item fall under, whether it is:
