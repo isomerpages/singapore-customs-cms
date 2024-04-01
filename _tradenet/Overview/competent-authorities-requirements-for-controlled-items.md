@@ -67,7 +67,7 @@ the various CAs’ control, and the contact information of the CA(s):</p>
 of the item</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12111090</p>
+<p>12112090</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ginseng roots chilled or frozen</p>
@@ -112,7 +112,7 @@ Products Regulation Group) controls the import of the item</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Suitcase or briefcase with outer surface of leather or of composition
-leader with maximum dimensions of 56cm x 45cm x 25cm</p>
+leather with maximum dimensions of 56cm x 45cm x 25cm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -129,14 +129,13 @@ leader with maximum dimensions of 56cm x 45cm x 25cm</p>
 <p></p>
 <p><strong>Step 2</strong>: Determine whether the item is controlled by more
 than one CA (refer to the lists of “All HS/CA Product Code” and “All Product
-Code Pair” downloadable from the <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a> and
-the product code(s) to be declared. Please note that for paired product
+Code Pair” downloadable from the <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a>)
+and the product code(s) to be declared. Please note that for paired product
 codes, both CAs’ product codes must be declared in the permit application.</p>
-<p><strong>Step 3</strong>: Comply with the specific [CA's requirements](/files/businesses/psb/tn
-team/annex-d-competent-authorities-requirements.pdf) to avoid delays in
-processing, and obtain approval from the CA. Please remember to upload
-the relevant supporting documents required by the CAs in your TradeNet
-permit application.</p>
+<p><strong>Step 3</strong>: Comply with the specific <a href="https://www.customs.gov.sg/files/businesses/psb/tn%20team/annex-d-competent-authorities-requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">CA's requirements</a> to
+avoid delays in processing, and obtain approval from the CA. Please remember
+to upload the relevant supporting documents required by the CAs in your
+TradeNet permit application.</p>
 <h3>Competent Authorities' Specific Requirements</h3>
 <p><strong>1) <a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/bca" rel="noopener noreferrer nofollow" target="_blank">Building and Construction Authority (BCA)</a></strong>
 </p>
