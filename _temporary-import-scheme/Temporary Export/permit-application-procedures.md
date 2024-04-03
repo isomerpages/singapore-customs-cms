@@ -8,6 +8,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/permit-application-procedures1.jpg">
 </div>
+<p>An importer may be granted Goods and Services Tax relief on the re-importation
+of goods meant for commercial and personal use, which are temporarily exported
+for qualifying purposes (e.g. for repair) subject to certain conditions.</p>
+<p>To qualify, a temporary export permit is required to be obtained prior
+to the temporary export of the goods for the qualifying purpose (e.g. for
+repair).</p>
+<p>Individuals may engage a local freight forwarding agent to declare the
+temporary export and re-import permit on their behalf and will be required
+to submit the relevant support documents during the permit application.</p>
+<p>Please refer to the <a href="https://www.customs.gov.sg/businesses/business-resources/directories-of-service-providers" rel="noopener noreferrer nofollow" target="_blank">list of local freight forwarding agents</a>.</p>
 <p>Traders should follow these procedures to apply for permits for temporary
 imports for all approved purposes (excluding scientific/technical goods
 for experimentation/demonstration):</p>
