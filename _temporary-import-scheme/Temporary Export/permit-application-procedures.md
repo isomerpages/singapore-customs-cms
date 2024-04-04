@@ -19,16 +19,15 @@ temporary export and re-import permit on their behalf and will be required
 to submit the relevant support documents during the permit application.</p>
 <p>Please refer to the <a href="https://www.customs.gov.sg/businesses/business-resources/directories-of-service-providers" rel="noopener noreferrer nofollow" target="_blank">list of local freight forwarding agents</a>.</p>
 <p>Traders should follow these procedures to apply for permits for temporary
-imports for all approved purposes (excluding scientific/technical goods
-for experimentation/demonstration):</p>
+export:</p>
 <ol>
 <li>
-<p>Seek approval from the relevant Competent Authority (CA) if you are
-<a href="/businesses/importing-goods/controlled-and-prohibited-goods-for-import" rel="noopener noreferrer nofollow" target="_blank">importing controlled goods</a>.</p>
+<p>Seek approval from the relevant Competent Authority (CA) if you are temporarily
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/controlled-and-prohibited-goods-for-export" rel="noopener noreferrer nofollow" target="_blank">exporting controlled goods</a>.</p>
 </li>
 <li>
 <p>Apply for a <a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits/" rel="noopener noreferrer nofollow" target="_blank">Customs Out (Temporary Consignment - TCI) permit</a> via
-TradeNet.</p>
+TradeNet before the actual export.</p>
 </li>
 <li>
 <p>Submit the following documents together with your submission of the TradeNet
@@ -41,15 +40,9 @@ declaration:</p>
 <p>Purpose for temporary import</p>
 </li>
 <li>
-<p>Duration of import</p>
-</li>
-<li>
-<p>Venue where the goods will be used</p>
+<p>Duration of temporary export</p>
 </li>
 </ul>
-</li>
-<li>
-<p>CA approval letter (where applicable)</p>
 </li>
 <li>
 <p>Commercial invoice</p>
@@ -81,7 +74,7 @@ with place of receipt indicated as "VEHSG", should be declared instead.</p>
 officers during export cargo clearance.</p>
 </li>
 <li>
-<p>In addition to the above procedures, please also take note of <a href="/businesses/importing-goods/temporary-import-scheme/additional-requirements-import" rel="noopener noreferrer nofollow" target="_blank">additional requirements</a> for
+<p>In addition to the above procedures, please also take note of <a href="https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme/additional-requirements-export/" rel="noopener noreferrer nofollow" target="_blank">additional requirements</a> for
 temporary imports.</p>
 </li>
 </ol>
