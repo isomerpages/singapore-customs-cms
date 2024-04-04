@@ -2,8 +2,8 @@
 title: Joint Industry Outreach Seminar on Strategic Trade Management
 permalink: /business-resources/courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management-sep-2016/
 third_nav_title: Courses and Events
+variant: markdown
 ---
-
 # Application for Customs Strategic Goods Control Seminar
 
 ![top-bannerC&E.png](/images/top-bannerc&e.png)
@@ -51,8 +51,8 @@ Registration for this event is now  **CLOSED**
 -   [Agenda](/files/businesses/TSSB/Joint Industry Outreach Seminar 2016 - Agenda for Joint Industry Outreach Seminar_9 Sep 2016(2).pdf)
 -   [Overview of Export Control Reform](/files/businesses/tssb/joint industry outreach seminar 2016 - overview of export control reform.pdf)
 -   [German Export Controls - Licenses and Conditions therefor](/files/businesses/tssb/joint industry outreach seminar 2016 - german export controls - licenses and conditions thereof.pdf)
--   [Export Control and Sanctions Prosecutions of Corporations](/files/businesses/tssb/joint industry outreach seminar 2016 - export control and sanctions prosecutions of corporations.pdf)
--   [Understanding the Control, Implementing the Solution](/files/businesses/tssb/joint industry outreach seminar 2016 - understanding the control implementing the solution seatronics pte ltd icp.pdf)
+-   [Export Control and Sanctions Prosecutions of Corporations](/files/businesses/tssb/joint%20industry%20outreach%20seminar%202016%20-%20export%20control%20and%20sanctions%20prosecutions%20%20of%20corporations.pdf)
+-   Understanding the Control, Implementing the Solution
 -   [Strategic Goods Control and Self-Compliance](/files/businesses/tssb/joint industry outreach seminar 2016 - strategic goods control and self-compliance.pdf)
 -   [Blue Lantern End-Use Monitoring Program](/files/businesses/tssb/joint industry outreach seminar 2016 - blue lantern end-use monitoring program.pdf)
 

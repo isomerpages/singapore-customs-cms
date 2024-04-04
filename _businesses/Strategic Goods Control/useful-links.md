@@ -2,8 +2,8 @@
 title: Useful Links
 permalink: /businesses/strategic-goods-control/useful-links/
 third_nav_title: Strategic Goods Control
+variant: markdown
 ---
-
 # Useful Links
 
 ## Multilateral Export Control Regimes
@@ -15,14 +15,14 @@ third_nav_title: Strategic Goods Control
 
 ## International Organisations
 
--   [Biological and Toxin Weapons Convention (BTWC)](https://www.un.org/disarmament/wmd/bio/){:target="_blank"}
+-   [Biological Weapons Convention (BWC)](https://disarmament.unoda.org/biological-weapons/){:target="_blank"}
 -   [Chemical Weapons Convention (CWC)](http://www.opcw.org/){:target="_blank"}
 -   [Nuclear Non-Proliferation Treaty (NPT)](https://www.un.org/disarmament/wmd/nuclear/npt/){:target="_blank"}
 -   [UN Register of Conventional Arms](http://www.un.org/disarmament/convarms/Register/){:target="_blank"}
 -   [United Nations Security Council (UNSC) Resolutions](https://www.un.org/securitycouncil/content/resolutions-0){:target="_blank"}
 -   [United Nations Security Council (UNSC) Sanctions Committees](https://www.un.org/securitycouncil/content/repertoire/sanctions-and-other-committees){:target="_blank"}
 -   [United Nations Security Council (UNSC) Consolidated Sanctions List](https://www.un.org/sc/suborg/en/sanctions/un-sc-consolidated-list){:target="_blank"}
--   [World Health Organisation: Laboratory Biosafety Manual](http://www.who.int/csr/resources/publications/biosafety/who_cds_csr_lyo_20034/en/){:target="_blank"}
+-   [World Health Organisation: Laboratory Biosafety Manual](https://www.who.int/publications/i/item/9789240011311){:target="_blank"}
 
 ## Foreign Government Agencies
 
@@ -53,7 +53,7 @@ third_nav_title: Strategic Goods Control
 
 **Hong Kong Special Administrative Region of the People’s Republic of China**
 
--   [Import and Export (Strategic Commodities) Regulations](http://www.legislation.gov.hk/blis_ind.nsf/CurAllEngDoc?OpenView&Start=60&Count=25&Expand=60.8#60.8){:target="_blank"}
+-   [Import and Export (Strategic Commodities) Regulations](https://www.elegislation.gov.hk/hk/cap60G){:target="_blank"}
 -   [Strategic Commodities Control System, Trade and Industry Department](http://www.stc.tid.gov.hk/eindex.html){:target="_blank"}
 -   [The Government of the Hong Kong Special Administration Region of the People' Republic of China](http://www.customs.gov.hk/){:target="_blank"}
 
@@ -74,11 +74,11 @@ third_nav_title: Strategic Goods Control
 
 -   [Dutch Customs on Strategic Goods Control](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/customs/safety_health_economy_and_environment/cdiu_cluster/strategic_goods/strategic_goods){:target="_blank"}
 -   [Netherlands Export Control Policy](https://www.government.nl/topics/export-controls-of-strategic-goods/export-control-policy-for-strategic-goods){:target="_blank"}
--   [Guide on Strategic Goods Control for the Netherlands](https://www.government.nl/documents/reports/2012/07/01/export-control-user-guide-on-strategic-goods-and-services-for-the-netherlands){:target="_blank"}
+-   [Guide on Strategic Goods Control for the Netherlands](https://www.government.nl/documents/directives/2012/04/12/user-guide-on-strategic-goods-and-services){:target="_blank"}
 
 **New Zealand**
 
--   [Ministry of Foreign Affairs and Trade](http://www.mfat.govt.nz/Foreign-Relations/1-Global-Issues/Disarmament/index.php){:target="_blank"}
+-   [Ministry of Foreign Affairs and Trade](https://www.mfat.govt.nz/en/trade/export-controls/){:target="_blank"}
 -   [Trading Weapons and Controlled Chemicals (Export Control)](https://www.mfat.govt.nz/en/trade/trading-weapons-and-controlled-chemicals/){:target="_blank"}
 
 **Taiwan**
@@ -93,7 +93,7 @@ third_nav_title: Strategic Goods Control
 
 **United Arab Emirates (UAE)**
 
--   [Strategic Goods Regulations in the UAE](https://www.adjd.gov.ae/EN/Pages/Legal%20Guidance/IT-importingstrategicgoods.aspx){:target="_blank"}
+-   [Strategic Goods Regulations in the UAE](https://www.uaeiec.gov.ae/en-us/){:target="_blank"}
 
 **United States of America (USA)**
 

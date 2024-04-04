@@ -2,6 +2,7 @@
 title: Courses and Events
 permalink: /businesses/business-resources/courses-and-events/
 third_nav_title: Business Resources
+variant: markdown
 ---
 # Courses for Businesses
 
@@ -30,6 +31,7 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/sc
 
 | Date | Title | Related Link |
 |---|---|---|
+|3 Aug 2023|Joint Industry Outreach Seminar on Strategic Trade Management 2023|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2023)|
 |12 Sep 2022 - 13 Sep 2022|Joint Industry Outreach Seminar on Strategic Trade Management 2022|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2022)|
 |28 Sep 2021 - 29 Sep 2021|Joint Industry Outreach Seminar on Strategic Trade Management 2021|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2021)|
 |29 Sep 2020 - 1 Oct 2020|Joint Industry Outreach Seminar on Strategic Trade Management 2020|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2020)|
