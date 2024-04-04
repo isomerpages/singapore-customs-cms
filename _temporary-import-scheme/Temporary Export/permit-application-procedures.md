@@ -60,7 +60,7 @@ declaration:</p>
 </li>
 <li>
 <p>Produce the permit and supporting documents for endorsement by checkpoint
-officers during import cargo clearance.</p>
+officers during export cargo clearance.</p>
 </li>
 <li>
 <p>Before the re-importation of the goods, apply for a corresponding <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/types-of-import-permits/" rel="noopener noreferrer nofollow" target="_blank">Customs In-Non-Payment (TCI) permit</a>*
