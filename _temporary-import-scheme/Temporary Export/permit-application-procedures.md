@@ -70,11 +70,11 @@ that are were temporarily exported, a <a href="https://www.customs.gov.sg/busine
 with place of receipt indicated as "VEHSG", should be declared instead.</p>
 </li>
 <li>
-<p>Produce the permit and supporting documents for endorsement by checkpoints
-officers during export cargo clearance.</p>
+<p>Produce the permit and supporting documents for endorsement by checkpoint
+officers for clearance during cargo re-import.</p>
 </li>
 <li>
-<p>In addition to the above procedures, please also take note of <a href="https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme/additional-requirements-export/" rel="noopener noreferrer nofollow" target="_blank">additional requirements</a> for
+<p>Please also take note of <a href="https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme/additional-requirements-export/" rel="noopener noreferrer nofollow" target="_blank">additional requirements</a> for
 temporary imports.</p>
 </li>
 </ol>
