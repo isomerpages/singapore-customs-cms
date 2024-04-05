@@ -2,6 +2,7 @@
 title: Voluntary Disclosure Programme
 permalink: /businesses/compliance/voluntary-disclosure-programme/
 third_nav_title: Compliance
+variant: markdown
 ---
 # Voluntary Disclosure Programme
 
@@ -47,7 +48,7 @@ Please make a VDP submission using the Voluntary Disclosure form by logging in v
 | **All disclosures** | Permit <br>   Invoice <br>  Packing list <br>  Bill of Lading or Air Waybill <br>   Other applicable documents |
 | **Disclosure involving Strategic Goods** | [VDP-SGCA Non-Compliance](/files/businesses/VDP-SGC-non-compliance.doc) |
 | **Disclosure involving rules of origin under Singapore’s free trade agreements** | [VDP-FTA or ROO Non-Compliance](/files/businesses/VDP-FTA-ROO-non-compliance.doc) |
-|**Disclosures involving more than 3 Cargo Clearance Permits / Advance Clearance for Courier & Express Shipment (ACCESS) Permits** | [VDP Consolidated Excel Sheet](https://go.gov.sg/vdpexcelsheetmorethan3)
+|**Disclosures involving more than 3 Cargo Clearance Permits / Advance Clearance for Courier &amp; Express Shipment (ACCESS) Permits** | [VDP Consolidated Excel Sheet](https://go.gov.sg/vdpexcelsheetmorethan3)
 
 Please note that your submission may be rejected if there is an omission in any information and/or document required.
 
@@ -57,4 +58,4 @@ You can send your queries to  [customs_vdp@customs.gov.sg](mailto:customs_vdp@cu
 
 ## FAQs
 
-You may refer to the  [FAQs](https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx) on the programme.
+You may refer to the  [FAQs](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=18336588) on the programme.
