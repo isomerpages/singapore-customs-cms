@@ -90,7 +90,7 @@ information and updates.</p>
 <p>Application for the Authorization of Declaring Agent(s)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tradenet.gov.sg/TN41/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+<p><a href="https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
 </p>
 </td>
 </tr>
