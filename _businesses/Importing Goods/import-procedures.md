@@ -73,7 +73,7 @@ If an overseas company sold goods to a local company and the commercial invoice 
 
 Please see the [types of Customs permits and situations where no customs permit is required](/businesses/importing-goods/import-procedures/types-of-import-permits) for more information.
 
-Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/){:target="_blank"}  on the arrangements to account for the GST.
+Taxable companies should also check with the [Inland Revenue Authority of Singapore (IRAS)](http://www.iras.gov.sg/)on the arrangements to account for the GST.
 
 **Visit links below for more information on Importing requirements:** 
 
@@ -110,7 +110,7 @@ Importers may be penalised if they do not comply with the requirements imposed u
 <div>
 	<ul>
 				<li><b>Import permit is not utilised</b><br>
-					You may submit an <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation">amendment or cancellation</a> request via TradeNet and specify the reason for amendments (e.g. extend permit validity) or cancellation. Certain permit fields are not amendable if there are controlled, prohibited or dutiable goods involved. Please refer to the <a href="https://www.customs.gov.sg/businesses/national-single-window/overview/annexes-and-appendices">list of non-amendable fields</a> for more information. If you are unable to amend or cancel the permit, you may wish to lodge a <a href="https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme">Voluntary Disclosure</a> to Customs. 
+					You may submit an <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/permit-amendments-and-cancellation">amendment or cancellation</a> request via TradeNet and specify the reason for amendments (e.g. extend permit validity) or cancellation. Certain permit fields are not amendable if there are controlled, prohibited or dutiable goods involved. Please refer to the <a href="https://www.customs.gov.sg/files/businesses/psb/tn%20team/annex-b-fields-not-allowed-for-amendment.pdf">list of non-amendable fields</a> for more information. If you are unable to amend or cancel the permit, you may wish to lodge a <a href="https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme">Voluntary Disclosure</a> to Customs. 
 If the payment permit cannot be amended or cancelled, you may submit a refund request via TradeNet and specify the reason for refund. There is no need for you to submit a Voluntary Disclosure to Customs.
 		</li></ul>
 	<ul>
