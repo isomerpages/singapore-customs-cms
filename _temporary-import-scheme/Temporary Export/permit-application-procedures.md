@@ -37,7 +37,7 @@ declaration:</p>
 <p>Cover letter stating:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Purpose for temporary import</p>
+<p>Purpose for temporary export</p>
 </li>
 <li>
 <p>Duration of temporary export</p>
@@ -49,9 +49,6 @@ declaration:</p>
 </li>
 <li>
 <p>Packing list</p>
-</li>
-<li>
-<p>Bill of Lading/Airway Bill</p>
 </li>
 <li>
 <p>Any other documents as specified by Singapore Customs</p>
@@ -75,7 +72,7 @@ officers for clearance during cargo re-import.</p>
 </li>
 <li>
 <p>Please also take note of <a href="https://www.customs.gov.sg/businesses/importing-goods/temporary-import-scheme/additional-requirements-export/" rel="noopener noreferrer nofollow" target="_blank">additional requirements</a> for
-temporary imports.</p>
+temporary exports.</p>
 </li>
 </ol>
 <p></p>
