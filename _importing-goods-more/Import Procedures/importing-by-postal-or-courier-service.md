@@ -16,7 +16,7 @@ From 1 Jan 2023, GST will be extended to goods imported via air or post that are
 
 You may refer to the following IRAS’ webpage for more information:<br>
 
-1)	[Five questions you may have when shopping online]( https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes@iras/gst/5-questions-you-may-have-when-shopping-online)<br>
+1)	[Five questions you may have when shopping online]( https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/5-questions-you-may-have-when-shopping-online)<br>
 2)	[GST on Imported Low-Value Goods]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/gst-on-imported-low-value-goods)<br>
 3)	[Consumers Importing Goods into Singapore]( https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/consumers/consumers-importing-goods-into-singapore)<br>
 
