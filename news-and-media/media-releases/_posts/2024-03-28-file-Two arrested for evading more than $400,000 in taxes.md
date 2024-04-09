@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/2024_03_28_media_release.pdf
+file_url: /files/2024_Mar_28_media_release.pdf
 ---
