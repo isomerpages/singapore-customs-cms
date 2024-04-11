@@ -2,6 +2,7 @@
 title: Declarant
 permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declarant/
 third_nav_title: Apply Update Renew Terminate Declaring Agent
+variant: markdown
 ---
 # Declarant
 
@@ -17,7 +18,7 @@ To prepare for the Customs Competency Test, the individual should:
 -	Familiarise themselves with the various permit types and procedures available on Singapore Customs website;
 -	Look out for [compliance best practices](https://www.customs.gov.sg/businesses/compliance/self-compliance) on Singapore Customs website;
 -	Complete the [e-learning module](https://www.customs.gov.sg/businesses/business-resources/elearning) on Singapore Customs website;
--	Attend courses such as SC101 and SC102 courses conducted at Nanyang Polytechnic or Republic Polytechnic. Please note that it is optional to sign up for these business courses and it is not a requirement for SC 401 test-takers to attend any of the business courses before taking the test.
+-	Attend courses such as SC101 and SC102 courses conducted at [Nanyang Polytechnic](https://www.nyp.edu.sg/schools/sbm/lifelong-learning.html?id=other-short-courses) or [Republic Polytechnic](https://www.rp.edu.sg/ace/course-summary?searchKeyword=customs). Please note that it is optional to sign up for these business courses and it is not a requirement for SC 401 test-takers to attend any of the business courses before taking the test.
 
 If a Declarant has changed employment and wish to be registered under another DA, he will not be required to take the competency test again. However, Declarants with poor compliance records with Singapore Customs may be required to re-take and pass the competency test to maintain their Declarant registration status.
 
