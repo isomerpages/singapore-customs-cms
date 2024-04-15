@@ -77,7 +77,7 @@ The annual licence fee varies with the type of activity, and is payable upon iss
 **Step 1**: Complete the TradeFIRST Self-Assessment Checklist as follows:
 
 * [For EFS (Micro-brewery) and EFS (Micro-distillery)](https://go.gov.sg/simplified-tf-checklist-jan22); or
-* [For all other EFS applicants](https://go.gov.sg/tradefirstselfassessmentchecklist-jan22).
+* [For all other EFS applicants]([Go.gov.sg](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)).
 
 **Step 2**: Prepare these supporting documents:
 
