@@ -8,7 +8,7 @@ variant: markdown
 
 The Bulk Permit is a single approval for the export, re-export, transhipment or transmission of strategic goods or their related technology. The Bulk Permit is valid for a period determined by Singapore Customs. It benefits businesses with a high transaction volume or short lead-time for order fulfilment.
 
-As long as the transaction is within the scope of the approved Bulk Permit, its holders can apply for the TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents, instead of having to apply for an  [Individual Permit]([customs.gov.sg/files/businesses/tn4-1proceduresforstspermits(11042022).pdf](https://www.customs.gov.sg/files/businesses/tn4-1proceduresforstspermits(11042022).pdf)) 5 working days before the shipment. This enables the Bulk Permit holder to enjoy greater certainty and efficiency in their operations.
+As long as the transaction is within the scope of the approved Bulk Permit, its holders can apply for the TradeNet permit before lodging the cargo with the sea port operators or air cargo ground handling agents, instead of having to apply for an  [Individual Permit]([customs.gov.sg/files/businesses/tn4-1proceduresforstspermits(11042022) 5 working days before the shipment. This enables the Bulk Permit holder to enjoy greater certainty and efficiency in their operations.
 
 
 ## Types of Bulk Permits
