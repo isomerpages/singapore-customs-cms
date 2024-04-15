@@ -1,5 +1,5 @@
 ---
-title: ENHANCEMENTS TO PAPERLESS CLEARANCE OF CONVENTIONAL CARGO
+title: Enhancements to Paperless Clearance of Conventional Cargo
 date: 2024-03-26
 layout: file
 description: ""
