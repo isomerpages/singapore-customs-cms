@@ -3,6 +3,7 @@ title: ASEAN Customs Declaration Document (ACDD)
 permalink: /businesses/international-connectivity/acdd/
 third_nav_title: International Connectivity
 description: ""
+variant: markdown
 ---
 ## Electronic exchange of the ASEAN Customs Declaration Document (ACDD) under the ASEAN Single Window (ASW)
 
@@ -18,6 +19,7 @@ The ACDD is optional and open to all traders who export goods to an exchange-rea
   e)  Myanmar<br>
 	f)  Philippines<br>
   g)  Thailand<br>
+	h)  Vietnam<br>
 
 More AMS will commence live operation when they are ready to do so.<br>
 
@@ -42,12 +44,12 @@ The specific TradeNet export permit data that would be sent as an ACDD to an imp
 ## Participation in the Electronic Submission of ACDD
 
 **Step 1: Participation in the Electronic Submission of ACDD and Authorisation of Singapore Customs to Transmit ACDD on the Networked Trade Platform (NTP)**<br><br>
-Traders exporting goods out of Singapore who wish to participate in the electronic submission of ACDD can do so by logging in to the [NTP](https://www.ntp.gov.sg/home/) > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent, to: <br>
+Traders exporting goods out of Singapore who wish to participate in the electronic submission of ACDD can do so by logging in to the [NTP](https://www.ntp.gov.sg/home/) &gt; Business Account &gt; Manage Consent &amp; Authorisation for NTP Services &gt; Choose your International Connectivity Services &amp; Authorise your Declaring Agent, to: <br>
 
   a)  provide their consent to Singapore Customs to send the ACDD-required information to the importing exchange-ready AMS and accept the relevant terms and conditions; and <br>
   b) inform Singapore Customs of their Declaring Agent(s) who are authorised to declare TradeNet export permit applications on their behalf.<br>
 
-Traders who wish to withdraw their participation from the electronic submission of ACDD or update their list of authorised DA(s) can do so by logging in to [NTP](https://www.ntp.gov.sg/home/) > Business Account > Manage Consent & Authorisation for NTP Services > Choose your International Connectivity Services & Authorise your Declaring Agent.<br>
+Traders who wish to withdraw their participation from the electronic submission of ACDD or update their list of authorised DA(s) can do so by logging in to [NTP](https://www.ntp.gov.sg/home/) &gt; Business Account &gt; Manage Consent &amp; Authorisation for NTP Services &gt; Choose your International Connectivity Services &amp; Authorise your Declaring Agent.<br>
 
 
 
