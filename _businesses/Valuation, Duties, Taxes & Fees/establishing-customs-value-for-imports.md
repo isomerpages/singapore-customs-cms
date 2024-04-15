@@ -36,7 +36,7 @@ accordion:
 However, some imports can:
 
 -   [Qualify for preferential tariff treatment](/businesses/certificates-of-origin/claiming-preferential-tariff-treatment-for-dutiable-imports)
--   Be exempted from duties refer to  [Customs (Duties Exemption) Order](businesses/acts-and-subsidiary-legislation/customs-act/){:target="_blank"} and Section 2(1A) of  [Customs (Duties) Order](businesses/acts-and-subsidiary-legislation/customs-act/){:target="_blank"}
+-   Be exempted from duties refer to  [Customs (Duties Exemption) Order](/businesses/acts-and-subsidiary-legislation/customs-act/){:target="_blank"} and Section 2(1A) of  [Customs (Duties) Order](/businesses/acts-and-subsidiary-legislation/customs-act/){:target="_blank"}
 -   Be  [exempted from GST](/businesses/acts-and-subsidiary-legislation/goods-and-services-tax){:target="_blank"}
 
 ## Transaction Value Method
