@@ -1,5 +1,5 @@
 collections:
-  test_hidden:
+  test-hidden:
     output: true
     order:
       - test 1a/.keep
