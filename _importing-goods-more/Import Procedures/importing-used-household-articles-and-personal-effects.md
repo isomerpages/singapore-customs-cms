@@ -92,7 +92,7 @@ The GST relief is subject to the following conditions:
     -   The articles and personal effects have been in his possession and used for a period of not less than 3 months; and
     -   He gives an undertaking not to dispose of the articles and personal effects within 3 months from the date of importation of such articles and personal effects.
 
--   The articles and personal effects and personal pets are imported within 6 months of his first arrival in Singapore.
+-   The articles, personal effects and personal pets are imported within 6 months of his first arrival in Singapore.
 
 ***
 
