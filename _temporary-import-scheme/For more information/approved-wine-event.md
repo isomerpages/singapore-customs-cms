@@ -44,6 +44,7 @@ Duty exemption and GST relief are granted to exhibitors who import wine for samp
 | **2206.00.10** | Cider &amp; Perry |
 | **2206.00.50** | Mead |
 | **2206.00.60** | Wines obtained by the fermentation of vegetables juices or of fruits juices, other than juice of fresh grapes |
+| **2206.00.91** | Other rice wine including medicated rice wine |
 | **2206.00.99** | Other fermented beverages or mixtures of fermented beverages and non-alcoholic beverages not elsewhere specified |
 
 ## Application Procedures
