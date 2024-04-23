@@ -31,7 +31,7 @@ to obtain a UEN; and</p>
 their Customs Account</p>
 </li>
 </ul>
-<p>You also advised to look out for the <a href="/files/FATF.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators </a>suggesting illicit trade, and
+<p>You are also advised to look out for the <a href="/files/FATF.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators </a>suggesting illicit trade, and
 file a Suspicious Transaction Report (STR) to the Suspicious Transaction
 Reporting Office (STRO) if you have reasonable grounds to suspect and suspicious
 trade activity.</p>
