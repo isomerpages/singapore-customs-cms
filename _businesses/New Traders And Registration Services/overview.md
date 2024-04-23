@@ -2,6 +2,7 @@
 title: Overview
 permalink: /businesses/new-traders-and-registration-services/overview/
 third_nav_title: New Traders And Registration Services
+variant: markdown
 ---
 # Quick Guide for New Traders and Registration Services
 
@@ -31,6 +32,8 @@ You may apply for customs permits via:
 -   [Government Front-End Application](https://www.tradenet.gov.sg/tradenet/login.portal){:target="_blank"} 
 
 You may wish to view the <a href="https://go.gov.sg/customschecklistforimportprocedures">checklist</a> for import permit applications.
+
+You also advised to look out for the [risk indicators ](file:///C:/Users/cuswss01/Downloads/FATF.pdf)suggesting illicit trade, and file a Suspicious Transaction Report (STR) to the Suspicious Transaction Reporting Office (STRO) if you have reasonable grounds to suspect and suspicious trade activity.
 
 ## Applying for Inter-Bank GIRO
 
