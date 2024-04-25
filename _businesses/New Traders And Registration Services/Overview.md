@@ -2,11 +2,11 @@
 title: Overview
 permalink: /businesses/new-traders-and-registration-services/overview/
 third_nav_title: New Traders And Registration Services
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h1>Quick Guide for New Traders and Registration Services</h1>
-<h2>[Permit Application Overview Guide](/files/businesses/psb/permit application overview guide.pdf)</h2>
+<h2><a href="/files/businesses/permit_application_overview_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">[Permit Application Overview Guide]</a></h2>
 <h2>Activating a Customs Account</h2>
 <p>Declaring entities such as importers, exporters, shipping agents, air
 cargo agents, freight forwarders, common carriers, individuals carrying
@@ -23,13 +23,13 @@ permits or certificates through TradeNet,</p>
 <p>will need to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Register with the <a href="http://www.acra.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Accounting and Corporate Regulatory Authority (ACRA)</a>{:target="_blank"}
-or the relevant <a href="http://www.uen.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Unique Entity Number (UEN) Issuance Agency</a>{:target="_blank"}
-to obtain a UEN; and</p>
+<p>Register with the <a href="http://www.acra.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Accounting and Corporate Regulatory Authority (ACRA)</a> or
+the relevant <a href="http://www.uen.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Unique Entity Number (UEN) Issuance Agency</a> to
+obtain a UEN; and</p>
 </li>
 <li>
-<p><a href="https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct" rel="noopener noreferrer nofollow" target="_blank">Activate</a>{:target="_blank"}
-their Customs Account</p>
+<p><a href="https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct" rel="noopener noreferrer nofollow" target="_blank">Activate</a> their
+Customs Account</p>
 </li>
 </ul>
 <p>You are also advised to look out for the <a href="/files/FATF.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators </a>suggesting illicit trade, and
