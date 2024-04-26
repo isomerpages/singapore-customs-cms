@@ -40,8 +40,8 @@ trade activity.</p>
 <p>After activating your Customs Account, you may appoint a Declaring Agent
 to apply for customs permits via TradeNet on your behalf.</p>
 <p>To apply for your own customs permits or on behalf of your clients, you
-have to <a href="https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct" rel="noopener noreferrer nofollow" target="_blank">register</a>{:target="_blank"}
-as a Declaring Agent and apply for a TradeNet user ID.</p>
+have to <a href="https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct" rel="noopener noreferrer nofollow" target="_blank">register</a> as
+a Declaring Agent and apply for a TradeNet user ID.</p>
 <p>You may apply for customs permits via:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,7 +49,8 @@ as a Declaring Agent and apply for a TradeNet user ID.</p>
 or</p>
 </li>
 <li>
-<p><a href="https://www.tradenet.gov.sg/tradenet/login.portal" rel="noopener noreferrer nofollow" target="_blank">Government Front-End Application</a>{:target="_blank"}</p>
+<p><a href="https://www.tradenet.gov.sg/tradenet/login.portal" rel="noopener noreferrer nofollow" target="_blank">Government Front-End Application</a>
+</p>
 </li>
 </ul>
 <p>You may wish to view the <a href="https://go.gov.sg/customschecklistforimportprocedures" rel="noopener noreferrer nofollow" target="_blank">checklist</a> for
@@ -91,8 +92,8 @@ assessment.</p>
 <h2>Authorising your Declaring Agent</h2>
 <p>If you are the Key Personnel (for example, the owner, partner or director,
 based on ACRA’s records) or the Authorised Personnel of the entity, you
-may <a href="https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP" rel="noopener noreferrer nofollow" target="_blank">authorise your Declaring Agent</a>{:target="_blank"}
-to use your:</p>
+may <a href="https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP" rel="noopener noreferrer nofollow" target="_blank">authorise your Declaring Agent</a> to
+use your:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Inter-Bank GIRO</strong> for the payment of duties and GST for
