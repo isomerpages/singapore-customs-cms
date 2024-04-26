@@ -11,7 +11,7 @@ Click on the links below to view the Customs Act and selected subsidiary legisla
 
 + [Customs Act](https://sso.agc.gov.sg/Act/CA1960){:target="_blank"}
 + [Customs Regulations](https://sso.agc.gov.sg/SL/CA1960-RG2){:target="_blank"}
-+ [Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-S667-2021?DocDate=20211231)
++ [Customs (Duties) (Exemption) Order](https://sso.agc.gov.sg/SL/CA1960-S667-2021?DocDate=20211231){:target="_blank"}
 + [Customs (Fuel Tank - Minimum Amount) Order 2019](https://sso.agc.gov.sg/SL/CA1960-S183-2019){:target="_blank"}
 + [Customs (Permits To Remove Goods) Order](https://sso.agc.gov.sg/SL/CA1960-OR8){:target="_blank"}
 + [Customs (Authorised Piers and Places) Regulations 2011](https://sso.agc.gov.sg/SL/CA1960-S708-2011){:target="_blank"}
