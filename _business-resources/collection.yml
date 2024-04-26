@@ -4,11 +4,13 @@ collections:
     order:
       - Directories of Service Providers/.keep
       - Directories of Service Providers/list-of-local-forwarding-agents.md
+      - Courses and Events/.keep
       - Courses and Events/Joint Industry Outreach on Strategic Trade Management
         2023.md
       - Courses and Events/Joint Industry Outreach on Strategic Trade Management
         2022.md
-      - Courses and Events/.keep
+      - Courses and
+        Events/joint-industry-outreach-on-strategic-trade-management-2021.md
       - Courses and
         Events/joint-industry-outreach-on-strategic-trade-management-2020.md
       - Courses and
@@ -24,5 +26,3 @@ collections:
       - Courses and
         Events/application-for-customs-strategic-goods-control-course.md
       - Courses and Events/events-for-traders.md
-      - Courses and
-        Events/joint-industry-outreach-on-strategic-trade-management-2021.md
