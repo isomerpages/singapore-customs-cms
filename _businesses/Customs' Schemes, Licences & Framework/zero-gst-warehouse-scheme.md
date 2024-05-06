@@ -42,6 +42,8 @@ To qualify for the Zero-GST Warehouse Scheme, the company must:
 -   Be responsible for the security, accountability and control of the goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the minimum band to qualify for the respective Zero-GST warehouse licence types
 
+The processing time for licenses under the ZGS Scheme is generally 3 to 4 months from the complete submission of relevant documents. The duration may vary depending on the complexity of the application. We suggest that applicants conduct a TradeFIRST self-assessment to ensure they meet all the mandatory criteria for the schemes they are applying for before submitting their application.
+
 ## Storage of Listed Goods
 
 With effect from 1 Jan 2018, to mitigate money laundering and terrorism financing risks, Zero-GST warehouse licensees storing listed goods must:

@@ -2,6 +2,7 @@
 title: Container Freight Warehouse Licence
 permalink: /businesses/customs-schemes-licences-framework/container-freight-warehouse/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Container Freight Warehouse Licence
 
@@ -20,6 +21,8 @@ To qualify for the licence, the company must:
 -   Operate a robust computerised inventory system which is able to track and account for the inventory status and movement of all goods stored in the container freight warehouse
 -   Be responsible for the security, accountability and control of the goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the minimum "Enhanced" Band
+
+The processing time for Container Freight Warehouse Licenses is generally 3 to 4 months from the complete submission of relevant documents. The duration may vary depending on the complexity of the application. We suggest that applicants conduct a TradeFIRST self-assessment to ensure they meet all the mandatory criteria for the schemes they are applying for before submitting their application.
 
 ## Licence Fee
 
