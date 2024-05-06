@@ -62,6 +62,8 @@ To qualify for the Licensed Warehouse Scheme, the company must:
 -   Be responsible for the security, accountability and control of the dutiable goods
 -   Undergo  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) assessment and meet all the mandatory criteria while attaining the minimum band to qualify for the respective licence types under the LW Scheme
 
+The processing time for licences under the LW Scheme is generally 3 to 4 months from the complete submission of relevant documents. The duration may vary depending on the complexity of the application. We suggest that applicants conduct a TradeFIRST self-assessment to ensure they meet all the mandatory criteria for the schemes they are applying for before submitting their application.
+
 ## Licence Fee
 
 An annual licence fee is payable upon issuance of the licence. It is based on the projected potential duty*  or the average past monthly duty**  of the dutiable goods stored in the licensed premises:
