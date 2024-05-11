@@ -23,7 +23,6 @@ Ministry of Finance
 Professor Emeritus of Finance (Practice)<br>
 Lee Kong Chian School of Business, Singapore Management University<br> 
 
-
 **Mr Dave Ng Wee Peng**  
 Chairman  
 Singapore Logistics Association
