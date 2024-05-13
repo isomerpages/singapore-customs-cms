@@ -23,10 +23,6 @@ Ministry of Finance
 Professor Emeritus of Finance (Practice)<br>
 Lee Kong Chian School of Business, Singapore Management University<br> 
 
-**Mr Christopher Charlton**<br>
-Vice President, Customs Brokerage APAC, Middle East &amp; Africa <br>
-UPS Singapore<br>
-
 **Mr Dave Ng Wee Peng**  
 Chairman  
 Singapore Logistics Association
@@ -70,4 +66,3 @@ VersaFleet Pte Ltd
 **Mr Tan Yock Juee**  
 Managing Director (Asia Regional Office)  
 Mediterranean Shipping Co. (Switzerland) Asia Regional Office Pte Ltd
-
