@@ -12,7 +12,7 @@ variant: tiptap
 <p>Every imported telecommunication equipment should be declared through
 TradeNet to the Info-communications Media Development Authority (IMDA)
 for processing. A customs permit must be obtained through TradeNet before
-the goods arrive in Singapore. Please refer to the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/dealer-and-equipment-registration-framework/tradenet---list-of--ahtn-codes" rel="noopener noreferrer nofollow" target="_blank">procedures for the import of telecommunication equipment and the list of AHTN and product codes</a>{:target="_blank"}.
+the goods arrive in Singapore. Please refer to the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/dealer-and-equipment-registration-framework/tradenet---list-of--ahtn-codes" rel="noopener noreferrer nofollow" target="_blank">procedures for the import of telecommunication equipment and the list of AHTN and product codes</a>.
 All dealers or importers are requested to comply with the procedures.</p>
 </li>
 <li>
@@ -156,9 +156,9 @@ details shall be declared in the TradeNet permit processing:</p>
 <p>a) Valid Telecommunication Dealer's licence
 <br>Please declare a valid IMDA Telecommunication Dealer's Individual or Class
 Licence in the permit application. If you do not have a Telecommunication
-Dealer's Licence, please apply for one on the <a href="https://www.gobusiness.gov.sg/licences/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>{:target="_blank"}
-Portal. The Telecommunication Dealer's Licence number should be declared
-in the “CA Licence Number” field in the permit application.</p>
+Dealer's Licence, please apply for one on the <a href="https://www.gobusiness.gov.sg/licences/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a> Portal. The
+Telecommunication Dealer's Licence number should be declared in the “CA
+Licence Number” field in the permit application.</p>
 <p></p>
 <p>Telecommunication Dealer's Licence Types
 <br>i. A Dealer’s Class Licence holder may import the following:</p>
