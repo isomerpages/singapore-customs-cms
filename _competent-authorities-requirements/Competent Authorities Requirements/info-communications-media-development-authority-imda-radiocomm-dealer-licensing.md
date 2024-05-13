@@ -156,9 +156,9 @@ details shall be declared in the TradeNet permit processing:</p>
 <p>a) Valid Telecommunication Dealer's licence
 <br>Please declare a valid IMDA Telecommunication Dealer's Individual or Class
 Licence in the permit application. If you do not have a Telecommunication
-Dealer's Licence, please apply for one on the <a href="https://www.gobusiness.gov.sg/licences/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>{:target="_blank"}
-Portal. The Telecommunication Dealer's Licence number should be declared
-in the “CA Licence Number” field in the permit application.</p>
+Dealer's Licence, please apply for one on the <a href="https://www.gobusiness.gov.sg/licences/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a> Portal. The
+Telecommunication Dealer's Licence number should be declared in the “CA
+Licence Number” field in the permit application.</p>
 <p></p>
 <p>Telecommunication Dealer's Licence Types
 <br>i. A Dealer’s Class Licence holder may import the following:</p>
