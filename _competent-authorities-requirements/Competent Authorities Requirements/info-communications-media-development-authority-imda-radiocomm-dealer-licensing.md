@@ -12,8 +12,8 @@ variant: tiptap
 <p>Every imported telecommunication equipment should be declared through
 TradeNet to the Info-communications Media Development Authority (IMDA)
 for processing. A customs permit must be obtained through TradeNet before
-the goods arrive in Singapore. Please refer to the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/dealer-and-equipment-registration-framework/tradenet---list-of--ahtn-codes" rel="noopener noreferrer nofollow" target="_blank">procedures for the import of telecommunication equipment and the list of AHTN and product codes</a>.
-All dealers or importers are requested to comply with the procedures.</p>
+the goods arrive in Singapore. Please refer to the . All dealers or importers
+are requested to comply with the procedures.</p>
 </li>
 <li>
 <p>Selected telecommunication equipment may require prior approval by IMDA
