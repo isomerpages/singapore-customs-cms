@@ -7,8 +7,6 @@ variant: markdown
 
 inSYNC is a publication by Singapore Customs. We keep you updated on topics that impact the trading community. Read us to get vital news, pertinent insights, useful pointers, practical advice and more.
 
-[Subscribe now](https://form.gov.sg/#!/5e859b60a0ffc50011a4ee83) to receive updates on the latest issue of inSYNC.
-
 {:.card-list}
 
 -   [![Issue 71](/images/insync/issue71_thumbnail.jpg)<br>
