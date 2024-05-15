@@ -10,7 +10,7 @@ Singapore Customs has appointed Nanyang Polytechnic (NYP) and Republic Polytechn
 
 Strengthening industry self-compliance will help businesses reduce compliance costs and enhance Singapore’s position as a trusted global trade hub.  
 
-Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/schools/sbm/lifelong-learning.html?id=other-short-courses){:target="_blank"}
+Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/adult-learner/find-a-course?query=sc1){:target="_blank"}
   and  [Republic Polytechnic website](https://www.rp.edu.sg/ace/course-summary?searchKeyword=customs){:target="_blank"}
   to register for the courses.
 
