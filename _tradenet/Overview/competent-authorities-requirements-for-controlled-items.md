@@ -19,7 +19,15 @@ the various CAs’ control, and the contact information of the CA(s):</p>
 <p><a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS CA Product Code Search</a>
 </p>
 <p>Examples:</p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -278,7 +286,7 @@ TradeNet permit application.</p>
 </p>
 </li>
 <li>
-<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/SFA-Rice" rel="noopener noreferrer nofollow" target="_blank">SFA (Rice)</a>
+<p><a href="/businesses/national-single-window/tradenet/competent-authorities-requirements/sfa-rice/" rel="noopener noreferrer nofollow" target="_blank">SFA (Rice)</a>
 </p>
 </li>
 <li>
