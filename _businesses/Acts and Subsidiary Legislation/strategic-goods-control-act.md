@@ -2,6 +2,7 @@
 title: Strategic Goods (Control) Act
 permalink: /businesses/acts-and-subsidiary-legislation/strategic-goods-control-act/
 third_nav_title: Acts and Subsidiary Legislation
+variant: markdown
 ---
 # Strategic Goods (Control) Act
 
@@ -11,7 +12,7 @@ Click on the links below to view the Strategic Goods (Control) Act and selected 
 
 -   [Strategic Goods (Control) Act](https://sso.agc.gov.sg/Act/SGCA2002){:target="_blank"}
 -   [Strategic Goods (Control) Regulations](https://sso.agc.gov.sg/SL/SGCA2002-RG1){:target="_blank"}
--   [Strategic Goods (Control) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S532-2019){:target="_blank"}
+-   [Strategic Goods (Control) Order 2023](https://sso.agc.gov.sg/SL-Supp/S541-2023/Published/20230801?DocDate=20230801){:target="_blank"}
 -   [Strategic Goods (Control) (Brokering) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019){:target="_blank"}
 
 The Strategic Goods (Control) homepage may also be accessed [here](/businesses/strategic-goods-control/overview){:target="_blank"}.
