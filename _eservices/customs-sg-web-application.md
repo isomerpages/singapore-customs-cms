@@ -12,6 +12,7 @@ The  [**Customs@SG**  web application](https://m.customs.gov.sg/CustomsTraveller
 
 Travellers with purchases that have exceeded their personal  [duty free concession or GST relief](/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief) can use  **Customs@SG** web application to make an advance declaration and pay the duty and/or GST without having to visit the Customs Tax Payment Office at the checkpoint when they arrive in Singapore. Once payment has been made, travellers will be notified via email, and travellers have the option of downloading the receipt from the web application. Travellers can proceed to exit the checkpoint by the Customs Green Channel. When they are stopped for checks, travellers can show the e-receipts on their mobile device or printed hardcopy receipts as proof of payment.
 
+*To declare and pay duty and/or Goods and Services Tax (GST), please use the&nbsp;[Customs@SG Web Application](https://m.customs.gov.sg/CustomsTravellerPortal "https://m.customs.gov.sg/CustomsTravellerPortal").
 
 ## Frequently Asked Questions (FAQs)
 
@@ -166,3 +167,5 @@ The terms and conditions for use of the **Customs@SG** web application for decla
 -   The e-receipt for payment issued through the web application is valid only on the date of arrival and at the place of arrival, as declared by the traveller;
 -   The  traveller will have to declare additional goods that are not covered by a successful declaration made through the web application at the Customs Tax Payment Office or Customs Red Channel upon arrival in Singapore, and pay the duty and/or GST chargeable on the goods. Failure to declare goods subject to duty and/or GST is an offence;
 -   The  goods declared are not controlled or prohibited, and do not infringe upon any intellectual property rights.
+
+*To declare and pay duty and/or Goods and Services Tax (GST), please use the&nbsp;[Customs@SG Web Application](https://m.customs.gov.sg/CustomsTravellerPortal "https://m.customs.gov.sg/CustomsTravellerPortal").
