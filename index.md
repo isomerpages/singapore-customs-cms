@@ -8,7 +8,8 @@ notification: Use our digital services when transacting with us! We encourage
   via the Networked Trade Platform (www.ntp.gov.sg).<br> Travellers may use the
   Customs@SG Web application via our eServices (www.customs.gov.sg/services) to
   make advance declarations and tax payments. <br> For immigration requirements,
-  visit the ICA website (https://safetravel.ica.gov.sg/).
+  visit the ICA website (https://safetravel.ica.gov.sg/).  <br><br> From 1 Aug
+  2024, payment services at SingPost outlets will no longer be available.
 sections:
   - hero:
       background: /images/banner_resized_911.png
