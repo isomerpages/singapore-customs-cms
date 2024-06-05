@@ -5,10 +5,10 @@ variant: tiptap
 ---
 <h1>Customs@SG</h1>
 <h1>About Customs@SG</h1>
-<p>The <strong><a href="https://m.customs.gov.sg/CustomsTravellerPortal" rel="noopener noreferrer nofollow" target="_blank">Customs@SG</a></strong>
-<a href="https://m.customs.gov.sg/CustomsTravellerPortal" rel="noopener noreferrer nofollow" target="_blank">web application</a>is a convenient way for travellers to declare and pay
-duty and/or Goods and Services Tax (GST) on their overseas purchases anytime,
-anywhere, before the travellers arrive in Singapore.</p>
+<p>The <a href="https://m.customs.gov.sg/CustomsTravellerPortal" rel="noopener noreferrer nofollow" target="_blank">Custom@SG Web Application</a> is
+a convenient way for travellers to declare and pay duty and/or Goods and
+Services Tax (GST) on their overseas purchases anytime, anywhere, before
+the travellers arrive in Singapore.</p>
 <p>Travellers with purchases that have exceeded their personal <a href="/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief" rel="noopener noreferrer nofollow" target="_blank">duty free concession or GST relief</a> can
 use <strong>Customs@SG</strong> web application to make an advance declaration
 and pay the duty and/or GST without having to visit the Customs Tax Payment
