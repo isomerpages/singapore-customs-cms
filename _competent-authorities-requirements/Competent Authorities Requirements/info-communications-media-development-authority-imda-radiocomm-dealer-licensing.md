@@ -152,7 +152,7 @@ amplifier or tuner (Broadcast bands only)</p>
 <hr>
 <h2>Import by Licensed Dealers</h2>
 <p>For import of telecommunication equipment by licensed dealers, the following
-details shall be declared in the TradeNet permit processing:</p>
+details shall be declared in the TradeNet permit application:</p>
 <p>a) Valid Telecommunication Dealer's licence
 <br>Please declare a valid IMDA Telecommunication Dealer's Individual or Class
 Licence in the permit application. If you do not have a Telecommunication

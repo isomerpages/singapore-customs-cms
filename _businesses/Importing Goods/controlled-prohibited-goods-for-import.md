@@ -9,14 +9,18 @@ variant: tiptap
 or certificate approval) from <strong>Competent Authorities (CA)</strong> before
 they may be imported into Singapore. You are advised to check if the goods
 are controlled using the description of the goods, Harmonized System (HS)
-code or CA product code via the <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS/CA Product Code Search Engine</a>{:target="_blank"}.
+code or CA product code via the <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" rel="noopener noreferrer nofollow" target="_blank">HS/CA Product Code Search Engine</a>.
 If the item is subject to control, you may check directly with the respective
 CAs on their licensing requirements. You may download the list of CAs'
 contact information via the HS/CA Product Code Search Engine.</p>
 <p>Please refer to the table below for the list of prohibited goods that
 you are not allowed to bring to Singapore.</p>
 <h2>List of Prohibited Goods for Imports</h2><pre><code>	  &lt;/tbody&gt;</code></pre>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
