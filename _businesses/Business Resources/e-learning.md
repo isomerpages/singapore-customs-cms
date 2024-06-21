@@ -9,7 +9,12 @@ variant: tiptap
 for your reference only. Please refer to the respective pages for the latest
 information and updates.</p>
 <h4><a href="https://www.youtube.com/watch?v=DIi9J8B7CzQ" rel="noopener noreferrer nofollow" target="_blank">Module 1 - Registration</a></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -145,7 +150,12 @@ information and updates.</p>
 </tbody>
 </table>
 <h4>Module 2 - Nature of Business <a href="https://www.youtube.com/watch?v=XDdJJTII0eU" rel="noopener noreferrer nofollow" target="_blank">Part 1</a> and <a href="https://www.youtube.com/watch?v=E7JpzovwsQc" rel="noopener noreferrer nofollow" target="_blank">Part 2</a></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -268,7 +278,12 @@ information and updates.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -344,7 +359,12 @@ information and updates.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -396,7 +416,12 @@ information and updates.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -430,7 +455,7 @@ information and updates.</p>
 Export, Transhipment and Transit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/businesses/strategic-goods-control/permit-and-registration-requirements/individual-permit-export-transhipment-and-transit" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+<p><a href="https://www.customs.gov.sg/individual-permit-export-transhipment-and-transit/" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
 </p>
 </td>
 </tr>
@@ -484,7 +509,12 @@ Export, Transhipment and Transit</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -525,7 +555,12 @@ Export, Transhipment and Transit</p>
 </tbody>
 </table>
 <h4><a href="https://www.youtube.com/watch?v=7j1QJGcI-UY" rel="noopener noreferrer nofollow" target="_blank">Module 3 - Tax Regime and Valuation</a></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -553,7 +588,12 @@ Export, Transhipment and Transit</p>
 </tbody>
 </table>
 <h4><a href="https://www.youtube.com/watch?v=F-ZPshYvVP0" rel="noopener noreferrer nofollow" target="_blank">Module 4 - Classification of Goods</a></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -629,7 +669,12 @@ Export, Transhipment and Transit</p>
 </tbody>
 </table>
 <h4><a href="https://www.youtube.com/watch?v=pyHaVVy6sLY" rel="noopener noreferrer nofollow" target="_blank">Module 5 - TradeNet Permit Application</a></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
