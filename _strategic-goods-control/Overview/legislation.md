@@ -2,6 +2,7 @@
 title: Legislation
 permalink: /businesses/strategic-goods-control-1/overview/legislation/
 third_nav_title: Overview
+variant: markdown
 ---
 # Legislation
 
@@ -33,6 +34,5 @@ Singapore has updated the categories of goods and technology which require a bro
 
 -   [Strategic Goods (Control) Bill Second Reading Speech](/files/businesses/nov2002-2ndreading.pdf)
 -   [Strategic Goods Control Circulars](/news-and-media/circulars/){:target="_blank"}
--   [Frequently Asked Questions (FAQs)](https://va.ecitizen.gov.sg/cfp/CustomerPages/Customs/explorefaq.aspx){:target="_blank"}
 
 _Note: Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge and updated monthly at the  [Singapore Government Statutes Online website.](https://sso.agc.gov.sg/){:target="_blank"}  Singapore Legal Publications can be purchased from  [Toppan Leefung Pte Ltd.](http://www.toppanleefung.com){:target="_blank"}_
