@@ -2,8 +2,8 @@
 title: Useful Links
 permalink: /businesses/chemical-weapons-convention/useful-links/
 third_nav_title: Chemical Weapons Convention (CWC)
+variant: markdown
 ---
-
 # Useful Links 
 
 ## Competent Authorities in Singapore
@@ -23,7 +23,7 @@ third_nav_title: Chemical Weapons Convention (CWC)
 
 ## Other National Authorities
 
--   [Australia](http://dfat.gov.au/international-relations/security/non-proliferation-disarmament-arms-control/chemical-weapons/cwc/Pages/australias-national-authority-for-the-chemical-weapons-convention.aspx){:target="_blank"}
+-   [Australia](https://www.dfat.gov.au/international-relations/security/asno/chemical-weapons){:target="_blank"}
 -   [Canada](https://international.gc.ca/world-monde/issues_development-enjeux_developpement/peace_security-paix_securite/national_authority-autorite_nationale.aspx?lang=eng){:target="_blank"}
 -   [Hong Kong](http://www.cwc.tid.gov.hk/eindex.html){:target="_blank"}
 -   [United Kingdom](https://www.gov.uk/chemical-weapons-convention-guidance){:target="_blank"}
