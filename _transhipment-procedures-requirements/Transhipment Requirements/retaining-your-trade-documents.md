@@ -2,6 +2,7 @@
 title: Retaining Your Trade Documents
 permalink: /businesses/transhipping-goods/transhipment-procedures/retaining-trade-documents/
 third_nav_title: Transhipment Requirements
+variant: markdown
 ---
 # Retaining Your Trade Documents
 
@@ -29,4 +30,4 @@ These documents must be produced to Singapore Customs upon request or as part of
 
 You may use an image system to store [images](/files/businesses/customs-guide-on-keeping-and-maintaining-records-in-image-system.pdf) of the documents without retaining the physical copy.
 
-Please read the  [guidelines](/news-and-media/notices/46_Notice_05_2015_Ver1.pdf)  for storing images of trade documents.
+Please read the  [guidelines](/files/businesses/customs-guide-on-keeping-and-maintaining-records-in-image-system(1).pdf)  for storing images of trade documents.
