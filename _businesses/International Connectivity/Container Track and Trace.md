@@ -37,4 +37,4 @@ This NTP Container Track and Trace service aims to provide supply chain visibili
 
 It is a service developed jointly by a government-industry partnership between Singapore Customs, the General Administration of Customs of the People’s Republic of China, Maritime and Port Authority of Singapore, and PSA Singapore. 
 
-Traders and logistics partners can log in to the NTP to access the Container Track and Trace service and search for the container by entering the container number you wish to track. You will need to have a Corppass account assigned with the NTP digital service before you can log in to NTP. More information can be found at www.ntp.gov.sg (Get Started). 
+Traders and logistics partners can log in to the NTP to access the Container Track and Trace service and search for the container by entering the container number you wish to track. You will need to have a Corppass account assigned with the NTP digital service before you can log in to NTP. More information can be found at www.ntp.gov.sg (Get Started).
