@@ -16,6 +16,6 @@ The Networked Trade Platform  (NTP) is a one-stop trade and logistics ecosystem 
 
 TradeNet is Singapore’s National Single Window for trade declaration. It provides a single platform for Singapore’s trade and logistics community to fulfill all import, export and transhipment related regulatory requirements. With a single point of entry for the submission on a single declaration to multiple regulatory agencies, TradeNet reduces cost and time to prepare, submit and process trade documents.
 
-Today, Traders submit permit applications through TradeNet Frontend solutions to TradeNet for Singapore Customs to process, and TradeNet returns the approved permit to the trader via the TradeNet Frontend. With NTP, the approved TradeNet permit can be directly returned in structured data format to the trader’s NTP data repository for data reuse for other service transactions via NTP. Both TradeNet and NTP currently exist in parallel.
+Today, Traders submit permit applications through TradeNet Frontend solutions to TradeNet for Singapore Customs to process, and TradeNet returns the approved permit to the trader via the TradeNet Frontend. With NTP, the approved TradeNet permit can be directly returned in structured data format to the trader via NTP (Permit Return service) for data reuse for other service transactions via NTP. Both TradeNet and NTP currently exist in parallel. 
 
 ![](/images/Trade_Permit_Application_Experience_with_NTP.png)
