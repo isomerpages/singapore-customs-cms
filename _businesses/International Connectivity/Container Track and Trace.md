@@ -3,11 +3,10 @@ title: Container Track and Trace
 permalink: /businesses/international-connectivity/containertrackandtrace/
 description: ""
 third_nav_title: International Connectivity
+variant: markdown
 ---
 # About Container Track and Trace Service
-The Container Track and Trace service enables users of the Networked Trade Platform (NTP) to see at a glance where their container shipments are. NTP users can see the key milestone events of their container shipment’s journey including customs clearance, load and discharge statuses of their container shipments between Singapore and China. 
-
-All you need is an NTP account and the container number you wish to track. 
+The Container Track and Trace service enables Singapore-based traders and their logistics partners to see at a glance where their container shipments are. They can also see the key milestone events of their container shipment’s journey - including customs clearance, load and discharge statuses of their container shipments - between Singapore and China. 
 
 In the current phase, this service is available for shipments between Singapore and Yangshan Port in Shanghai, and Qinzhou Port in Guangxi, China.
 
@@ -38,4 +37,4 @@ This NTP Container Track and Trace service aims to provide supply chain visibili
 
 It is a service developed jointly by a government-industry partnership between Singapore Customs, the General Administration of Customs of the People’s Republic of China, Maritime and Port Authority of Singapore, and PSA Singapore. 
 
-This service is available to all NTP users. All you need is an NTP account and the container number you wish to track. Information on how to set up your NTP account can be found at [www.ntp.gov.sg](http://www.ntp.gov.sg/) (Get Started > Accessing NTP > [Sign in with Singpass](https://www.ntp.gov.sg/public/accessing-ntp---singpass)). With an NTP account, you can sign in to the NTP to access the Container Track and Trace service.
+Traders and logistics partners can log in to the NTP to access the Container Track and Trace service and search for the container by entering the container number you wish to track. You will need to have a Corppass account assigned with the NTP digital service before you can log in to NTP. More information can be found at www.ntp.gov.sg (Get Started). 
