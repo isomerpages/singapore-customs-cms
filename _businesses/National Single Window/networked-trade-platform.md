@@ -2,27 +2,16 @@
 title: Networked Trade Platform
 permalink: /businesses/national-single-window/networked-trade-platform/
 third_nav_title: National Single Window
+variant: markdown
 ---
 # Networked Trade Platform
 
-The Networked Trade Platform (NTP) is a one-stop trade and logistics ecosystem which supports digitalisation efforts and connects players across the trade value chain - in Singapore and abroad. It aims to provide the foundation for Singapore to be a leading trade, supply chain and trade financing hub.
+The Networked Trade Platform (NTP) is owned and operated by Singapore Customs. The NTP allows you to digitally transact with Singapore Customs as well as other trade regulators in Singapore and abroad. The NTP also connects parties across the global trade value chain to support Singapore’s trade competitiveness. Digitalised, streamlined and automated trade transactions on the NTP will save you and other stakeholders in the trade ecosystem time, effort and money.
 
-The NTP is a:
+Through the NTP, you can:
+* 	Digitally transact with Singapore Customs – to submit forms, check statuses and more.
+* 	Digitally send and receive regulatory e-documents and data to and from overseas Customs authorities and other regulators.
 
--   One-stop trade information management system linked to other platforms
--   Next-generation platform offering a wide range of trade-related services
--   Open innovation platform allowing development of insights & new services with cross-industry data
--   Document hub for digitisation at source that enables reuse of data to cut costs and streamline processes
-
-Visit the [NTP](http://www.ntp.gov.sg/){:target="_blank"} and stay tuned as more services are launched on the platform 
-
-
-| Useful Links  |  |
-|--|--|
-| Learn more about the NTP | [Overview of the NTP](https://www.ntp.gov.sg/public/introduction-to-ntp---overview){:target="_blank"} |
-| Find out more about what the NTP offers | [NTP Features](https://www.ntp.gov.sg/public/introduction-to-ntp---ntp-features){:target="_blank"} |
-| Discover how you can manage your documents digitally on the NTP | [NTP Data Repository](https://www.ntp.gov.sg/public/introduction-to-ntp){:target="_blank"} |
-| Explore the Value-Added Services on the NTP | [NTP Value-Added Service (VAS) listing](https://www.ntp.gov.sg/public/browse-vas-catalogue){:target="_blank"} |
-| Read more about News featuring the NTP | [NTP News](https://www.ntp.gov.sg/public/news?newsType=News%20Media%20Releases%20Data%20Template){:target="_blank"} |
+Visit the [NTP](http://www.ntp.gov.sg/) for more information.
 
 For further queries, please reach out to [NTP_Operations@customs.gov.sg](mailto:NTP_Operations@customs.gov.sg).
