@@ -2,6 +2,7 @@
 title: Annual Declaration for Past Activities
 permalink: /businesses/chemical-weapons-convention/declarations/annual-declaration-for-past-activities/
 third_nav_title: Declarations
+variant: markdown
 ---
 # Annual Declaration for Past Activities
 
@@ -20,7 +21,7 @@ The table below indicates the activities involving scheduled chemicals that requ
 | Storage | √ | X | X |
 | Local Sales/Distribution | √ | X | X |
 
-√ : indicates that ADPA is required. <br> See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled chemicals.
+√ : indicates that ADPA is required. <br> See [full list](/files/businesses/GuidetoNACWCLicence010724.pdf) of scheduled chemicals.
 
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
