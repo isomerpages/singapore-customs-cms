@@ -2,10 +2,11 @@
 title: Advanced Notification on Transfer of Schedule 1 Chemicals
 permalink: /businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals/
 third_nav_title: Declarations
+variant: markdown
 ---
 # Advanced Notification on Transfer of Schedule 1 Chemicals
 
-Licensees that intend to  **import**,  **export**, or  **locally transfer** any  [Schedule 1 chemical](/files/businesses/guide_to_nacwc_licence_2023.pdf)  must give notification to NA(CWC) before and after the transfer has been completed.
+Licensees that intend to  **import**,  **export**, or  **locally transfer** any  [Schedule 1 chemical](/files/businesses/GuidetoNACWCLicence010724.pdf)  must give notification to NA(CWC) before and after the transfer has been completed.
 
 ## Timeline for submission:
 
