@@ -42,6 +42,7 @@ accordion:
       2.   Mail - <br> Singapore Customs <br> National Authority (Chemical
       Weapons Convention) <br> 55 Newton Road \#06-02 <br> Revenue House <br>
       Singapore 307987
+variant: markdown
 ---
 # Controlled Chemicals
 
@@ -58,7 +59,7 @@ The schedules are organised to reflect the risk posed by the chemical to the obj
 | 2 |  Schedule 2 covers chemicals which are potential chemical warfare agents (Schedule 2A and 2A*), <br> and other chemical weapons precursors (Schedule 2B). <br><br> They pose a significant risk to the objectives of <br> the Convention and have moderate level of commercial application.|  Methylphosphonyl dichloride <br><br>   Arsenic trichloride |  - Insecticides <br> - Herbicides <br> - Epoxy resins <br> - Flame-retardant additive research (plastics, resins, fibres) <br> - Medicinal &amp; pharmaceutical preparations <br> -  Metal plating preparations |
 | 3 |  Schedule 3 covers chemicals which had previously <br> been produced, stockpiled or used as a <br> chemical weapon. <br><br> They pose a risk to the objectives <br> of the Convention by virtue of its importance in <br> the production of one or more chemicals listed in <br>Schedule 1 or Schedule 2B. Schedule 3 chemicals have widespread commercial application. |   Triethanolamine <br><br>  Methyldiethanolamine |  - Pesticides <br> - Insecticides <br> - Toiletries <br> - Pharmaceutical <br> - Metal plating preparations <br> - Surfactants for detergents, oil drilling emulsions <br> - Corrosion inhibitors <br> - Soil fumigants |
 
-See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled  chemicals.
+See [full list](/files/businesses/GuidetoNACWCLicence010724.pdf) of scheduled  chemicals.
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -79,7 +80,7 @@ See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled 
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Determining if your product is controlled</label>
     <div>
-       <p>Please refer to the <a href="/files/businesses/guide_to_nacwc_licence_2023.pdf"> list of scheduled chemicals</a> to check if your product is controlled by the NA(CWC).</p>
+       <p>Please refer to the <a href="/files/businesses/GuidetoNACWCLicence010724.pdf"> list of scheduled chemicals</a> to check if your product is controlled by the NA(CWC).</p>
      <p>You may also check using the description of the goods, Harmonized System (HS) code or Competent Authority (CA) product code on this <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do" target="new">search engine</a>. If the HS code is subject to control, the name of the CA and the chemical(s) that the CA controls will be indicated. You may check directly with the respective CAs on their licensing requirements.</p>
        <p>If you require further assistance to determine if your product is controlled, please fill out the Product Enquiry Form under “Chemical Weapons Convention Forms” on the <a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links" target="new">Customs Forms &amp; Service Links</a> page, and attach the relevant supporting documents (such as Safety Data Sheet and Certificate of Analysis).</p>
 <p>The following information are required when filling out the form</p>
