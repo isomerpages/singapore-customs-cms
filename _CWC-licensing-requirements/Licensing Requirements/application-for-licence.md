@@ -2,6 +2,7 @@
 title: Application for Licence
 permalink: /businesses/chemical-weapons-convention/licensing-requirements/application-for-a-licence/
 third_nav_title: Licensing Requirements
+variant: markdown
 ---
 # Application for Licence
 
@@ -13,7 +14,7 @@ A valid CWC licence is required before the start of these activities.
 
 Before applying, please check:
 
--   The chemical falls under the  [list of scheduled chemicals](/files/businesses/guide_to_nacwc_licence_2023.pdf)  or fits the definition of a DOC; and
+-   The chemical falls under the  [list of scheduled chemicals](/files/businesses/GuidetoNACWCLicence010724.pdf)  or fits the definition of a DOC; and
 -   The activity which you intend to engage in is a  [controlled activity](/businesses/chemical-weapons-convention/licensing-requirements)
 
 ## Pre-licence site visit
