@@ -2,6 +2,7 @@
 title: Ad Hoc Declaration on Additionally Planned Activities (Declarations)
 permalink: /businesses/chemical-weapons-convention/declarations/ad-hoc-declaration-on-additionally-planned-activities/
 third_nav_title: Declarations
+variant: markdown
 ---
 # Ad Hoc Declaration on Additionally Planned Activities
 
@@ -21,7 +22,7 @@ The table below indicates the activities that may be reported in an AH.
 | Local Sales/Distribution | X | X | X |
 
 √ : indicates that ADAA is required.   
-See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled chemicals.
+See [full list](/files/businesses/GuidetoNACWCLicence010724.pdf) of scheduled chemicals.
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
 
