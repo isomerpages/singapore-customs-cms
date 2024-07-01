@@ -2,6 +2,7 @@
 title: Licensing Requirements
 permalink: /businesses/chemical-weapons-convention/licensing-requirements/
 third_nav_title: Chemical Weapons Convention (CWC)
+variant: markdown
 ---
 # Licensing Requirements
 
@@ -31,7 +32,7 @@ b) import or export of mixture containing 30% or less of a Schedule 2B chemical 
 c) import or export of mixture containing 30% or less of a Schedule 3 chemical to a member state to the Chemical Weapons Convention;  
 d) plant site that  **exclusively**  produces by synthesis hydrocarbons or explosives.
 
-See  [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled chemicals.  
+See  [full list](/files/businesses/GuidetoNACWCLicence010724.pdf) of scheduled chemicals.  
 Check if your product is  [controlled](/businesses/chemical-weapons-convention/controlled-chemicals).
 
 
