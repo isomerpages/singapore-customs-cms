@@ -2,6 +2,7 @@
 title: Annual Declaration for Anticipated Activities (ADAA) (Declarations)
 permalink: /businesses/chemical-weapons-convention/declarations/annual-declaration-for-anticipated-activities-adaa/
 third_nav_title: Declarations
+variant: markdown
 ---
 # Annual Declaration for Anticipated Activities (ADAA)
 
@@ -20,7 +21,7 @@ The table below indicates the activities that require an ADAA.
 | Storage | X| X | X |  
 | Local Sales/Distribution | X | X | X |  
 
-√ : indicates that ADAA is required. <br> See [full list](/files/businesses/guide_to_nacwc_licence_2023.pdf) of scheduled chemicals. 
+√ : indicates that ADAA is required. <br> See [full list](/files/businesses/GuidetoNACWCLicence010724.pdf) of scheduled chemicals. 
 
 ### Unscheduled Discrete Organic Chemicals (DOCs)
 

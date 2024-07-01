@@ -2,6 +2,7 @@
 title: Importing of NA(CWC) Controlled Items
 permalink: /businesses/chemical-weapons-convention/import-of-na-cwc-controlled-items/
 third_nav_title: Chemical Weapons Convention (CWC)
+variant: markdown
 ---
 # Importing of NA(CWC) Controlled Items
 
@@ -39,7 +40,7 @@ If the import is not subject to the restrictions below, you may apply for an imp
 
 ## Restrictions for Import from Non-Member States
 
-The following restrictions apply to the import of [scheduled chemicals](/files/businesses/guide_to_nacwc_licence_2023.pdf) from [non-Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}.
+The following restrictions apply to the import of [scheduled chemicals](/files/businesses/GuidetoNACWCLicence010724.pdf) from [non-Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}.
 
 | Schedules | Schedule 1 | Schedule 2 |  Schedule 3 |
 |---|---|---|---|
