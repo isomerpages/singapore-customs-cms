@@ -73,7 +73,7 @@ Click [here](/files/businesses/seb/stp%20handbook%20(nov%202022).pdf) for the Ha
 
 ## How to Apply?
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstchecklist) and relevant Annexes. 
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022) and relevant Annexes. 
 
 **Step 2**: Prepare these additional supporting documents:
 
@@ -82,7 +82,7 @@ Click [here](/files/businesses/seb/stp%20handbook%20(nov%202022).pdf) for the Ha
 -   Relevant security certifications if any (for example, Transported Asset Protection Association (TAPA), ISO 28000)
 -   Other relevant documents as specified in the instructions tab of the TradeFIRST Self-Assessment Checklist
 
-**Step 3**: Complete the Application Form for STP at this [link](www.go.gov.sg/stp-application)
+**Step 3**: Complete the [Application Form for STP](www.go.gov.sg/stp-application)
 
 **Step 4**: Submit the checklist and supporting documents to Singapore Customs via email: [customs_schemes@customs.gov.sg](mailto:customs_schemes@customs.gov.sg)
 
