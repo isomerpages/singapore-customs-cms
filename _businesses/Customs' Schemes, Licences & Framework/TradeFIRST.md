@@ -11,7 +11,7 @@ TradeFIRST stands for Trade Facilitation &amp; Integrated Risk-based System. It 
 
 The assessment is free and it is mandatory for all companies who wish to apply for a Singapore Customs scheme or licence.
 
-Participation in [ASEAN Customs Transit System (ACTS)](https://www.customs.gov.sg/businesses/asean-customs-transit-system/overview) would be awarded additional points under the TradeFIRST assessment from 01 Jan 2023 onwards. Please refer to the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022) "B. Participation in ASW" for more information.
+Participation in [ASEAN Customs Transit System (ACTS)](https://www.customs.gov.sg/businesses/asean-customs-transit-system/overview) would be awarded additional points under the TradeFIRST assessment from 01 Jan 2023 onwards. Please refer to the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstchecklist) "B. Participation in ASW" for more information.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y0kFDuH6COA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -114,7 +114,7 @@ The TradeFIRST assessment process is shown in the following table:
 |  |  |
 |--|--|
 | **Step 1**  | The company receives the TradeFIRST Self-Assessment Checklist from Customs, with detailed information on the assessment framework, for the company’s self-assessment. |
-| **Step 2** | Company fills up the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022) and sends it to Customs with the relevant supporting documents.|
+| **Step 2** | Company fills up the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstchecklist) and sends it to Customs with the relevant supporting documents.|
 | **Step 3** | On-site assessment will be scheduled and conducted, upon receipt of relevant supporting documents. |
 | **Step 4** | The company receives its application outcome, the band it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement (if any). |
 
@@ -131,7 +131,7 @@ For any Customs scheme applied successfully, your company will be subject to rev
 | Intermediate | Once in 2 Years |
 | Standard | Once in 2 Years |
 
-During the renewal process, your company is required to submit the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022) and all relevant supporting documents, and undergo the on-site assessment again.
+During the renewal process, your company is required to submit the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstchecklist) and all relevant supporting documents, and undergo the on-site assessment again.
 
 Reviews may also be conducted at shorter intervals under special circumstances, such as for companies with areas identified for improvement, within a stipulated time period.
 
