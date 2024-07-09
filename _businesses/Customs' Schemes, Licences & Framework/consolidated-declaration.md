@@ -2,6 +2,7 @@
 title: Consolidated Declaration
 permalink: /businesses/customs-schemes-licences-framework/consolidated-declaration/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Consolidated Declaration
 
@@ -50,7 +51,7 @@ To qualify for the Consolidated Declaration scheme, the company must:
 
 ## How to Apply?
 
-**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)
+**Step 1**: Complete the [TradeFIRST Self-Assessment Checklist](https://go.gov.sg/tradefirstchecklist)
 
 **Step 2**: Prepare these supporting documents:
 
