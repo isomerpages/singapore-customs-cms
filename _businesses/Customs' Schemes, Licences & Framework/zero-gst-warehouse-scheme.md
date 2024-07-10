@@ -113,8 +113,8 @@ For the disposal and destruction of GST suspended goods that are unfit for consu
 
 **Step 1**: Complete the TradeFIRST Self-Assessment Checklist as follows:
 
-* [For ZGS Type I](https://go.gov.sg/simplified-tf-checklist-jan22); or
-* [For ZGS Type II and Type III.](https://go.gov.sg/tradefirstselfassessmentchecklist1dec2022)
+* [For ZGS Type I](https://go.gov.sg/simplified-tradefirstchecklist); or
+* [For ZGS Type II and Type III.](https://go.gov.sg/tradefirstchecklist)
 
 
 **Step 2**: Prepare these supporting documents:
