@@ -3,7 +3,7 @@ title: Customs Forms & Service Links
 permalink: /eservices/customs-forms-and-service-links/
 variant: markdown
 ---
-## ASEAN Customs Transit System/Declaration Document
+## ASEAN Customs Transit System
 
 | No. | E-Services | Links |
 |--|--|--|
