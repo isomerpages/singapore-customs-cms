@@ -10,12 +10,12 @@ All requests for cancellation of CO and Preferential CO (PCO) issued by Customs 
 
 To submit a CO for cancellation, please fill in the [FormSG](https://go.gov.sg/cancellationofco){:target="_blank"}.
 
-For more information, please refer to [Notice 19/2020](/news-and-media/notices/2020-12-31-N.pdf).
+For more information, please refer to [Notice 19/2020](/files/businesses/ttsb-roo/Notice_19_2020.pdf).
 
 
 ## How to cancel an Electronic Preferential Certificate of Origin (ePCO)
 
-For ePCOs, you will not be able to make any amendments to the electronic PCO after you have successfully submitted to the respective importing authorities of the country. Therefore, you should inform your importer not to quote the first ePCO number in their import declaration and instead, you should provide the new ePCO reference number to your importer. The ePCO that has been previously issued under the export permit should be cancelled in accordance to the revised cancellation procedures found in [Notice 19/2020](/news-and-media/notices/2020-12-31-N.pdf).
+For ePCOs, you will not be able to make any amendments to the electronic PCO after you have successfully submitted to the respective importing authorities of the country. Therefore, you should inform your importer not to quote the first ePCO number in their import declaration and instead, you should provide the new ePCO reference number to your importer. The ePCO that has been previously issued under the export permit should be cancelled in accordance to the revised cancellation procedures found in [Notice 19/2020](/files/businesses/ttsb-roo/Notice_19_2020.pdf).
 
 ## How to amend a Certificate of Origin?
 
@@ -29,7 +29,7 @@ You may amend a CO electronically via TradeNet if:
     
 -   The field which you wish to amend in the CO is an amendable field in the export permit
     
-If the amendment to the export permit is made after the CO has been generated for printing, all previously issued COs under the export permit will be considered null and void. You are to cancel the previously issued COs via the revised cancellation procedures that can be found in [Notice 19/2020](/news-and-media/notices/2020-12-31-N.pdf) and submit the [cancellation](https://www.go.gov.sg/cancellationofco). 
+If the amendment to the export permit is made after the CO has been generated for printing, all previously issued COs under the export permit will be considered null and void. You are to cancel the previously issued COs via the revised cancellation procedures that can be found in [Notice 19/2020](/files/businesses/ttsb-roo/Notice_19_2020.pdf) and submit the [cancellation](https://www.go.gov.sg/cancellationofco). 
 
 After you have amended the field in the export permit, a new CO number will be issued. This CO can be collected 2 working hours after the approval has been obtained. If the field in the export permit cannot be amended, you are to cancel the export permit in TradeNet and take out a new joint export permit with CO application. A new CO number will be issued and it can be collected 2 working hours after the approval is obtained. 
 
@@ -39,6 +39,6 @@ You should proceed to amend the field in the export permit electronically via Tr
 
 -   The export permit is still valid
 
-The CO that has been previously issued should be cancelled in accordance to the revised cancellation procedures found in [Notice 19/2020](/news-and-media/notices/2020-12-31-N.pdf). Subsequently, you can proceed to apply for a pure CO application with the details you have amended in the export permit.
+The CO that has been previously issued should be cancelled in accordance to the revised cancellation procedures found in [Notice 19/2020](/files/businesses/ttsb-roo/Notice_19_2020.pdf). Subsequently, you can proceed to apply for a pure CO application with the details you have amended in the export permit.
 
 Traders may also refer to this [handbook](/files/businesses/ttsb-roo/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Jul_2024__clean_.pdf) for more information on how to apply for a CO via Tradenet.
