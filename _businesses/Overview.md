@@ -35,12 +35,12 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/importing-goods/overview&quot;"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/businesses-overview/overview2.jpg"></a>
+<a href="/businesses/importing-goods/overview"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/businesses-overview/overview2.jpg"></a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/exporting-goods/overview&quot;"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/businesses-overview/overview3.jpg"></a>
+<a href="/businesses/exporting-goods/overview"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/businesses-overview/overview3.jpg"></a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
