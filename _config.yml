@@ -44,7 +44,7 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: test test
+description: ""
 staging: https://staging.d2y2jvgj8f3vk2.amplifyapp.com/
 prod: https://master.d2y2jvgj8f3vk2.amplifyapp.com/
 plugins:
