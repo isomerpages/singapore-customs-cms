@@ -13,7 +13,7 @@ fulfilment.</p>
 <p>As long as the transaction is within the scope of the approved Bulk Permit,
 its holders can apply for the TradeNet permit before lodging the cargo
 with the sea port operators or air cargo ground handling agents, instead
-of having to apply for an <a href="/files/businesses/tn4-1proceduresforstspermits(11042022).pdf" rel="noopener noreferrer nofollow" target="_blank">Individual Permit</a> 5
+of having to apply for an <a href="https://www.customs.gov.sg/files/businesses/tn4-1proceduresforstspermits(11042022).pdf" rel="noopener noreferrer nofollow" target="_blank">Individual Permit</a> 5
 working days before the shipment. This enables the Bulk Permit holder to
 enjoy greater certainty and efficiency in their operations.</p>
 <h2>Types of Bulk Permits</h2>
