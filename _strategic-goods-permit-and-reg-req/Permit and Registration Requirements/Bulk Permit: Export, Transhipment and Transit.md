@@ -77,8 +77,8 @@ enjoy greater certainty and efficiency in their operations.</p>
 <p>To qualify for the Bulk Permit, you must:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Be a <a href="https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct" rel="noopener noreferrer nofollow" target="_blank">registered</a>{:target="_blank"}
-trader with Singapore Customs</p>
+<p>Be a <a href="https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct" rel="noopener noreferrer nofollow" target="_blank">registered</a> trader
+with Singapore Customs</p>
 </li>
 <li>
 <p>Have good compliance records</p>
@@ -123,9 +123,8 @@ related domestic legislations.</p>
 more details.</p>
 <h2>Applying for Bulk Permit</h2>
 <p>You may apply for a Bulk Permit by completing this <a href="https://go.gov.sg/stsbulkpermitapplication-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> and
-submitting the form, [TradeFIRST Self-Assessment Checklist](/files/businesses/SEB/TradeFIRST
-Self Assessment Checklist 1Jul2021.xlsx) and supporting documents via the
-contact details listed in the form to the Schemes &amp; Engagement Branch.</p>
+submitting the form, and supporting documents via the contact details listed
+in the form to the Schemes &amp; Engagement Branch.</p>
 <p>Once the application is received, an officer will be assigned as Singapore
 Customs’ contact point to the company for the assessment.</p>
 <p>We will conduct a TradeFIRST assessment on the company during a site validation,
