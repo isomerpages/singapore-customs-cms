@@ -1,5 +1,5 @@
 ---
-title: IMPLEMENTATION OF MALAYSIA SINGAPORE MUTUAL RECOGNITION ARRANGEMENT
+title: 052024 Implementation of Malaysia Singapore Mutual Recognition Arrangement
 date: 2024-07-22
 layout: file
 description: ""
