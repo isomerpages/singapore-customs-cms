@@ -112,7 +112,7 @@ be recognised as being of lower risk and can enjoy a higher level of facilitatio
 <p>Singapore Customs continues to engage like-minded customs administrations
 to expand our list of MRA partners, and bring about greater benefits to
 the trading community.</p>
-<p>Please refer to the <a href="/files/fact%20sheet%20on%20mra.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
+<p>Please refer to the <a href="/files/businesses/seb/MRA_FACTSHEET_msia.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
 more details on the procedures to enjoy the benefits under the MRAs.</p>
 <h2>STP and STP-Plus Certified Companies</h2>
 <ul data-tight="true" class="tight">
