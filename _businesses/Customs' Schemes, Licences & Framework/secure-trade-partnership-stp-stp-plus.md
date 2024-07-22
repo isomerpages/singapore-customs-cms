@@ -102,6 +102,10 @@ recognised by other partners through a mutual recognition arrangement</p>
 <p><a href="/files/circular_12_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">United Kingdom (2023)</a>
 </p>
 </li>
+<li>
+<p><a href="/files/news-and-media/Circular_05_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malaysia (2024)</a>
+</p>
+</li>
 </ul>
 <p>Exports from an STP-Plus certified company to these MRA partners will
 be recognised as being of lower risk and can enjoy a higher level of facilitation.</p>
