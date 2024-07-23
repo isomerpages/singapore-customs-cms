@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - test 1a/.keep
-      - test 1a/hidden-1a1.md
