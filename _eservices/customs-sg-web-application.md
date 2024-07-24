@@ -154,7 +154,8 @@ on <a href="/businesses/importing-goods/import-procedures/importing-of-personal-
 <p>You can access the Customs@SG web application via all browsers.</p>
 <p><strong>2.</strong>  <strong>What payment mode does Customs@SG web application accept?</strong>
 </p>
-<p>Visa, Mastercard, American Express and PayNow.</p>
+<p>Visa, Mastercard, American Express, UnionPay, JCB Credit Card, PayNow,
+ApplePay and GooglePay.</p>
 <p><strong>3.</strong>  <strong>Can I save my declaration as a draft before making payment?</strong>
 </p>
 <p>Yes. You can save your declaration made via the Customs@SG web application
