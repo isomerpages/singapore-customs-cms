@@ -14,7 +14,7 @@ Established in March 2000, the Council is chaired by Second Permanent Secretary 
 ### Chairman
 
 **Mr Lai Chung Han**  
-Permanent Secretary (Development)
+Permanent Secretary (Development)<br>
 Ministry of Finance
 
 
