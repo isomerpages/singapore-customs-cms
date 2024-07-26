@@ -106,13 +106,17 @@ recognised by other partners through a mutual recognition arrangement</p>
 <p><a href="/files/news-and-media/Circular_05_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malaysia (2024)</a>
 </p>
 </li>
+<li>
+<p><a href="/files/businesses/seb/062024_Implementation_of_The_Association_of_Southeast_Asian_Nations__ASEAN__Authorised_Economic_Operator__AEO__Mutual_Recognition_Arrangement__MRA_.pdf" rel="noopener noreferrer nofollow" target="_blank">ASEAN (2024)</a>
+</p>
+</li>
 </ul>
 <p>Exports from an STP-Plus certified company to these MRA partners will
 be recognised as being of lower risk and can enjoy a higher level of facilitation.</p>
 <p>Singapore Customs continues to engage like-minded customs administrations
 to expand our list of MRA partners, and bring about greater benefits to
 the trading community.</p>
-<p>Please refer to the <a href="/files/businesses/seb/MRA_FACTSHEET_msia.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
+<p>Please refer to the <a href="/files/businesses/seb/MRA_Factsheet_ASEAN.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
 more details on the procedures to enjoy the benefits under the MRAs.</p>
 <h2>STP and STP-Plus Certified Companies</h2>
 <ul data-tight="true" class="tight">
