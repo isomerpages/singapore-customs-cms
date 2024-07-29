@@ -88,8 +88,7 @@ variant: markdown
       <p>A fee of S$165 inclusive of Goods and Services Tax will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting documents.</p>
 			<p>This fee is non-refundable once payment is made, regardless of whether the application is proceeded with or returned without action due to insufficient information for assessment, or otherwise withdrawn by the applicant.</p>
 			<p>You may refer to our website for the available <a href="https://www.customs.gov.sg/eservices/payment-to-customs" target="new">payment methods</a>.
-    </div>
-	</li>  
+    
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">How long is the process?</label>
@@ -107,4 +106,3 @@ variant: markdown
 			<p>Upon receipt of the appeal, Singapore Customs will conduct a review and inform you of the outcome via email.</p>
     </div>
 	</li>  
-  </ul>
