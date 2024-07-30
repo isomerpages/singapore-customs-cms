@@ -81,7 +81,8 @@ Each application is for the origin determination of ONE product. The contact det
     <div>
 			<p> A fee of S$75 inclusive of Goods and Services Tax will be charged for each application. Payment must be made upon receiving the billing notification from Singapore Customs. The billing indicates the bill reference number and would only be generated after we received the complete submission of your application form and supporting documents.
 
-You may pay via Inter Bank Giro (IBG), cash, NETS or credit card. Payment by cash, NETS or credit card can be made at any SingPost branch.</p>
+</p><p>This fee is non-refundable once payment is made, regardless of whether the application is proceeded with or returned without action due to insufficient information for assessment, or otherwise withdrawn by the applicant.
+</p><p>You many refer to our website for the available <a href="https://www.customs.gov.sg/eservices/payment-to-customs/" target="new">payment methods</a>.</p>
     </div>
 	</li>
 	<li>
