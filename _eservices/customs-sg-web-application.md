@@ -202,8 +202,8 @@ it.</p>
 </p>
 <p>No. The Customs@SG web application can only be used to pay duty and/or
 GST for hand-carried goods brought into Singapore by travellers. For composition
-sums, you can make the payments at any AXS Station or SingPost branches
-island-wide, or via the AXS m-Station App and AXS e-Station.</p>
+sums, you can make the payments via any AXS Station, AXS m-Station App
+or AXS e-Station.</p>
 <p><strong>2.</strong>  <strong>I encountered technical/payment-related issues when making my declaration. How do I request for assistance?</strong>
 </p>
 <p>You can contact us via email at <a href="mailto:customs_checkpoints@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_checkpoints@customs.gov.sg</a>.

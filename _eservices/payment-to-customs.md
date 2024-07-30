@@ -1,8 +1,8 @@
 ---
 title: Payment to Customs
 permalink: /eservices/payment-to-customs/
+variant: markdown
 ---
-
 # Payment to Customs
 
 ## Payment by Interbank GIRO
@@ -11,11 +11,7 @@ GIRO is the most convenient way to pay your bills. Payment will be debited autom
 
 You may obtain a GIRO application form  [here](/eservices/customs-forms-and-service-links).
 
-## Payment at SingPost Outlets
 
-Payment via NETS, cashcard, credit card or cash for selected types of bills (for example, composition sum for offences, services rendered by Customs, etc) is accepted at all SingPost outlets. Please bring along your bill when making payment at any SingPost outlet.
-
-Payment made after 5pm on weekdays and 1pm on Saturdays, Sundays and Public Holidays will be reflected on your account on the next working day.
 
 ## Payment at AXS Stations
 
