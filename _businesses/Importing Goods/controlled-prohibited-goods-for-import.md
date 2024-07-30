@@ -15,7 +15,7 @@ CAs on their licensing requirements. You may download the list of CAs'
 contact information via the HS/CA Product Code Search Engine.</p>
 <p>Please refer to the table below for the list of prohibited goods that
 you are not allowed to bring to Singapore.</p>
-<h2>List of Prohibited Goods for Imports</h2><pre><code>	  &lt;/tbody&gt;</code></pre>
+<h2>List of Prohibited Goods for Imports</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
