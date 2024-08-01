@@ -20,11 +20,11 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 **Strategic Goods (Control) Order**
 
-Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2023](/files/businesses/tssb/sgco2023.pdf){:target="_blank"}, effective from 1 October 2023. 
+Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2024](/files/businesses/tssb/sgco2024.pdf) {:target="_blank"}, effective from 1 October 2024. 
 
-You may refer to the [amendment table](/files/businesses/tssb/sgco%202023%20-%20amendments%20table%20(edited).pdf){:target="_blank"} for more information on the changes made.
+You may refer to the [amendment table](/files/businesses/tssb/SGCO_2024___Amendments_Table.pdf) {:target="_blank"} for more information on the changes made.
 
-You may also wish to visit our [Frequently Asked Questions](/files/businesses/tssb/frequently%20asked%20questions_sgco2023.pdf){:target="_blank"} on the updates to the Strategic Goods (Control) Order 2023.
+You may also wish to visit our [Frequently Asked Questions](/files/businesses/tssb/Frequently_Asked_Questions_SGCO2024.pdf) {:target="_blank"} on the updates to the Strategic Goods (Control) Order 2024.
 
 **Strategic Goods (Control) (Brokering) Order**
 
@@ -35,4 +35,4 @@ Singapore has updated the categories of goods and technology which require a bro
 -   [Strategic Goods (Control) Bill Second Reading Speech](/files/businesses/nov2002-2ndreading.pdf)
 -   [Strategic Goods Control Circulars](/news-and-media/circulars/){:target="_blank"}
 
-_Note: Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge and updated monthly at the  [Singapore Government Statutes Online website.](https://sso.agc.gov.sg/){:target="_blank"}  Singapore Legal Publications can be purchased from  [Toppan Leefung Pte Ltd.](http://www.toppanleefung.com){:target="_blank"}_
+_Note: Legislation is reproduced on this website with the permission of the Government of Singapore. Acts of Parliament are available without charge and updated monthly at the  [Singapore Government Statutes Online website.](https://sso.agc.gov.sg/){:target="_blank"}  Singapore Legal Publications can be purchased from  [Toppan Next Pte Ltd.](https://www.toppannext.com/){:target="_blank"}_
