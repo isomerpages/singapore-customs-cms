@@ -20,11 +20,11 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SG
 
 **Strategic Goods (Control) Order**
 
-Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2024](/files/businesses/tssb/sgco2024.pdf) {:target="_blank"}, effective from 1 October 2024. 
+Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2024](/files/businesses/tssb/sgco2024.pdf){:target="_blank"}, effective from 1 October 2024. 
 
-You may refer to the [amendment table](/files/businesses/tssb/SGCO_2024___Amendments_Table.pdf) {:target="_blank"} for more information on the changes made.
+You may refer to the [amendment table](/files/businesses/tssb/SGCO_2024___Amendments_Table.pdf){:target="_blank"} for more information on the changes made.
 
-You may also wish to visit our [Frequently Asked Questions](/files/businesses/tssb/Frequently_Asked_Questions_SGCO2024.pdf) {:target="_blank"} on the updates to the Strategic Goods (Control) Order 2024.
+You may also wish to visit our [Frequently Asked Questions](/files/businesses/tssb/Frequently_Asked_Questions_SGCO2024.pdf){:target="_blank"} on the updates to the Strategic Goods (Control) Order 2024.
 
 **Strategic Goods (Control) (Brokering) Order**
 
