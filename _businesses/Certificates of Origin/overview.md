@@ -34,12 +34,15 @@ accordion:
       <br><br> ✖ Agree to requests from customers to make incorrect origin
       declarations. <br><br> ✖ Re-label the country of origin on the goods or
       its packaging. <br><br>
+variant: markdown
 ---
 # Certificates of Origin
 
 ## What is an ordinary Certificate of Origin?
 
-A Certificate of Origin (CO) helps to attest the origin of goods. There are two types of COs, namely ordinary COs and preferential COs. An ordinary CO, also known as a non-preferential CO, is a trade document that helps to identify the origin of the good.
+A Certificate of Origin (CO) helps to attest the origin of goods. There are two types of COs, namely ordinary COs and preferential COs. 
+
+An ordinary CO, also known as a non-preferential CO, is a trade document that helps to identify the origin of the good. It does not enable your overseas buyers to claim preferential tariff treatment on your products (i.e. pay lower or no customs duty) when importing them as it is not issued due to any Free Trade Agreement.
 
 You may refer to this [handbook](/files/businesses/handbook-on-the-rules-of-origin-for-oco.pdf) for more information on the rules of origin for ordinary COs.
 
@@ -69,7 +72,9 @@ Ordinary COs are issued by Singapore Customs or any of the following authorised 
     
 -   [Singapore Manufacturing Federation](http://www.smfederation.org.sg/){:target="_blank"}
     
-Apart from Singapore Customs, these authorised organisations do also issue ordinary COs for locally manufactured or processed goods, and goods from other countries which are re-exported from Singapore. However, they do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.
+Singapore Customs only issues Ordinary COs for goods that are wholly obtained, produced or manufactured in Singapore. 
+
+Apart from Singapore Customs, the authorised organisations issue ordinary COs for locally manufactured or processed goods. In addition, the five authorised organisations issue ordinary COs for goods from other countries which are re-exported from Singapore. However, the five authorised organisations do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.
 
 All Preferential COs are issued only by Singapore Customs. 
 
