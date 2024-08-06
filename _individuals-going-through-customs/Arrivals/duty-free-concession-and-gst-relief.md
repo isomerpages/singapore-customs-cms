@@ -2,6 +2,7 @@
 title: Duty Free Concession and GST Relief
 permalink: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief/
 third_nav_title: Arrivals
+variant: markdown
 ---
 # Duty-Free Concession and GST Relief
 
@@ -55,9 +56,11 @@ Important Notes:
 
 -   Duty-free concessions are granted on liquor products purchased outside Singapore as well as those purchased at Duty-Free Shops (DFS) Singapore.
     
--   Duty-free concessions are granted on liquor products for your personal consumption only. It is an offence to sell or give them away.
-    
--   There is no duty-free concession on liquor products for people arriving from Malaysia.
+-   Duty-free concessions are granted on liquor products for your personal consumption only. It is an offence to sell or give them away. It is an offence to sell, exchange or give them away.
+  
+-   As such, duty-free liquors purchased by other travellers, friends or relatives and subsequently given to you would be subject to duty and Goods and Services Tax (GST).
+
+-   There is no duty-free concession on liquor products for travellers arriving from Malaysia.
     
 -   If you are bringing in more than 10 litres of liquor products, a Customs permit would be required for clearance.
     
