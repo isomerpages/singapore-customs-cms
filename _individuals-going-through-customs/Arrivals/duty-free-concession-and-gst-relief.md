@@ -41,15 +41,17 @@ Bona fide crew members are given duty-free concession for liquors on one of the 
 | E       |  -      |    -     | 1 Litre |
 
 
-These options are also applicable for the following liquors:
+These options are also applicable for the following liquor products:
 
--   Liquors consumed for health reasons such as Yomeishu (wine), D.O.M (spirits), samsu (spirits)
+-   Liquors consumed for health reasons such as Yomeishu (wine), D.O.M (spirits) and samsu (spirits)
     
 -   Liquors used in cooking such as rice wine and cooking wine (wine)
     
 -   Sake (wine)
     
 -   Soju (spirits)
+  
+-   Umeshu (spirits)
     
 
 Important Notes:
