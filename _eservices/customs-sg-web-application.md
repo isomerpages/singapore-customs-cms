@@ -108,7 +108,7 @@ the e-receipt and the notification documents from the airline on the change
 of flight details for verification.</p>
 <p><strong>11.</strong>  <strong>How can I seek refund for the duty and/or GST already prepaid via the Customs@SG web application?</strong>
 </p>
-<p>Please email <a href="mailto:customs_checkpoints@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_checkpoints@customs.gov.sg</a> ,
+<p>Please email <a href="mailto:customs_checkpoints@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_checkpoints@customs.gov.sg</a>,
 with all relevant supporting documents such as purchase receipt and flight
 cancellation document, to seek a refund if:</p>
 <ul data-tight="true" class="tight">
@@ -191,11 +191,13 @@ it.</p>
 <br>d. Chinese “Shao Jiu” or “Gao Liang Jiu”
 <br>e. Baileys</p>
 <p><strong>Answer</strong>
-<br>a. DOM –&gt; Liqueur / Cordials / Herbal liqueur
-<br>b. Yomeishu –&gt; Liqueur / Cordials / Herbal liqueur
-<br>c. Umeshu –&gt; Liqueur / Cordials / Herbal liqueur
-<br>d. Chinese “Shao Jiu” or “Gao Liang Jiu” –&gt; Samsu
-<br>e. Baileys –&gt; Liqueur / Cordials / Herbal liqueur</p>
+</p>
+<p>a. DOM -&gt; Spirits
+<br>b. Yomeishu -&gt; Wine
+<br>c. Umeshu -&gt; Spirits
+<br>d. Chinese “Shao Jiu” or “Gao Liang Jiu” -&gt; Spirits
+<br>e. Baileys -&gt;Spirits</p>
+<p></p>
 <hr>
 <h3>C. Others</h3>
 <p><strong>1.</strong>  <strong>Can I use the Customs@SG web application to make payment of composition sum for customs offences?</strong>
