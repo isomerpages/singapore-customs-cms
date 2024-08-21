@@ -99,8 +99,9 @@ variant: markdown
 
 -   [US Department of State (Bureau of International Security and Nonproliferation)](http://www.state.gov/t/isn/){:target="_blank"}
 -   [US Department of State (Directorate of Defense Trade Controls)](https://www.pmddtc.state.gov/ddtc_public){:target="_blank"}
--   [US Department of Commerce (Bureau of Industry and Security)](http://www.bis.doc.gov/about/index.htm){:target="_blank"}
+-   [US Department of Commerce (Bureau of Industry and Security)](https://www.bis.gov/){:target="_blank"}
 -   [US Department of Commerce (Bureau of Industry and Security) - The Elements of an Effective Export Compliance Program](/files/businesses/the-elements-of-an-effective-export-compliance-program.pdf){:target="_blank"}
+-   [US Department of Commerce (Bureau of Industry and Security) - Policy Guidance](https://www.bis.doc.gov/index.php/policy-guidance){:target="_blank"}
 -   [US Department of Homeland Security (Bureau of Customs and Border Protection)](http://www.cbp.gov/){:target="_blank"}
 -   [US Department of Homeland Security (Bureau of Immigration and Customs Enforcement)](http://www.ice.gov/){:target="_blank"}
 -   [US Department of Energy (National Nuclear Security Administration)](https://www.energy.gov/nnsa/national-nuclear-security-administration){:target="_blank"}
