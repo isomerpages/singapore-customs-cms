@@ -74,7 +74,7 @@ blends; and oil drilling materials and equipment</p>
 <td rowspan="1" colspan="1">
 <p>Personal effects and personnel engaged in off-shore oil drilling operations;
 and</p>
-<p>Oil drilling equipment and equipment</p>
+<p>Oil drilling materials and equipment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oil drilling materials and equipment; and</p>
