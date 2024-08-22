@@ -126,7 +126,8 @@ more information)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vegetables;
-<br>Fish; and Crustaceans, molluscs and other aquatic invertebrates</p>
+<br>Fish; and
+<br>Crustaceans, molluscs and other aquatic invertebrates</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All goods as sea stores, within the applicable quantity restrictions</p>
@@ -167,11 +168,17 @@ more information)</p>
 more information)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil; Gas; Off-shore cargo; and Marine-related cargo</p>
+<p>Oil;
+<br>Gas;
+<br>Off-shore cargo; and
+<br>Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil; Gas; Off-shore cargo; Marine-related cargo; and All goods as sea
-stores, within the applicable quantity restrictions</p>
+<p>Oil;
+<br>Gas;
+<br>Off-shore cargo;
+<br>Marine-related cargo; and
+<br>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -180,11 +187,16 @@ stores, within the applicable quantity restrictions</p>
 more information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil; Gas; Off-shore cargo; and Marine-related cargo</p>
+<p>Oil;
+<br>Gas;
+<br>Off-shore cargo; and
+<br>Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil; Gas; Off-shore cargo; Marine-related cargo; and All goods as sea
-stores, within the applicable quantity restrictions.</p>
+<p>Oil;
+<br>Gas; Off-shore cargo;
+<br>Marine-related cargo; and
+<br>All goods as sea stores, within the applicable quantity restrictions.</p>
 </td>
 </tr>
 <tr>
