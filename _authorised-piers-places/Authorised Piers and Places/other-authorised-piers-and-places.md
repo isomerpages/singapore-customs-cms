@@ -76,8 +76,8 @@ blends; and oil drilling materials and equipment</p>
 and Oil drilling materials and equipment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil drilling materials and equipment; and</p>
-<p>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>Oil drilling materials and equipment; and
+<br>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -143,8 +143,8 @@ more information)</p>
 <p>Ship spares</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All goods as ship spares; and</p>
-<p>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>All goods as ship spares; and
+<br>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -157,8 +157,8 @@ more information)</p>
 <p>Ship spares</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All goods as ship spares; and</p>
-<p>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>All goods as ship spares; and
+<br>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
