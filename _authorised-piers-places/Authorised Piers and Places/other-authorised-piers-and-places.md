@@ -72,7 +72,7 @@ blends; and oil drilling materials and equipment</p>
 <p>Loyang Off-shore Base</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Personal effects and personnel engaged in off-shore oil drilling operations;
+<p>Personal effects for personnel engaged in off-shore oil drilling operations;
 and</p>
 <p>Oil drilling materials and equipment</p>
 </td>
