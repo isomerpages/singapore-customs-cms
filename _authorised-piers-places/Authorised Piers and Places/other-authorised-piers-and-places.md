@@ -72,13 +72,12 @@ blends; and oil drilling materials and equipment</p>
 <p>Loyang Off-shore Base</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Personal effects and personnel engaged in off-shore oil drilling operations;
-and</p>
-<p>Oil drilling materials and equipment</p>
+<p>Personal effects for personnel engaged in off-shore oil drilling operations;
+and Oil drilling materials and equipment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil drilling materials and equipment; and</p>
-<p>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>Oil drilling materials and equipment; and
+<br>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -144,8 +143,8 @@ more information)</p>
 <p>Ship spares</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All goods as ship spares; and</p>
-<p>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>All goods as ship spares; and
+<br>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -158,8 +157,8 @@ more information)</p>
 <p>Ship spares</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All goods as ship spares; and</p>
-<p>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>All goods as ship spares; and
+<br>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -169,16 +168,17 @@ more information)</p>
 more information)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil;</p>
-<p>Gas;</p>
-<p>Off-shore cargo; and Marine-related cargo</p>
+<p>Oil;
+<br>Gas;
+<br>Off-shore cargo; and
+<br>Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil;</p>
-<p>Gas;</p>
-<p>Off-shore cargo;</p>
-<p>Marine-related cargo; and</p>
-<p>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>Oil;
+<br>Gas;
+<br>Off-shore cargo;
+<br>Marine-related cargo; and
+<br>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -187,18 +187,16 @@ more information)</p>
 more information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil;</p>
-<p>Gas;</p>
-<p>Off-shore cargo; and</p>
-<p>Marine-related cargo</p>
+<p>Oil;
+<br>Gas;
+<br>Off-shore cargo; and
+<br>Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil;</p>
-<p>Gas;</p>
-<p>Off-shore cargo;</p>
-<p>Marine-related cargo; and</p>
-<p></p>
-<p>All goods as sea stores, within the applicable quantity restrictions.</p>
+<p>Oil;
+<br>Gas; Off-shore cargo;
+<br>Marine-related cargo; and
+<br>All goods as sea stores, within the applicable quantity restrictions.</p>
 </td>
 </tr>
 <tr>
