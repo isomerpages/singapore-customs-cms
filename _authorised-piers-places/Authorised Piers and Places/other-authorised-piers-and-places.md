@@ -170,9 +170,8 @@ more information)</p>
 <p>Oil; Gas; Off-shore cargo; and Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil; Gas;</p>
-<p>Off-shore cargo; Marine-related cargo; and All goods as sea stores, within
-the applicable quantity restrictions</p>
+<p>Oil; Gas; Off-shore cargo; Marine-related cargo; and All goods as sea
+stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -184,9 +183,8 @@ more information</p>
 <p>Oil; Gas; Off-shore cargo; and Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil; Gas; Off-shore cargo;</p>
-<p>Marine-related cargo; and All goods as sea stores, within the applicable
-quantity restrictions.</p>
+<p>Oil; Gas; Off-shore cargo; Marine-related cargo; and All goods as sea
+stores, within the applicable quantity restrictions.</p>
 </td>
 </tr>
 <tr>
