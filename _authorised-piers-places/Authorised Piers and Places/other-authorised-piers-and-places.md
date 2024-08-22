@@ -11,7 +11,12 @@ piers and places, subject to the further approval of the relevant operator
 <p>Please refer to the table below for the list of such authorised piers
 and places and the corresponding scope of goods that may be imported, exported
 or transhipped via the authorised piers and places:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,11 +60,11 @@ or transhipped via the authorised piers and places:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General goods except petroleum and petrochemical products and biodiesel
-blends; and oil drilling equipment and equipment</p>
+blends; and oil drilling materials and equipment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General goods except petroleum and petrochemical products and biodiesel
-blends; and oil drilling equipment and equipment</p>
+blends; and oil drilling materials and equipment</p>
 </td>
 </tr>
 <tr>
@@ -67,12 +72,13 @@ blends; and oil drilling equipment and equipment</p>
 <p>Loyang Off-shore Base</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>General goods except petroleum and petrochemical products and biodiesel
-blends; and oil drilling equipment and equipment</p>
+<p>Personal effects and personnel engaged in off-shore oil drilling operations;
+and</p>
+<p>Oil drilling equipment and equipment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil drilling material and equipment;
-<br>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>Oil drilling materials and equipment; and</p>
+<p>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +127,7 @@ more information)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vegetables;
-<br>Fish;
+<br>Fish; and
 <br>Crustaceans, molluscs and other aquatic invertebrates</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,6 +144,7 @@ more information)</p>
 <p>Ship spares</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>All goods as ship spares; and</p>
 <p>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
@@ -151,21 +158,27 @@ more information)</p>
 <p>Ship spares</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>All goods as ship spares; and</p>
 <p>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Offshore Marine Centre
+<p>Offshore Marine Centre 1
 <br>(See <a href="/news-and-media/circulars/2015-08-12-Circular092015.pdf" rel="noopener noreferrer nofollow" target="_blank">Customs Circular</a> for
 more information)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cargo relating to oil and gas, offshore and marine industries</p>
+<p>Oil;</p>
+<p>Gas;</p>
+<p>Off-shore cargo; and Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All goods as sea stores, within the applicable quantity restrictions;
-<br>Cargo relating to oil and gas, offshore and marine industries</p>
+<p>Oil;</p>
+<p>Gas;</p>
+<p>Off-shore cargo;</p>
+<p>Marine-related cargo; and</p>
+<p>All goods as sea stores, within the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -174,11 +187,18 @@ more information)</p>
 more information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cargo relating to oil and gas, offshore and marine industries</p>
+<p>Oil;</p>
+<p>Gas;</p>
+<p>Off-shore cargo; and</p>
+<p>Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All goods as sea stores, within the applicable quantity restrictions;
-<br>Cargo relating to oil and gas, offshore and marine industries</p>
+<p>Oil;</p>
+<p>Gas;</p>
+<p>Off-shore cargo;</p>
+<p>Marine-related cargo; and</p>
+<p></p>
+<p>All goods as sea stores, within the applicable quantity restrictions.</p>
 </td>
 </tr>
 <tr>
