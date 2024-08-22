@@ -73,8 +73,7 @@ blends; and oil drilling materials and equipment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Personal effects for personnel engaged in off-shore oil drilling operations;
-and</p>
-<p>Oil drilling materials and equipment</p>
+and Oil drilling materials and equipment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oil drilling materials and equipment; and</p>
@@ -127,8 +126,7 @@ more information)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vegetables;
-<br>Fish; and
-<br>Crustaceans, molluscs and other aquatic invertebrates</p>
+<br>Fish; and Crustaceans, molluscs and other aquatic invertebrates</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All goods as sea stores, within the applicable quantity restrictions</p>
@@ -169,16 +167,12 @@ more information)</p>
 more information)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil;</p>
-<p>Gas;</p>
-<p>Off-shore cargo; and Marine-related cargo</p>
+<p>Oil; Gas; Off-shore cargo; and Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil;</p>
-<p>Gas;</p>
-<p>Off-shore cargo;</p>
-<p>Marine-related cargo; and</p>
-<p>All goods as sea stores, within the applicable quantity restrictions</p>
+<p>Oil; Gas;</p>
+<p>Off-shore cargo; Marine-related cargo; and All goods as sea stores, within
+the applicable quantity restrictions</p>
 </td>
 </tr>
 <tr>
@@ -187,18 +181,12 @@ more information)</p>
 more information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil;</p>
-<p>Gas;</p>
-<p>Off-shore cargo; and</p>
-<p>Marine-related cargo</p>
+<p>Oil; Gas; Off-shore cargo; and Marine-related cargo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oil;</p>
-<p>Gas;</p>
-<p>Off-shore cargo;</p>
-<p>Marine-related cargo; and</p>
-<p></p>
-<p>All goods as sea stores, within the applicable quantity restrictions.</p>
+<p>Oil; Gas; Off-shore cargo;</p>
+<p>Marine-related cargo; and All goods as sea stores, within the applicable
+quantity restrictions.</p>
 </td>
 </tr>
 <tr>
