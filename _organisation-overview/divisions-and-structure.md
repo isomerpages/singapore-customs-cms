@@ -39,6 +39,9 @@ at the checkpoints</p>
 <li>
 <p>Permits Compliance Branch</p>
 </li>
+<li>
+<p>Risk Assessment Branch</p>
+</li>
 </ul>
 <p>The main roles of the Compliance Division include:</p>
 <ul data-tight="true" class="tight">
@@ -174,9 +177,6 @@ and improve processes and services through digital technologies</p>
 </ul>
 <h2>Intelligence &amp; Investigation Division</h2>
 <ul data-tight="true" class="tight">
-<li>
-<p>Analysis and Targeting Branch</p>
-</li>
 <li>
 <p>Intelligence Branch</p>
 </li>
