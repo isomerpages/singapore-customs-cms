@@ -3,16 +3,17 @@ layout: homepage
 title: Singapore Customs
 description: test test
 permalink: /
-notification: TradeNet is currently unavailable. Singapore Customs is working to
-  restore the service. We will provide an update when the system resumes
-  operation.   For urgent clearance of PERISHABLE GOODS ONLY, you may use
-  Letters of Undertaking at go.gov.sg/LOU1 <br>   Use our digital services when
-  transacting with us! We encourage businesses to submit trade declarations via
-  TradeNet and access our eServices via the Networked Trade Platform
-  (www.ntp.gov.sg).<br> Travellers may use the Customs@SG Web application via
-  our eServices (www.customs.gov.sg/services) to make advance declarations and
-  tax payments. <br> For immigration requirements, visit the ICA website
-  (https://safetravel.ica.gov.sg/).
+notification: "TradeNet is currently unavailable. Singapore Customs is working
+  to restore the service. We will provide an update when the system resumes
+  operation.You may use Letters of Undertaking for urgent clearance of ALL
+  goods.<br> For Non-strategic Goods: go.gov.sg/LOU1 <br> For Strategic Goods:
+  go.gov.sg/LOU2 <br>   Use our digital services when transacting with us! We
+  encourage businesses to submit trade declarations via TradeNet and access our
+  eServices via the Networked Trade Platform (www.ntp.gov.sg).<br> Travellers
+  may use the Customs@SG Web application via our eServices
+  (www.customs.gov.sg/services) to make advance declarations and tax payments.
+  <br> For immigration requirements, visit the ICA website
+  (https://safetravel.ica.gov.sg/)."
 sections:
   - hero:
       background: /images/banner_resized_911.png
