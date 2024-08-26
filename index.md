@@ -3,16 +3,12 @@ layout: homepage
 title: Singapore Customs
 description: test test
 permalink: /
-notification: TradeNet has resumed service at XXXX hours on DD MMM YYYY. Traders
-  and Declaring Agents may now submit permit applications via TradeNet.Letters
-  of Undertaking will cease to be accepted at the checkpoints for clearance at
-  (XXXX + 4 hrs) hours on DD MMM YYYY.<br>  Use our digital services when
-  transacting with us! We encourage businesses to submit trade declarations via
-  TradeNet and access our eServices via the Networked Trade Platform
-  (www.ntp.gov.sg).<br> Travellers may use the Customs@SG Web application via
-  our eServices (www.customs.gov.sg/services) to make advance declarations and
-  tax payments. <br> For immigration requirements, visit the ICA website
-  (https://safetravel.ica.gov.sg/).
+notification: Use our digital services when transacting with us! We encourage
+  businesses to submit trade declarations via TradeNet and access our eServices
+  via the Networked Trade Platform (www.ntp.gov.sg).<br> Travellers may use the
+  Customs@SG Web application via our eServices (www.customs.gov.sg/services) to
+  make advance declarations and tax payments. <br> For immigration requirements,
+  visit the ICA website (https://safetravel.ica.gov.sg/).
 sections:
   - hero:
       background: /images/banner_resized_911.png
