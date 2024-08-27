@@ -3,12 +3,17 @@ layout: homepage
 title: Singapore Customs
 description: test test
 permalink: /
-notification: Use our digital services when transacting with us! We encourage
-  businesses to submit trade declarations via TradeNet and access our eServices
-  via the Networked Trade Platform (www.ntp.gov.sg).<br> Travellers may use the
-  Customs@SG Web application via our eServices (www.customs.gov.sg/services) to
-  make advance declarations and tax payments. <br> For immigration requirements,
-  visit the ICA website (https://safetravel.ica.gov.sg/).
+notification: TradeNet is currently unavailable, and NTP users may face issues
+  when logging onto the NTP. Singapore Customs is working to restore both
+  services. We will provide an update when the systems resume operations. We
+  apologise for any inconvenience caused and thank you for your patience and
+  understanding. <br>  Use our digital services when transacting with us! We
+  encourage businesses to submit trade declarations via TradeNet and access our
+  eServices via the Networked Trade Platform (www.ntp.gov.sg).<br> Travellers
+  may use the Customs@SG Web application via our eServices
+  (www.customs.gov.sg/services) to make advance declarations and tax payments.
+  <br> For immigration requirements, visit the ICA website
+  (https://safetravel.ica.gov.sg/).
 sections:
   - hero:
       background: /images/banner_resized_911.png
