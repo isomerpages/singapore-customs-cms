@@ -54,6 +54,15 @@ Carnet holders can apply for Customs’ Supervision by clicking <a href="https:/
 The CPD and the vehicle must be presented to the checkpoint officer for verification and endorsement when exporting the vehicle.</li>
 	</ul>
 	</div>
+
+
+
+| AAS Endorsement for Tow Only | AAS Endorsement for Vehicle  | 
+| -------- | -------- | 
+| ![](/images/AAS_Endorsement_By_Tow.png)     | ![](/images/AAS_Endorsement_By_Road.png)     | 
+
+	
+	
 	
 </li>
 <li>
