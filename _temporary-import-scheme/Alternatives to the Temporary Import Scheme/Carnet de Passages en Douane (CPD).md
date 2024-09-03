@@ -7,7 +7,7 @@ third_nav_title: Alternatives to the Temporary Import Scheme
 ---
 # *Carnet de Passages en Douane*
 
-The Carnet de Passages En Douane (CPD) is an international Customs document which covers the temporary import of vehicles for touring purposes without the need for payment of duty and GST. Permits are not required for movement (e.g. import and export) of vehicles that are using a CPD.
+The *Carnet de Passages En Douane* (CPD) is an international Customs document which covers the temporary import of vehicles for touring purposes without the need for payment of duty and GST. Permits are not required for movement (e.g. import and export) of vehicles that are using a CPD.
 
 ## Requirements for Local and Foreign *Carnet de Passages en Douane*
 
