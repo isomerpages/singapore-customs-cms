@@ -39,9 +39,6 @@ at the checkpoints</p>
 <li>
 <p>Permits Compliance Branch</p>
 </li>
-<li>
-<p>Risk Assessment Branch</p>
-</li>
 </ul>
 <p>The main roles of the Compliance Division include:</p>
 <ul data-tight="true" class="tight">
@@ -53,10 +50,6 @@ trade agreements and under the strategic goods regime</p>
 <li>
 <p>Conducting assessments and validations on companies for customs schemes
 and mutual recognition discussions with other customs authorities</p>
-</li>
-<li>
-<p>Assessing and managing the risks of Singapore Customs’ external business
-processes, including targeting of consignments and companies for checks</p>
 </li>
 </ul>
 <h2>Data Division</h2>
@@ -178,6 +171,9 @@ and improve processes and services through digital technologies</p>
 <h2>Intelligence &amp; Investigation Division</h2>
 <ul data-tight="true" class="tight">
 <li>
+<p>Analysis &amp; Targeting Branch</p>
+</li>
+<li>
 <p>Intelligence Branch</p>
 </li>
 <li>
@@ -206,6 +202,10 @@ and improve processes and services through digital technologies</p>
 </li>
 <li>
 <p>Providing operations management functions to support enforcement officers</p>
+</li>
+<li>
+<p>Conducting analysis and targeting of shipments and entities for enforcement
+actions</p>
 </li>
 <li>
 <p>Conducting surveillance and investigations to suppress duty evasion and
