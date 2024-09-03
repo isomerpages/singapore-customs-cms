@@ -28,7 +28,8 @@ Import Permits are not required for goods imported using an ATA Carnet. For cont
 
 Application for &nbsp;Customs’ supervision is not required for goods transported via conventional means (i.e. hand-carried) at point of clearance.
 		 
-Carnet holders can apply for Customs’ Supervision by clicking [here](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp).</li>
+Carnet holders can apply for Customs’ Supervision by clicking <a href="https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp">here</a>.
+		</li>
 	</ul>
 	
 <ul>
@@ -54,7 +55,7 @@ If goods imported under the Carnet are sold, GST is payable based on the selling
 				<li><b>Before Temporary Export</b><br>
 For temporary exportation of goods for specific purposes, an ATA Carnet can be used in lieu of a Customs export permit. A Singapore exporter may apply for an ATA Carnet from the Singapore International Chamber of Commerce (SICC). The temporarily exported goods must be re-imported into Singapore within 6 months of export, provided it is still within the Carnet validity period. After obtaining the ATA Carnet, the exporter must apply for Customs’ supervision of packing or stuffing at least 1 working day before the intended operation. 
 					
-Carnet holders can apply for Customs’ Supervision by clicking [here](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp).
+Carnet holders can apply for Customs’ Supervision by clicking <a href="https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp">here</a>.
 				</li></ul>
 	<ul>
 				<li><b>During Temporary Export and Re-Import</b><br>
