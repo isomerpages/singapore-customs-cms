@@ -53,7 +53,7 @@ Carnet holders can apply for Customs’ Supervision by clicking <a href="https:/
    <li><b>During Re-Export</b><br>	
 The CPD and the vehicle must be presented to the checkpoint officer for verification and endorsement when exporting the vehicle.</li>
 	</ul>
-	</div>
+	</div></li></ul>
 
 ## Endorsement for Foreign CPD
 
@@ -64,7 +64,7 @@ The CPD and the vehicle must be presented to the checkpoint officer for verifica
 	
 	
 	
-</li>
+
 <li>
 	<input id="accordion2" type="checkbox">
     <label for="accordion2">Local CPD</label>
@@ -104,4 +104,4 @@ Carnet holders can apply for Customs’ Supervision by clicking <a href="https:/
 </li>
 				</ul>
 			<ul>
-    </ul></div></li></ul>
+    </ul></div></li>
