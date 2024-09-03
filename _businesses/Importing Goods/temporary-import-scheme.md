@@ -34,6 +34,7 @@ accordion:
       supervision of unstuffing of such sealed containers. <br><br> ✖ Sell goods
       brought in under an ATA Carnet beyond the final date allowed for
       re-exportation without paying the GST to Singapore Customs. <br><br>
+variant: markdown
 ---
 # Temporary Import Scheme 
 The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
@@ -71,7 +72,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 -   [Temporary Importation/Exportation of Hand-carried Non-commercial Goods](/businesses/importing-goods/temporary-import-scheme/hand-carried-nc-goods)
     
 -   [ATA Carnet](/businesses/importing-goods/temporary-import-scheme/ata-carnet)
-
+-   [Carnet de Passages en Douane](/businesses/importing-goods/temporary-import-scheme/carnet-de-passages-en-douane-cpd)
 ## Errors and Offences
 
 Traders may be penalised under the Customs Act if they do not comply with the requirements of the Temporary Import Scheme.
