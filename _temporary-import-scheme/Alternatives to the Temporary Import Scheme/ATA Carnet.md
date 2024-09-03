@@ -64,10 +64,10 @@ The Carnet and the goods must be presented to the checkpoint officer for verific
 				</ul>
 		<ul>
 				<li><b>After Re-Import</b><br>
-For goods re-imported in container using local Carnet, the Singapore exporter must apply for Customs’ supervision of unstuffing at least 1 working day before the intended operation. 
+For goods re-imported in container using local Carnet, the Singapore exporter must apply for Customs’ supervision of unstuffing at least 1 working day before the intended operation.<br>
 
 Application for Customs’ supervision is not required for vehicles imported via other means.
-(i.e. by tow, by airfreight, by road).
+(i.e. by tow, by airfreight, by road).<br>
 					
 Carnet holders can apply for Customs’ Supervision by clicking <a href="https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp">here</a>.
 </li>
