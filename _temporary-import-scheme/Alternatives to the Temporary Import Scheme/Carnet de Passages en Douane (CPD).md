@@ -64,7 +64,6 @@ The CPD and the vehicle must be presented to the checkpoint officer for verifica
 	
 	
 <ul class="jekyllcodex_accordion">
-<li>
 	<input id="accordion2" type="checkbox">
     <label for="accordion2">Local CPD</label>
 <div>
@@ -93,7 +92,7 @@ Carnet holders can apply for Customs’ Supervision by clicking <a href="https:/
 				</ul>
 			<ul>
     </ul></div>
-	</li>
+	
 <li>
 	<input id="accordion3" type="checkbox">
     <label for="accordion3">Replacement of CPD</label>
