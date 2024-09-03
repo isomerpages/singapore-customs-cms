@@ -25,8 +25,7 @@ The Carnet de Passages En Douane (CPD) is an international Customs document whic
 
 | By Tow Only | AAS Endorsement for Vehicles |
 | -------- | -------- |
-|   |      | 
-			
+|  ![](/images/AAS_Endorsement_By_Tow.png)| ![](/images/AAS_Endorsement_By_Road.png)| 
 		</li></ul>
 	<ul>
         <li><b>Import permit is utilised</b><br>
