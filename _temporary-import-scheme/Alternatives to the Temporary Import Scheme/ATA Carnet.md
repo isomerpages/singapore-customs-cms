@@ -44,9 +44,8 @@ If goods imported under the Carnet are sold, GST is payable based on the selling
 	</li>
 	</ul>
 	<ul>
-	</ul></div></li></ul>
+	</ul></div></li>
 
-<ul class="jekyllcodex_accordion">
 <li>
 	<input id="accordion2" type="checkbox">
     <label for="accordion2">Local ATA Carnet</label>
