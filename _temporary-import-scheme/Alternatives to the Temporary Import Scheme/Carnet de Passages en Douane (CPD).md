@@ -21,15 +21,78 @@ The Carnet de Passages En Douane (CPD) is an international Customs document whic
 		<li><b>Before Temporary Import</b><br>
 					Prior to the temporary import of the vehicle using foreign CPD, the representative of the foreign entity is required to contact the Automobile Association of Singapore (AAS) for the endorsement on the overleaf of the CPD vouchers. Vehicles will not be allowed entry into Singapore if there is no endorsement from AAS on the overleaf of the movement vouchers. <br>
 
-Before the temporary importation of the vehicle using foreign CPD, Carnet holders can find more information on the pre-requisites on the <a href="https://aas.com.sg/idp-carnet/"> AAS website.
+Before the temporary importation of the vehicle using foreign CPD, Carnet holders can find more information on the pre-requisites on the <a href="https://aas.com.sg/idp-carnet/"> AAS website</a>.
 			
-			
-</a></li></ul><a href="https://aas.com.sg/idp-carnet/">
-	</a><ul><a href="https://aas.com.sg/idp-carnet/">
-        </a><li><a href="https://aas.com.sg/idp-carnet/"><b>Import permit is utilised</b><br>
-Amendments and cancellation are generally not allowed for import permits which have been utilised for clearance. If you have detected any errors in such permits where amendment or cancellation is not allowed, you may wish to lodge a </a><a href="https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme">Voluntary Disclosure</a> to Customs.</li>
+</li></ul>
+	<ul>
+   <li><b>During Temporary Import</b><br>	
+The CPD and the vehicle must be presented to the checkpoint officer for verification and endorsement. The vehicle will be allowed to be temporarily imported into Singapore for a period of 1 year from the date of issuance to the Carnet holder, or up to 1 day before the CPD’s validity date.</li>
 	</ul>
-    </div>
-	</li>
+	
+<ul>
+   <li><b>After Temporary Import</b><br>	
+For vehicles temporarily imported in containers using foreign CPD, the foreign entity or its locally appointed freight forwarding agent must apply for Customs’ supervision of unstuffing of the vehicle at least 1 working day in advance before the intended operation.
+	
+Application for Customs’ supervision is not required for vehicles imported via other means.
+(i.e. by tow, by airfreight, by road)
 
-</ul>
+Carnet holders can apply for Customs’ Supervision by clicking <a href="https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp">here</a>.
+</li>
+	</ul>
+	<ul>
+   <li><b>Before Re-Export</b><br>	
+For vehicles that are going to be re-exported in containers using foreign CPD, the foreign entity or its locally appointed freight forwarding agent must apply for Customs’ supervision of stuffing of the vehicle at least 1 working day in advance before the intended operation.
+	
+Application for Customs’ supervision is not required for vehicles imported via other means.
+(i.e. by tow, by airfreight, by road)
+
+Carnet holders can apply for Customs’ Supervision by clicking <a href="https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp">here</a>.
+	</li>
+	</ul>
+	<ul>
+   <li><b>During Re-Export</b><br>	
+The CPD and the vehicle must be presented to the checkpoint officer for verification and endorsement when exporting the vehicle.</li>
+	</ul>
+	</div>
+	
+</li>
+<li>
+	<input id="accordion2" type="checkbox">
+    <label for="accordion2">Local CPD</label>
+<div>
+      <ul>
+				<li><b>Before Temporary Export</b><br>
+For the temporary export of vehicles for touring purposes, a CPD can be used in lieu of a Customs export permit. A Singapore exporter may apply for a CPD from the Automobile Association of Singapore (AAS).
+
+The Singapore exporter must apply for Customs’ supervision of packing or stuffing at least 1 working day before the intended operation. 
+
+Carnet holders can apply for Customs’ Supervision by clicking <a href="https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp">here</a>.
+				</li></ul>
+	<ul>
+				<li><b>During Temporary Export and Re-Import</b><br>
+The CPD and the vehicle must be presented to the checkpoint officer for verification and endorsement. The temporarily exported vehicle must be re-imported into Singapore within 1 year of export, or 1 day before the CPD’s validity date.
+</li>
+				</ul>
+		<ul>
+				<li><b>After Re-Import</b><br>
+For vehicles re-imported via containers using local CPD, the Singapore exporter must apply for Customs’ supervision of unpacking or unstuffing at least 1 working day before the intended operation. 
+
+Application for Customs’ supervision is not required for vehicles imported via other means.
+(i.e. by tow, by airfreight, by road)
+
+Carnet holders can apply for Customs’ Supervision by clicking <a href="https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp">here</a>.
+</li>
+				</ul>
+			<ul>
+    </ul></div>
+	</li>
+<li>
+	<input id="accordion2" type="checkbox">
+    <label for="accordion3">Replacement of CPD</label>
+<div>
+      <ul>
+				<li>CPD holders wishing to extend the re-exportation or re-importation due date beyond the CPD validity date will need to seek a replacement CPD. Please contact AAS for replacement at least 1 month before the validity date of the expiring CPD.<br>
+</li>
+				</ul>
+			<ul>
+    </ul></div></li></ul>
