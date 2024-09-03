@@ -19,17 +19,15 @@ The Carnet de Passages En Douane (CPD) is an international Customs document whic
 <div>
 	<ul>
 		<li><b>Before Temporary Import</b><br>
-					Prior to the temporary import of the vehicle using foreign CPD, the representative of the foreign entity is required to contact the Automobile Association of Singapore (AAS) for the endorsement on the overleaf of the CPD vouchers. Vehicles will not be allowed entry into Singapore if there is no endorsement from AAS on the overleaf of the movement vouchers as shown below:
-			
-			
+					Prior to the temporary import of the vehicle using foreign CPD, the representative of the foreign entity is required to contact the Automobile Association of Singapore (AAS) for the endorsement on the overleaf of the CPD vouchers. Vehicles will not be allowed entry into Singapore if there is no endorsement from AAS on the overleaf of the movement vouchers. <br>
 
-| By Tow Only | AAS Endorsement for Vehicles |
-| -------- | -------- |
-|  ![](/images/AAS_Endorsement_By_Tow.png)| ![](/images/AAS_Endorsement_By_Road.png)| 
-		</li></ul>
-	<ul>
-        <li><b>Import permit is utilised</b><br>
-Amendments and cancellation are generally not allowed for import permits which have been utilised for clearance. If you have detected any errors in such permits where amendment or cancellation is not allowed, you may wish to lodge a <a href="https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme">Voluntary Disclosure</a> to Customs.</li>
+Before the temporary importation of the vehicle using foreign CPD, Carnet holders can find more information on the pre-requisites on the <a href="https://aas.com.sg/idp-carnet/"> AAS website.
+			
+			
+</a></li></ul><a href="https://aas.com.sg/idp-carnet/">
+	</a><ul><a href="https://aas.com.sg/idp-carnet/">
+        </a><li><a href="https://aas.com.sg/idp-carnet/"><b>Import permit is utilised</b><br>
+Amendments and cancellation are generally not allowed for import permits which have been utilised for clearance. If you have detected any errors in such permits where amendment or cancellation is not allowed, you may wish to lodge a </a><a href="https://www.customs.gov.sg/businesses/compliance/voluntary-disclosure-programme">Voluntary Disclosure</a> to Customs.</li>
 	</ul>
     </div>
 	</li>
