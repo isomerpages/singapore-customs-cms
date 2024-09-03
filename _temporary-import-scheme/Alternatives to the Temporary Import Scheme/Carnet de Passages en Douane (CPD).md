@@ -102,5 +102,4 @@ Carnet holders can apply for Customs’ Supervision by clicking <a href="https:/
 				<li>CPD holders wishing to extend the re-exportation or re-importation due date beyond the CPD validity date will need to seek a replacement CPD. Please contact AAS for replacement at least 1 month before the validity date of the expiring CPD.<br>
 </li>
 				</ul>
-			<ul>
-    </ul></div></li>
+	</div></li>
