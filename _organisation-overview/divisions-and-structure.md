@@ -314,10 +314,9 @@ to uphold Singapore Customs reputation.</p>
 </li>
 <li>
 <p>Trade Strategy &amp; Development Branch</p>
-<p></p>
-<p>The main roles of the Trade Division include:</p>
 </li>
 </ul>
+<p>The main roles of the Trade Division include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Developing and maintaining an efficient trade framework that meets Singapore
