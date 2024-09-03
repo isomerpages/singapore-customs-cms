@@ -64,8 +64,8 @@ The CPD and the vehicle must be presented to the checkpoint officer for verifica
 	
 	
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox">
-    <label for="accordion1">Local CPD</label>
+<li><input id="accordion2" type="checkbox">
+    <label for="accordion2">Local CPD</label>
 <div>
       <ul>
 				<li><b>Before Temporary Export</b><br>
@@ -94,8 +94,8 @@ Carnet holders can apply for Customs’ Supervision by clicking <a href="https:/
     </ul></div>
 	
 </li><li>
-	<input id="accordion2" type="checkbox">
-    <label for="accordion2">Replacement of CPD</label>
+	<input id="accordion3" type="checkbox">
+    <label for="accordion3">Replacement of CPD</label>
 <div>
       <ul>
 				<li>CPD holders wishing to extend the re-exportation or re-importation due date beyond the CPD validity date will need to seek a replacement CPD. Please contact AAS for replacement at least 1 month before the validity date of the expiring CPD.<br>
