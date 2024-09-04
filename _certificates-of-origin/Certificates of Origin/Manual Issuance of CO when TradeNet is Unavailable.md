@@ -11,7 +11,7 @@ third_nav_title: Certificates of Origin
 <p>The required documents include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.customs.gov.sg/files/businesses/working-sheet-for-back-to-back-application.doc" rel="noopener nofollow" target="_blank">Working sheet for partial consignments </a>
+<p><a href="https://www.customs.gov.sg/files/businesses/working-sheet-for-back-to-back-application.doc" rel="noopener nofollow" target="_blank">Working sheet for partial consignments</a>
 </p>
 </li>
 <li>
