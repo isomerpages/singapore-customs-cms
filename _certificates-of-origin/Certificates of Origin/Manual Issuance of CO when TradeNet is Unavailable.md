@@ -8,6 +8,18 @@ third_nav_title: Certificates of Origin
 <h2>Manual Issuance of Certificate of Origin</h2>
 <p><strong>When TradeNet is Not Available</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="bcp" src="/images/Picture1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
 <p>The required documents include:</p>
 <ul data-tight="true" class="tight">
 <li>
