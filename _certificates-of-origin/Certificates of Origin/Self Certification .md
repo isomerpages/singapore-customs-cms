@@ -3,6 +3,7 @@ title: Self Certification
 permalink: /businesses/certificates-of-origin/sc/
 description: ""
 third_nav_title: Certificates of Origin
+variant: markdown
 ---
 # Free Trade Agreements under Self-Certification regime
 
@@ -29,7 +30,7 @@ To self-certify under the ASEAN Trade-in Good Agreement (ATIGA) and under the Re
 | 6.     | Agreement between Singapore and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Partnership (ASTEP)    | [Circular No. 06/2014](https://www.customs.gov.sg/news-and-media/circulars/2014-04-03-Circular062014.pdf)    |
 | 7.     | Turkey-Singapore Free Trade Agreement (TRSFTA)     | [Circular No. 12/2017](https://www.customs.gov.sg/news-and-media/circulars/2017-09-13-Circular122017.pdf)   |
 | 8.     |  Singapore-Australia Free Trade Agreement (SAFTA)  | [Circular No. 16/2017](https://www.customs.gov.sg/news-and-media/circulars/2017-11-24-Circular162017.pdf)    |
-| 9.     | Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)     | [Circular No. 13/2018](https://www.customs.gov.sg/news-and-media/circulars/2018-12-12-Circular132018.pdf)     |
+| 9.     | Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)     | [Circular No. 13/2018](https://www.customs.gov.sg/files/12%20jul%202023%20circular%20for%20exports%20under%20the%20cptpp_13_2018%20(updated).pdf)    |
 | 10.     | European Union-Singapore Free Trade Agreement (EUSFTA)   | [Circular No. 18/2019](/files/businesses/ttsb-roo/circular%2018_2019%20(ver%204).pdf)     |
 | 11.     | New Zealand-Singapore Comprehensive Economic Partnership (ANZSCEP)  | [Circular No. 21/2019](https://www.customs.gov.sg/news-and-media/circulars/2019-12-20-Circular212019.pdf)   |
 |12.| UK-Singapore Free Trade Agreement | [Circular No. 15/2020](https://www.customs.gov.sg/news-and-media/circulars/2020-12-31-Circular152020.pdf)
