@@ -17,7 +17,7 @@ third_nav_title: Certificates of Origin
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3v3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3v4.png">
 </div>
 <p>The required documents include:</p>
 <ul data-tight="true" class="tight">
@@ -36,6 +36,9 @@ for Back-to-Back Form RCEP, Certificate Type 34)</p>
 <li>
 <p>The relevant authorisation letters to be prepared by your company using
 company's letter head</p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 <p></p>
