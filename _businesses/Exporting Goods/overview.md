@@ -2,6 +2,7 @@
 title: Overview
 permalink: /businesses/exporting-goods/overview/
 third_nav_title: Exporting Goods
+variant: markdown
 ---
 # Quick Guide for Exporters
 
@@ -36,7 +37,7 @@ Do check if the goods you intend to export are controlled goods subject to restr
 
 You may  [search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} using the description of the goods, Harmonized System (HS) code or CA product code. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.
 
-If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} of the product, you may apply for an  [official classification ruling](/files/businesses/application-for-classification.doc)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
+If you require advice on the full 8-digit  [HS code](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"} of the product, you may apply for an  [official classification ruling](https://www.customs.gov.sg/businesses/harmonized-system-hs-classification-of-goods/application-for-customs-ruling-on-classification-of-goods/)  at a fee of S$75 per product. Please note our classification rulings are only applicable for use within Singapore.
 
 ## Step 3:  Obtain Customs Export Permit
 You may:
