@@ -65,9 +65,6 @@ The Carnet and the goods must be presented to the checkpoint officer for verific
 		<ul>
 				<li><b>After Re-Import</b><br>
 For goods re-imported in container using local Carnet, the Singapore exporter must apply for Customs’ supervision of unstuffing at least 1 working day before the intended operation.<br>
-
-Application for Customs’ supervision is not required for vehicles imported via other means.
-(i.e. by tow, by airfreight, by road).<br>
 					
 Carnet holders can apply for Customs’ Supervision by clicking <a href="https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp">here</a>.
 </li>
@@ -80,7 +77,7 @@ Carnet holders can apply for Customs’ Supervision by clicking <a href="https:/
     <label for="accordion3">Extension of ATA Carnet Re-Exportation / Re-Importation Due Date</label>
 <div>
       <ul>
-				<li>ATA Carnet holders wishing to extend the re-exportation or re-importation due date may write in to <a href="mailto:Customs_Carnet@customs.gov.sg"> Customs Carnet </a> at least 2 weeks before the due date. Please note that the extension of the ATA Carnet validity period is not allowed, and an expired ATA Carnet is not allowed to be used in Singapore.<br>
+				<li>ATA Carnet holders who wish to extend the re-exportation or re-importation due date may write in to <a href="mailto:Customs_Carnet@customs.gov.sg"> Customs Carnet </a> at least 2 weeks before the due date. Please note that the extension of the ATA Carnet validity period is not allowed, and an expired ATA Carnet is not allowed to be used in Singapore.<br>
 </li>
 				</ul>
 			<ul>
@@ -90,7 +87,11 @@ Carnet holders can apply for Customs’ Supervision by clicking <a href="https:/
     <label for="accordion4">Replacement of Expiring ATA Carnet</label>
 <div>
       <ul>
-				<li>ATA Carnet holders wishing to extend the re-exportation or re-importation due date beyond the Carnet validity date will need to seek a replacement Carnet. Please contact SICC for replacement before writing in to <a href="mailto:Customs_Carnet@customs.gov.sg"> Customs Carnet </a>, at least 1 month before the validity date of the expiring Carnet.<br>
+				<li>A replacement ATA Carnet may be used if the Original ATA Carnet is lost, stolen, destroyed, or expiring.<br>
+					
+For lost or stolen ATA carnet, a copy of the police report made in the country of occurrence will need to be submitted before the replacement ATA carnet can be approved.<br>
+
+For approval of the use of replacement ATA Carnets, please write to  to <a href="mailto:Customs_Carnet@customs.gov.sg"> Customs Carnet </a>.<br>
 </li>
 				</ul>
 			<ul>
