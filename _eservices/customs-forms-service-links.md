@@ -932,7 +932,7 @@ and/or Tobacco Sea Stores</p>
 User</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mrs-registration-form" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+<p><a href="https://form.gov.sg/5c9dd6bf5b6b230017d50306" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
 </p>
 </td>
 </tr>
