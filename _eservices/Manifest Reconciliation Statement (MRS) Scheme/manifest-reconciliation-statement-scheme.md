@@ -12,7 +12,7 @@ and air consignments. This is in accordance with Regulations 11 and 12
 of the Regulation of Import and Exports Regulations (RIER).</p>
 <h2>Application as a MRS User (sea shipments)</h2>
 <p>Only authorised MRS users are allowed to submit MRS on behalf of their
-company. For registration as a MRS user, please complete the <a href="https://form.gov.sg/5c9dd6bf5b6b230017d50306" rel="noopener noreferrer nofollow" target="_blank">MRS registration form</a>.
+company. For registration as a MRS user, please complete the <a href="https://go.gov.sg/mrs-registration-form" rel="noopener noreferrer nofollow" target="_blank">MRS registration form</a>.
 When submitting this application form, please ensure that:</p>
 <ul data-tight="true" class="tight">
 <li>
