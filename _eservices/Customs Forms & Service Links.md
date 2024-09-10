@@ -1,7 +1,8 @@
 ---
 title: Customs Forms & Service Links
 permalink: /eservices/customs-forms-and-service-links/
-variant: tiptap
+variant: markdown
+description: ""
 ---
 <h2>ASEAN Customs Transit System</h2>
 <table style="minWidth: 75px">
