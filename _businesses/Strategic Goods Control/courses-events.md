@@ -19,7 +19,7 @@ Singapore Customs actively conducts seminars to update the industry on the lates
 
 | Date | Title | Related Link |
 | -------- | -------- | -------- |
-| 29 October 2024  | Joint Industry Outreach Seminar on Strategic Trade Management 2024 | [Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2024/){:target="_blank"}     |
+| 29 October 2024  | Joint Industry Outreach Seminar on Strategic Trade Management 2024 | [Web Link](/joint-industry-outreach-on-strategic-trade-management-2024/){:target="_blank"}  |
 
 ## Past Events
 
