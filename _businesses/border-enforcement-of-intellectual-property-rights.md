@@ -80,7 +80,7 @@ The templates for the guarantee and letter of undertaking can be found below.
 
 | Forms |  Related Links |
 |---|---|
-| Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Link](https://go.gov.sg/guarantee-to-be-issued-by-a-bank-finance-company-or-insurance-company-in-singapore)| [Guidelines](https://go.gov.sg/guidelines-for-completing-the-guarantee-gov-ut-template)|
+| Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Link](https://go.gov.sg/guarantee-to-be-issued-by-a-bank-finance-company-or-insurance-company-in-singapore)| [(Guidelines)](https://go.gov.sg/guidelines-for-completing-the-guarantee-gov-ut-template)|
 | Letter of Undertaking under the Trade Marks Act| [Link](https://go.gov.sg/loutmnov22) |
 | Letter of Undertaking under the Copyright Act | [Link](https://go.gov.sg/copyright-form1-seizure-on-request)|
 | Letter of Undertaking under Geographical Indications Act| [Link](https://go.gov.sg/louginov22) |
