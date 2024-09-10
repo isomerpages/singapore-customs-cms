@@ -33,6 +33,6 @@ and researchers dealing with strategic goods or strategic goods technology
 are encouraged to attend the seminar.&nbsp;</p>
 <p>Registration is <strong><u>free</u></strong>. Participants can register
 for the Seminar by clicking on the <a href="https://llnl.cventevents.com/Z0Xex0" rel="noopener noreferrer nofollow" target="_blank">registration link</a> and entering
-the passcode<strong> JIO2024. Registration deadline is 30 September 2024</strong>.</p>
+the passcode<strong> JIO2024. Registration deadline is <u>30 September 2024</u></strong>.</p>
 <p>All successful and approved registrants will be notified via email and
 will receive an updated schedule and venue information.</p>
