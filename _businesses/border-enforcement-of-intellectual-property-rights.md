@@ -1,6 +1,7 @@
 ---
 title: Border Enforcement of Intellectual Property Rights
 permalink: /businesses/border-enforcement-of-intellectual-property-rights/quick-guide-for-copyright-and-trade-mark-owners-and-licensees/
+variant: markdown
 ---
 # Quick Guide to Border Enforcement Measures for Trademarks, Copyright, Geographical Indications and Registered Designs
 
@@ -56,13 +57,13 @@ To provide notice, please select and complete the appropriate form from the tabl
 
   | Forms | Related Links |
   |---|---|
-  | Trade Marks Form 1 – Seizure on Request | [Link](https://go.gov.sg/tmf1nov22) |
-  | Copyright Form 1 – Seizure on Request | [Link](https://go.gov.sg/crf12021) |
-	|Geographical Indications Form 1 – Seizure on Request|  [Link](https://go.gov.sg/gif1nov22) |
-	| Registered Designs Form – Seizure on Request| [Link](https://go.gov.sg/rdfnov22) |
-  | Trade Marks Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/tmf22022 ) |
-  | Copyright Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/crf22021) |
-	 | Geographical Indications Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/gif2nov22) |
+  | Trade Marks Form 1 – Seizure on Request | [Link](https://go.gov.sg/trademarks-form1-seizure-on-request)|
+  | Copyright Form 1 – Seizure on Request | [Link](https://go.gov.sg/copyright-form1-seizure-on-request)|
+	|Geographical Indications Form 1 – Seizure on Request|  [Link](https://go.gov.sg/geographical-indications-form1-seizure-on-request)|
+	| Registered Designs Form – Seizure on Request| [Link](https://go.gov.sg/registered-designs-form-seizure-on-request)|
+  | Trade Marks Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/trade-marks-form2-ex-officio-seizure)|
+  | Copyright Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/copyright-form-2-ex-officio-seizure)|
+	 | Geographical Indications Form 2 – Ex-Officio Seizure | [Link](https://go.gov.sg/geographical-indications-form2-ex-officio-seizure)|
 
 The Notice should be accompanied by the following:
 
@@ -79,7 +80,8 @@ The templates for the guarantee and letter of undertaking can be found below.
 
 | Forms |  Related Links |
 |---|---|
-| Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Link](https://go.gov.sg/grttnov22) |
+| Guarantee to be issued by a bank, finance company or insurance company in Singapore | [Link](https://go.gov.sg/guarantee-to-be-issued-by-a-bank-finance-company-or-insurance-company-in-singapore) |
+| Guidelines for Completing the Guarantee Template | [Link](https://go.gov.sg/guidelines-for-completing-the-guarantee-gov-ut-template) |
 | Letter of Undertaking under the Trade Marks Act| [Link](https://go.gov.sg/loutmnov22) |
 | Letter of Undertaking under the Copyright Act | [Link](/files/businesses/letter-of-undertaking-under-copyright-act.docx) (18.9KB) |
 | Letter of Undertaking under Geographical Indications Act| [Link](https://go.gov.sg/louginov22) |
