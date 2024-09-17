@@ -25,6 +25,6 @@ We urge the public to be vigilant against such scams. Take the following precaut
  
 When in doubt,  you can always contact Singapore Customs at [customs\_feedback@customs.gov.sg](mailto:customs_feedback@customs.gov.sg) regarding any correspondence you receive from us.
 
-More information on how to protect yourself against Customs-related scams can be read at: https://go.gov.sg/scam-advisory
+More information on how to protect yourself against Customs-related scams can be read at: [https://go.gov.sg/scam-advisory](https://go.gov.sg/scam-advisory)
 
 ![beware of scams](/images/advisory/Beware_of_scams.png)
