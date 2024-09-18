@@ -2,6 +2,7 @@
 title: Singapore Civil Defence Force (SCDF)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/scdf/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
 # Singapore Civil Defence Force (SCDF)
 
@@ -11,7 +12,7 @@ The basic requirements are:
 
 a. Before submission of application for the cargo clearance permit
 
-The applicant is required to apply for an import licence online via the following  [website](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP){:target="_blank"}. The applicant is required to declare the following for import licence:
+The applicant is required to apply for an import licence online via the following  [website](https://eservices.scdf.gov.sg/fisops/pfm-import-licence){:target="_blank"}. The applicant is required to declare the following for import licence:
 
 -   EI (Entity Identifier) no. and information
 -   type &amp; quantities of petroleum &amp; flammable materials
