@@ -84,7 +84,7 @@ variant: markdown
 **Taiwan**
 
 -   [Bureau of Foreign Trade, Ministry of Economic Affairs](http://www.trade.gov.tw/english/Pages/List.aspx?nodeID=102){:target="_blank"}
--   [Ministry of Finance - Directorate General of Customs](http://eweb.customs.gov.tw/mp.asp?mp=21){:target="_blank"}
+-   [Ministry of Finance - Directorate General of Customs](https://web.customs.gov.tw/etaipei/){:target="_blank"}
 
 **United Kingdom (UK)**
 
