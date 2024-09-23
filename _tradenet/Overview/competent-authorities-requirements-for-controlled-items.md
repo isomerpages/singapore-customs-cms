@@ -16,7 +16,7 @@ Before you put up a permit application for controlled items, please note these 3
 
 You may refer to the link below for the HS Codes of controlled items under the various CAs’ control, and the contact information of the CA(s):
 
--   [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)
+-   [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="\_blank"}
 
 Examples:
 
