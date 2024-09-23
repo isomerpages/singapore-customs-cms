@@ -38,7 +38,6 @@ use without a Dealer's Licence.</p>
 |    Radio remote control apparatus, Radio Remote control for toys [e.g., remote control for toy car] and Modelling Radio remote control for flying models other than remote control toy [e.g., remote control for aircraft model]  | 85269200     | IDAMISC     |
 |  Normal broadcasting radio equipment [e.g., AM/FM broadcast radio], Radio amplifier or tuner (Broadcast bands only)   | 85279920     | IDAMISC     |
 
-<hr>
 <p>*There is no restriction on the quantity of equipment imported.</p>
 <hr>
 <h2>Import by Licensed Dealers</h2>
