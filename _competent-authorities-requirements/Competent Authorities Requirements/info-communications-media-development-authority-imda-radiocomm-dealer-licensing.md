@@ -27,7 +27,7 @@ and jamming of signals).</p>
 equipment may be imported for an individual's personal use or his/her company’s
 use without a Dealer's Licence.</p>
 
-|Type of Equipment  | HS Code |Product Code 
+|Type of Equipment  | HS Code |Product Code| 
 | -------- | -------- | -------- |
 | Telecommunication equipment such as standard fixed line telephones, faxes, security alarm systems, modems |   (Depend on the type of equipment)   |  (Depend on the type of equipment)    |
 |   Mobile phones or telephones for cellular networks or for other wireless networks – Declaration of RoHS Non-Compliance with valid license   | 85171200     |   Joint controlled PCDMPH211   |
