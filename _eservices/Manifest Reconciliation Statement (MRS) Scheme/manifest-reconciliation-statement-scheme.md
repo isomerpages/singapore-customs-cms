@@ -2,7 +2,7 @@
 title: Manifest Reconciliation Statement Scheme
 permalink: /eservices/manifest-reconciliation-statement-scheme/
 third_nav_title: Manifest Reconciliation Statement (MRS) Scheme
-variant: tiptap
+variant: markdown
 ---
 <h1>Manifest Reconciliation Statement (MRS) Scheme</h1>
 <h2>Overview</h2>
