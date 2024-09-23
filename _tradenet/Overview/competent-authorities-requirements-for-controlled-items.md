@@ -2,7 +2,7 @@
 title: Competent Authorities' Requirements for Controlled Items
 permalink: /businesses/national-single-window/overview/competent-authorities-requirements/
 third_nav_title: Overview
-variant: tiptap
+variant: markdown
 ---
 <h1>Competent Authorities' Requirements for Controlled Items</h1>
 <p>All imports, exports and transhipments must be covered by the relevant
