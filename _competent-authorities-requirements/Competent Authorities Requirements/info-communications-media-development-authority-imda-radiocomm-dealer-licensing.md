@@ -3,7 +3,7 @@ title: Info-communications Media Development Authority (IMDA) - Radiocomm &
   Dealer Licensing
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/imda-radiocomm-and-dealer-licensing/
 third_nav_title: Competent Authorities Requirements
-variant: tiptap
+variant: markdown
 ---
 <h1>Info-communications Media Development Authority (IMDA) - Radiocomm &amp; Dealer Licensing</h1>
 <h2>Guidelines on Declaration of Importation of Telecommunication Equipment</h2>
