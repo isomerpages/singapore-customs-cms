@@ -40,66 +40,17 @@ a letter indicating the name, NRIC/FIN/Foreign National ID numbers of staff
 <p>Upon successful registration, Customs will notify the main contact person
 and authorised MRS user(s) via email.</p>
 <h2>MRS Submission Procedures</h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Sea Shipment</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Air Shipment</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Import</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Freight forwarder/ common carrier is to submit the house manifest, import
-permit and any other required document(s) to the owner, master or agent
-of the vessel <em>within 10 days after the arrival of the vessel.</em> 
-<br>
-<br>Owner, master or agent of the vessel is to submit MRS to Singapore Customs <em>within 17 days after the arrival of the vessel.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cargo agent/ importer is to submit the Cargo Manifest Declaration (CMD)
-to the owner, master or agent of the aircraft <em>within 10 days after the arrival of the aircraft.</em> 
-<br>
-<br>Owner, master or agent of the aircraft is to submit MRS to Singapore Customs <em>within 17 days after the arrival of the aircraft.</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Export</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Freight forwarder/ common carrier is to to submit house manifest, export
-permit and any other required document(s) to the owner, master or agent
-of the vessel <em>within 7 days after the departure of the vessel.</em> 
-<br>
-<br>Owner, master or agent of the vessel is to submit MRS to Singapore Customs <em>within 14 days after the departure of the vessel.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cargo agent/ exporter is to submit the Cargo Manifest Declaration (CMD)
-to the owner, master or agent of the aircraft <em>within 7 days after the departure of the aircraft.</em> 
-<br>
-<br>Owner, master or agent of the aircraft is to submit MRS to Singapore Customs <em>within 14 days after the departure of the aircraft.</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+
+
+|  | Sea Shipment | Air Shipment |
+| -------- | -------- | -------- |
+| Import     | Freight forwarder/ common carrier is to submit the house manifest, import permit and any other required document(s) to the owner, master or agent of the vessel&nbsp;_within 10 days after the arrival of the vessel._  <br><br>Owner, master or agent of the vessel is to submit MRS to Singapore Customs&nbsp;_within 17 days after the arrival of the vessel._     | Cargo agent/ importer is to submit the Cargo Manifest Declaration (CMD) to the owner, master or agent of the aircraft&nbsp;_within 10 days after the arrival of the aircraft._  <br><br>Owner, master or agent of the aircraft is to submit MRS to Singapore Customs&nbsp;_within 17 days after the arrival of the aircraft._     |
+| Export     | Freight forwarder/ common carrier is to to submit house manifest, export permit and any other required document(s) to the owner, master or agent of the vessel&nbsp;_within 7 days after the departure of the vessel._  <br><br>Owner, master or agent of the vessel is to submit MRS to Singapore Customs&nbsp;_within 14 days after the departure of the vessel._     | Cargo agent/ exporter is to submit the Cargo Manifest Declaration (CMD) to the owner, master or agent of the aircraft&nbsp;_within 7 days after the departure of the aircraft._  <br><br>Owner, master or agent of the aircraft is to submit MRS to Singapore Customs&nbsp;_within 14 days after the departure of the aircraft._     |
+<hr>
+
+
+
+
 <p>Companies are to retain their documents for at least one month from the
 MRS submission date, so that the relevant documents can be duly provided
 when required by Customs.</p>
