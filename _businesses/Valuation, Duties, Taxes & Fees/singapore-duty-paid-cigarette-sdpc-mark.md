@@ -39,4 +39,3 @@ Singapore Customs will process your application within 7 working days upon compl
 **Contact Us**
 
 For queries on SDPC application procedures, you may [chat with us, leave a call-back request](https://www.customs.gov.sg/contact-us/) or submit an enquiry via [the Customs Documentation Enquiry Form](https://go.gov.sg/customs-doc).
-
