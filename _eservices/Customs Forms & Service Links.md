@@ -21,13 +21,12 @@ description: ""
 | No. | E-Services | Links |
 |--|--|--|
 | 1. | Application for Cancellation of Certificate of Origin issued by Singapore Customs | [Web Link](https://form.gov.sg/#!/5f2cc687777f950011129385)|
-| 2. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)|
-| 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a)|
+| 2. | Application Form to be an Approved Exporter |[Web Link](https://form.gov.sg/66f6459de8c347793a07c279)|
+| 3. | Application Form to be an Approved/Certified Exporter |[Web Link](https://form.gov.sg/66f644faf68eca0fbadfd0e8)|
 | 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp)|
 | 5. | Manufacturing Cost Statement Format |[Excel Doc](https://go.gov.sg/coststatementfeb2024)|
 | 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
-| 7. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/65aa0d644c2f3e0012ac93a4)|
-| 8. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
+| 7. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/66f646c3d1d7c81f08970b9e)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
@@ -86,10 +85,10 @@ description: ""
 
 | No. | E-services | Links |
 |--|--|--|
-| 1. | Application for Certificate of Free Sale (CFS)<br>  |[Web Link](https://form.gov.sg/6433b249135e4c0012efce2e )|
+| 1. | Application for Certificate of Free Sale (CFS)<br>  |[Web Link](https://form.gov.sg/66f6464a362d593ca478464f)|
 | 2. | CFS Application Form | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
 | 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)|
-| 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
+| 4. | Application for Customs Ruling on Origin Determination of Imported Goods |[Web Link](https://form.gov.sg/66f646fc30c4523e3dbf50c0) |
 | 5. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
 | 6. | Application for Supervision Operations | [Web Link](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)|
 | 7. | HCES Permit Clearance Status Query | [Web Link](https://form.gov.sg/62e0e341ff86280013c1d93b)|
