@@ -21,12 +21,13 @@ description: ""
 | No. | E-Services | Links |
 |--|--|--|
 | 1. | Application for Cancellation of Certificate of Origin issued by Singapore Customs | [Web Link](https://form.gov.sg/#!/5f2cc687777f950011129385)|
-| 2. | Application Form to be an Approved Exporter |[Web Link](https://form.gov.sg/66f6459de8c347793a07c279)|
-| 3. | Application Form to be an Approved/Certified Exporter |[Web Link](https://form.gov.sg/66f644faf68eca0fbadfd0e8)|
+| 2. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)|
+| 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a)|
 | 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp)|
 | 5. | Manufacturing Cost Statement Format |[Excel Doc](https://go.gov.sg/coststatementfeb2024)|
 | 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
-| 7. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/66f646c3d1d7c81f08970b9e)|
+| 7. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/65aa0d644c2f3e0012ac93a4)|
+| 8. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
@@ -85,10 +86,10 @@ description: ""
 
 | No. | E-services | Links |
 |--|--|--|
-| 1. | Application for Certificate of Free Sale (CFS)<br>  |[Web Link](https://form.gov.sg/66f6464a362d593ca478464f)|
+| 1. | Application for Certificate of Free Sale (CFS)<br>  |[Web Link](https://form.gov.sg/6433b249135e4c0012efce2e )|
 | 2. | CFS Application Form | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
 | 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)|
-| 4. | Application for Customs Ruling on Origin Determination of Imported Goods |[Web Link](https://form.gov.sg/66f646fc30c4523e3dbf50c0) |
+| 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
 | 5. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
 | 6. | Application for Supervision Operations | [Web Link](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)|
 | 7. | HCES Permit Clearance Status Query | [Web Link](https://form.gov.sg/62e0e341ff86280013c1d93b)|
@@ -105,7 +106,7 @@ description: ""
 | 3. | Application for Inter-Bank Giro | [Word Doc](https://go.gov.sg/customs-ibg-form)|
 | 4. | Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores | [Web Link](https://form.gov.sg/#!/60c9919a86afa600119a4f51)|
 | 5. | Application for Registration of Manifest Reconciliation Statement (MRS) User | [Web Link](https://go.gov.sg/mrs-registration-form)|
-| 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/#!/5ccac0a442502b00107a9554)|
+| 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/admin/form/66f64a1371d5a7d9df3caf1e)|
 | 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP)|
 | 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Web Link](https://go.gov.sg/adalp)
 | 9. | Application for Vessel Registration (VR) | [Web Link](https://form.gov.sg/61d7d0ef3cff10001210b7b5)
