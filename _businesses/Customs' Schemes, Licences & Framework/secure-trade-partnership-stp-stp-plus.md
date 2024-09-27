@@ -108,6 +108,7 @@ recognised by other partners through a mutual recognition arrangement</p>
 </li>
 <li>
 <p><a href="/files/062024_Implementation_of_The_Association_of_Southeast_Asian_Nations__ASEAN__Authorised_Economic_Operator__AEO__Mutual_Recognition_Arrangement__MRA_.pdf" rel="noopener noreferrer nofollow" target="_blank">ASEAN (2024)</a>
+<a href="/files/062024_Implementation_of_The_Association_of_Southeast_Asian_Nations__ASEAN__Authorised_Economic_Operator__AEO__Mutual_Recognition_Arrangement__MRA_.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </li>
 </ul>
@@ -116,8 +117,9 @@ be recognised as being of lower risk and can enjoy a higher level of facilitatio
 <p>Singapore Customs continues to engage like-minded customs administrations
 to expand our list of MRA partners, and bring about greater benefits to
 the trading community.</p>
-<p>Please refer to the <a href="/files/businesses/seb/MRA_Factsheet_ASEAN.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
-more details on the procedures to enjoy the benefits under the MRAs.</p>
+<p>Please refer to the <a href="/files/businesses/seb/MRA_Factsheet_ASEAN.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet on Mutual Recognition</a>
+<a href="/files/Latest_MRA_Factsheet_ASEAN.pdf" rel="noopener nofollow" target="_blank">file</a>for more details on the procedures to enjoy the benefits under
+the MRAs.</p>
 <h2>STP and STP-Plus Certified Companies</h2>
 <ul data-tight="true" class="tight">
 <li>
