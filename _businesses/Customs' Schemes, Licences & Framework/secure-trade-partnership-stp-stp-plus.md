@@ -107,7 +107,7 @@ recognised by other partners through a mutual recognition arrangement</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Circular_06_2024_Ver2.pdf" rel="noopener noreferrer nofollow" target="_blank">ASEAN (2024)</a>
+<p><a href="/files/Circular_06_2024__Ver2_.pdf" rel="noopener noreferrer nofollow" target="_blank">ASEAN (2024)</a>
 </p>
 </li>
 </ul>
