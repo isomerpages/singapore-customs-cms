@@ -3,6 +3,7 @@ title: Approved Exporter and Certified Exporter Scheme
 permalink: /businesses/certificates-of-origin/aece/
 third_nav_title: Certificates of Origin
 description: ""
+variant: markdown
 ---
 # Authorised Self -Certification Regimes 
 The authorised self-certification regime is a trade facilitation initiative under the selected Free Trade Agreements (FTA) which allow authorised exporters who have demonstrated their capacity to comply with the origin requirements to self-certify the originating status of their goods. This would bring about greater convenience to businesses by saving time and eliminating the need to obtain a Certificate of Origin (CO). 
@@ -34,7 +35,7 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 
 ![](/images/step 2.png)
 
-Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://form.gov.sg/#!/61ca95006c60da001289b97a)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://form.gov.sg/#!/61ca9492fb72b000129d0670).
+Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://form.gov.sg/66f644faf68eca0fbadfd0e8)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://form.gov.sg/66f6459de8c347793a07c279).
 
 The applicant/company will be informed of the outcome of the application within 7 working days from the date of receipt of the application form. If the application to be an AE and/or CE is successful, an Authorisation Letter will be issued to the company.
 
