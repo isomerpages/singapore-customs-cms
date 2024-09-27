@@ -107,7 +107,7 @@ recognised by other partners through a mutual recognition arrangement</p>
 </p>
 </li>
 <li>
-<p><a href="/files/062024_Implementation_of_The_Association_of_Southeast_Asian_Nations__ASEAN__Authorised_Economic_Operator__AEO__Mutual_Recognition_Arrangement__MRA_.pdf" rel="noopener noreferrer nofollow" target="_blank">ASEAN (2024)</a>
+<p><a href="/files/Circular_06_2024_Ver2.pdf" rel="noopener noreferrer nofollow" target="_blank">ASEAN (2024)</a>
 </p>
 </li>
 </ul>
