@@ -106,7 +106,7 @@ description: ""
 | 3. | Application for Inter-Bank Giro | [Word Doc](https://go.gov.sg/customs-ibg-form)|
 | 4. | Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores | [Web Link](https://form.gov.sg/#!/60c9919a86afa600119a4f51)|
 | 5. | Application for Registration of Manifest Reconciliation Statement (MRS) User | [Web Link](https://go.gov.sg/mrs-registration-form)|
-| 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/admin/form/66f64a1371d5a7d9df3caf1e)|
+| 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/#!/5ccac0a442502b00107a9554)|
 | 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP)|
 | 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Web Link](https://go.gov.sg/adalp)
 | 9. | Application for Vessel Registration (VR) | [Web Link](https://form.gov.sg/61d7d0ef3cff10001210b7b5)
@@ -125,9 +125,9 @@ description: ""
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Annex A - Product Questionnaire A-1 Cryptography | [PDF](https://go.gov.sg/crypto-questionnaire)
-| 2. | Annex A - Product Questionnaire A-2 Machine Tools | [PDF](https://go.gov.sg/machinetools-questionnaire)
-| 3. | Annex A - Product Questionnaire A-3 Biological Product | [PDF](https://go.gov.sg/biological-questionnaire)
+| 1. | Annex A - Product Questionnaire A-1 Cryptography | [PDF](https://go.gov.sg/cryptographic-questionnaire) 
+| 2. | Annex A - Product Questionnaire A-2 Machine Tools | [PDF](https://go.gov.sg/machine-tools-questionnaire)
+| 3. | Annex A - Product Questionnaire A-3 Biological Product | [PDF](https://go.gov.sg/biological-products-questionnaire)
 | 4. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/#!/5d78b89628467500121ef098)
 | 5. | Apply for Import Certificate and Delivery Verification (ICDV) | [Web Link](https://form.gov.sg/60408fffd83b890011c7f8ab)
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](http://go.gov.sg/customs-bpermit)|
