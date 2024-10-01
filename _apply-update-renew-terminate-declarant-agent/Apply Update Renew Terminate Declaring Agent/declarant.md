@@ -16,6 +16,7 @@ The individual must also enrol for and pass the [Customs Competency Test for Dec
 
 To prepare for the Customs Competency Test, the individual should:
 -	Familiarise themselves with the various permit types and procedures available on Singapore Customs website;
+-	Familiarise themselves with Customs’ Schemes, Licences and Framework (E.g. TradeFirst, Overseas Vendor Registration Regime on Low-Value Goods).
 -	Look out for [compliance best practices](https://www.customs.gov.sg/businesses/compliance/self-compliance) on Singapore Customs website;
 -	Complete the [e-learning module](https://www.customs.gov.sg/businesses/business-resources/elearning) on Singapore Customs website;
 -	Attend courses such as SC101 and SC102 courses conducted at [Nanyang Polytechnic](https://www.nyp.edu.sg/adult-learner/find-a-course?query=sc1) or [Republic Polytechnic](https://www.rp.edu.sg/ace/course-summary?searchKeyword=customs). Please note that it is optional to sign up for these business courses and it is not a requirement for SC 401 test-takers to attend any of the business courses before taking the test.
