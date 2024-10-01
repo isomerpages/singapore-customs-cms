@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Resources
 
-**[Strategic Trade Scheme Handbook](/files/businesses/seb/sts%20handbook%20-%201%20oct%202023.pdf)**
+**[Strategic Trade Scheme Handbook](/files/businesses/seb/STS_Handbook___updated_1_Oct_2024.pdf)**
 
 This handbook is a walk-through guide on the application requirements for Individual and Bulk Permits. It also contains guidelines on implementing an effective internal compliance programme, as well as frequently asked questions on the trading of strategic goods.
 
