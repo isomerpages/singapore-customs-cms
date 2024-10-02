@@ -14,11 +14,11 @@ This handbook is a walk-through guide on the application requirements for Indivi
 
 This guidebook explains "catch-all" controls in the context of strategic goods management. It also advises traders on permit requirements, best practices and red flags to look out for when determining if an item falls under the "catch-all" controls.
 
-**[Guide on Intangible Transfer of Technology](/files/businesses/tssb/itt guide mar 2023.pdf)**
+**[Guide on Intangible Transfer of Technology](/files/businesses/tssb/itt%20guide%20mar%202023.pdf)**
 
 This guide outlines the Intangible Transfer of Technology (ITT) in the context of managing strategic goods technology. It defines the intangible transfer of technology under the Strategic Goods Control Act (SGCA), explains the need to control ITT and its corresponding legal provisions, and advises traders on the permit requirements. It also contains the best practices before applying for an ITT permit to transmit strategic goods technology to any parties, and includes case study examples. 
 
-**[Guidebook on the Determination of Strategic Goods](/files/businesses/tssb/strategicgoodsguidebook%201oct%202023.pdf)** 
+**[Guidebook on the Determination of Strategic Goods](https://go.gov.sg/strategic-goods-guidebook)** 
 
 This guidebook advises readers on the Strategic Goods Control List, and provides guidance on the determination of strategic goods. It also includes cases studies and frequently asked questions on strategic goods control.
 
