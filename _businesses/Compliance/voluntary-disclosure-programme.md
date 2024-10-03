@@ -58,4 +58,4 @@ You can send your queries to  [customs_vdp@customs.gov.sg](mailto:customs_vdp@cu
 
 ## FAQs
 
-You may refer to the  [FAQs](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=18336588) on the programme.
+You may refer to the  [FAQs](https://ask.gov.sg/customs?topic=Compliance&amp;subtopic=Voluntary%20Disclosure%20Programme#content) on the programme.
