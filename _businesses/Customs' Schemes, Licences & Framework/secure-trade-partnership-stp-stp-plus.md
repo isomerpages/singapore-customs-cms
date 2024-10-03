@@ -140,18 +140,21 @@ more details on the procedures to enjoy the benefits under the MRAs.</p>
 <p>Have good compliance records with Singapore Customs</p>
 </li>
 <li>
-<p>Undergo <a href="/businesses/customs-schemes-licences-framework/trade-first" rel="noopener noreferrer nofollow" target="_blank">TradeFIRST</a> assessment
-and meet all the mandatory criteria while attaining the minimum “Intermediate”
-and “Premium” bands to qualify for the STP and STP-Plus certifications
-respectively</p>
+<p>For STP certification, the applicant is required to complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> and
+meet all the criteria</p>
+</li>
+<li>
+<p>For STP-Plus certification, the applicant is required to undergo <a href="/businesses/customs-schemes-licences-framework/trade-first" rel="noopener noreferrer nofollow" target="_blank">TradeFIRST</a> assessment,
+meet all the mandatory criteria and attain the “Premium” band</p>
 </li>
 </ul>
 <p>Click <a href="/files/businesses/seb/stp%20handbook%20(nov%202022).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Handbook on Secure Trade Partnership</p>
 <h2>How to Apply?</h2>
-<p><strong>Step 1</strong>: Complete the <a href="https://go.gov.sg/tradefirstchecklist" rel="noopener noreferrer nofollow" target="_blank">TradeFIRST Self-Assessment Checklist</a> and
-relevant Annexes.</p>
-<p><strong>Step 2</strong>: Prepare these additional supporting documents:</p>
+<p><strong>Step 1a</strong>: For the STP application, complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> and
+relevant Annexes</p>
+<p><strong>Step 1b</strong>: For STP-Plus applications, complete the <a href="https://go.gov.sg/tradefirstchecklist" rel="noopener noreferrer nofollow" target="_blank">TradeFIRST Self-Assessment Checklist</a>,
+relevant Annexes and prepare these additional supporting documents:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Accounting and Corporate Regulatory Authority BizFile Report</p>
@@ -168,18 +171,23 @@ Protection Association (TAPA), ISO 28000)</p>
 Self-Assessment Checklist</p>
 </li>
 </ul>
-<p><strong>Step 3</strong>: Complete the <a href="https://form.gov.sg/5d2d7ffc690755001137c917" rel="noopener noreferrer nofollow" target="_blank">Application form for STP</a>
-</p>
-<p><strong>Step 4</strong>: Submit the checklist and supporting documents
+<p><strong>Step 2</strong>: Complete the <a href="https://form.gov.sg/5d2d7ffc690755001137c917" rel="noopener nofollow" target="_blank">Application form</a> for
+STP or STP Plus</p>
+<p><strong>Step 3: </strong>Submit the checklist and supporting documents
 to Singapore Customs via email: <a href="mailto:customs_schemes@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_schemes@customs.gov.sg</a>
 </p>
 <h2>Frequently Asked Questions (FAQs)</h2>
 <p><strong>1)</strong>  <strong>What are the requirements to obtain STP or STP-Plus certification?</strong>
 </p>
-<p>To attain the STP certification, a company has to meet the stipulated
-requirements in the STP guidelines and criteria, and achieve at least an
-“Intermediate” band under the TradeFIRST assessment. The STP certification
-may last up to 3 years.</p>
+<p>To attain the STP certification, a company has to meet all of the stipulated
+requirements in the STP guidelines and criteria. To renew your STP certificate,
+STP certified companies are required to:</p>
+<p>i) complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a>
+</p>
+<p>ii) obtain the endorsement of an ACRA-listed director; and</p>
+<p>iii) submit a <a href="https://go.gov.sg/stpselfdeclaration" rel="noopener nofollow" target="_blank">FormSG declaration</a> to
+Singapore Customs by the last day of each calendar year (i.e 31 December).</p>
+<p>For more information, please refer to the <a href="/files/businesses/seb/FAQs_for_Streamlined_STP_renewal.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
 <p>For the STP-Plus certification, a company must meet all the stipulated
 requirements in the STP guidelines and criteria, and achieve the “Premium”
 band under the TradeFIRST assessment. The STP-Plus certification will last
