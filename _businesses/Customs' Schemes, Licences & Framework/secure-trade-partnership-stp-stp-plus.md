@@ -187,7 +187,7 @@ STP certified companies are required to:</p>
 <p>ii) obtain the endorsement of an ACRA-listed director; and</p>
 <p>iii) submit a <a href="https://go.gov.sg/stpselfdeclaration" rel="noopener nofollow" target="_blank">FormSG declaration</a> to
 Singapore Customs by the last day of each calendar year (i.e 31 December).</p>
-<p>For more information, please refer to the FAQ.</p>
+<p>For more information, please refer to the <a href="/files/businesses/seb/FAQs_for_Streamlined_STP_renewal.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
 <p>For the STP-Plus certification, a company must meet all the stipulated
 requirements in the STP guidelines and criteria, and achieve the “Premium”
 band under the TradeFIRST assessment. The STP-Plus certification will last
