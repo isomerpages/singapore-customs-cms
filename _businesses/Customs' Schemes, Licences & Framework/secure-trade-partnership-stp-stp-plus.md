@@ -148,7 +148,7 @@ meet all the criteria</p>
 meet all the mandatory criteria and attain the “Premium” band</p>
 </li>
 </ul>
-<p>Click <a href="/files/businesses/seb/stp%20handbook%20(nov%202022).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/businesses/seb/STP_Handbook__Oct_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Handbook on Secure Trade Partnership</p>
 <h2>How to Apply?</h2>
 <p><strong>Step 1a</strong>: For the STP application, complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> and
