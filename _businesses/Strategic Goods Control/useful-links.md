@@ -88,8 +88,8 @@ variant: markdown
 
 **United Kingdom (UK)**
 
--   [Department for Business Innovation & Skills](http://www.bis.gov.uk/Policies/export-control-organisation){:target="_blank"}
--   [Foreign Commonwealth Office](http://www.fco.gov.uk/en/about-us/what-we-do/services-we-deliver/export-controls-sanctions/){:target="_blank"}
+-   [UK Export Controls and Licensing](http://www.bis.gov.uk/Policies/export-control-organisation){:target="_blank"}
+-   [UK Sanctions Guidance ](https://www.gov.uk/guidance/uk-sanctions){:target="_blank"}
 
 **United Arab Emirates (UAE)**
 
