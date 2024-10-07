@@ -2,6 +2,7 @@
 title: Authorised Piers and Places
 permalink: /businesses/importing-goods/import-procedures/authorised-piers-places/
 third_nav_title: Import Procedures
+variant: markdown
 ---
 # Authorised Piers and Places
 
@@ -21,8 +22,9 @@ All goods may be imported, exported or transhipped via the following Free Trade 
 -   Jurong Port
 -   Sembawang Wharves
 -   Tuas Port
--   Changi Airport Cargo Terminal Complex
+-   Changi Airfreight Centre
 -   Airport Logistics Park of Singapore
+-   Air Cargo Express
 
  **Land Checkpoints**
 -   Tuas Checkpoint
