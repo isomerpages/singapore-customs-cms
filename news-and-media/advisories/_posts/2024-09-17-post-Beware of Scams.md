@@ -1,6 +1,6 @@
 ---
 title: Beware of Scams
-permalink: /beware-of-scams/
+permalink: /news-and-media/advisories/beware-of-scams/
 date: 2024-09-17
 layout: post
 description: ""
