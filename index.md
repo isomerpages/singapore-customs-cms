@@ -5,9 +5,9 @@ description: test test
 permalink: /
 notification: Our Singapore Customs Hotline&nbsp;(6355 2000) is temporarily
   unavailable. For urgent assistance, you may reach us via our&nbsp;Live-Chat
-  service (https://go.gov.sg/customs-live-chat).  Use our digital services when
-  transacting with us! We encourage businesses to submit trade declarations via
-  TradeNet and access our eServices via the Networked Trade Platform
+  service (https://go.gov.sg/customs-live-chat).<br>  Use our digital services
+  when transacting with us! We encourage businesses to submit trade declarations
+  via TradeNet and access our eServices via the Networked Trade Platform
   (www.ntp.gov.sg).<br> Travellers may use the Customs@SG Web application via
   our eServices (www.customs.gov.sg/services) to make advance declarations and
   tax payments. <br> For immigration requirements, visit the ICA website
