@@ -32,10 +32,10 @@ obtain a UEN; and</p>
 Customs Account</p>
 </li>
 </ul>
-<p>You are also advised to look out for the <a href="/files/FATF.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators </a>suggesting illicit trade, and
-file a Suspicious Transaction Report (STR) to the Suspicious Transaction
-Reporting Office (STRO) if you have reasonable grounds to suspect any suspicious
-trade activity.</p>
+<p>You are also advised to look out for the <a href="/files/TBML_risk_indicators.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators </a>suggesting illicit
+trade, and file a Suspicious Transaction Report (STR) to the Suspicious
+Transaction Reporting Office (STRO) if you have reasonable grounds to suspect
+any suspicious trade activity.</p>
 <h2>Applying for Customs Permits</h2>
 <p>After activating your Customs Account, you may appoint a Declaring Agent
 to apply for customs permits via TradeNet on your behalf.</p>
