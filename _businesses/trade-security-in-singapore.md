@@ -76,4 +76,4 @@ Under Section 45 of the Corruption, Drug Trafficking and Other Serious Crimes (C
 
 Traders also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism-financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act 2002 to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
 
-Traders may refer to the Trade-Based Money Laundering (<a href="/files/Updated_TBML_risk_indicators.pdf" rel="noopener noreferrer nofollow" target="_blank"> risk indicators </a>) to detect suspicious trade activities  and file a STR with the STRO.
+Traders may refer to the Trade-Based Money Laundering (<a href="/files/Updated_TBML_risk_indicators.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators</a>) to detect suspicious trade activities  and file a STR with the STRO.
