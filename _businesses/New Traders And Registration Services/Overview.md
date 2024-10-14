@@ -32,8 +32,8 @@ obtain a UEN; and</p>
 Customs Account</p>
 </li>
 </ul>
-<p>You are also advised to look out for the <a href="/files/TBML_risk_indicators.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators </a>suggesting illicit
-trade, and file a Suspicious Transaction Report (STR) to the Suspicious
+<p>You are also advised to look out for the<a href="/files/TBML_risk_indicators.pdf" rel="noopener noreferrer nofollow" target="_blank"> risk indicators </a>suggesting
+illicit trade, and file a Suspicious Transaction Report (STR) to the Suspicious
 Transaction Reporting Office (STRO) if you have reasonable grounds to suspect
 any suspicious trade activity.</p>
 <h2>Applying for Customs Permits</h2>
