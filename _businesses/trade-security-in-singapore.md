@@ -58,7 +58,7 @@ This is in line with Singapore Customs’ pro-enterprise regulatory approach.
 
 Visit [this page](/businesses/customs-schemes-licences-framework/overview) for more information on our schemes and licences.
 
-## Anti-Money Laundering and Countering the Financing of Terrorism
+## Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT)
 
 Singapore Customs supports Singapore’s whole-of-system approach to preventing, detecting, and enforcing against Money Laundering (ML), involving close coordination and collaboration amongst Government agencies, public-private partnerships, and international cooperation.
 
