@@ -39,30 +39,32 @@ Another additional requirement under the revised FTZ regime is for shipping agen
 
 ## Enforcement in FTZ
 
-Singapore Customs partners enforcement agencies such as the Singapore Police Force and the Immigration & Checkpoints Authority (ICA) to ensure the security of the FTZ, and has established operating procedures with other law enforcement agencies to act promptly on actionable intelligence on illicit trade. 
+Singapore Customs partners enforcement agencies such as the Singapore Police Force and the Immigration &amp; Checkpoints Authority (ICA) to ensure the security of the FTZ, and has established operating procedures with other law enforcement agencies to act promptly on actionable intelligence on illicit trade. 
 
 Singapore Customs also cooperates with its international counterparts to help prevent and combat illicit trade in FTZ. We share information (such as passing information to the next port of call) and respond to requests for information. Such assistance is done bilaterally as well as through regional and international fora such as the Regional Intelligence Liaison Office under the World Customs Organisation (WCO).
 
 Read about some of the regular enforcement operations conducted in the FTZ featured in Singapore Customs’ corporate magazine, inSYNC, here:
 
  - [Upholding The Security Of Free Trade Zone (page10)](/news-and-media/publications/2017-10-01-Issue47.pdf)
- - [Singapore Customs Foils Syndicates’ Attempts To Smuggle Duty-Unpaid Cigarettes Out Of Changi Airfreight Centre (page 5 & 6)](/news-and-media/publications/2018-01-01-Issue48.pdf)
+ - [Singapore Customs Foils Syndicates’ Attempts To Smuggle Duty-Unpaid Cigarettes Out Of Changi Airfreight Centre (page 5 &amp; 6)](/news-and-media/publications/2018-01-01-Issue48.pdf)
  
 ## Licensed facilities
 
 Singapore Customs manages a suite of schemes and licences to facilitate traders’ needs, while maintaining security of our supply chain.
 
-The Licensed Warehouse Scheme, Zero-Goods and Services Tax (ZG) Warehouse Scheme and the Secure Trade Partnership programme provide flexibility to traders conducting specific trading activities within controlled facilities.
+The Licensed Warehouse Scheme, Zero-Goods and Services Tax Warehouse Scheme (ZGS) and the Secure Trade Partnership programme provide flexibility to traders conducting specific trading activities within controlled facilities.
 
 This is in line with Singapore Customs’ pro-enterprise regulatory approach.
 
 Visit [this page](/businesses/customs-schemes-licences-framework/overview) for more information on our schemes and licences.
 
-## Anti-Money Laundering and Countering the Financing of Terrorism
+## Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT)
 
-Companies have to be licensed under Singapore Customs’ ZGS to store GST suspended non-dutiable goods in their licensed premises.
+Singapore Customs supports Singapore’s whole-of-system approach to preventing, detecting, and enforcing against Money Laundering (ML), involving close coordination and collaboration amongst Government agencies, public-private partnerships, and international cooperation.
 
-Singapore Customs has implemented an enhanced regulatory ZGS to combat money-laundering and terrorism-financing risks. The strengthened measures include mandating the ZGS licensees storing precious stones and metals, works of art, antiques, and watches clad with precious metal casings or precious metals (otherwise known as listed goods) to obtain, maintain, and update information on the identities of both the person with control and the person with beneficial ownership over the listed goods. ZGS licensees are also required to seek permission from Singapore Customs before storing any listed goods and to screen the identities of the person with control and the person with beneficial ownership as part of the Know-Your-Customer requirements. These measures allow Singapore Customs to have greater oversight of the activities happening in these ZGS licensees’ premises.
+On 20 Jun 2024, Singapore published her updated [ML National Risk Assessment](https://www.mas.gov.sg/publications/monographs-or-information-paper/2024/money-laundering-national-risk-assessment "https://www.mas.gov.sg/publications/monographs-or-information-paper/2024/money-laundering-national-risk-assessment") as part of Singapore’s continuing efforts to maintain the effectiveness of its Anti-Money Laundering regime amidst our evolving risk landscape.
+
+As part of Singapore Customs' contributions to Singapore's AML/CFT regime, Singapore Customs has implemented an enhanced regulatory ZGS to combat money-laundering and terrorism-financing risks. The strengthened measures include mandating the ZGS licensees storing precious stones and metals, works of art, antiques, and watches clad with precious metal casings or precious metals (otherwise known as listed goods) to obtain, maintain, and update information on the identities of both the person with control and the person with beneficial ownership over the listed goods. ZGS licensees are also required to seek permission from Singapore Customs before storing any listed goods and to screen the identities of the person with control and the person with beneficial ownership as part of the Know-Your-Customer requirements. These measures allow Singapore Customs to have greater oversight of the activities happening in these ZGS licensees’ premises.
 
 Regular inspections are conducted on these companies as part of the enhanced regime which serves to prevent companies from being inadvertently used as a conduit for money-laundering and terrorism-financing activities, allowing Singapore to operate as a secure trade hub.
 
@@ -74,4 +76,4 @@ Under Section 45 of the Corruption, Drug Trafficking and Other Serious Crimes (C
 
 Traders also have the duty to provide information on property and financial transactions belonging to terrorist and acts of terrorism-financing under Sections 8 and 10 of the Terrorism (Suppression of Financing) Act 2002 to the Police or to do so via a STR. Failure to do so may constitute a criminal offence.
 
-Traders may refer to the Trade-Based Money Laundering [risk indicators](/files/FATF.pdf) to detect suspicious trade activities  and file a STR with the STRO.
+Traders may refer to the Trade-Based Money Laundering <a href="/files/Updated_TBML_risk_indicators.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators</a> to detect suspicious trade activities  and file a STR with the STRO.
