@@ -10,7 +10,7 @@ third_nav_title: Courses and Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jio2024.png">
 </div>
-<h4><strong>REGISTRATION IS NOW OPEN</strong></h4>
+<h4><strong>REGISTER NOW FOR THE VIRTUAL SESSION!</strong></h4>
 <p><strong>The 12th Joint Industry Outreach Seminar on Strategic Trade Management</strong>
 </p>
 <p><strong>Co-organised by Singapore, United States and Japan</strong>
@@ -31,8 +31,10 @@ threats, and due diligence.</p>
 <p>Manufacturers, exporters, logistics providers, freight forwarders, academics
 and researchers dealing with strategic goods or strategic goods technology
 are encouraged to attend the seminar.&nbsp;</p>
-<p>Registration is <strong><u>free</u></strong>. Participants can register
-for the Seminar by clicking on the <a href="https://llnl.cventevents.com/Z0Xex0" rel="noopener noreferrer nofollow" target="_blank">registration link</a> and entering
-the passcode<strong> JIO2024. Registration deadline is <u>30 September 2024</u></strong>.</p>
+<p>Registration for the in-person seminar is now closed. Due to overwhelming
+response, there will be a virtual session for the seminar. Participants
+can register for the virtual seminar by clicking on the <a href="https://llnl.cventevents.com/event/8fcb0ce5-f97d-426a-87aa-797b328ba469/register?rp=84a0db87-0b15-4a66-8223-0a35587d1bb2" rel="noopener nofollow" target="_blank">registration link</a> and
+entering the passcode<strong> JIO2024.</strong>
+</p>
 <p>All successful and approved registrants will be notified via email and
 will receive an updated schedule and venue information.</p>
