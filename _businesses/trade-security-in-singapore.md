@@ -52,7 +52,7 @@ Read about some of the regular enforcement operations conducted in the FTZ featu
 
 Singapore Customs manages a suite of schemes and licences to facilitate traders’ needs, while maintaining security of our supply chain.
 
-The Licensed Warehouse Scheme, Zero-Goods and Services Tax (ZGS) Warehouse Scheme and the Secure Trade Partnership programme provide flexibility to traders conducting specific trading activities within controlled facilities.
+The Licensed Warehouse Scheme, Zero-Goods and Services Tax Warehouse Scheme (ZGS) and the Secure Trade Partnership programme provide flexibility to traders conducting specific trading activities within controlled facilities.
 
 This is in line with Singapore Customs’ pro-enterprise regulatory approach.
 
