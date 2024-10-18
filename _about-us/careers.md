@@ -64,7 +64,7 @@ pay-outs in your 4th, 7th, and 10th year in Customs scheme of service.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$4,020 - $4,510</p>
+<p>$4,020 - $4,830</p>
 </td>
 </tr>
 <tr>
