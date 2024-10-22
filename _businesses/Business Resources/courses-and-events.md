@@ -42,4 +42,4 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/ad
 | 9 Sep 2016 | Joint Industry Outreach Seminar on Strategic Trade Management | [Web Link](/business-resources/courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management-sep-2016) |
 | 22 Jan 2016 | Joint Industry Outreach Seminar on Strategic Trade Management | [Web Link](/business-resources/courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management-jan-2016) |
 | 2 Sep 2015 | Joint Industry Outreach Seminar: Strategic Trade Management For The Logistics Industry | [Web Link](/businesses/business-resources/courses-and-events/application-for-customs-strategic-goods-control-course) |
-| 8 Sep 2011 | Outreach Session Conducted by the NA(CWC) for All Licensees | Presentation Materials ([PDF](/files/businesses/cwcoutreachsessionbynacwc8sep2011.pdf) 148KB) <br><br> List of AHTN 2012 Codes  ([PDF](/files/businesses/cwchscodesahtn2007and2012.pdf) 1.44MB) |
+| 8 Sep 2011 | Outreach Session Conducted by the NA(CWC) for All Licensees | Presentation Materials ([PDF](/files/businesses/cwcoutreachsessionbynacwc8sep2011.pdf) 148KB) 
