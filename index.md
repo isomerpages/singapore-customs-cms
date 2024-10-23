@@ -24,12 +24,13 @@ sections:
   - infopic:
       title: Networked Trade Platform
       subtitle: OUR SERVICES
+      id: infopic
       description: Find out more about the NTP to advance your business and improve
         your trade operations.
       button: More info on NTP
       url: /businesses/national-single-window/networked-trade-platform
       image: /images/ntp.png
-      alt: More information on the NTP.
+      alt: Image alt text
   - resources:
       title: News and Media
       subtitle: Media Releases
