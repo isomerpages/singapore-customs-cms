@@ -2,8 +2,9 @@
 title: Offences
 permalink: /individuals/going-through-customs/offences/
 third_nav_title: Going Through Customs
+variant: markdown
+description: ""
 ---
-
 # Offences
 
 In general, offenders may settle customs offences by an out-of-court composition sum or prosecution in court. The penalty for a customs offence is a composition sum of up to S$5000, or prosecution in court, depending on the severity of the offence.
