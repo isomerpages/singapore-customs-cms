@@ -17,7 +17,7 @@ third_nav_title: Courses and Events
 </p>
 <p><strong>Date</strong>: 29 October 2024</p>
 <p><strong>Venue</strong>: Shangri-La Singapore</p>
-<p><strong>Time</strong>: 9.00am - 5.00pm (Registration starts at 8.30am)</p>
+<p><strong>Time</strong>: 9.00am - 5.00pm (Registration starts at 8am)</p>
 <p>The U.S. Department of State (DOS), the U.S. Department of Energy (DOE),
 the U.S. Department of Commerce (DOC), and Japan’s Ministry of Economy,
 Trade and Industry (METI) and Singapore Customs will be organising a one-day
