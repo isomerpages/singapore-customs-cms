@@ -1,6 +1,6 @@
 ---
 title: 212024 TradeNet Extended Downtime
-date: 2024-10-15
+date: 2024-10-11
 layout: file
 description: ""
 image: ""
