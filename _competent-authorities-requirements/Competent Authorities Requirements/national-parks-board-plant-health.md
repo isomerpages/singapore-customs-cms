@@ -2,9 +2,8 @@
 title: National Parks Board (Plant Health)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/nparks-planthealth/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
-
-
 # National Parks Board (Plant Health)
 
 1) The National Parks Board (NParks), Horticulture and Community Gardening Division, Plant Science and Health Branch, Plant Health Section (PHU) regulates the importation of plants and plant materials.
@@ -29,6 +28,6 @@ Importers are required to provide all relevant information to NParks for approva
 
 4) A customs permit must be obtained through TradeNet before the goods arrive in Singapore. The NParks-issued import permit for the importation of plants into Singapore costs $11.00. The purchase can be made via TradeNet.
 
-5) The details of the regulated pests, plants, plant products and other materials are listed in the respective Schedules of the Rules. You may email Plant Science and Health Branch (Plant Health Section) at [nparks_public_affairs@nparks.gov.sg](mailto:nparks_public_affairs@nparks.gov.sg) or call 6316 5153 for more information.
+5) The details of the regulated pests, plants, plant products and other materials are listed in the respective Schedulers of the Rules. You may reach out to the Plant Science and Health Branch (Plant Biosecurity & Phytosanitary Services Section) at 6316 5153 during office hours or via our [feedback forms] (https://www.nparks.gov.sg/feedback-and-enquiry) > Parks, Greenery and Plant Feedback for more information.
 
 Refer to  [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
