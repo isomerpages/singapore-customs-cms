@@ -2,6 +2,7 @@
 title: Find my Harmonised System Code
 permalink: /businesses/harmonized-system-hs-classification-of-goods/find-my-code/
 third_nav_title: Harmonised System (HS) Classification of Goods
+variant: markdown
 ---
 # Find my Harmonised System Code
 
@@ -31,4 +32,4 @@ The [Customs Ruling Database](https://go.gov.sg/customs-ruling-database) is a li
 
 The classification of goods provided here is for general reference only. Every effort has been made to ensure that the information presented is complete and accurate. Singapore Customs assumes no responsibility and accepts no liability for any action taken or omitted by you on the basis of the classification provided.
 
-**Still unable to find the HS code of your product? Send us your queries by filling up this  [form](https://form.gov.sg/5e6713af65cca600110d2d43)[](https://form.gov.sg/5e6713af65cca600110d2d43)  or submit an  [Application for Customs Ruling on Classification of goods](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)_._**
+**Still unable to find the HS code of your product? Send us your queries by filling up this  [form](https://go.gov.sg/classification-of-goods-enquiries)  or submit an  [Application for Customs Ruling on Classification of goods](https://go.gov.sg/customsruling)_._**
