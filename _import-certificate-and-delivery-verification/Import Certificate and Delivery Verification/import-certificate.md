@@ -110,8 +110,7 @@ If you are selling or transferring the imported goods to another person, please 
 The new owner of the goods should also submit a  [New Ownership Declaration Letter](/files/businesses/PSB/New Ownership Declaration Letter.docx) that the goods are for their use only.
 
 ## Cancelling your IC
-
-If you decide not to import the goods after obtaining the IC, you should notify us via the [online application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab) found on the [NTP website](https://www.ntp.gov.sg/home) for cancellation at least 14 days before the IC expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore.
+If you decide not to import the goods after obtaining the IC, you should notify us via the [online application form](https://go.gov.sg/icdv) found on the [NTP website](https://www.ntp.gov.sg/home) for cancellation at least 14 days before the IC expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore
 
 ## Penalties
 
