@@ -74,7 +74,7 @@ variant: markdown
     <input type="checkbox" id="accordion2">
     <label for="accordion2">How to apply?</label>
     <div>
-      <p>You may submit the <a href="https://form.gov.sg/#!/5cac414bd5e3800010c7ac68" target="new">Application For Customs Ruling on Classification of Goods</a> with the following supporting documents</p>
+      <p>You may submit the <a href="https://go.gov.sg/customsruling" target="new">Application For Customs Ruling on Classification of Goods</a> with the following supporting documents</p>
 <p>- Product catalogue/brochure<br>
 - Product specification/datasheet<br>
 - Full ingredients/chemical/material composition (in %)<br>
