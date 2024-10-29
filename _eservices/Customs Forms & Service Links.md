@@ -8,11 +8,11 @@ description: ""
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Broker and Representative Authorisation Letter | [Web Link](https://form.gov.sg/632822e21ce666001181e8f2)|
-| 2. | Employee Declarant Details and Authorisation Form | [Web Link](https://form.gov.sg/6327c68da1ed8d001275250e)|
+| 1. | Broker and Representative Authorisation Letter | [Web Link](https://go.gov.sg/acts-broker-rep-aut)|
+| 2. | Employee Declarant Details and Authorisation Form | [Web Link](https://go.gov.sg/acts-decl-rep-aut)|
 | 3. | Multiple Journey Guarantee Document | [Web Link](https://acts.asean.org/traders-guide/guarantee)|
 | 4. | Single Journey Guarantee Document | [Web Link](https://acts.asean.org/traders-guide/guarantee)|
-| 5. | Trader Application Form | [Web Link](https://form.gov.sg/62efd351d7b4560012d73d26)|
+| 5. | Trader Application Form | [Web Link](https://go.gov.sg/acts-trader-app)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
@@ -62,22 +62,22 @@ description: ""
 | No. | E-Services | Links |
 |--|--|--|
 | 1. | Agent's Application for Product Code | [Web Link](https://form.gov.sg/#!/5fcee9cad88081001113d220)|
-| 2. | Application for Duty Exemption of Dutiable Goods by Industrial Users |[Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp) |
-| 3. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://form.gov.sg/#!/5ef564974cb2d20012590cb1) |
-| 4. | Application for GST Relief for Hand-Carried Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://form.gov.sg/#!/5cd1034231ce8e0010772e9e) (For non-Singpass users) <br>[Web Link](https://form.gov.sg/#!/600fd804a6ac7800110ab36b) (For Singpass users) |
-| 5. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP) |
-| 6. | Application for Kimberley Process Licence (KPL) | [Web Link](https://form.gov.sg/61dab6b7369b3a00139d5380) |
-| 7. | Application for Kimberley Process Certificate | [Web Link](https://form.gov.sg/5cd0c8a09c7b100010bd490e) |
-| 8. | Application for Landing Certificate (LC) | [Web Link](https://form.gov.sg/61d7db653cff100012127dec) |
-| 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp) |
-| 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stpapplication) |
-| 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4) |
-| 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)|
-| 13. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://form.gov.sg/#!/5f7a6430482e1200114bad08)|
+| 2. | Application for Duty Exemption of Dutiable Goods by Industrial Users |[Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp)
+| 3. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://go.gov.sg/duty-exemption-ethyl)
+| 4. | Application for GST Relief for Hand-Carried Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://go.gov.sg/pe-app) (For non-Singpass users) <br>[Web Link](https://go.gov.sg/pe-app-singpass) (For Singpass users)
+| 5. | Application for GST Relief on Importation of Used Household Articles, Personal Effects and Personal Pets as Manifested Cargo | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP)
+| 6. | Application for Kimberley Process Licence (KPL) | [Web Link](https://go.gov.sg/kp-licence)
+| 7. | Application for Kimberley Process Certificate | [Web Link](https://go.gov.sg/kp-certificate)
+| 8. | Application for Landing Certificate (LC) | [Web Link](https://go.gov.sg/landing-certificate)
+| 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp)
+| 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://form.gov.sg/#!/5d2d7ffc690755001137c917)
+| 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4)|
+| 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)
+| 13. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://form.gov.sg/#!/5f7a6430482e1200114bad08)
 | 14. | e-Inventory Control System  | [Web Link](https://inventory.customs.gov.sg/)|
 | 15. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP)|
-| 16. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)|
-| 17. | Application for Destruction of Duty/GST Suspended Goods, Denaturing of Ethyl Alcohol, and Brew Sampling | [Web Link](https://form.gov.sg/661d0998f4a1d6733be858c4) <br> [Excel Doc](https://go.gov.sg/applicationfordestructionofdutygst)|
+| 16. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
+| 17. | Application for Destruction of Duty/GST Suspended Goods, Denaturing of Ethyl Alcohol, and Brew Sampling | [Web Link](https://form.gov.sg/661d0998f4a1d6733be858c4) <br> [Excel Doc](https://go.gov.sg/applicationfordestructionofdutygst)
 | 18. |          Reporting of Permit Discrepancy under the Approved Premises Schemes | [Web Link](         https://form.gov.sg/65645a5d4ea8f10012239b38)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
@@ -102,14 +102,14 @@ description: ""
 | No. | E-Services | Links |
 |--|--|--|
 | 1. | Activate/Update/Terminate Customs Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)|
-| 2. | Application for Cargo Agent's Import Authorisation (CAIA) | [Web Link](https://form.gov.sg/618c623ce51003001448131e)
+| 2. | Application for Cargo Agent's Import Authorisation (CAIA) | [Web Link](https://go.gov.sg/caia-reg)
 | 3. | Application for Inter-Bank Giro | [Word Doc](https://go.gov.sg/customs-ibg-form)|
-| 4. | Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores | [Web Link](https://form.gov.sg/#!/60c9919a86afa600119a4f51)|
+| 4. | Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores | [Web Link](https://go.gov.sg/exporter-sea-store)|
 | 5. | Application for Registration of Manifest Reconciliation Statement (MRS) User | [Web Link](https://go.gov.sg/mrs-registration-form)|
 | 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/#!/5ccac0a442502b00107a9554)|
 | 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP)|
 | 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Web Link](https://go.gov.sg/adalp)
-| 9. | Application for Vessel Registration (VR) | [Web Link](https://form.gov.sg/61d7d0ef3cff10001210b7b5)
+| 9. | Application for Vessel Registration (VR) | [Web Link](https://go.gov.sg/vessel-reg)
 | 10. | Apply/Update/Renew/Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
 | 11. | Authorisation of User Inventory Control system | [Web Link](https://go.gov.sg/auics)
 | 12. | Claimant Application by All Other Entities (e.g. Companies, Businesses) Apart from Embassy, High Commission Consulate, accredited Trade Mission, International Organisations, Foreign Military Forces, Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&amp;init=&amp;APPLICATION_ID=TXWP)
