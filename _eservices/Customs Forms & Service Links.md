@@ -78,7 +78,7 @@ description: ""
 | 15. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP)|
 | 16. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
 | 17. | Application for Destruction of Duty/GST Suspended Goods, Denaturing of Ethyl Alcohol, and Brew Sampling | [Web Link](https://form.gov.sg/661d0998f4a1d6733be858c4) <br> [Excel Doc](https://go.gov.sg/applicationfordestructionofdutygst)
-| 18. |          Reporting of Permit Discrepancy under the Approved Premises Schemes | [Web Link](         https://form.gov.sg/65645a5d4ea8f10012239b38)
+| 18. |          Reporting of Permit Discrepancy under the Approved Premises Schemes | [Web Link](         https://go.gov.sg/aps-dis-report)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
