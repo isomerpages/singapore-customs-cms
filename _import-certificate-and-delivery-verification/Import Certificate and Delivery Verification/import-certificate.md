@@ -64,7 +64,7 @@ An approved ICDV is valid for  **one year**. Goods under the IC should be import
 
 ## Extending an IC
 
-If you wish to extend the validity by another year, you may apply via the [online application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab) found on the [NTP website](http://www.ntp.gov.sg/) for an extension at least 14 days before the IC expires.
+If you wish to extend the validity by another year, you may apply via the [online application form](https://go.gov.sg/icdv) found on the [NTP website](http://www.ntp.gov.sg/) for an extension at least 14 days before the IC expires.
 
 ## Conditions of Import
 
