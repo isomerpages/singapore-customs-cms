@@ -92,7 +92,7 @@ description: ""
 | 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
 | 5. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
 | 6. | Application for Supervision Operations | [Web Link](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)|
-| 7. | HCES Permit Clearance Status Query | [Web Link](https://form.gov.sg/62e0e341ff86280013c1d93b)|
+| 7. | HCES Permit Clearance Status Query | [Web Link](https://go.gov.sg/hces-query)|
 | 8. | Template for Letter of Undertaking for TradeNet Unavailability | [Word Doc](https://www.customs.gov.sg/files/eservices/Letter-of-undertaking-tradenet.doc)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
