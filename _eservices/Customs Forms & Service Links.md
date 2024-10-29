@@ -35,15 +35,15 @@ description: ""
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Product Enquiry | [Web Link](https://form.gov.sg/633a2c0848e7ff00120ffcfe)|
-| 2. |  Licence Application Cover Form/Update of Licensee Contact Information | [Web Link](https://form.gov.sg/633a2c6d3de7ce001269f228)|
+| 1. | Product Enquiry | [Web Link](https://go.gov.sg/cwc-product-enq)|
+| 2. |  Licence Application Cover Form/Update of Licensee Contact Information | [Web Link](https://go.gov.sg/cwc-lic-cover-form)|
 | 3. |   Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit &amp; Chemical Weapons Convention |[Word Doc](https://go.gov.sg/combinedeuc-sts1-and-cwc)|
 | 4. | Advanced Notifications on Transfer of Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.pdf)|
 | 5. | Licence Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.pdf)|
-| 6. | Licence Application Form (New/Renewal) | [Web Link](https://form.gov.sg/633a2cb587dd270012296b77)|
+| 6. | Licence Application Form (New/Renewal) | [Web Link](https://go.gov.sg/cwc-lic-form)|
 | 7. | FORM A.1 - Licence Application for Activities Involving Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.pdf)|
 | 8. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.pdf)|
-| 9. | Licence Application Form (Amendment) | [Web Link](https://form.gov.sg/633a2ceed0679a0012bf1dc2)
+| 9. | Licence Application Form (Amendment) | [Web Link](https://go.gov.sg/cwc-lic-amdt-form)
 | 10. | FORM B.1 - Addition of New Chemical and/or Addition of New Activity for Schedule 1 Chemical |  [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.pdf)|
 | 11. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Increment-of-maximum-agregate.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Increment-of-maximum-agregate.pdf)|
 | 12. | Declaration Cover for Reporting Template (for ADAA/ ADPA/ ad-hoc) | [Word Doc](https://www.customs.gov.sg/files/eservices/Declaration_Cover_for_Reporting_Template.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Declaration_Cover_for_Reporting_Template.pdf)|
