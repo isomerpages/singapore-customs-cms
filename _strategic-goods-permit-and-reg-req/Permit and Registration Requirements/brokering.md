@@ -44,7 +44,7 @@ That the goods or technology you are brokering are intended or likely to be used
 
 This applies even if the goods are not strategic goods.
 
-**Step 1:**  Complete the [Application Form for Permit to Broker Goods](https://form.gov.sg/5d09da39be47a30011f73872).
+**Step 1:**  Complete the [Application Form for Permit to Broker Goods](https://go.gov.sg/sgc-brokering-permit).
 
 **Step 2:**  Attach the supporting documents, where applicable:
 
