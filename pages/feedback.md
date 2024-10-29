@@ -9,8 +9,8 @@ variant: markdown
 
 | *For Traders* | *For Travellers* | *General Enquiries & Feedback*|
 |---------|---------|----------|
-| [Certificate of Origin](https://form.gov.sg/5e7025bbbce24a0011937cbd) |[Travellers entering Singapore](https://form.gov.sg/5ea6566a2a6a0f0011f3ce37)   | [Networked Trade Platform](https://www.ntp.gov.sg/public/helpdesk/singapore-customs) |  
-| [Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43) | [Tourist Refund](https://form.gov.sg/5ea6b7a98d46060011c79d5d) |  [Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)   | 
+| [Certificate of Origin](https://form.gov.sg/5e7025bbbce24a0011937cbd) |[Travellers entering Singapore](https://go.gov.sg/travellers)   | [Networked Trade Platform](https://www.ntp.gov.sg/public/helpdesk/singapore-customs) |  
+| [Classification of Goods](https://form.gov.sg/5e6713af65cca600110d2d43) | [Tourist Refund](https://go.gov.sg/tourist-refund) |  [Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)   | 
 |  [Refunds](https://form.gov.sg/5e732a0b5e7c180011db1f08)       | | [Subscribe/Unsubscribe to Mailing List](https://form.gov.sg/5e859b60a0ffc50011a4ee83)| 
 |  [Schemes & Licences](https://form.gov.sg/5e9e51cf1e9ed20011c75f2a)  | | [Enquiries on Customs Documentation]( https://go.gov.sg/customs-doc)|  
 |[Strategic Goods Control / UN Security Council Sanctions / Chemical Weapons Convention](https://form.gov.sg/5e7311f15ec7a00011a06429)     | |  [Reporting of Customs Offences](https://form.gov.sg/64e554f0ffdaa600136b17e1)  |
