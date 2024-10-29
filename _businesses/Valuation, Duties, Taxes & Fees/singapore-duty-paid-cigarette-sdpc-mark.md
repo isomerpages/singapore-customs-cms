@@ -15,8 +15,8 @@ Since 1 Jan 2009, all individual sticks of cigarettes meant for sale and consump
 ## Application Procedure
 
 Importers and manufacturers of cigarettes are required to obtain approval from Singapore Customs before importation or manufacture of new brands or variants of cigarettes meant for sale and consumption in Singapore.
-
-Please complete the [online application](https://go.gov.sg/sdpc){:target="_blank"} and upload the following supporting documents in the format below:
+            
+Please complete the [online application](https://go.gov.sg/sdpc){:target="\_blank"} and upload the following supporting documents in the format below:
 
 (a) Photographs of the cigarette sample against a ruler or measuring device; and
 
