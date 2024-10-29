@@ -21,8 +21,8 @@ description: ""
 | No. | E-Services | Links |
 |--|--|--|
 | 1. | Application for Cancellation of Certificate of Origin issued by Singapore Customs | [Web Link](https://form.gov.sg/#!/5f2cc687777f950011129385)|
-| 2. | Application Form to be an Approved Exporter | [Web Link](https://form.gov.sg/#!/61ca9492fb72b000129d0670)|
-| 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://form.gov.sg/#!/61ca95006c60da001289b97a)|
+| 2. | Application Form to be an Approved Exporter | [Web Link](https://go.gov.sg/approved-exporter)|
+| 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://go.gov.sg/certified-exporter)|
 | 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp)|
 | 5. | Manufacturing Cost Statement Format |[Excel Doc](https://go.gov.sg/coststatementfeb2024)|
 | 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
@@ -88,7 +88,7 @@ description: ""
 |--|--|--|
 | 1. | Application for Certificate of Free Sale (CFS)<br>  |[Web Link](https://form.gov.sg/6433b249135e4c0012efce2e )|
 | 2. | CFS Application Form | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
-| 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://form.gov.sg/#!/5cac414bd5e3800010c7ac68)|
+| 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://go.gov.sg/customsruling)|
 | 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
 | 5. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
 | 6. | Application for Supervision Operations | [Web Link](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)|
@@ -128,7 +128,7 @@ description: ""
 | 1. | Annex A - Product Questionnaire A-1 Cryptography | [PDF](https://go.gov.sg/cryptographic-questionnaire) 
 | 2. | Annex A - Product Questionnaire A-2 Machine Tools | [PDF](https://go.gov.sg/machine-tools-questionnaire)
 | 3. | Annex A - Product Questionnaire A-3 Biological Product | [PDF](https://go.gov.sg/biological-products-questionnaire)
-| 4. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/#!/5d78b89628467500121ef098)
+| 4. | Application for Determination of Strategic Goods | [Web Link](https://go.gov.sg/strat-goods-determination)
 | 5. | Apply for Import Certificate and Delivery Verification (ICDV) | [Web Link](https://go.gov.sg/icdv)
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](https://go.gov.sg/sgc-brokering-permit)|
 | 7. | Application for Permit to Transmit or Export (via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](https://go.gov.sg/sgc-itt-permit)
