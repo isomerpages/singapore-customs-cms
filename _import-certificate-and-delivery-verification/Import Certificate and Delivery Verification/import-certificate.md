@@ -11,7 +11,7 @@ variant: markdown
 -   You are importing goods into Singapore which are subject to the exporting country’s export control, and
 -   The exporting country requires an IC.
 
-Submit the [application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab).
+Submit the [application form](https://go.gov.sg/icdv).
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ The supporting documents for your IC application include:
 
 ## Submission of and Payment for an IC Application
 
-Please submit your completed application and supporting documents the [online application form](https://form.gov.sg/#!/60408fffd83b890011c7f8ab) found on the [NTP website](https://www.ntp.gov.sg/home).
+Please submit your completed application and supporting documents the [online application form](https://go.gov.sg/icdv) found on the [NTP website](https://www.ntp.gov.sg/home).
 
 If the documents are in order, we will deduct the processing fee via IBG.
 
