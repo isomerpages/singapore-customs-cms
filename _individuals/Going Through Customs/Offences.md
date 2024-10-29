@@ -9,7 +9,7 @@ description: ""
 
 In general, offenders may settle customs offences by an out-of-court composition sum or prosecution in court. The penalty for a customs offence is a composition sum of up to S$5000, or prosecution in court, depending on the severity of the offence.
 
-For appeals pertaining to a Notice of Customs Offence by Singapore Customs Checkpoints Division, offenders may submit an appeal via the [appeal form](go.gov.sg/customs-appeal).
+For appeals pertaining to a Notice of Customs Offence by Singapore Customs Checkpoints Division, offenders may submit an appeal via the [appeal form](https://go.gov.sg/customs-appeal).
 
 Those found committing customs offences at the checkpoints may be offered the following composition amounts:
 
