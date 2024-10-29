@@ -133,7 +133,7 @@ description: ""
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](http://go.gov.sg/customs-bpermit)|
 | 7. | Application for Permit to Transmit or Export (via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](http://go.gov.sg/customs-itt)
 | 8. | Application for Preliminary Advice on Strategic Goods Transaction | [Web Link](http://go.gov.sg/customs-padv)
-| 9. | Application for Strategic Trade Scheme (STS) Bulk Permit | [Web Link](https://form.gov.sg/#!/5efd58c27268820011409056)
+| 9. | Application for Strategic Trade Scheme (STS) Bulk Permit | [Web Link](https://go.gov.sg/sts-bulk)
 | 10. | Application Form for Seeking In-Principle Approval from the UNSC Procurement Channel | [Web Link](https://form.gov.sg/#!/5f06d4ec3583420013aeb0f1)
 | 11. | End-user Certification Form for Seeking In-Principle Approval from the UNSC Procurement Channel | [Word Doc](https://www.customs.gov.sg/files/eservices/EndUserCertification-UNSC.docx)
 | 12. | Half-Yearly Report on Brokering Activities | [Word Doc](https://www.customs.gov.sg/files/businesses/PSB/Submission%20of%20Half-Yearly%20Report%20on%20Brokering%20Activities%202020%20Template.docx)
