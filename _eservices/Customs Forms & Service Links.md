@@ -70,7 +70,7 @@ description: ""
 | 7. | Application for Kimberley Process Certificate | [Web Link](https://go.gov.sg/kp-certificate)
 | 8. | Application for Landing Certificate (LC) | [Web Link](https://go.gov.sg/landing-certificate)
 | 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp)
-| 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://form.gov.sg/#!/5d2d7ffc690755001137c917)
+| 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stpapplication)
 | 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4)|
 | 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)
 | 13. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://form.gov.sg/#!/5f7a6430482e1200114bad08)
