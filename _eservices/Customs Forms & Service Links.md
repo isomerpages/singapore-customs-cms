@@ -131,7 +131,7 @@ description: ""
 | 4. | Application for Determination of Strategic Goods | [Web Link](https://form.gov.sg/#!/5d78b89628467500121ef098)
 | 5. | Apply for Import Certificate and Delivery Verification (ICDV) | [Web Link](https://go.gov.sg/icdv)
 | 6. | Application for Permit to Broker Goods under Section 6(1) of the Strategic Goods (Control) Act | [Web Link](https://go.gov.sg/sgc-brokering-permit)|
-| 7. | Application for Permit to Transmit or Export (via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](http://go.gov.sg/customs-itt)
+| 7. | Application for Permit to Transmit or Export (via Hand-Carry) Strategic Goods Related Software and Technology | [Web Link](https://go.gov.sg/sgc-itt-permit)
 | 8. | Application for Preliminary Advice on Strategic Goods Transaction | [Web Link](http://go.gov.sg/customs-padv)
 | 9. | Application for Strategic Trade Scheme (STS) Bulk Permit | [Web Link](https://go.gov.sg/sts-bulk)
 | 10. | Application Form for Seeking In-Principle Approval from the UNSC Procurement Channel | [Web Link](https://form.gov.sg/#!/5f06d4ec3583420013aeb0f1)
