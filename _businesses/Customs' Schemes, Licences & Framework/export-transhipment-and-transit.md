@@ -43,7 +43,7 @@ You may refer to Annex A of the [STS handbook](/files/businesses/seb/STS_Handboo
 
 ## Applying for Bulk Permit
 
-You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/stsbulkpermitapplication-form) and submitting the form, [TradeFIRST Self-Assessment Checklist ](https://go.gov.sg/tradefirstchecklist) and supporting documents via the contact details listed in the form to the Schemes &amp; Engagement Branch.
+You may apply for a Bulk Permit by completing this  [application form](https://go.gov.sg/sts-bulk) and submitting the form, [TradeFIRST Self-Assessment Checklist ](https://go.gov.sg/tradefirstchecklist) and supporting documents via the contact details listed in the form to the Schemes &amp; Engagement Branch.
 
 Once the application is received, an officer will be assigned as Singapore Customs’ contact point to the company for the assessment.
 
