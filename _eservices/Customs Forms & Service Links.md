@@ -108,7 +108,7 @@ description: ""
 | 5. | Application for Registration of Manifest Reconciliation Statement (MRS) User | [Web Link](https://go.gov.sg/mrs-registration-form)|
 | 6. | Application for SDPC Marking on Cigarettes | [Web Link](https://form.gov.sg/#!/5ccac0a442502b00107a9554)|
 | 7. | Application for the Authorisation of Declaring Agent(s) | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&amp;APPLICATION_ID=TXWP)|
-| 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Web Link](https://go.gov.sg/adalp)
+| 8. | Authorisation of Declaring Agent(s) for Licensed Premises | [Web Link](https://go.gov.sg/da-licensed)
 | 9. | Application for Vessel Registration (VR) | [Web Link](https://go.gov.sg/vessel-reg)
 | 10. | Apply/Update/Renew/Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
 | 11. | Authorisation of User Inventory Control system | [Web Link](https://go.gov.sg/auics)
