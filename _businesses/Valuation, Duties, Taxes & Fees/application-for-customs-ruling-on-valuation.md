@@ -12,7 +12,7 @@ accordion:
       application.<br>
   - title: How to apply?
     content: <br> You may submit the  [Application For Customs Ruling on
-      Valuation](https://form.gov.sg/#!/5cb03b49a25e2c0010866861){:target="_blank"}
+      Valuation](https://go.gov.sg/val-ruling){:target="_blank"}
       with the following supporting documents <br><br> -   Letter of enquiry
       from applicant <br> -   The issue to be considered <br> -   Comprehensive
       description of the arrangement <br> -   Business reasons for the
