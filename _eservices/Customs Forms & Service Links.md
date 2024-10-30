@@ -61,7 +61,7 @@ description: ""
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Agent's Application for Product Code | [Web Link](https://form.gov.sg/#!/5fcee9cad88081001113d220)|
+| 1. | Agent's Application for Product Code | [Web Link](https://go.gov.sg/agent-pc)|
 | 2. | Application for Duty Exemption of Dutiable Goods by Industrial Users |[Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp)
 | 3. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://go.gov.sg/duty-exemption-ethyl)
 | 4. | Application for GST Relief for Hand-Carried Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://go.gov.sg/pe-app) (For non-Singpass users) <br>[Web Link](https://go.gov.sg/pe-app-singpass) (For Singpass users)
@@ -71,9 +71,9 @@ description: ""
 | 8. | Application for Landing Certificate (LC) | [Web Link](https://go.gov.sg/landing-certificate)
 | 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp)
 | 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stpapplication)
-| 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://form.gov.sg/#!/5ef2cbc51a2c1a00116bbec4)|
-| 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://form.gov.sg/#!/5f7a63fd08843500118e1d01)
-| 13. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://form.gov.sg/#!/5f7a6430482e1200114bad08)
+| 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://go.gov.sg/val-exempt-veh)|
+| 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://go.gov.sg/dof-singpass)
+| 13. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://go.gov.sg/dof-corporate)
 | 14. | e-Inventory Control System  | [Web Link](https://inventory.customs.gov.sg/)|
 | 15. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP)|
 | 16. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
@@ -90,7 +90,7 @@ description: ""
 | 2. | CFS Application Form | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
 | 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://go.gov.sg/customsruling)|
 | 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
-| 5. | Application for Customs Ruling on Valuation | [Web Link](https://form.gov.sg/#!/5cb03b49a25e2c0010866861)|
+| 5. | Application for Customs Ruling on Valuation | [Web Link](https://go.gov.sg/val-ruling)|
 | 6. | Application for Supervision Operations | [Web Link](https://eservices.customs.gov.sg/scripts/customs/supervision/supermenu.asp)|
 | 7. | HCES Permit Clearance Status Query | [Web Link](https://go.gov.sg/hces-query)|
 | 8. | Template for Letter of Undertaking for TradeNet Unavailability | [Word Doc](https://www.customs.gov.sg/files/eservices/Letter-of-undertaking-tradenet.doc)
