@@ -12,9 +12,9 @@ accordion:
       application.<br>
   - title: How to apply?
     content: <br> You may submit the  [Application For Customs Ruling on
-      Valuation](https://go.gov.sg/val-ruling){:target="_blank"}
-      with the following supporting documents <br><br> -   Letter of enquiry
-      from applicant <br> -   The issue to be considered <br> -   Comprehensive
+      Valuation](https://go.gov.sg/val-ruling){:target="_blank"} with the
+      following supporting documents <br><br> -   Letter of enquiry from
+      applicant <br> -   The issue to be considered <br> -   Comprehensive
       description of the arrangement <br> -   Business reasons for the
       arrangement, if applicable <br> -   Copies of all relevant documents with
       the relevant parts of the passages identified <br> -   Proposed treatment
@@ -71,7 +71,7 @@ variant: markdown
     <input type="checkbox" id="accordion2">
     <label for="accordion2">How to apply?</label>
     <div>
-      <p>You may submit the Application For Customs Ruling on Valuation <a href="https://form.gov.sg/#!/5cb03b49a25e2c0010866861" target="new"> Application For Customs Ruling on Valuation</a> with the following supporting documents:</p>
+      <p>You may submit the Application For Customs Ruling on Valuation <a href="https://go.gov.sg/val-ruling" target="new"> Application For Customs Ruling on Valuation</a> with the following supporting documents:</p>
  		<p>- Letter of enquiry from applicant
 - The issue to be considered<br>
 - Comprehensive description of the arrangement<br>
@@ -89,7 +89,7 @@ variant: markdown
 			<p>This fee is non-refundable once payment is made, regardless of whether the application is proceeded with or returned without action due to insufficient information for assessment, or otherwise withdrawn by the applicant.</p>
 			<p>You may refer to our website for the available <a href="https://www.customs.gov.sg/eservices/payment-to-customs" target="new">payment methods</a>.
     
-  <li>
+  </p></div></li><li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">How long is the process?</label>
     <div>
@@ -106,3 +106,4 @@ variant: markdown
 			<p>Upon receipt of the appeal, Singapore Customs will conduct a review and inform you of the outcome via email.</p>
     </div>
 	</li>  
+</ul>
