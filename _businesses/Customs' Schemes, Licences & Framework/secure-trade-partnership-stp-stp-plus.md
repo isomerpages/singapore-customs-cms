@@ -171,8 +171,8 @@ Protection Association (TAPA), ISO 28000)</p>
 Self-Assessment Checklist</p>
 </li>
 </ul>
-<p><strong>Step 2</strong>: Complete the <a href="https://form.gov.sg/5d2d7ffc690755001137c917" rel="noopener nofollow" target="_blank">Application form</a> for
-STP or STP Plus</p>
+<p><strong>Step 2</strong>: Complete the <a href="https://go.gov.sg/stpapplication" rel="noopener nofollow" target="_blank">Application form</a> for STP or
+STP Plus</p>
 <p><strong>Step 3: </strong>Submit the checklist and supporting documents
 to Singapore Customs via email: <a href="mailto:customs_schemes@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_schemes@customs.gov.sg</a>
 </p>

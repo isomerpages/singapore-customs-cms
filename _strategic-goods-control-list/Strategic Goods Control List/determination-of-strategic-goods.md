@@ -18,7 +18,7 @@ _Disclaimer:_ _The determination of strategic goods provided here is for general
 
 ## What if I am unable to determine if my product is controlled as strategic goods?
 
-If you are unable to determine whether your product is controlled as strategic goods after going through the Strategic Goods Control List and Determination Database, you may submit an  [Application for Determination of Strategic Goods](https://form.gov.sg/5d78b89628467500121ef098){:target="_blank"} to Singapore Customs for advice on the product determination.
+If you are unable to determine whether your product is controlled as strategic goods after going through the Strategic Goods Control List and Determination Database, you may submit an  [Application for Determination of Strategic Goods](https://go.gov.sg/strat-goods-determination){:target="_blank"} to Singapore Customs for advice on the product determination.
 
 Please note it is not necessary to submit this application if you are able to classify your products. It is a quicker option for you to carry out your own determination.
 

@@ -2,16 +2,17 @@
 title: Registration and ACTS Declaration
 permalink: /businesses/asean-customs-transit-system/registration-and-acts-declaration/
 third_nav_title: ASEAN Customs Transit System (ACTS)
+variant: markdown
 ---
 ## Step 1: Register as ACTS Trader
 You are required to be registered as an ACTS trader with Singapore Customs and be provided with a user account in ACTS before you can submit a declaration in ACTS. 
 
 You will need to complete the following application forms: 
 
-   1. [ACTS Trader Application Form]( https://form.gov.sg/62efd351d7b4560012d73d26); and
-   2. [Representative/Declarant Details and Authorisation Form]( https://form.gov.sg/6327c68da1ed8d001275250e).
+   1. [ACTS Trader Application Form](https://go.gov.sg/acts-trader-app); and
+   2. [Representative/Declarant Details and Authorisation Form](https://go.gov.sg/acts-decl-rep-aut).
 
-Upon registration, Singapore Customs will issue a Trader Identification Number (TIN) to the registered ACTS trader (also known as Principal) and a Personal ID to each registered employee(s) for the submission of declarations in ACTS. A Principal can also authorise a different legal entity to submit the ACTS declaration on their behalf by submitting a [Broker/Declarant Authorisation Letter](https://form.gov.sg/632822e21ce666001181e8f2). Both the employee of the Principal Trader and the representative/broker authorised by the Principal Trader can submit the declaration in ACTS.
+Upon registration, Singapore Customs will issue a Trader Identification Number (TIN) to the registered ACTS trader (also known as Principal) and a Personal ID to each registered employee(s) for the submission of declarations in ACTS. A Principal can also authorise a different legal entity to submit the ACTS declaration on their behalf by submitting a [Broker/Declarant Authorisation Letter](https://go.gov.sg/acts-broker-rep-aut). Both the employee of the Principal Trader and the representative/broker authorised by the Principal Trader can submit the declaration in ACTS.
 
 ## Step 2: Obtain a Guarantee
 

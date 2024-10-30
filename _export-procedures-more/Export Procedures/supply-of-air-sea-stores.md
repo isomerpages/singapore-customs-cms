@@ -1,9 +1,9 @@
 ---
 title: Supply of Air/Sea Stores
-permalink: /businesses/exporting-goods/export-procedures/supply-of-air-sea-stores/ 
+permalink: /businesses/exporting-goods/export-procedures/supply-of-air-sea-stores/
 third_nav_title: Export Procedures
+variant: markdown
 ---
-
 # Supply of Air/Sea Stores
 
 ## Air Stores
@@ -41,7 +41,7 @@ Dutiable sea stores can only be uplifted to approved types of vessels (passenger
 
 ## Registration as Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores
 
-All exporters of duty and GST-unpaid liquor and/or tobacco sea stores are required to be registered with Singapore Customs before an export permit can be obtained via TradeNet. You may register via the [“Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores”](https://go.gov.sg/seastores-exporter)  form.
+All exporters of duty and GST-unpaid liquor and/or tobacco sea stores are required to be registered with Singapore Customs before an export permit can be obtained via TradeNet. You may register via the [“Application for Registration as an Exporter of Duty and GST-Unpaid Liquor and/or Tobacco Sea Stores”](https://go.gov.sg/exporter-sea-store)  form.
 
 Please refer to [Circular No. 05/2021](/news-and-media/circulars/2021-06-22-Circular052021.pdf) for more information.
 
@@ -89,7 +89,7 @@ You are reminded to comply with the following permit condition when uplifting se
 
 |  |  |
 |--|--|
-| **A4** | The following acknowledgement must be obtained from the Master/ Captain of Vessel, Malayan Railway (KTM), Storekeeper: -- I certify that I have to-day received…….<br>packages/containers of goods as declared<br><br>……………………………………………………….<br>Vessel’s Name/ Godown No. Designation & Signature<br><br>…………………………………………………………… <br>Date Time Full Name in Block Letters |
+| **A4** | The following acknowledgement must be obtained from the Master/ Captain of Vessel, Malayan Railway (KTM), Storekeeper: -- I certify that I have to-day received…….<br>packages/containers of goods as declared<br><br>……………………………………………………….<br>Vessel’s Name/ Godown No. Designation &amp; Signature<br><br>…………………………………………………………… <br>Date Time Full Name in Block Letters |
 
 
 

@@ -35,7 +35,7 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 
 ![](/images/step 2.png)
 
-Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://form.gov.sg/66f644faf68eca0fbadfd0e8)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://form.gov.sg/66f6459de8c347793a07c279).
+Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://go.gov.sg/certified-exporter)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://go.gov.sg/approved-exporter).
 
 The applicant/company will be informed of the outcome of the application within 7 working days from the date of receipt of the application form. If the application to be an AE and/or CE is successful, an Authorisation Letter will be issued to the company.
 

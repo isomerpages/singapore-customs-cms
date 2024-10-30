@@ -122,9 +122,9 @@ related domestic legislations.</p>
 <p>You may refer to Annex A of the <a href="/files/businesses/seb/STS_Handbook___updated_1_Oct_2024.pdf" rel="noopener nofollow" target="_blank">Strategic Trade Scheme Handbook </a>for
 more details.</p>
 <h2>Applying for Bulk Permit</h2>
-<p>You may apply for a Bulk Permit by completing this <a href="https://go.gov.sg/stsbulkpermitapplication-form" rel="noopener noreferrer nofollow" target="_blank">application form</a> and
-submitting the form, and supporting documents via the contact details listed
-in the form to the Schemes &amp; Engagement Branch.</p>
+<p>You may apply for a Bulk Permit by completing this <a href="https://go.gov.sg/sts-bulk" rel="noopener noreferrer nofollow" target="_blank">application form</a> and submitting the
+form, and supporting documents via the contact details listed in the form
+to the Schemes &amp; Engagement Branch.</p>
 <p>Once the application is received, an officer will be assigned as Singapore
 Customs’ contact point to the company for the assessment.</p>
 <p>We will conduct a TradeFIRST assessment on the company during a site validation,

@@ -2,6 +2,7 @@
 title: Preliminary Advice for Strategic Goods Transaction
 permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/preliminary-advice-for-strategic-goods-transaction/
 third_nav_title: Permit and Registration Requirements
+variant: markdown
 ---
 # Preliminary Advice for Strategic Goods Transaction
 
@@ -9,7 +10,7 @@ Before you decide whether your business should undertake any activities involvin
 
 ## Applying for Preliminary Advice
 
-**Step 1:** Complete the [Application Form for Preliminary Advice on Strategic Goods Transaction](https://form.gov.sg/5cf5c9e27e0c0e001005a8c7).
+**Step 1:** Complete the [Application Form for Preliminary Advice on Strategic Goods Transaction](https://go.gov.sg/sgc-prelim-advice).
 
 **Step 2**: Attach the supporting documents, where applicable:
 

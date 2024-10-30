@@ -2,6 +2,7 @@
 title: Intangible Transfer of Technology (ITT)
 permalink: /businesses/strategic-goods-control/permit-and-registration-requirements/intangible-transfer-of-technology-itt/
 third_nav_title: Permit and Registration Requirements
+variant: markdown
 ---
 # Intangible Transfer of Technology (ITT)
 
@@ -16,7 +17,7 @@ You should obtain an ITT permit if you are transmitting:
 
 You should apply for your ITT permit  _at least 7 working days_  before the transmission of the controlled strategic goods technology from Singapore. Each ITT Individual Permit is valid for 1 year upon approval. There is no need to declare a TradeNet permit during the validity of the ITT Individual Permit.
 
-**Step 1:** Complete the [Application Form for Permit to Transmit or Export (via Hand-Carry) of Strategic Goods Related Software and Technology](https://form.gov.sg/5cdd19d4147e5a00103b313d)
+**Step 1:** Complete the [Application Form for Permit to Transmit or Export (via Hand-Carry) of Strategic Goods Related Software and Technology](https://go.gov.sg/sgc-itt-permit)
 
 **Step 2**: Attach the supporting documents, where applicable:
 
