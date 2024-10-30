@@ -61,7 +61,7 @@ description: ""
 
 | No. | E-Services | Links |
 |--|--|--|
-| 1. | Agent's Application for Product Code | [Web Link](go.gov.sg/agent-pc)|
+| 1. | Agent's Application for Product Code | [Web Link](https://go.gov.sg/agent-pc)|
 | 2. | Application for Duty Exemption of Dutiable Goods by Industrial Users |[Web Link](https://eservices.customs.gov.sg/scripts/customs/dutyexempt/DED1_Form.asp)
 | 3. | Application for Duty Exemption of Ethyl Alcohol | [Web Link](https://go.gov.sg/duty-exemption-ethyl)
 | 4. | Application for GST Relief for Hand-Carried Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://go.gov.sg/pe-app) (For non-Singpass users) <br>[Web Link](https://go.gov.sg/pe-app-singpass) (For Singpass users)
