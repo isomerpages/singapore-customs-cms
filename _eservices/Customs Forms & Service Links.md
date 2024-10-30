@@ -71,9 +71,9 @@ description: ""
 | 8. | Application for Landing Certificate (LC) | [Web Link](https://go.gov.sg/landing-certificate)
 | 9. | Application for Licensed Premises | [Web Link](https://eservices.customs.gov.sg/scripts/customs/whselic/WHS1_Form.asp)
 | 10. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stpapplication)
-| 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](go.gov.sg/val-exempt-veh)|
-| 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](go.gov.sg/dof-singpass)
-| 13. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](go.gov.sg/dof-corporate)
+| 11. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://go.gov.sg/val-exempt-veh)|
+| 12. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://go.gov.sg/dof-singpass)
+| 13. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://go.gov.sg/dof-corporate)
 | 14. | e-Inventory Control System  | [Web Link](https://inventory.customs.gov.sg/)|
 | 15. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP)|
 | 16. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
