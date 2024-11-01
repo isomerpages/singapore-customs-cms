@@ -43,6 +43,7 @@ will receive an updated schedule and venue information.</p>
 <li>
 <p><a href="/files/businesses/tssb/Agenda_jio2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><strong>Panel 1: Southeast Asian and India Regulatory Updates</strong>
@@ -65,14 +66,44 @@ will receive an updated schedule and venue information.</p>
 </p>
 </li>
 <li>
-<p><a href="www.go.gov.sg/jio2024in" rel="noopener nofollow" target="_blank">India’s Strategic Trade Control / Export Control System </a>
+<p><a href="www.go.gov.sg/jio2024in" rel="noopener nofollow" target="_blank">India’s Strategic Trade Control / Export Control System</a>
 </p>
+<p></p>
 </li>
 </ul>
 </li>
 <li>
 <p><strong>Panel 2: Singapore Industry – Compliance Challenges &amp; Best Practices</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="www.go.gov.sg/jio2024panel2a" rel="noopener nofollow" target="_blank">Singapore IndustryBest Practices and Challenges</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024panel2b" rel="noopener nofollow" target="_blank">Compliance Blueprint: Best Practices in STM Organization Design</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024panel2c" rel="noopener nofollow" target="_blank">How Effective Is Your ICP?</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024panel2d" rel="noopener nofollow" target="_blank">Internal Compliance Program</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Panel 3: Effective Due Diligence: Identifying and Addressing Red Flags</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="www.go.gov.sg/jio2024panel3" rel="noopener nofollow" target="_blank">Effective Due Diligence: Identifying and Addressing Red Flags&nbsp;</a>
+</p>
+<p></p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Panel 4: International Regulatory Updates</strong>
