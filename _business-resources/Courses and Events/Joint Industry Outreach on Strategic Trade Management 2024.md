@@ -50,7 +50,7 @@ will receive an updated schedule and venue information.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="www.go.gov.sg/jio2024my" rel="noopener nofollow" target="_blank">Malaysia's Regulatory Updates</a>
+<p><a href="go.gov.sg/jio2024my" rel="noopener nofollow" target="_blank">Malaysia's Regulatory Updates</a>
 </p>
 </li>
 <li>
