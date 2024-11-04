@@ -31,6 +31,7 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/ad
 
 | Date | Title | Related Link |
 |---|---|---|
+|29 Oct 2024|Joint Industry Outreach Seminar on Strategic Trade Management 2024|[Web Link](/joint-industry-outreach-on-strategic-trade-management-2024/)|
 |3 Aug 2023|Joint Industry Outreach Seminar on Strategic Trade Management 2023|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2023)|
 |12 Sep 2022 - 13 Sep 2022|Joint Industry Outreach Seminar on Strategic Trade Management 2022|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2022)|
 |28 Sep 2021 - 29 Sep 2021|Joint Industry Outreach Seminar on Strategic Trade Management 2021|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2021)|
@@ -42,4 +43,4 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/ad
 | 9 Sep 2016 | Joint Industry Outreach Seminar on Strategic Trade Management | [Web Link](/business-resources/courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management-sep-2016) |
 | 22 Jan 2016 | Joint Industry Outreach Seminar on Strategic Trade Management | [Web Link](/business-resources/courses-and-events/joint-industry-outreach-seminar-on-strategic-trade-management-jan-2016) |
 | 2 Sep 2015 | Joint Industry Outreach Seminar: Strategic Trade Management For The Logistics Industry | [Web Link](/businesses/business-resources/courses-and-events/application-for-customs-strategic-goods-control-course) |
-| 8 Sep 2011 | Outreach Session Conducted by the NA(CWC) for All Licensees | Presentation Materials ([PDF](/files/businesses/cwcoutreachsessionbynacwc8sep2011.pdf) 148KB) 
+| 8 Sep 2011 | Outreach Session Conducted by the NA(CWC) for All Licensees | Presentation Materials ([PDF](/files/businesses/cwcoutreachsessionbynacwc8sep2011.pdf) 148KB)

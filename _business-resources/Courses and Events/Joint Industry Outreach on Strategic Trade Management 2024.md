@@ -10,7 +10,7 @@ third_nav_title: Courses and Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jio2024.png">
 </div>
-<h4><strong>REGISTER NOW FOR THE VIRTUAL SESSION!</strong></h4>
+<h4><strong>REGISTRATION IS NOW CLOSED</strong></h4>
 <p><strong>The 12th Joint Industry Outreach Seminar on Strategic Trade Management</strong>
 </p>
 <p><strong>Co-organised by Singapore, United States and Japan</strong>
@@ -38,3 +38,91 @@ entering the passcode<strong> JIO2024.</strong>
 </p>
 <p>All successful and approved registrants will be notified via email and
 will receive an updated schedule and venue information.</p>
+<h4>Presentation Materials:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/businesses/tssb/Agenda_jio2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><strong>Panel 1: Southeast Asian and India Regulatory Updates</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="www.go.gov.sg/jio2024my" rel="noopener nofollow" target="_blank">Malaysia's Regulatory Updates</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024ph" rel="noopener nofollow" target="_blank">Philippine Strategic Trade Management Updates</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024sg" rel="noopener nofollow" target="_blank">Updates to Singapore’s Strategic Trade Controls</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024th" rel="noopener nofollow" target="_blank">Thailand’s Strategic Trade Control Regulatory Updates</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024in" rel="noopener nofollow" target="_blank">India’s Strategic Trade Control / Export Control System</a>
+</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Panel 2: Singapore Industry – Compliance Challenges &amp; Best Practices</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="www.go.gov.sg/jio2024panel2a" rel="noopener nofollow" target="_blank">Singapore IndustryBest Practices and Challenges</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024panel2b" rel="noopener nofollow" target="_blank">Compliance Blueprint: Best Practices in STM Organization Design</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024panel2c" rel="noopener nofollow" target="_blank">How Effective Is Your ICP?</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024panel2d" rel="noopener nofollow" target="_blank">Internal Compliance Program</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Panel 3: Effective Due Diligence: Identifying and Addressing Red Flags</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="www.go.gov.sg/jio2024panel3" rel="noopener nofollow" target="_blank">Effective Due Diligence: Identifying and Addressing Red Flags&nbsp;</a>
+</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Panel 4: International Regulatory Updates</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="www.go.gov.sg/jio2024eu" rel="noopener nofollow" target="_blank">Update on EU strategic trade controls</a>
+</p>
+</li>
+<li>
+<p><a href="www.go.gov.sg/jio2024us" rel="noopener nofollow" target="_blank">Update on Export Controls under the Export Administration Regulations (EAR)</a>
+</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Full Videos of the Seminar</strong>
+</p>
+</li>
+</ol>
+<p></p>
