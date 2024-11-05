@@ -110,6 +110,10 @@ will receive an updated schedule and venue information.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://go.gov.sg/jio2024jp" rel="noopener nofollow" target="_blank">Update on Japan’s Export Controls</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/jio2024eu" rel="noopener nofollow" target="_blank">Update on EU strategic trade controls</a>
 </p>
 </li>
