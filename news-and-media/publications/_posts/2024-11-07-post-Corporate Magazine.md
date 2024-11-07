@@ -1,7 +1,11 @@
 ---
-title: Corporate Magazine - inSYNC
+title: Corporate Magazine
 permalink: /news-and-media/publications/corporate-newsletter/
 variant: markdown
+date: 2024-11-07
+layout: post
+description: ""
+image: ""
 ---
 # Corporate Magazine - inSYNC
 
