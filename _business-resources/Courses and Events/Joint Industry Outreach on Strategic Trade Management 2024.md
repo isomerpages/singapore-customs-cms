@@ -114,7 +114,7 @@ will receive an updated schedule and venue information.</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/jio2024eu" rel="noopener nofollow" target="_blank">Update on EU strategic trade controls</a>
+<p><a href="https://go.gov.sg/jio2024eu" rel="noopener nofollow" target="_blank">Update on EU Strategic Trade Controls</a>
 </p>
 </li>
 <li>
