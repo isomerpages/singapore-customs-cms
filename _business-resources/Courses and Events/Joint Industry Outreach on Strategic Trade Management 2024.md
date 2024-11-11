@@ -137,11 +137,11 @@ will receive an updated schedule and venue information.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.youtube.com/watch?v=Y6PqDrHMJCE" rel="noopener nofollow" target="_blank">Keynote Address</a>
+<p><a href="https://www.youtube.com/watch?v=M3uz2-26HEk" rel="noopener nofollow" target="_blank">Panel 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.youtube.com/watch?v=M3uz2-26HEk" rel="noopener nofollow" target="_blank">Panel 2</a>
+<p><a href="https://www.youtube.com/watch?v=Y6PqDrHMJCE" rel="noopener nofollow" target="_blank">Keynote Address</a>
 </p>
 </li>
 <li>
