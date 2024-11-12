@@ -114,7 +114,7 @@ will receive an updated schedule and venue information.</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/jio2024eu" rel="noopener nofollow" target="_blank">Update on EU strategic trade controls</a>
+<p><a href="https://go.gov.sg/jio2024eu" rel="noopener nofollow" target="_blank">Update on EU Strategic Trade Controls</a>
 </p>
 </li>
 <li>
@@ -127,6 +127,32 @@ will receive an updated schedule and venue information.</p>
 <li>
 <p><strong>Full Videos of the Seminar</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.youtube.com/watch?v=szSRDocMPJU" rel="noopener nofollow" target="_blank">Welcome Speech</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=1gig4RDajYs" rel="noopener nofollow" target="_blank">Panel 1</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=M3uz2-26HEk" rel="noopener nofollow" target="_blank">Panel 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Y6PqDrHMJCE" rel="noopener nofollow" target="_blank">Keynote Address</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=VAyT8bruRTE" rel="noopener nofollow" target="_blank">Panel 3</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=OPBAyJLTlh4" rel="noopener nofollow" target="_blank">Panel 4</a>
+</p>
+</li>
+</ul>
 </li>
 </ol>
 <p></p>
