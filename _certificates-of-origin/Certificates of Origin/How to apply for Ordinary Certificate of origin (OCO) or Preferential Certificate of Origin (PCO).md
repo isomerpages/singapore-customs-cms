@@ -16,7 +16,7 @@ When submitting the application, please note that you are required to furnish al
 
 Upon approval, each Manufacturer’s Registration will be valid for a period of 2 years from the date of approval. A renewal notice will be sent to the company’s Authorised Person listed in the account a month prior to the expiry of the registration. The Authorised Person is required to follow the instructions in the notice should they wish to renew the Manufacture’s Registration. 
 
-You may update the company’s contact details or Authorised Person, [via the online application form](https://go.gov.sg/updatemanufacturerreg) to Singapore Customs. 
+You may update the company’s contact details or Authorised Person, [via the online application form](https://go.gov.sg/updatetomanufacturerreg) to Singapore Customs. 
 
 *Note: Singapore Customs may arrange to visit your factory to verify the production processes for the goods specified in your application to ensure that they meet the requirements. During such visits, financial and operation records may also be inspected. 
 
