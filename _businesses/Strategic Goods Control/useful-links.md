@@ -88,7 +88,7 @@ variant: markdown
 
 **United Kingdom (UK)**
 
--   [UK Export Controls and Licensing](http://www.bis.gov.uk/Policies/export-control-organisation){:target="_blank"}
+-   [UK Export Controls and Licensing](https://www.gov.uk/business-and-industry/export-controls){:target="_blank"}
 -   [UK Sanctions Guidance ](https://www.gov.uk/guidance/uk-sanctions){:target="_blank"}
 
 **United Arab Emirates (UAE)**
