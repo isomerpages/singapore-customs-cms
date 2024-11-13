@@ -20,7 +20,7 @@ Each TradeNet Certificate of Origin application typically costs about S$6.29, wh
 -   S$4.00 for statutory fee, and 
 -   S$2.29 for processing and messaging fees
 
-Each export permit application together with a Certificate of Origin application typically costs about S$9.27, which includes:
+Each export permit application, along with a Certificate of Origin application, typically costs about S$9.27, which includes:
 -   S$0.21 for messaging fee
 -   Each export permit application:
     *   S$0.90 for statutory fee
