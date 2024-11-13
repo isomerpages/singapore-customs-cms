@@ -25,7 +25,7 @@ You are always welcome to engage with us via live-chat. You may also leave a cal
 
 Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>
 
-**Issued by Customs’ Suppression &amp; Community Engagement Branch or Special Investigation Branch**<br>Please fill in the [Customs Offence Appeal Form](https://form.gov.sg/5fab8747ec6c950011f3f82d).<br>
+**Issued by Customs’ Suppression &amp; Community Engagement Branch or Special Investigation Branch**<br>Please fill in the [Customs Offence Appeal Form](https://form.gov.sg/66ce980d21805ae7af787ff7).<br>
 
 ---
 
