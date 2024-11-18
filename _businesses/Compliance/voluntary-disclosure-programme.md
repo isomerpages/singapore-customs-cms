@@ -41,7 +41,7 @@ iv)	Permits under the Temporary Import/Export Scheme (II or OO prefix permits).
 
 ## How do I Make a Disclosure?
 
-Please make a VDP submission using the Voluntary Disclosure form by logging in via your [Singpass](https://go.gov.sg/vdp-uen) or [Singpass (Corporate)](https://go.gov.sg/vdp-ind). Please note that Singpass should be used for individuals or self-registered traders with no UEN. Singpass (Corporate) must be used if you are making a disclosure on behalf of your company. Your submission should also include the following supporting documents:
+Please make a VDP submission using the Voluntary Disclosure form by logging in via your [Singpass](https://go.gov.sg/vdp-ind) or [Singpass (Corporate)](https://go.gov.sg/vdp-uen). Please note that Singpass should be used for individuals or self-registered traders with no UEN. Singpass (Corporate) must be used if you are making a disclosure on behalf of your company. Your submission should also include the following supporting documents:
 
 | Types of Voluntary Disclosure | Supporting Documents Required |
 |--|--|
