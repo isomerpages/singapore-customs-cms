@@ -25,7 +25,7 @@ If a Declarant has changed employment and wish to be registered under another DA
 
 ### More information on Customs Competency Test for Declarants (SC 401)
 
-Enrol for the competency test [here](https://go.gov.sg/sc401){:target="_blank"}.
+Enrol for the competency test [here](https://cal.gov.sg/f1vcdb1csb2df3ym4vw1yzxb){:target="_blank"}.
 
 |  |  |
 |--|--|
