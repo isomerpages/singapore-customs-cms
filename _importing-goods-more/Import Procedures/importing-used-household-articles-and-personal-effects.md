@@ -125,7 +125,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
       </ul>
     </div>  
 	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP">TradeNet</a></li>
-<li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 10 working days of receiving Customs’ approval** of GST relief.</li>
+<li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 10 working days of receiving Customs’ approval of GST relief.</li>
 <p>** Please note that you or your appointed agent need not apply for the DOF if the goods have already entered Customs Territory and GST would be payable.</p>
 <p>The following fields should be declared in the In-Non-Payment (GST Relief) permit application:</p>
     <div>
