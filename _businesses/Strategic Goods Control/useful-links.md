@@ -29,7 +29,7 @@ variant: markdown
 **Australia**
 
 -   [Australian Customs](http://www.customs.gov.au/default.asp){:target="_blank"}
--   [Australian Defence Export Control Office](http://www.defence.gov.au/deco/){:target="_blank"}
+-   [Australian Defence Export Control Office](https://www.defence.gov.au/business-industry/exporting){:target="_blank"}
 -   [Australian Safeguards and Non-Proliferation Office](http://www.dfat.gov.au/asno/){:target="_blank"}
 
 **Canada**
