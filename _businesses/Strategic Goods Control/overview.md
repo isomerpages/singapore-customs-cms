@@ -2,8 +2,8 @@
 title: Overview
 permalink: /businesses/strategic-goods-control/overview/
 third_nav_title: Strategic Goods Control
+variant: markdown
 ---
-
 # Overview
 
 Singapore shares the concern of the international community on the proliferation of weapons of mass destruction, and recognises the need for safeguards against the illicit movement of items through its ports that can contribute to such proliferation.
@@ -21,7 +21,7 @@ Singapore Customs is the National Authority to administer the SGCA. The function
 -   Serving as the focal point for local and international enquiries
 
 
-Singapore Customs also coordinates closely with other government agencies such as the  [Immigration & Checkpoints Authority](http://www.ica.gov.sg/){:target="_blank"}  and  [Singapore Police Force](http://www.spf.gov.sg/){:target="_blank"}  to enforce the SGCA.
+Singapore Customs also coordinates closely with other government agencies such as the  [Immigration & Checkpoints Authority](https://www.ica.gov.sg/){:target="_blank"}  and  [Singapore Police Force](http://www.spf.gov.sg/){:target="_blank"}  to enforce the SGCA.
 
 ## For more information on: 
 
