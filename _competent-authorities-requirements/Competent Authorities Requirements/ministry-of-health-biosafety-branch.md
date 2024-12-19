@@ -2,6 +2,7 @@
 title: Ministry of Health - Biosafety Branch
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/ministry-of-health/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
 # Ministry of Health - Biosafety Branch
 
@@ -9,9 +10,9 @@ third_nav_title: Competent Authorities Requirements
 
 **2.**  Requirements for Importers (Users) and Carriers
 
-  a. An “Approval to Possess” granted by MOH to the importer is required prior to the importation BATA First and Second Schedule biological agents, and Fifth Schedule toxins. For more information on BATA requirements for each Schedule, please visit  [MOH Biosafety website](https://www.moh.gov.sg/biosafety){:target="_blank"}.
+  a. An “Approval to Possess” granted by MOH to the importer is required prior to the importation BATA First and Second Schedule biological agents, and Fifth Schedule toxins. For more information on BATA requirements for each Schedule, please visit [MOH Biosafety website](https://biosafety.moh.gov.sg/){:target="_blank"}.
 
-  b. For local transportation of First, Second and Third Schedule biological agents, and Fifth Schedule toxins, carriers must comply with the requirements prescribed in the BATA Transportation Regulation (downloadable from  [MOH Biosafety website](https://www.moh.gov.sg/biosafety/about-bata){:target="_blank"}).
+  b. For local transportation of First, Second and Third Schedule biological agents, and Fifth Schedule toxins, carriers must comply with the requirements prescribed in the BATA Transportation Regulation (downloadable from  [MOH Biosafety website](https://biosafety.moh.gov.sg/about-bata){:target="_blank"}).
 
 **3.**  TradeNet application submission  
     A customs permit must be obtained through TradeNet before the goods arrive in/depart from/tranship at Singapore. An online application shall be submitted with the relevant supporting documents (e.g. commercial invoice, airway bill, declaration letter) for processing.  
@@ -46,6 +47,6 @@ e. Transhipment Details (if applicable)
 -   Place of temporary storage
 -   Date of exportation and vessel details
 
-**4.**  The list of MOH product codes is updated from time to time, and the current “List of Biological Agents and Toxins” is available under the Useful Info and Guidelines tab on the [MOH Biosafety website](https://www.moh.gov.sg/docs/librariesprovider7/news-updates-documents/list-of-biological-agents-and-toxins.pdf){:target="_blank"}.
+**4.**  The list of MOH product codes is updated from time to time, and the current “List of Biological Agents and Toxins” is available under the Useful Info and Guidelines tab on the [MOH Biosafety website](https://biosafety.moh.gov.sg ){:target="_blank"}.
 
 **5.**  For queries related to the requirements for importation of items that are not listed in the “List of Biological Agents and Toxins”, please contact MOH Biosafety Branch at  MOH_Biosafety@moh.gov.sg.
