@@ -19,7 +19,9 @@ Licensees that intend to import any Schedule 1 chemical from Member States must 
 
 ## Information Required For Import Permit
 
-If the import is not subject to the restrictions below, you may apply for an import permit via TradeNet:
+If the import is not subject to the restrictions below, you may apply for an import permit via TradeNet.
+
+**Note:** The permit application will only be processed after all the required documents have been submitted to Singapore Customs.
 
 **Import Permit**
 
