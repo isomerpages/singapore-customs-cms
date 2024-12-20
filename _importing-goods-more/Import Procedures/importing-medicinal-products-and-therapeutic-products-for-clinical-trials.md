@@ -2,6 +2,7 @@
 title: Importing Medicinal Products and Therapeutic Products for Clinical Trials
 permalink: /businesses/importing-goods/import-procedures/importing-medical-products-and-therapeutic-products-for-clinical-trials/
 third_nav_title: Import Procedures
+variant: markdown
 ---
 ## Importing Medicinal Products and Therapeutic Products for Clinical Trials
 
@@ -44,7 +45,7 @@ Please be advised that non-CTM goods cannot be submitted in the same permit appl
 
 ### Cargo Clearance of CTMs
 
-For verification during  [cargo clearance](https://www.ica.gov.sg/enteringanddeparting/cargo_postal_info){:target="_blank"}, please present the relevant import permit and supporting documents such as commercial invoice, packing list and Bill of Lading/Airway Bill to the checkpoint officers.
+For verification during  [cargo clearance](https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/cargo_postal_info){:target="_blank"}, please present the relevant import permit and supporting documents such as commercial invoice, packing list and Bill of Lading/Airway Bill to the checkpoint officers.
 
 **HS Codes for CTM**
 
