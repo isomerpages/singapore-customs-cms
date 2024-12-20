@@ -2,6 +2,7 @@
 title: Exporting of NA(CWC) Controlled Items
 permalink: /businesses/chemical-weapons-convention/export-of-na-cwc-controlled-items/
 third_nav_title: Chemical Weapons Convention (CWC)
+variant: markdown
 ---
 # Exporting of NA(CWC) Controlled Items
 
@@ -11,7 +12,9 @@ In addition to the CWC licence, an approved permit is required before every expo
 
 ## Information Required for Export Permit
 
-If the export is not subject to the restrictions below, you may apply for an export permit via TradeNet:
+If the export is not subject to the restrictions below, you may apply for an export permit via TradeNet.
+
+**Note:** The permit application will only be processed after all the required documents have been submitted to Singapore Customs.
 
 **Export Permit**
 
@@ -25,7 +28,7 @@ If the export is not subject to the restrictions below, you may apply for an exp
 | **Item Description** | Description of the item <br> Please state the name of the controlled chemical in the description as well (for example, photographic solution containing triethanolamine) |
 | **HS Code** | Product Harmonized System (HS) code |
 | **CA/SC Product Code 1** |  Enter the product code of the chemical (found in licence)|
-| **CA/SC Product Code Quantity & Unit** | Enter the quantity and unit |
+| **CA/SC Product Code Quantity &amp; Unit** | Enter the quantity and unit |
 | **CA/SC Code 1** | Enter the purity of the controlled chemical (for example, 40%) |
 
 *Licensees that intend to export any Schedule 1 chemical to Member States **must give** [**notification**](/businesses/chemical-weapons-convention/declarations/advanced-notification-on-transfer-of-schedule-1-chemicals) **to NA(CWC) before and after** the transfer has been completed.*

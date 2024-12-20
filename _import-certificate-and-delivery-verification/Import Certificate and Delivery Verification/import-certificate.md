@@ -84,7 +84,9 @@ After receiving the approved IC, you should obtain an import permit via  [TradeN
 -   You may import goods under different ICs using a single import permit. Declare the respective ICDV numbers for each item in the permit application.
 -   Do not combine ICDV items with non-ICDV items in the same permit application.
 -   For the CA/SC Product Quantity-UOM field, declare the quantity and unit as stated in your IC.
--   Please submit a copy of the approved ICDV, commercial invoice, bill of lading / airway bill, and packing list to Singapore Customs by uploading to TradeNet.
+-   Please submit a copy of the approved ICDV, commercial invoice, bill of lading / airway bill, and packing list to Singapore Customs by uploading in TradeNet.
+
+**Note:** The permit application will only be processed after all the required documents have been submitted to Singapore Customs.
 
 ## Re-exporting Goods from Singapore
 
