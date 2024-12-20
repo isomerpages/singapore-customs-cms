@@ -11,7 +11,7 @@ variant: markdown
 -   [Singapore Food Agency](https://www.sfa.gov.sg/){:target="_blank"}
 -   [Biosafety Branch, Ministry of Health](https://www.moh.gov.sg/biosafety/home){:target="_blank"}
 -   [Health Sciences Authority](https://www.hsa.gov.sg/){:target="_blank"}
--   [National Environment Agency](http://www.nea.gov.sg/){:target="_blank"}
+-   [National Environment Agency](https://www.nea.gov.sg/){:target="_blank"}
 -   [Singapore Civil Defence Force](http://www.scdf.gov.sg/){:target="_blank"}
 -   [Singapore Police Force](http://www.spf.gov.sg/){:target="_blank"}
 -   [Strategic Goods Control, Singapore Customs](/businesses/strategic-goods-control/overview){:target="_blank"}
