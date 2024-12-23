@@ -81,4 +81,4 @@ Please submit the following documents together with the TradeNet declaration:
 -   Airway Bill
 -   Copy of Singapore KP Certificate (for export permit applications) or KP Certificate issued by the overseas exporting KP Authority (For import permit applications)
 
-Note: Singapore Customs can process the permit application only after all the required documents have been submitted.
+**Note:** The permit application will only be processed after all the required documents have been submitted to Singapore Customs.
