@@ -25,7 +25,7 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/ad
 | **Handbook on Rules of Origin for Preferential Certificates of Origin** | [PDF](/files/businesses/ttsb-roo/handbook_on_roo_for_pco_oct2022%20(clean).pdf) |
 | **Handbook on the Rules of Origin for Oridinary Certificate of Origin** | [PDF](/files/handbook_on_the_rules_of_origin_for_oco__2_.pdf) |
 | **Past and Upcoming Events for Traders under Specific Schemes** | [Web Link](https://www.customs.gov.sg/business-resources/courses-and-events/events-for-traders/) |
-| **Customs Competency Test for Declarants** | [Web Link](https://go.gov.sg/sc401) |
+| **Customs Competency Test for Declarants** | [Web Link](https://cal.gov.sg/f1vcdb1csb2df3ym4vw1yzxb) |
 
 ## Past Events
 

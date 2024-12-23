@@ -76,9 +76,9 @@ You or your appointed declaring agent is required to declare the following detai
 -   KP Certificate Number (mandatory) and Seal Number of the parcel (if any) – to declare in the ‘Traders’ Remark’ field
 
 Please submit the following documents together with the TradeNet declaration:
-<li>Commercial Invoice issued by the supplier</li>
-<li>Packing List</li>
-<li>Airway Bill</li>
-<li>Copy of Singapore KP Certificate (for export permit applications) or KP Certificate issued by the overseas exporting KP Authority (For import permit applications)</li>
+-   Commercial Invoice issued by the supplier
+-   Packing List
+-   Airway Bill
+-   Copy of Singapore KP Certificate (for export permit applications) or KP Certificate issued by the overseas exporting KP Authority (For import permit applications)
 
 Note: Singapore Customs can process the permit application only after all the required documents have been submitted.
