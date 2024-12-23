@@ -39,7 +39,7 @@ To apply for a KP Licence,  you need to:
 -   Register with the Accounting and Corporate Regulatory Authority (ACRA) to obtain a Unique Entity Number (UEN) account;
 -   Activate your Customs account;
 -   Have a valid  [Inter-Bank GIRO (IBG) account](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro/)  with Singapore Customs for the deduction of the annual licence fee (S$50 per year or part thereof);
--   Submit an application for KP Licence through FormSG with all the supporting documents required (i.e. Business process flowchart, credentials of staff doing rough diamond processing work, website business profile of applicant etc).
+-   Submit an [Application for KP Licence](https://www.customs.gov.sg/eservices/customs-forms-and-service-links/) through FormSG with all the supporting documents required (i.e. Business process flowchart, credentials of staff doing rough diamond processing work, website business profile of applicant etc).
 
 The  KP Licence expires on 31 December of the year in which it is issued and needs to be renewed annually thereafter. The renewal is subject to Customs’ review and assessment. Please refer to the  KP Licence application form for the terms and conditions. 
 
@@ -74,3 +74,11 @@ You or your appointed declaring agent is required to declare the following detai
 -   Description of goods – to declare origin, type, size, carat weight/mass and value of the rough diamonds
 -   KP Licence Number – to declare in the ‘Licence’ field
 -   KP Certificate Number (mandatory) and Seal Number of the parcel (if any) – to declare in the ‘Traders’ Remark’ field
+
+Please submit the following documents together with the TradeNet declaration:
+<li>Commercial Invoice issued by the supplier</li>
+<li>Packing List</li>
+<li>Airway Bill</li>
+<li>Copy of Singapore KP Certificate (for export permit applications) or KP Certificate issued by the overseas exporting KP Authority (For import permit applications)</li>
+
+Note: Singapore Customs can process the permit application only after all the required documents have been submitted.
