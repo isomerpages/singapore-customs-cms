@@ -1,5 +1,5 @@
 ---
-title: eLearning
+title: e-Learning
 permalink: /businesses/business-resources/elearning/
 third_nav_title: Business Resources
 variant: markdown
