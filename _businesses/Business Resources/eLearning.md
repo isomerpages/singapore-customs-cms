@@ -2,7 +2,8 @@
 title: e-Learning
 permalink: /businesses/business-resources/elearning/
 third_nav_title: Business Resources
-variant: tiptap
+variant: markdown
+description: ""
 ---
 <h2>e-Learning Resources</h2>
 <p>The following <a href="https://www.youtube.com/watch?v=f2htGA3Ykn0" rel="noopener noreferrer nofollow" target="_blank">e-learning videos and information on Customs Procedures</a> are

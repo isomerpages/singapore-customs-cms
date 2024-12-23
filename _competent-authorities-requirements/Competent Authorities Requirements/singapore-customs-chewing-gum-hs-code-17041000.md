@@ -15,4 +15,4 @@ The import of chewing gum classified under HS code 1704 1000 into Singapore is a
 <li>Packing List</li>
 <li>Airway Bill or Bill of Lading</li>
 
-Note: Singapore Customs can process the permit application only after all the required documents have been submitted.
+**Note:** The permit application will only be processed after all the required documents have been submitted to Singapore Customs.
