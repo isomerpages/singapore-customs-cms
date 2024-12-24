@@ -121,11 +121,11 @@ more details on the procedures to enjoy the benefits under the MRAs.</p>
 <h2>STP and STP-Plus Certified Companies</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/businesses/seb/STP_Certified_Companies_18_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">STP Certified Companies</a>
+<p><a href="/files/STP_Certified_Companies_12_Nov_2024_xlsx.pdf" rel="noopener noreferrer nofollow" target="_blank">STP Certified Companies</a>
 </p>
 </li>
 <li>
-<p><a href="/files/businesses/seb/STP_Plus_Certified_Companies_18_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">STP-Plus Certified Companies</a>
+<p><a href="/files/STP_Plus_Certified_Companies_12_Nov_2024_xlsx.pdf" rel="noopener noreferrer nofollow" target="_blank">STP-Plus Certified Companies</a>
 </p>
 </li>
 </ul>
@@ -148,7 +148,7 @@ meet all the criteria</p>
 meet all the mandatory criteria and attain the “Premium” band</p>
 </li>
 </ul>
-<p>Click <a href="/files/businesses/seb/STP_Handbook__Oct_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/STP_Handbook__Dec_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Handbook on Secure Trade Partnership</p>
 <h2>How to Apply?</h2>
 <p><strong>Step 1a</strong>: For the STP application, complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> and
@@ -187,7 +187,7 @@ STP certified companies are required to:</p>
 <p>ii) obtain the endorsement of an ACRA-listed director; and</p>
 <p>iii) submit a <a href="https://go.gov.sg/stpselfdeclaration" rel="noopener nofollow" target="_blank">FormSG declaration</a> to
 Singapore Customs by the last day of each calendar year (i.e 31 December).</p>
-<p>For more information, please refer to the <a href="/files/businesses/seb/FAQs_for_Streamlined_STP_renewal.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
+<p>For more information, please refer to the <a href="/files/FAQs_for_Streamlined_STP_renewal_Final_31_Dec_24.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
 <p>For the STP-Plus certification, a company must meet all the stipulated
 requirements in the STP guidelines and criteria, and achieve the “Premium”
 band under the TradeFIRST assessment. The STP-Plus certification will last
