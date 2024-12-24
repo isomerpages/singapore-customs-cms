@@ -65,6 +65,6 @@ A Bulk Permit holder must:
 -   Ensure that any goods or technology transfer made under the Bulk Permit is not transferred to United Nations Security Council–sanctioned countries or entities
 -   Maintain records of strategic goods transactions for at least 5 years
 
-Please refer to Section 4.9 of the [STS handbook](/files/businesses/seb/STS_Handbook.pdf)
+Please refer to Section 4.9 of the [STS handbook](/files/STS_Handbook___updated_Dec_2024.pdf)
 
 *Local registered entities are required to take up their own Bulk Permit and the Bulk Permit shall not be transferred to any other person/company.
