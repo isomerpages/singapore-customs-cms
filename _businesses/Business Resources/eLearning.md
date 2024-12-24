@@ -273,7 +273,7 @@ information and updates.</p>
 <p>Temporary Import Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Temporary_Import_Scheme__Temporary_Export_Consigment_Guide_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>
+<p><a href="/files/Temporary_Import_Scheme__Temporary_Export_Consigment_Guide__V2_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>

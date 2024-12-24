@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Customs
-description: test test
+description: 
 permalink: /
 notification: Use our digital services when transacting with us! We encourage
   businesses to submit trade declarations via TradeNet and access our eServices
