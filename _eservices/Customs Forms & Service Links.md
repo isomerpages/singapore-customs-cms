@@ -113,10 +113,10 @@ description: ""
 | 10. | Apply/Update/Renew/Terminate Declaring Agent Account | [Web Link](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct)
 | 11. | Authorisation of User Inventory Control system | [Web Link](https://go.gov.sg/ics)
 | 12. | Claimant Application by All Other Entities (e.g. Companies, Businesses) Apart from Embassy, High Commission Consulate, accredited Trade Mission, International Organisations, Foreign Military Forces, Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://www.tradenet.gov.sg/TN41/tds/claimant/applicationDetail.do?action=ADD&amp;init=&amp;APPLICATION_ID=TXWP)
-| 13. | Claimant Application by Embassy, High Commission Consulate, Accredited Trade Mission and International Organisation with the MFA as Supporting Agency | [Web Link](https://form.gov.sg/5d0095fa0816b400111cd5b1)|
-| 14. | Claimant Application by Foreign Military Forces | [Web Link ](https://form.gov.sg/62b184bfbe2196001180ad44)
-| 15. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://form.gov.sg/62b184bfbe2196001180ad44)
-| 16. | Claimant Application by International Organisations Supported by an Agency Other than the MFA | [Web Link ](https://form.gov.sg/62b184bfbe2196001180ad44)
+| 13. | Claimant Application by Embassy, High Commission Consulate, Accredited Trade Mission and International Organisation with the MFA as Supporting Agency | [Web Link](https://go.gov.sg/embassy)|
+| 14. | Claimant Application by Foreign Military Forces | [Web Link ](https://go.gov.sg/non-business-enty)
+| 15. | Claimant Application by Government Agencies, SAF Camps and Affiliated Clubs | [Web Link](https://go.gov.sg/non-business-enty)
+| 16. | Claimant Application by International Organisations Supported by an Agency Other than the MFA | [Web Link ](https://go.gov.sg/non-business-enty)
 | 17. | Security Application Template [S/N 11 titled, "CUSTOMS_REG"] | [Web Link](https://www.eguarantee.gov.sg/templates/list-of-eguarantee-templates/existing/)
 
 [Back to Top](/eservices/customs-forms-and-service-links)
