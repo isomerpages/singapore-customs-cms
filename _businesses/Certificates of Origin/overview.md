@@ -44,7 +44,7 @@ A Certificate of Origin (CO) helps to attest the origin of goods. There are two 
 
 An ordinary CO, also known as a non-preferential CO, is a trade document that helps to identify the origin of the good. It does not enable your overseas buyers to claim preferential tariff treatment on your products (i.e. pay lower or no customs duty) when importing them as it is not issued due to any Free Trade Agreement.
 
-You may refer to this [handbook](/files/businesses/handbook-on-the-rules-of-origin-for-oco.pdf) for more information on the rules of origin for ordinary COs.
+You may refer to this [handbook](/files/businesses/ttsb-roo/handbook_on_the_rules_of_origin_for_oco__3_.pdf) for more information on the rules of origin for ordinary COs.
 
 ## What is a preferential Certificate of Origin (PCO)?
 
@@ -52,10 +52,8 @@ A preferential CO allows your buyer to pay lower or no customs duty when you exp
 
 These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
  
-- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/handbook_on_roo_for_pco_oct2022%20(clean).pdf)
+- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf)
     
-    
-
 You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
 
 ## Who can issue an Ordinary Certificate of Origin (OCO)?
