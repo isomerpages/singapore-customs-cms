@@ -41,4 +41,4 @@ You should proceed to amend the field in the export permit electronically via Tr
 
 The CO that has been previously issued should be cancelled in accordance to the revised cancellation procedures found in [Notice 19/2020](/files/businesses/ttsb-roo/Notice_19_2020.pdf). Subsequently, you can proceed to apply for a pure CO application with the details you have amended in the export permit.
 
-Traders may also refer to this [handbook](/files/businesses/ttsb-roo/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Aug_2024__clean_.pdf) for more information on how to apply for a CO via Tradenet.
+Traders may also refer to this [handbook](/files/businesses/ttsb-roo/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Jan_2025__clean_.pdf) for more information on how to apply for a CO via Tradenet.
