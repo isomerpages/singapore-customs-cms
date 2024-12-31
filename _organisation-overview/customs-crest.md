@@ -5,7 +5,7 @@ variant: markdown
 ---
 # Customs Crest
 
-![Customs Crest](/images/31Dec24_Version_D.png)
+![](/images/31Dec24_Small_Version_D.png)
 
 Our crest symbolises our twin functions both as a collector of revenue and a facilitator of trade and travel.
 
