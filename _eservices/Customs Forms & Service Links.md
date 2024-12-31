@@ -25,7 +25,7 @@ description: ""
 | 3. | Application Form to be an Approved/Certified Exporter | [Web Link](https://go.gov.sg/certified-exporter)|
 | 4. | Letter of Undertaking for Manufacturing Cost Statement | [Web Link](https://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp)|
 | 5. | Manufacturing Cost Statement Format |[Excel Doc](https://go.gov.sg/coststatementfeb2024)|
-| 6. | Registration for Manufacturer/New Product Line | [PDF](https://go.gov.sg/mfr)|
+| 6. | Registration for Manufacturer/New Product Line | [Word Doc ](https://go.gov.sg/mfr)|
 | 7. | Authorisation to Declare and Transmit Certificate of Origin via EODES to China | [Web Link](https://form.gov.sg/65aa0d644c2f3e0012ac93a4)|
 | 8. | Update to Manufacturer Registration Details | [Web Link](https://form.gov.sg/#!/5e129c85df378700118fba76)|
 
@@ -86,7 +86,7 @@ description: ""
 
 | No. | E-services | Links |
 |--|--|--|
-| 1. | Application for Certificate of Free Sale (CFS)<br>  |[Web Link](https://form.gov.sg/6433b249135e4c0012efce2e )|
+| 1. | Application for Certificate of Free Sale (CFS)<br>  |[Web Link](https://go.gov.sg/cfsapplicationupdated)|
 | 2. | CFS Application Form | [Word Doc](https://go.gov.sg/cfsapplicationupdated)|
 | 3. | Application for Customs Ruling on Classification of Goods | [Web Link](https://go.gov.sg/customsruling)|
 | 4. | Application for Customs Ruling on Origin Determination of Imported Goods | [Web Link](https://form.gov.sg/#!/5cb03416bc22ae0010760c72)|
