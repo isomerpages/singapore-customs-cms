@@ -2,19 +2,19 @@ title: Singapore Customs
 url: https://customs.gov.sg
 favicon: /images/favicon.png
 colors:
-  primary-color: "#20639b"
-  secondary-color: "#041D42"
+  primary-color: "#071d49"
+  secondary-color: "#009cde"
   media-colors:
     - title: media-color-one
       color: "#A2AAAD"
     - title: media-color-two
-      color: "#20639B"
+      color: "#4d4d4f"
     - title: media-color-three
-      color: "#990000"
+      color: "#00b0b9"
     - title: media-color-four
-      color: "#5B6B79"
+      color: "#071d49"
     - title: media-color-five
-      color: "#041D42"
+      color: "#009cde"
 resources_name: news-and-media
 google_analytics: UA-70503404-1
 permalink: none
