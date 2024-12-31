@@ -4,14 +4,7 @@ permalink: /about-us/overview/
 variant: markdown
 ---
 # Organisation Overview
-Singapore Customs, a department under the Ministry of Finance, is the lead agency for trade facilitation and revenue enforcement.
-
-Reconstituted on 1 April 2003 to bring together revenue collection and enforcement, trade documentation, trade facilitation and security functions under one agency, Singapore Customs upholds customs and trade laws to build trust in Singapore’s external trading system, facilitate trade, and protect revenue.
-
-We facilitate Singapore’s external trade, through collaboration with government agencies and businesses, robust regulations and effective enforcement.
-
-We play a proactive role in balancing the intricate requirements of trade facilitation, security, and regulatory compliance to strengthen Singapore’s position as a global trade hub trusted by foreign trading partners and businesses operating in Singapore.
-	Singapore Customs is a leading authority at the forefront of ensuring revenue and enabling trade, playing a pivotal role in Singapore’s economic resilience and growth. As a trusted partner of the Ministry of Finance, we ensure the collection of customs duties, import taxes, and excise duties, while enforcing strict compliance with trade regulations. This commitment not only protects the nation’s financial interests but also prevents revenue leakage and combats illicit trade activities.
+Singapore Customs is a leading authority at the forefront of ensuring revenue and enabling trade, playing a pivotal role in Singapore’s economic resilience and growth. As a trusted partner of the Ministry of Finance, we ensure the collection of customs duties, import taxes, and excise duties, while enforcing strict compliance with trade regulations. This commitment not only protects the nation’s financial interests but also prevents revenue leakage and combats illicit trade activities.
 
 At the heart of our mission is our dual role: ensuring revenue and enabling trade. By streamlining customs procedures, fostering international connectivity, and leveraging innovative solutions, we support businesses and promote Singapore’s position as a trusted global trading hub.
 
