@@ -8,11 +8,11 @@ colors:
     - title: media-color-one
       color: "#A2AAAD"
     - title: media-color-two
-      color: "#4d4d4f"
+      color: "#071d49"
     - title: media-color-three
       color: "#00b0b9"
     - title: media-color-four
-      color: "#071d49"
+      color: "#4d4d4f"
     - title: media-color-five
       color: "#009cde"
 resources_name: news-and-media
