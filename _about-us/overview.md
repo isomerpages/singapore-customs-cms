@@ -26,11 +26,17 @@ Through our unwavering commitment to these principles, we contribute to a thrivi
 
 ## Our Vision, Mission and Core Values
 
-**Vision** <br>
-A leading Customs that advances Singapore’s economy.
-
 **Mission**<br>
-We protect revenue, and make trade easy, fair and secure.
+We protect revenue and facilitate trade for a thriving Singapore economy.
+
+**Vision** <br>
+A leading customs authority in the world.<br>
+A partner of MOF in ensuring revenue as a core strength of Singapore’s economy.<br>
+An enabler for Singapore’s trade and status as a choice global trading hub.<br>
+A team of committed, competent and innovative professionals.
+
+**Tagline**<br>
+*Ensuring Revenue. Enabling Trade.*
 
 **Core Values**
 
