@@ -1,16 +1,16 @@
 ---
 title: Overview
 permalink: /about-us/overview/
+variant: markdown
 ---
-
 # Organisation Overview
-Singapore Customs, a department under the Ministry of Finance, is the lead agency for trade facilitation and revenue enforcement.
+Singapore Customs is a leading authority at the forefront of ensuring revenue and enabling trade, playing a pivotal role in Singapore’s economic resilience and growth. As a trusted partner of the Ministry of Finance, we ensure the collection of customs duties, import taxes, and excise duties, while enforcing strict compliance with trade regulations. This commitment not only protects the nation’s financial interests but also prevents revenue leakage and combats illicit trade activities.
 
-Reconstituted on 1 April 2003 to bring together revenue collection and enforcement, trade documentation, trade facilitation and security functions under one agency, Singapore Customs upholds customs and trade laws to build trust in Singapore’s external trading system, facilitate trade, and protect revenue.
+At the heart of our mission is our dual role: ensuring revenue and enabling trade. By streamlining customs procedures, fostering international connectivity, and leveraging innovative solutions, we support businesses and promote Singapore’s position as a trusted global trading hub.
 
-We facilitate Singapore’s external trade, through collaboration with government agencies and businesses, robust regulations and effective enforcement.
+Our four-pronged vision is supported by a dedicated team of competent, innovative professionals driven by our core values of integrity, commitment, courage, responsiveness and teamwork. These values guide our actions to achieve operational excellence, empower our employees, and build strong partnerships with the trade community.
 
-We play a proactive role in balancing the intricate requirements of trade facilitation, security, and regulatory compliance to strengthen Singapore’s position as a global trade hub trusted by foreign trading partners and businesses operating in Singapore.
+Through our unwavering commitment to these principles, we contribute to a thriving Singapore economy, ensuring the nation’s continued success as a trusted and vibrant player in the global trade landscape.
 
 -   [Customs Crest](/about-us/organisation-overview/customs-crest)
 -   [Organisation Structure](/about-us/organisation-overview/organisation-structure)
@@ -19,11 +19,17 @@ We play a proactive role in balancing the intricate requirements of trade facili
 
 ## Our Vision, Mission and Core Values
 
-**Vision** <br>
-A leading Customs that advances Singapore’s economy.
-
 **Mission**<br>
-We protect revenue, and make trade easy, fair and secure.
+We protect revenue and facilitate trade for a thriving Singapore economy.
+
+**Vision** <br>
+A leading customs authority in the world.<br>
+A partner of MOF in ensuring revenue as a core strength of Singapore’s economy.<br>
+An enabler for Singapore’s trade and status as a choice global trading hub.<br>
+A team of committed, competent and innovative professionals.
+
+**Tagline**<br>
+*Ensuring Revenue. Enabling Trade.*
 
 **Core Values**
 
@@ -47,7 +53,7 @@ We protect revenue, and make trade easy, fair and secure.
 |**1975**| CED becomes a member of the Customs Cooperation Council (now known as World Customs Organisation).                                                                                                    |
 |**1989**| Launch of TradeNet, the world’s first nationwide electronic data interchange system for paperless clearance of trade documentation.                                                                   |
 |**1990**| CED’s role in trade facilitation grows in importance. Represented Singapore in negotiations within organisations such as ASEAN, Asia-Pacific Economic Cooperation and World Trade Organisation.       |
-|**1994**| With the introduction of Goods & Services Tax, all but four items (tobacco, intoxicating liquor, petroleum and motor vehicles) were removed from the dutiable goods list.                             |
+|**1994**| With the introduction of Goods &amp; Services Tax, all but four items (tobacco, intoxicating liquor, petroleum and motor vehicles) were removed from the dutiable goods list.                             |
 |**2003**| CED is reconstituted as Singapore Customs, with trade facilitation and revenue enforcement roles.                                                                                                     |
 |**2007**| Singapore Customs launches TradeXchange, an IT platform that connects the trade and logistics community. Secure Trade Partnership, Singapore’s national supply chain security programme, is launched. |
 |**2010**| 100th anniversary of Singapore Customs.                                                                                                                                                               |
