@@ -2,18 +2,20 @@
 title: Types of Transhipment Permits
 permalink: /businesses/transhipping-goods/transhipment-procedures/types-of-transhipment-permits/
 third_nav_title: Transhipment Procedures
+variant: markdown
 ---
 # Types of Transhipment/Movement Permits
 
 A transhipment permit is required to account for the following transhipment movements:
 
 -   For goods (all types) that are transhipped from one Free Trade Zone (FTZ) to another FTZ, a  **Transhipment (Through Transhipment with Inter-Gateway Movement (TTI)) permit**  is required.
+-   For goods (all types) that are transhipped from one FTZ to land checkpoint (and vice versa), a Transhipment (Through Transhipment with Inter-Gateway Movement (TTI)) permit is required.
 -   For controlled goods transhipped within the same FTZ, a  **Transhipment (Through Transhipment within the same FTZ (TTF)) permit**  is required.
 
 | Message Type | Declaration Type | Code |
 |--|--|--|
 |Transhipment/Movement  | **Through Transhipment Within Same FTZ**<br><br>For the transhipment of controlled goods covered by a Through Bill of Lading or Airway Bill, where the goods previously brought into FTZ from foreign territory are to be transhipped within the same FTZ.<br><br>This declaration type should be used for goods-in-transit as well. | TTF|
-| Transhipment/Movement | **Through Transhipment With Inter-Gateway Movement**<br><br>For the transhipment of goods covered by a Through Bill of Lading or Airway Bill, where the goods previously brought into FTZ from foreign territory are to be transhipped through another FTZ. | TTI|
+| Transhipment/Movement | **Through Transhipment With Inter-Gateway Movement**<br><br> a) For the transhipment of goods covered by a Through Bill of Lading or Airway Bill, where the goods previously brought into FTZ from foreign territory are to be transhipped through another FTZ. <br><br> b) For the transhipment of goods, where the goods previously brought into FTZ from foreign territory are to be transhipped through land checkpoints (and vice versa). | TTI|
 | Transhipment/Movement | **Inter-Gateway Movement**<br><br>For inter-gateway movement of goods from one FTZ to another FTZ (including the following scenarios):<br><br> -   Goods previously covered by an In-Non-Payment (Storage in FTZ) permit and subsequently removed from one FTZ to another FTZ;<br>-   Consolidated Less-than-Container-Load (LCL) container stuffed with local and transhipment cargoes from one FTZ to another for unstuffing (not applicable to controlled and dangerous goods cargo); or<br>-   Consolidated goods under the Bonded Truck Scheme.<br>Please note that this declaration types does not cover the inward or outward movement of the goods from Singapore. |IGM |
 |Transhipment/Movement  | **Removal**<br><br> Movement of goods from:<br><br> -   Licensed warehouse to another licensed warehouse or<br>-   Zero-GST warehouse to another Zero-GST warehouse; or<br>-   movement of goods under the Temporary Import Scheme into a licensed warehouse or Zero-GST warehouse. |REM |
 | Transhipment/Movement | **Blanket Removal**<br><br> For declarations used to cover several movements within the month between licensed premises. | BRE|
