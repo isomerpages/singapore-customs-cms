@@ -6,5 +6,5 @@ variant: markdown
 ---
 # Terms and Conditions for DAs and Declarants 
 
--   [Terms and Conditions for DAs](/files/businesses/tcsdafinal.pdf)
--   [Terms and Conditions for Declarants](/files/businesses/tcs_declarant_updated_2023.pdf)
+-   [Terms and Conditions for DAs](/files/businesses/DA___T_C__amended_2025_.pdf)
+-   [Terms and Conditions for Declarants](/files/businesses/Declarant___T_C__amended_2025_.pdf)
