@@ -19,7 +19,7 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/ad
 
 | Title | Related Link |
 |--|--|
-| **Guide for Newly Registered Traders** | [PDF](https://go.gov.sg/guide-for-newly-registered-traders) |
+| **Guide for Newly Registered Traders** | [PDF](/files/businesses/E_Guide_for_Newly_Registered_Traders__Dec_2024_.pdf) |
 | **Guide to Customs’ Procedures** | [Web Link](https://www.customs.gov.sg/businesses/business-resources/elearning) |
 | **Temporary Import Scheme &amp; Temporary Export Consignment Guide** | [PDF](/files/Temporary_Import_Scheme__Temporary_Export_Consigment_Guide__V2_1_.pdf) |
 | **Handbook on Rules of Origin for Preferential Certificates of Origin** | [PDF](/files/businesses/ttsb-roo/handbook_on_roo_for_pco_oct2022%20(clean).pdf) |
