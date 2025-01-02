@@ -23,7 +23,7 @@ A transhipment permit is required to account for the following transhipment move
 
 A permit is not required for the transhipment of non-controlled goods within the same FTZ. Please refer to  [Circular 01/2020](/news-and-media/circulars/circular012020ver1.pdf)  for more information on the storage of liquors and tobacco products in the FTZs.
 
-You may refer to the [complete list of permit declaration types](https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/Module_5_-_types_of_permit_applications.pdf) for more information.
+You may refer to the [complete list of permit declaration types](https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/Types_of_Permit_Applications__updated_1_Jan_2025_.pdf) for more information.
 
 ## Further information
 
