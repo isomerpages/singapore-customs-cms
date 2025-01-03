@@ -42,7 +42,7 @@ If the import is not subject to the restrictions below, you may apply for an imp
 
 ## Restrictions for Import from Non-Member States
 
-The following restrictions apply to the import of [scheduled chemicals](/files/businesses/GuidetoNACWCLicence010724.pdf) from [non-Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}.
+The following restrictions apply to the import of [scheduled chemicals](/files/businesses/guidetonacwclicence_2025.pdf) from [non-Member States](https://www.opcw.org/about-us/member-states){:target="_blank"}.
 
 | Schedules | Schedule 1 | Schedule 2 |  Schedule 3 |
 |---|---|---|---|
