@@ -61,7 +61,7 @@ import permit applications.</p>
 to make payment of duties, taxes, fees, penalties and other charges on
 services offered by Singapore from your bank account to Singapore Customs
 directly.</p>
-<p>To apply, mail the completed <a href="https://go.gov.sg/customs-ibg-form" rel="noopener noreferrer nofollow" target="_blank">Application for Inter-Bank GIRO form</a> to
+<p>To apply, mail the completed <a href="https://go.gov.sg/customs-ibg-app" rel="noopener noreferrer nofollow" target="_blank">Application for Inter-Bank GIRO form</a> to
 Singapore Customs’ address as indicated in the form.</p>
 <p>The IBG application usually requires 3 to 4 weeks for the bank’s approval.
 Once it is approved, you will receive a notification by email depending
