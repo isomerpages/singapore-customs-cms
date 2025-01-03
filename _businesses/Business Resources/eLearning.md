@@ -732,7 +732,7 @@ Export, Transhipment and Transit</p>
 <p>List of Message and Declaration types for permit application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="files/businesses/psb/tn%20team/module_5_-_list_of_message_and_declaration_types_for_permit_applications.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>
+<p><a href="files/businesses/psb/tn%20team/list_of_message_and_declaration_types_for_permit_applications.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>
 </p>
 </td>
 </tr>
