@@ -68,4 +68,3 @@ PSA International Pte Ltd
 Group Chief Executive Officer
 International Freight Consultants (S) Pte Ltd
 
-Pte Ltd
