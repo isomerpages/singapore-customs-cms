@@ -52,7 +52,7 @@ description: ""
 | 15. | TEMPLATE C.3 - ADAA for Schedule 3 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateC3ADAAforS3Chemicals.pdf)|
 | 16. | TEMPLATE D.1 - ADPA for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateD1ADPAforS1Chemicals.pdf)|
 | 17. | TEMPLATE D.2 - ADPA for Schedule 2 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateD2ADPAforS2Chemicals.pdf)|
-| 18. | TEMPLATE D.3 - ADPA for Schedule 3 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.pdf)|
+| 18. | TEMPLATE D.3 - ADPA for Schedule 3 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateD3ADPAforS3Chemicals.pdf)|
 | 19. | TEMPLATE D.4 - ADPA Involving Unscheduled Discrete Organic Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.pdf)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
