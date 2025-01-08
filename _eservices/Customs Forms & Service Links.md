@@ -42,7 +42,7 @@ description: ""
 | 5. | Licence Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC_A_067E_NACWCLicenceApplicationCoverForm.pdf)|
 | 6. | Licence Application Form (New/Renewal) | [Web Link](https://go.gov.sg/cwc-lic-form)|
 | 7. | FORM A.1 - Licence Application for Activities Involving Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC_A_067A_NACWCFormA1ActivitiesInvolvingSch1.pdf)|
-| 8. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWCLicenceAmendmentApplicationCoverForm.pdf)|
+| 8. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC_A_068F_NACWCLicenceAmendmentApplicationCoverForm.pdf)|
 | 9. | Licence Application Form (Amendment) | [Web Link](https://go.gov.sg/cwc-lic-amdt-form)
 | 10. | FORM B.1 - Addition of New Chemical and/or Addition of New Activity for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWCFormB1ActivitiesInvolvingSch1.pdf)|
 | 11. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068G_IncrementOfMaximumAggregate.pdf) |
