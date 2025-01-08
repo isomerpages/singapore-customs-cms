@@ -41,7 +41,7 @@ description: ""
 | 4. | Advanced Notifications on Transfer of Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/AdvancedNotificationOnTransferOfSchedule1Chemicals.pdf)|
 | 5. | Licence Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWCLicenceApplicationCoverForm.pdf)|
 | 6. | Licence Application Form (New/Renewal) | [Web Link](https://go.gov.sg/cwc-lic-form)|
-| 7. | FORM A.1 - Licence Application for Activities Involving Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWC_FormA1_Activities_involving_Sch1.pdf)|
+| 7. | FORM A.1 - Licence Application for Activities Involving Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWCFormA1ActivitiesInvolvingSch1)|
 | 8. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWC_Licence_Amendment_Application_Cover_Form.pdf)|
 | 9. | Licence Application Form (Amendment) | [Web Link](https://go.gov.sg/cwc-lic-amdt-form)
 | 10. | FORM B.1 - Addition of New Chemical and/or Addition of New Activity for Schedule 1 Chemical |  [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWC_FormB1_Activities_involving_Sch1.pdf)|
