@@ -39,13 +39,13 @@ description: ""
 | 2. |  Licence Application Cover Form/Update of Licensee Contact Information | [Web Link](https://go.gov.sg/cwc-lic-cover-form)|
 | 3. |   Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit &amp; Chemical Weapons Convention |[Word Doc](https://go.gov.sg/combinedeuc-sts-and-cwc)|
 | 4. | Advanced Notifications on Transfer of Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/AdvancedNotificationOnTransferOfSchedule1Chemicals.pdf)|
-| 5. | Licence Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWCLicenceApplicationCoverForm.pdf)|
+| 5. | Licence Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC_A_067E_NACWCLicenceApplicationCoverForm.pdf)|
 | 6. | Licence Application Form (New/Renewal) | [Web Link](https://go.gov.sg/cwc-lic-form)|
-| 7. | FORM A.1 - Licence Application for Activities Involving Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-067A_NACWCFormA1ActivitiesInvolvingSch1.pdf)|
-| 8. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWCLicenceAmendmentApplicationCoverForm.pdf)|
+| 7. | FORM A.1 - Licence Application for Activities Involving Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC_A_067A_NACWCFormA1ActivitiesInvolvingSch1.pdf)|
+| 8. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC_A_068F_NACWCLicenceAmendmentApplicationCoverForm.pdf)|
 | 9. | Licence Application Form (Amendment) | [Web Link](https://go.gov.sg/cwc-lic-amdt-form)
-| 10. | FORM B.1 - Addition of New Chemical and/or Addition of New Activity for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWCFormB1ActivitiesInvolvingSch1.pdf)|
-| 11. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068G_IncrementOfMaximumAggregate.pdf) |
+| 10. | FORM B.1 - Addition of New Chemical and/or Addition of New Activity for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC_A_068A_NACWCFormB1ActivitiesInvolvingSch1.pdf)|
+| 11. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC_A_068G_IncrementOfMaximumAggregate.pdf)|
 | 12. | Declaration Cover for Reporting Template (for ADAA/ ADPA/ ad-hoc) | [PDF](https://www.customs.gov.sg/files/eservices/DeclarationCoverForReportingTemplate.pdf)|
 | 13. | TEMPLATE C.1 - ADAA for Schedule 1 Chemical |[PDF](https://www.customs.gov.sg/files/eservices/TemplateC1ADAAForS1Chemicals.pdf)|
 | 14. | TEMPLATE C.2 - ADAA for Schedule 2 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateC2ADAAforS2Chemicals.pdf)| 
