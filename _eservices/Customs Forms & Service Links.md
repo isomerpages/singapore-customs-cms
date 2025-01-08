@@ -45,7 +45,7 @@ description: ""
 | 8. | Licence Amendment Application Cover Form for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068F_NACWCLicenceAmendmentApplicationCoverForm.pdf)|
 | 9. | Licence Application Form (Amendment) | [Web Link](https://go.gov.sg/cwc-lic-amdt-form)
 | 10. | FORM B.1 - Addition of New Chemical and/or Addition of New Activity for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068A_NACWCFormB1ActivitiesInvolvingSch1.pdf)|
-| 11. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Increment-of-maximum-agregate.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Increment-of-maximum-agregate.pdf)|
+| 11. | FORM B.5 - Increment of Maximum Aggregate for Licensed Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/SC-A-068G_IncrementOfMaximumAggregate.pdf) |
 | 12. | Declaration Cover for Reporting Template (for ADAA/ ADPA/ ad-hoc) | [Word Doc](https://www.customs.gov.sg/files/eservices/Declaration_Cover_for_Reporting_Template.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Declaration_Cover_for_Reporting_Template.pdf)|
 | 13. | TEMPLATE C.1 - ADAA for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-070A_Template_C1_ADAA_for_S1_Chemicals.pdf)|
 | 14. | TEMPLATE C.2 - ADAA for Schedule 2 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_C2_ADAA_for_S2_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_C2_ADAA_for_S2_Chemicals.pdf)|
