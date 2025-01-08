@@ -65,6 +65,5 @@ Head of Port+ Business Division, Southeast Asia
 PSA International Pte Ltd
 
 **Dr Thomas Sim**  
-Group Chief Executive Officer
+Group Chief Executive Officer<br>
 International Freight Consultants (S) Pte Ltd
-
