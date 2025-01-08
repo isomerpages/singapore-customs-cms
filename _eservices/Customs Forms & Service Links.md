@@ -37,7 +37,7 @@ description: ""
 |--|--|--|
 | 1. | Product Enquiry | [Web Link](https://go.gov.sg/cwc-product-enq)|
 | 2. |  Licence Application Cover Form/Update of Licensee Contact Information | [Web Link](https://go.gov.sg/cwc-lic-cover-form)|
-| 3. |   Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit &amp; Chemical Weapons Convention |[Word Doc](https://go.gov.sg/combinedeuc-sts1-and-cwc)|
+| 3. |   Sample Format of the Combined End User Certificate for Strategic Trade Scheme Individual Permit &amp; Chemical Weapons Convention |[Word Doc](https://go.gov.sg/combinedeuc-sts-and-cwc)|
 | 4. | Advanced Notifications on Transfer of Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Advanced_Notification_on_Transfer_of_Schedule_1_Chemicals.pdf)|
 | 5. | Licence Application Cover Form for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-067E_NACWC_Licence_Application_Cover_Form.pdf)|
 | 6. | Licence Application Form (New/Renewal) | [Web Link](https://go.gov.sg/cwc-lic-form)|
