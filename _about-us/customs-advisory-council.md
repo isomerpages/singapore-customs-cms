@@ -24,6 +24,14 @@ Ministry of Finance
 Professor Emeritus of Finance (Practice)<br>
 Lee Kong Chian School of Business, Singapore Management University<br> 
 
+**Ms Audrey Cheong**  
+Vice President, Operations  
+FedEx China
+
+**Mr Benjamin Ong**  
+Second Deputy Chairman  
+SAAA@Singapore
+
 **Mr Dave Ng Wee Peng**  
 Chairman  
 Singapore Logistics Association
@@ -52,18 +60,12 @@ Expeditors Singapore Pte Ltd
 Chairman &amp; Chief Executive Officer<br>
 Transworld Group Singapore<br>
 
-**Mr Paul Teo**  
-First Deputy Chairman  
-SAAA@Singapore
-
 **Ms Seow Hwee**  
 Head of Port+ Business Division, Southeast Asia  
 PSA International Pte Ltd
 
-**Mr Shamir Rahim**  
-Chief Executive Officer  
-VersaFleet Pte Ltd
+**Dr Thomas Sim**  
+Group Chief Executive Officer
+International Freight Consultants (S) Pte Ltd
 
-**Mr Tan Yock Juee**  
-Managing Director (Asia Regional Office)  
-Mediterranean Shipping Co. (Switzerland) Asia Regional Office Pte Ltd
+Pte Ltd
