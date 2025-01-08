@@ -49,12 +49,9 @@ description: ""
 | 12. | Declaration Cover for Reporting Template (for ADAA/ ADPA/ ad-hoc) | [PDF](https://www.customs.gov.sg/files/eservices/DeclarationCoverForReportingTemplate.pdf)|
 | 13. | TEMPLATE C.1 - ADAA for Schedule 1 Chemical |[PDF](https://www.customs.gov.sg/files/eservices/TemplateC1ADAAForS1Chemicals.pdf)|
 | 14. | TEMPLATE C.2 - ADAA for Schedule 2 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateC2ADAAforS2Chemicals.pdf)| 
-| 15. | TEMPLATE C.3 - ADAA for Schedule 3 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateC3ADAAforS3Chemicals.pdf)
-
-
-/www.customs.gov.sg/files/eservices/SC-A-070C_Template_C3_ADAA_for_S3_Chemicals.pdf)|
-| 16. | TEMPLATE D.1 - ADPA for Schedule 1 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D1_ADPA_for_S1_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D1_ADPA_for_S1_Chemicals.pdf)|
-| 17. | TEMPLATE D.2 - ADPA for Schedule 2 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D2_ADPA_for_S2_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D2_ADPA_for_S2_Chemicals.pdf)|
+| 15. | TEMPLATE C.3 - ADAA for Schedule 3 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateC3ADAAforS3Chemicals.pdf)|
+| 16. | TEMPLATE D.1 - ADPA for Schedule 1 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateD1ADPAforS1Chemicals.pdf)|
+| 17. | TEMPLATE D.2 - ADPA for Schedule 2 Chemical | [PDF](https://www.customs.gov.sg/files/eservices/TemplateD2ADPAforS2Chemicals.pdf)|
 | 18. | TEMPLATE D.3 - ADPA for Schedule 3 Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/Template_D3_ADPA_for_S3_Chemicals.pdf)|
 | 19. | TEMPLATE D.4 - ADPA Involving Unscheduled Discrete Organic Chemical | [Word Doc](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.doc)<br><br>[PDF](https://www.customs.gov.sg/files/eservices/SC-A-071D_Template_D4_ADPA_for_DOCs.pdf)|
 
