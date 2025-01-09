@@ -30,39 +30,19 @@ You may access the [Harmoniszed System (HS) or Competent Authorities (CA) Produc
      -  Any other supporting documents relevant to the export, import or transit shipments
  
     
-**2.**  **For Non-Hazardous Wastes (e.g. copper scrap) controlled under CCMD**
+**2.**  **For certain non-hazardous wastes, recyclables and used items (e.g. copper scrap, single and homogeneous plastic waste of a specific type, used electrical and electronic equipment)**
 
-**For Export**
+- Declarant must declare the following in the export, import or transhipment TradeNet permit application:
+   - Purpose of import, export or transit in the ‘General Remarks’ field
+   - Item description and item quantity  in the ‘HS Quantity’, ‘HS Quantity Unit’, ‘CA/SC Product Quantity’ and ‘CA/SC Product Quantity Unit’ fields
+   - The corresponding Product Code to the appropriate HS Code in the ‘CA/SC Product Code’ and ‘HS Code’ fields respectively
+   - Container Number and Container Seal Number  in the ‘Container Number’ and ‘Shipper Seal Number’ fields respectively
 
-- Declarant must declare the following in the export permit application:
+- Declarant is required to upload the following documents to the TradeNet permit application:
+   - Invoice/packing list
+   - Bill of Lading (BL) / Air Waybill (AWB)
+   - Additional supporting documents required for the specific HS Code/ CA/SC Product Code, which can be found [here](https://www.nea.gov.sg/docs/default-source/tiw/ccmd-basel-product-codes.pdf).
 
-   - Purpose of export under the 'Remarks/Conditions’ column
-   - Item description and item quantity under ‘Item Details’ column
-   - The corresponding Product Codes to the correct Harmonised System (HS) Codes
-
-- Declarant would have to upload the following documents in TradeNet during the permit application:
-
-   - Invoice
-   - Bill of Lading (BL) / Air waybill (AWB)
-   - Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classified under the Basel Convention and importing country’s legislation
-   - An inspection certificate issued by an authorized surveyor for exports of copper scraps to China , Taiwan and Hong Kong
-   - Any other supporting documents relevant to the export shipment
-
-**For Import**
-
-- Declarant must declare the following in the import permit application:
-
-   - Purpose of import under the 'Remarks/Conditions’ column
-   - Item description and item quantity under ‘Item Details’ column
-   - The corresponding Product Codes to the correct HS Codes
-
-- Declarant would have to upload the following documents in TradeNet during the permit application:
-
-   - Invoice
-   - Bill of Lading (BL) / Air waybill (AWB)
-   - Letter of confirmation from the exporter/importer confirming whether the shipment contains any hazardous wastes classified under the Basel Convention
- 
- - Any other supporting documents relevant to the import shipment
 
 **Note:  
 Prior approval via the TradeNet shall be obtained for the export, import and transit of all non-hazardous wastes.**
