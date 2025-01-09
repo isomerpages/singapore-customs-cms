@@ -3,14 +3,15 @@ title: National Environment Agency - Chemical Control and Management Department
   (Basel Convention)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/basel-convention/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
 # National Environment Agency - Chemical Control and Management Department (Basel Convention)
 
 ## Hazardous Wastes under the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal
 
-The import, export and transit of Hazardous Wastes are subject to control by the Chemical Control and Management Department (CCMD). Under the Hazardous Waste (Control of Export, Import and Transit) Act and its Regulations, any person who wish to export, import or transit hazardous waste must obtain a Basel permit from CCMD. For more information on the control of transboundary movements of hazardous wastes in Singapore, please visit [CCMD website](https://www.nea.gov.sg/corporate-functions/resources/legislation-international-law/multilateral-environmental-agreements/chemical-safety/basel-convention){:target="_blank"}.
+The import, export and transit of hazardous wastes, certain non-hazardous waste, recyclables and used items are subject to control by the Chemical Control and Management Department (CCMD). Under the Hazardous Waste (Control of Export, Import and Transit) Act and its Regulations, any person who wish to export, import or transit hazardous waste must obtain a Basel permit from CCMD. CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in granting any permit for the export, import or transit of hazardous wastes. For more information on the control of transboundary movements of hazardous wastes in Singapore, please visit [CCMD website](https://www.nea.gov.sg/corporate-functions/resources/legislation-international-law/multilateral-environmental-agreements/chemical-safety/basel-convention){:target="_blank"}.
 
-CCMD adopts the Prior Informed Consent (PIC) procedure of the Basel Convention in granting any permit for the export, import or transit of hazardous wastes. The import, export and transit of hazardous wastes are not allowed with non-Parties to the Basel Convention. The status of ratification of countries to the Basel Convention as well as information on Basel Convention may be viewed at  [http://www.basel.int/](http://www.basel.int/){:target="_blank"}.
+You may access the [Harmoniszed System (HS) or Competent Authorities (CA) Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) to determine if the HS Codes are controlled by CCMD (Basel Convention). Alternatively, you may download the list of HS/CA Product Code to identify the HS Codes and Product Codes for hazardous waste, certain non-hazardous waste, recyclables and used items under the purview of NEA-CCMD. CCMD (Basel Convention) is known as NEA(MTV) in TradeNet.
 
 ## Export, Import and Transit of Hazardous Wastes
 
