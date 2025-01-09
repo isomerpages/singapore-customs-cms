@@ -13,25 +13,22 @@ The import, export and transit of hazardous wastes, certain non-hazardous waste,
 
 You may access the [Harmoniszed System (HS) or Competent Authorities (CA) Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) to determine if the HS Codes are controlled by CCMD (Basel Convention). Alternatively, you may download the list of HS/CA Product Code to identify the HS Codes and Product Codes for hazardous waste, certain non-hazardous waste, recyclables and used items under the purview of NEA-CCMD. CCMD (Basel Convention) is known as NEA(MTV) in TradeNet.
 
-## Export, Import and Transit of Hazardous Wastes
+## Export, Import and Transit of Hazardous Wastes, Certain Non-hazardous Wastes, Recyclables and Used Items
 
-**1.**  **For Hazardous Wastes Classified under the Basel Convention**
+**1.**  **For hazardous wastes classified under the Basel Convention**
     
-- Declarant must declare the following in the export, import or transit permit application:
-    
-    -  Basel Export, Import or Transit Permit No. under the 'Licence Details' column
-    -  Item description and item quantity under ‘Item Details’ column
-    - The corresponding Product Codes to the correct Harmonised System (HS) Codes
-- Declarant would have to upload the following documents in TradeNet during the permit application:
-    
-     -  Invoice
-     -  Bill of Lading (BL) / Air waybill (AWB)
+- Declarant must declare the following in the export, import or transhipment TradeNet permit application:
+    -  Basel export, import or transit Permit No. in the ‘CA Licence Number’ field. The Basel permit must be obtained from NEA(CCMD) prior to the shipment and submission of the TradeNet permit application
+    -  Item description and item quantity  in the ‘HS Quantity’, ‘HS Quantity Unit’, ‘CA/SC Product Quantity’ and ‘CA/SC Product Quantity Unit’ fields
+    - The corresponding Product Code to the appropriate HS Code in the ‘CA/SC Product Code’ and ‘HS Code’ fields respectively
+    - Container Number and Container Seal Number in the ‘Container Number’ and ‘Shipper Seal Number’ fields respectively
+
+- Declarant is required to upload the following documents to the TradeNet permit application:
+     -  Invoice/packing list
+     -  Bill of Lading (BL) / Air Waybill (AWB)
      -  Copy of Basel export, import or transit permit
      -  Any other supporting documents relevant to the export, import or transit shipments
-    
-    **Note:** <br>
-    1. Export, Import and transit of Hazardous Wastes requires a valid Basel Export, Import or Transit Permit issued by NEA-CCMD respectively. <br>
-    2. Prior approval via the TradeNet shall be obtained for the export, import and transit of all Hazardous Wastes.
+ 
     
 **2.**  **For Non-Hazardous Wastes (e.g. copper scrap) controlled under CCMD**
 
