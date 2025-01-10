@@ -35,7 +35,7 @@ variant: markdown
 **Canada**
 
 -   [Department of Foreign Affairs and International Trade (Export and Import Controls Bureau)](http://www.international.gc.ca/controls-controles/index.aspx){:target="_blank"}
--   [The Controlled Goods Program](https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/index-eng.html){:target="_blank"}
+-   [The Controlled Goods Program](https://www.canada.ca/en/public-services-procurement/services/industrial-security/controlled-goods.html){:target="_blank"}
 
 **China**
 
