@@ -64,10 +64,6 @@ will receive an updated schedule and venue information.</p>
 <li>
 <p><a href="https://go.gov.sg/jio2024th" rel="noopener nofollow" target="_blank">Thailand’s Strategic Trade Control Regulatory Updates</a>
 </p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/jio2024in" rel="noopener nofollow" target="_blank">India’s Strategic Trade Control / Export Control System</a>
-</p>
 <p></p>
 </li>
 </ul>
@@ -82,10 +78,6 @@ will receive an updated schedule and venue information.</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/jio2024panel2b" rel="noopener nofollow" target="_blank">Compliance Blueprint: Best Practices in STM Organization Design</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/jio2024panel2c" rel="noopener nofollow" target="_blank">How Effective Is Your ICP?</a>
 </p>
 </li>
 <li>
