@@ -1,5 +1,5 @@
 ---
-title: Singapore Customs marks International Customs Day 2025
+title: Singapore Customs marks International Customs Day 2025 with a renewed commitment to efficiency, security, and prosperity
 date: 2025-01-24
 layout: file
 description: ""
