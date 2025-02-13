@@ -15,13 +15,12 @@ The ACDD is optional and open to all traders who export goods to an exchange-rea
   a)  Brunei Darussalam<br>
 	b)  Cambodia<br>
   c)  Indonesia<br>
-	d)  Malaysia<br>
-  e)  Myanmar<br>
-	f)  Philippines<br>
-  g)  Thailand<br>
-	h)  Vietnam<br>
-
-More AMS will commence live operation when they are ready to do so.<br>
+	d)  Lao PDR<br>
+	e)  Malaysia<br>
+  f)  Myanmar<br>
+	g)  Philippines<br>
+  h)  Thailand<br>
+	i)  Vietnam<br>
 
 The specific TradeNet export permit data that would be sent as an ACDD to an importing exchange-ready AMS are:<br>
 
