@@ -6,12 +6,6 @@ variant: markdown
 ---
 # Announcement 
 
-**23 Dec 2024**
-
-**Annual Declaration of Past Activities Exercise for Year 2024**
-
-The Annual Declaration of Past Activities (ADPA) Exercise for Year 2024 will commence from 23 Dec 2024 to 31 Jan 2025. Companies which have engaged in controlled activities involving Schedule 1, 2, 3 and Unscheduled Discrete Organic Chemicals are required to submit their ADPA by 31 Jan 2025. Please fill out the Declaration Cover for Reporting Template and the relevant declaration templates which can be accessed from the Chemical Weapons Convention Forms section on the [Customs Forms and Service Links page](https://www.customs.gov.sg/eservices/customs-forms-and-service-links).
-
 **18 Oct 2023**
 
 **Joint Regulatory Control of Scheduled CWC Chemicals by NEA, SCDF and NA(CWC)**
