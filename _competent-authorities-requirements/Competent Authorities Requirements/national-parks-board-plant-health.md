@@ -28,6 +28,6 @@ Importers are required to provide all relevant information to NParks for approva
 
 4) A customs permit must be obtained through TradeNet before the goods arrive in Singapore. The NParks-issued import permit for the importation of plants into Singapore costs $11.00. The purchase can be made via TradeNet.
 
-5) The details of the regulated pests, plants, plant products and other regulated articles are listed in the respective Schedules of the Rules. You may reach out to the Plant Science and Health Branch (Plant Biosecurity & Phytosanitary Services Section) at 6316 5153 during office hours or via our [feedback form](https://www.nparks.gov.sg/contact-us){:target="blank"} > Parks, Greenery and Plant Feedback.
+5) The details of the regulated pests, plants, plant products and other regulated articles are listed in the respective Schedules of the Rules. You may reach out to the Plant Science and Health Branch (Plant Biosecurity & Phytosanitary Services Section) at 6316 5153 during office hours or via our [feedback form](https://www.nparks.gov.sg/contact-us){:target="blank"} > Feedback: Parks, greenery and plant matters.
 
 Refer to  [HS CA Product Code Search](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
