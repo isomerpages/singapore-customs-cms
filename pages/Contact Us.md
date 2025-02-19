@@ -11,10 +11,12 @@ variant: markdown
 
 **Enquiries on Customs Procedures** <br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552000).<br>
 
-Our operating hours:<br> 8am to 6pm (Monday to Friday)<br> 8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.
+Our operating hours:<br> 8am to 6pm (Monday to Friday)<br> 8am to 12pm (Saturday)<br>Closed on Sundays and Public Holidays.
 
 Our peak hours are from 10am to 12pm, and 3pm to 5pm.
-You are always welcome to engage with us via live-chat. You may also leave a call-back request and we will aim to get back to you within 20 minutes.<br>
+You are always welcome to engage us via live-chat. You may also leave a call-back request and we will aim to get back to you within 20 minutes.<br>
+
+**With effect from 17 Mar 2025 (Monday), Singapore Customs Contact Centre will operate from Monday to Friday, 8.30am to 5.30pm, and will be closed on weekends and Public Holidays.**<br>
 
 ---
 
