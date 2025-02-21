@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Circular_06_2024_Ver2.pdf
+file_url: /files/businesses/seb/Circular_06_2024__Ver3_.pdf
 ---
