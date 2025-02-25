@@ -121,11 +121,11 @@ more details on the procedures to enjoy the benefits under the MRAs.</p>
 <h2>STP and STP-Plus Certified Companies</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/STP_Certified_Companies_12_Nov_2024_xlsx.pdf" rel="noopener noreferrer nofollow" target="_blank">STP Certified Companies</a>
+<p><a href="/files/businesses/SLMB/STP_Certified_Companies_20_Feb_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">STP Certified Companies</a>
 </p>
 </li>
 <li>
-<p><a href="/files/STP_Plus_Certified_Companies_12_Nov_2024_xlsx.pdf" rel="noopener noreferrer nofollow" target="_blank">STP-Plus Certified Companies</a>
+<p><a href="/files/businesses/SLMB/STP_Plus_Certified_Companies_13_Feb_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">STP-Plus Certified Companies</a>
 </p>
 </li>
 </ul>
