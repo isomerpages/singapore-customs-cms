@@ -39,7 +39,7 @@ You will then undergo targeted training to hone the necessary competencies to pe
 	* 14 to 18 days of annual Vacation Leave
 	* 60 days of annual Hospitalisation Leave (inclusive of 14 days of Sick Leave)
 	* Subsidised medical and dental fees
-	* Training and Personal Development Fund 
+	* Training 
 	* Long Service Recognition
 	* Staff Recognition and Training Awards
 
