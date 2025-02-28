@@ -93,7 +93,7 @@ Leave)</p>
 <p>Subsidised medical and dental fees</p>
 </li>
 <li>
-<p>Training and Personal Development Fund</p>
+<p>Training</p>
 </li>
 <li>
 <p>Long Service Recognition</p>
