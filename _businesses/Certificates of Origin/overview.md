@@ -34,167 +34,317 @@ accordion:
       <br><br> ✖ Agree to requests from customers to make incorrect origin
       declarations. <br><br> ✖ Re-label the country of origin on the goods or
       its packaging. <br><br>
-variant: markdown
+variant: tiptap
 ---
-# Origin Documentation
-
-Origin Documentation, also known as proof of origin, helps to attest to the origin of goods. Broadly, there are two types of origin, namely **non-preferential origin** and **preferential origin**.
-
-![](/images/Certificate%20of%20Origin/origin_doc.png)
-
-## Non-Preferential Origin
-
-An ordinary Certificate of Origin (CO), also known as a non-preferential CO, is a trade document that helps to identify the origin of the good.
-
-You may refer to this [handbook](/files/businesses/ttsb-roo/handbook_on_the_rules_of_origin_for_oco__3_.pdf) for more information on the rules of origin for ordinary COs.
-
-  <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Who can issue an Ordinary CO?</label>
-    <div>
-      <p>Ordinary COs are issued by Singapore Customs or any of the following authorised organisations:
-
-*  <a href="http://www.sccci.org.sg/">Singapore Chinese Chamber of Commerce and Industry</a>
-
-* <a href="http://www.sicci.com/">Singapore Indian Chamber of Commerce and Industry</a>
-
-* <a href="http://www.sicc.com.sg/">Singapore International Chamber of Commerce</a>
-
-* <a href="http://www.smcci.org.sg/">Singapore Malay Chamber of Commerce and Industry</a>
-
-* <a href="http://www.smfederation.org.sg/">Singapore Manufacturing Federation</a>
-
-    
-Apart from Singapore Customs, these authorised organisations do also issue ordinary COs for locally manufactured or processed goods, and goods from other countries which are re-exported from Singapore. However, they do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.</p>
-    </div>
-  </li>
-		<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">How to Apply for Ordinary CO?</label>
-    <div>
-      <p>You may apply for an ordinary CO with any of the five authorised organisation through their website.
-
-To apply for an Ordinary CO with Singapore Customs, you may refer to the following guide on  [How to apply for OCO or PCO with Singapore Customs](https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/){:target="_blank"} </p>
-    </div>
-  </li>
-	</ul>
-
-## Preferential Origin
-
-A preferential proof of origin allows your buyer to pay lower or no customs duty when you export your goods under a [Free Trade Agreement](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#){:target="_blank"}. You may refer to Enterprise Singapore's [Tariff Finder](https://sg.mendel-online.com/){:target="_blank"} Tool to assist you in the following:
-
-- Whether the goods are covered under Free Trade Agreement and the corresponding preferential tariffs.
-- Which Free Trade Agreement is most suitable for your goods.
- <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Who can issue a preferential proof of origin?</label>
-    <div>
-      <p>The type of preferential proof of origin applicable for your goods depends on the requirements under the specific Free Trade Agreement that you apply for. 
-			
-There are three different types of preferential proof of origin:
-1. Preferential CO issued by Singapore Customs 				
-2. Origin declaration by Approved/Certified Exporters
-3. Origin declaration by Exporter/Producer/Importer
-
-![](/images/Certificate%20of%20Origin/type_of_POO.png)</p>
-    </div>
-  </li>
-		<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">How to obtain a preferential proof of origin?</label>
-    <div>
-       <p>**Certification by Customs Authority**
-				 
-For Free Trade Agreements that require Certification by Customs Authority, you may refer to the following guide on [How to apply for OCO or PCO with Singapore Customs](/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/). 
-				 
-You may refer to [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf) for more information on the rules of origin for preferential COs issued under Free Trade Agreements.
-
-You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
-			
-**Approved Exporter and/or Certified Exporter Scheme**
-
-To find out more about the Approved Exporter and/or Certified Exporter Scheme administered by Singapore Customs, you may refer to the following guide for more information. 
-				 
-[Approved Exporter and/or Certified Exporter Scheme](/businesses/certificates-of-origin/aece/)
-			
-**Self-Certification Regime**
-	
-For Free Trade Agreements that are under the Self-Certification regime, you may refer to the following guide for more information.
-
-[Self-Certification Regime](/businesses/certificates-of-origin/sc/)</p>	   
-    </div>
-  </li>
-	</ul>
-
-## For more information on:
-
-{:.mobile-block}
-|  |   |   |   |
-|---|---|---|---|
-|[![](/images/picture2.jpg)](/businesses/certificates-of-origin/how-to-apply-for-b2b/)|[![](/images/picture3.jpg)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)| [![](/images/picture4.jpg)](/businesses/certificates-of-origin/asw)|
-[![](/images/picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|[![](/images/Picture5v3.png)](/businesses/certificates-of-origin/manualissuance)|
-
-
-## Best Practices
-
-You are accountable as an exporter or declaring agent for the export of your goods. We encourage you to take note of the following Dos and Don’ts:
-
-	
-  <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Do</label>
-    <div>
-      <p>✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
-			<p>✔ Know the export procedures and declaration requirements before you export.</p>
-			<p>✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders.</p>
-			<p>✔ Ensure your declaring agents and freight forwarders understand and properly execute your instructions.</p>
-			<p>✔ Know the contents of each consignment you export and clarify with relevant parties if needed.</p>
-			<p>✔ Keep your supporting documents for a minimum of 5 years.</p>
-			<p>✔ Check with the relevant Competent Authority on their requirements to export controlled items.</p>
-			<p>✔ Ensure product details (for example, HS code, quantity) are correctly declared.</p>
-			<p>✔ Ensure you comply with all permit conditions stated in the permit.</p>
-			<p>✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition.</p>
-    </div>
-  </li>
-		<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Do Not</label>
-    <div>
-      <p>✖ Deny Singapore Customs officers’ requests to enter your premises or to check your documents.</p>
-			<p>✖ Make a declaration without verifying the authenticity of all supporting documents.</p>
-			<p>✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status.</p>
-			<p>✖ Share your TradeNet user ID and password with other persons.</p>
-			<p>✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/">Customs Circular No. 12/2013</a> for more information on the responsibilities of an exporter.</p>
-    </div>
-  </li>
-	</ul>
-## Offences
-
-Companies may be penalised under the Regulation of Imports and Exports Act (RIEA) if they do not comply with requirements relating to rules of origin.
-
-**Examples of common offences**
-
-  -   Making a false declaration  
-
-        -    Deliberate false declaration of country of origin
-        -    Declaring non-Singapore origin materials from local suppliers as Singapore-origin
-    
-   -   Incorrect trade descriptions
-        
-        -   Affixing false labels of origin on textile goods
-    
-   -   Failure to retain documents for the minimum retention period
-   -   Retaining supporting documents for preferential tariffs claimed under the US-Singapore Free Trade Agreement for 3 years instead of the minimum 5 years
-    
-For minor offences under the RIEA, Singapore Customs may offer to compound the offences for a sum not exceeding S$5,000 per offence. Offenders may be prosecuted if the offence committed is of a fraudulent or serious nature.
-    
-**Penalties upon conviction for key offences**
-
-| Offence | Penalty Upon Conviction |
-|--|--|
-| **Making a false declaration.** <br> _(Section 28(1)(a) of the RIEA)_ <br><br>**Incorrect Trade Descriptions.** <br> _(Section 28A(1)(a) of the RIEA)_<br><br>**Failure to comply with requirements of the Director-General for the issue of preferential CO**<br>_(Regulation 24B(4) of the RIER)_  | A fine not exceeding S$10,000, or imprisonment not exceeding 2 years, or both. <br><br> First conviction: A fine not exceeding S$100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 2 years or to both. <br><br> Second or subsequent conviction:A fine not exceeding S$200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 3 years or to both.
-
-Learn more about the prescribed offences and penalties under the [Customs Act](/businesses/acts-and-subsidiary-legislation/overview) and the [RIEA](/businesses/acts-and-subsidiary-legislation/overview).
+<h1>Origin Documentation</h1>
+<p>Origin Documentation, also known as proof of origin, helps to attest to
+the origin of goods. Broadly, there are two types of origin, namely <strong>non-preferential origin</strong> and <strong>preferential origin</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Certificate%20of%20Origin/origin_doc.png">
+</div>
+<h2>Non-Preferential Origin</h2>
+<p>An ordinary Certificate of Origin (CO), also known as a non-preferential
+CO, is a trade document that helps to identify the origin of the good.</p>
+<p>You may refer to this <a href="/files/businesses/ttsb-roo/handbook_on_the_rules_of_origin_for_oco__3_.pdf" rel="noopener noreferrer nofollow" target="_blank">handbook</a> for
+more information on the rules of origin for ordinary COs.</p>
+<ul>
+<li>
+<p>Who can issue an Ordinary CO?</p>
+<p>Ordinary COs are issued by Singapore Customs or any of the following authorised
+organisations:</p>
+<ul>
+<li>
+<p><a href="http://www.sccci.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chinese Chamber of Commerce and Industry</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.sicci.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Indian Chamber of Commerce and Industry</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.sicc.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore International Chamber of Commerce</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.smcci.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Malay Chamber of Commerce and Industry</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.smfederation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Manufacturing Federation</a>
+</p>
+</li>
+</ul>
+<p>Apart from Singapore Customs, these authorised organisations do also issue
+ordinary COs for locally manufactured or processed goods, and goods from
+other countries which are re-exported from Singapore. However, they do
+not issue ordinary COs for the export of Singapore-origin textiles and
+textile goods to the United States of America.</p>
+<p></p>
+</li>
+<li>
+<p>How to Apply for Ordinary CO?</p>
+<p>You may apply for an ordinary CO with any of the five authorised organisation
+through their website.</p>
+<p>To apply for an Ordinary CO with Singapore Customs, you may refer to the
+following guide on <a href="https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>{:target="_blank"}</p>
+<p></p>
+</li>
+</ul>
+<h2>Preferential Origin</h2>
+<p>A preferential proof of origin allows your buyer to pay lower or no customs
+duty when you export your goods under a <a href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#" rel="noopener noreferrer nofollow" target="_blank">Free Trade Agreement</a>{:target="_blank"}.
+You may refer to Enterprise Singapore's <a href="https://sg.mendel-online.com/" rel="noopener noreferrer nofollow" target="_blank">Tariff Finder</a>{:target="_blank"}
+Tool to assist you in the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Whether the goods are covered under Free Trade Agreement and the corresponding
+preferential tariffs.</p>
+</li>
+<li>
+<p>Which Free Trade Agreement is most suitable for your goods.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Who can issue a preferential proof of origin?</p>
+<p>The type of preferential proof of origin applicable for your goods depends
+on the requirements under the specific Free Trade Agreement that you apply
+for.</p>
+<p>There are three different types of preferential proof of origin:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Preferential CO issued by Singapore Customs</p>
+</li>
+<li>
+<p>Origin declaration by Approved/Certified Exporters</p>
+</li>
+<li>
+<p>Origin declaration by Exporter/Producer/Importer</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Certificate%20of%20Origin/type_of_POO.png">
+</div>
+<p></p>
+</li>
+<li>
+<p>How to obtain a preferential proof of origin?</p>
+<p>**Certification by Customs Authority**</p>
+<p>For Free Trade Agreements that require Certification by Customs Authority,
+you may refer to the following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>.</p>
+<p>You may refer to <a href="/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on rules of origin for preferential Certificates of Origin</a> for
+more information on the rules of origin for preferential COs issued under
+Free Trade Agreements.</p>
+<p>You may use the <a href="/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm" rel="noopener noreferrer nofollow" target="_blank">FTA Cost Statement Calculator</a> for
+a preliminary assessment of the qualifying value content and/or Change
+in Tariff Classification status of your manufactured good under a specific
+Free Trade Agreement, after you have identified the applicable origin criterion(a)
+for the good under the Agreement.</p>
+<p><strong>Approved Exporter and/or Certified Exporter Scheme</strong>
+</p>
+<p>To find out more about the Approved Exporter and/or Certified Exporter
+Scheme administered by Singapore Customs, you may refer to the following
+guide for more information.</p>
+<p><a href="/businesses/certificates-of-origin/aece/" rel="noopener noreferrer nofollow" target="_blank">Approved Exporter and/or Certified Exporter Scheme</a>
+</p>
+<p><strong>Self-Certification Regime</strong>
+</p>
+<p>For Free Trade Agreements that are under the Self-Certification regime,
+you may refer to the following guide for more information.</p>
+<p><a href="/businesses/certificates-of-origin/sc/" rel="noopener noreferrer nofollow" target="_blank">Self-Certification Regime</a>
+</p>
+<p>
+<br>
+</p>
+<p></p>
+</li>
+</ul>
+<h2>For more information on:</h2>
+<p>{:.mobile-block}</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5v3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Best Practices</h2>
+<p>You are accountable as an exporter or declaring agent for the export of
+your goods. We encourage you to take note of the following Dos and Don’ts:</p>
+<ul>
+<li>
+<p>Do</p>
+<p>✔ Inform Singapore Customs if there is any change in your company’s particulars
+to ensure you receive timely updates on regulatory changes.</p>
+<p>✔ Know the export procedures and declaration requirements before you export.</p>
+<p>✔ Ensure you provide the necessary supporting documents and information
+for permit declarations to your declaring agents and freight forwarders.</p>
+<p>✔ Ensure your declaring agents and freight forwarders understand and properly
+execute your instructions.</p>
+<p>✔ Know the contents of each consignment you export and clarify with relevant
+parties if needed.</p>
+<p>✔ Keep your supporting documents for a minimum of 5 years.</p>
+<p>✔ Check with the relevant Competent Authority on their requirements to
+export controlled items.</p>
+<p>✔ Ensure product details (for example, HS code, quantity) are correctly
+declared.</p>
+<p>✔ Ensure you comply with all permit conditions stated in the permit.</p>
+<p>✔ Ensure your driver or transport service provider produces the permit
+for endorsement at the checkpoint if the permit bears such a condition.</p>
+</li>
+<li>
+<p>Do Not</p>
+<p>✖ Deny Singapore Customs officers’ requests to enter your premises or
+to check your documents.</p>
+<p>✖ Make a declaration without verifying the authenticity of all supporting
+documents.</p>
+<p>✖ Declare that goods are of Singapore origin when they were only imported
+and re-exported from Singapore without qualifying for their origin status.</p>
+<p>✖ Share your TradeNet user ID and password with other persons.</p>
+<p>✖ Use your company’s UEN to export goods not belonging to you unless you
+are involved in taking the goods out of Singapore for export and are willing
+to declare yourself as the exporter on behalf of the party that issues
+the export invoice, or you are acting as a consolidator for customers without
+a UEN. In doing so, you are responsible for complying with all the regulatory
+requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 12/2013</a> for
+more information on the responsibilities of an exporter.</p>
+</li>
+</ul>
+<p>## Offences</p>
+<p>Companies may be penalised under the Regulation of Imports and Exports
+Act (RIEA) if they do not comply with requirements relating to rules of
+origin.</p>
+<p><strong>Examples of common offences</strong>
+</p>
+<ul>
+<li>
+<p>Making a false declaration</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deliberate false declaration of country of origin</p>
+</li>
+<li>
+<p>Declaring non-Singapore origin materials from local suppliers as Singapore-origin</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Incorrect trade descriptions</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Affixing false labels of origin on textile goods</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Failure to retain documents for the minimum retention period</p>
+</li>
+<li>
+<p>Retaining supporting documents for preferential tariffs claimed under
+the US-Singapore Free Trade Agreement for 3 years instead of the minimum
+5 years</p>
+</li>
+</ul>
+<p>For minor offences under the RIEA, Singapore Customs may offer to compound
+the offences for a sum not exceeding S$5,000 per offence. Offenders may
+be prosecuted if the offence committed is of a fraudulent or serious nature.</p>
+<p><strong>Penalties upon conviction for key offences</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Offence</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Penalty Upon Conviction</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Making a false declaration.</strong> 
+<br><em>(Section 28(1)(a) of the RIEA)</em> 
+<br>
+<br><strong>Incorrect Trade Descriptions.</strong> 
+<br><em>(Section 28A(1)(a) of the RIEA)</em>
+<br>
+<br><strong>Failure to comply with requirements of the Director-General for the issue of preferential CO</strong>
+<br><em>(Regulation 24B(4) of the RIER)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A fine not exceeding S$10,000, or imprisonment not exceeding 2 years,
+or both.
+<br>
+<br>First conviction: A fine not exceeding S$100,000 or 3 times the value
+of the goods in respect of which the offence was committed, whichever is
+greater, or imprisonment for a term not exceeding 2 years or to both.
+<br>
+<br>Second or subsequent conviction:A fine not exceeding S$200,000 or 4 times
+the value of the goods in respect of which the offence was committed, whichever
+is greater, or imprisonment for a term not exceeding 3 years or to both.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Learn more about the prescribed offences and penalties under the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener noreferrer nofollow" target="_blank">Customs Act</a> and
+the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener noreferrer nofollow" target="_blank">RIEA</a>.</p>
