@@ -8,6 +8,8 @@ variant: markdown
 ---
 ## How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?
 
+![Applying For OCO/PCO](/images/Certificate%20of%20Origin/Applying_for_PCO.png)
+
 **Step 1: Register your Manufacturing Premises/New Product Line**
 
 Register using the [manufacturer’s application form](https://go.gov.sg/mfr).
