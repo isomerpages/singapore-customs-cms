@@ -36,7 +36,11 @@ accordion:
       its packaging. <br><br>
 variant: markdown
 ---
-# Certificates of Origin
+# Origin Documentation
+
+Origin Documentation, also known as proof of origin, helps to attest to the origin of goods. Broadly, there are twp types of origin, namely **non-preferential origin** and **preferential origin**.
+
+
 
 ## What is an ordinary Certificate of Origin?
 
