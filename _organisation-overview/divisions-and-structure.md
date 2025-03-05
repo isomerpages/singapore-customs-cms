@@ -34,10 +34,13 @@ at the checkpoints</p>
 <h2>Compliance Division</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Company Compliance Branch</p>
+<p>Company Compliance &amp; Audit Branch</p>
 </li>
 <li>
 <p>Permits Compliance Branch</p>
+</li>
+<li>
+<p>Schemes &amp; License Management Branch</p>
 </li>
 </ul>
 <p>The main roles of the Compliance Division include:</p>
@@ -302,9 +305,6 @@ to uphold Singapore Customs reputation.</p>
 </li>
 <li>
 <p>Procedures &amp; Systems Branch</p>
-</li>
-<li>
-<p>Schemes &amp; Engagement Branch</p>
 </li>
 <li>
 <p>Tariffs &amp; Trade Services Branch</p>
