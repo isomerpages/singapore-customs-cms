@@ -101,9 +101,9 @@ following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-
 </ul>
 <h2>Preferential Origin</h2>
 <p>A preferential proof of origin allows your buyer to pay lower or no customs
-duty when you export your goods under a <a href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#" rel="noopener noreferrer nofollow" target="_blank">Free Trade Agreement</a>{:target="_blank"}.
-You may refer to Enterprise Singapore's <a href="https://sg.mendel-online.com/" rel="noopener noreferrer nofollow" target="_blank">Tariff Finder</a>{:target="_blank"}
-Tool to assist you in the following:</p>
+duty when you export your goods under a <a href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#" rel="noopener noreferrer nofollow" target="_blank">Free Trade Agreement</a>.
+You may refer to Enterprise Singapore's <a href="https://sg.mendel-online.com/" rel="noopener noreferrer nofollow" target="_blank">Tariff Finder</a> Tool to assist you
+in the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Whether the goods are covered under Free Trade Agreement and the corresponding
@@ -179,7 +179,6 @@ you may refer to the following guide for more information.</p>
 </li>
 </ul>
 <h2>For more information on:</h2>
-<p>{:.mobile-block}</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -284,7 +283,7 @@ requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media
 more information on the responsibilities of an exporter.</p>
 </li>
 </ul>
-<p>## Offences</p>
+<h2>Offences</h2>
 <p>Companies may be penalised under the Regulation of Imports and Exports
 Act (RIEA) if they do not comply with requirements relating to rules of
 origin.</p>
