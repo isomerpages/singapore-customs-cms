@@ -119,7 +119,7 @@ To find out more about the Approved Exporter and/or Certified Exporter Scheme ad
 				 
 [Approved Exporter and/or Certified Exporter Scheme](https://www.customs.gov.sg/businesses/certificates-of-origin/aece/)
 			
-	**Self-Certification Regime**
+**Self-Certification Regime**
 	
 For Free Trade Agreements that are under the Self-Certification regime, you may refer to the following guide for more information.
 
@@ -127,7 +127,7 @@ For Free Trade Agreements that are under the Self-Certification regime, you may 
     </div>
   </li>
 	</ul>
-	
+
 ## For more information on:
 
 {:.mobile-block}
