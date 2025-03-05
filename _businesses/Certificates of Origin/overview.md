@@ -74,7 +74,7 @@ Apart from Singapore Customs, these authorised organisations do also issue ordin
     <div>
       <p>You may apply for an ordinary CO with any of the five authorised organisation through their website.
 
-To apply for an Ordinary CO with Singapore Customs, you may refer to the following guide on [How to apply for OCO or PCO with Singapore Customs](https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/){:target="_blank"}</p>
+To apply for an Ordinary CO with Singapore Customs, you may refer to the following guide on  [How to apply for OCO or PCO with Singapore Customs](https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/){:target="_blank"} </p>
     </div>
   </li>
 	</ul>
