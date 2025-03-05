@@ -96,7 +96,6 @@ through their website.</p>
 <p>To apply for an Ordinary CO with Singapore Customs, you may refer to the
 following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>
 </p>
-<p></p>
 </li>
 </ul>
 <h2>Preferential Origin</h2>
