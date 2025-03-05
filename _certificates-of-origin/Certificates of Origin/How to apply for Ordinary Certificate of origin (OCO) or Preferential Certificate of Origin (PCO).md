@@ -11,7 +11,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Applying For OCO/PCO" src="/images/Certificate%20of%20Origin/Applying_for_PCO.png">
 </div>
 <h4><strong>Step 1: Register your Manufacturing Premises/New Product Line</strong></h4>
-<p>Register using the [manufacturer’s application form](https://go.gov.sg/mfr).</p>
+<p>Register using the <a href="https://go.gov.sg/mfr" rel="noopener nofollow" target="_blank">manufacturer's application form</a>.</p>
 <p>When submitting the application, please note that you are required to
 furnish all supporting documents as listed out in <strong>Section E</strong> of
 the application. Failure to do so may result in the application not being
@@ -72,7 +72,7 @@ overseas customer.
 CO.</p>
 <h2><strong>How to renew the validity of expired manufacturing cost statements?</strong></h2>
 <p>You can renew the manufacturing cost statements by submitting a letter
-of undertaking (LOU) via <a href="http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp" rel="noopener noreferrer nofollow" target="_blank">e-filing</a>{:target="_blank"}.</p>
+of undertaking (LOU) via <a href="http://eservices.customs.gov.sg/scripts/customs/LOU_MCS/LOU1_Terms.asp" rel="noopener noreferrer nofollow" target="_blank">e-filing</a>.</p>
 <p>The letter would declare the goods of all models still qualify at the
 prevailing origin criterion(a) under the respective Free Trade Agreements
 or Schemes previously approved.</p>
