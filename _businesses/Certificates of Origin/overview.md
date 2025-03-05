@@ -38,7 +38,7 @@ variant: markdown
 ---
 # Origin Documentation
 
-Origin Documentation, also known as proof of origin, helps to attest to the origin of goods. Broadly, there are twp types of origin, namely **non-preferential origin** and **preferential origin**.
+Origin Documentation, also known as proof of origin, helps to attest to the origin of goods. Broadly, there are two types of origin, namely **non-preferential origin** and **preferential origin**.
 
 ![](/images/Certificate%20of%20Origin/origin_doc.png)
 
@@ -55,15 +55,16 @@ You may refer to this [handbook](/files/businesses/ttsb-roo/handbook_on_the_rule
     <div>
       <p>Ordinary COs are issued by Singapore Customs or any of the following authorised organisations:
 
--   [Singapore Chinese Chamber of Commerce and Industry](http://www.sccci.org.sg/){:target="_blank"}
-    
--   [Singapore Indian Chamber of Commerce and Industry](http://www.sicci.com/){:target="_blank"}
-    
--   [Singapore International Chamber of Commerce](http://www.sicc.com.sg/){:target="_blank"}
-    
--   [Singapore Malay Chamber of Commerce and Industry](http://www.smcci.org.sg/){:target="_blank"}
-    
--   [Singapore Manufacturing Federation](http://www.smfederation.org.sg/){:target="_blank"}
+*  <a href="http://www.sccci.org.sg/">Singapore Chinese Chamber of Commerce and Industry</a>{:target="_blank"}
+
+* <a href="http://www.sicci.com/">Singapore Indian Chamber of Commerce and Industry</a>{:target="_blank"}
+
+* <a href="http://www.sicc.com.sg/">Singapore International Chamber of Commerce</a>{:target="_blank"}
+
+* <a href="http://www.smcci.org.sg/">Singapore Malay Chamber of Commerce and Industry</a>{:target="_blank"}
+
+* <a href="http://www.smfederation.org.sg/">Singapore Manufacturing Federation</a>{:target="_blank"}
+
     
 Apart from Singapore Customs, these authorised organisations do also issue ordinary COs for locally manufactured or processed goods, and goods from other countries which are re-exported from Singapore. However, they do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.</p>
     </div>
