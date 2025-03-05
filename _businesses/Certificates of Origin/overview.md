@@ -48,21 +48,12 @@ An ordinary Certificate of Origin (CO), also known as a non-preferential CO, is 
 
 You may refer to this [handbook](/files/businesses/ttsb-roo/handbook_on_the_rules_of_origin_for_oco__3_.pdf) for more information on the rules of origin for ordinary COs.
 
-
-
-## What is a preferential Certificate of Origin (PCO)?
-
-A preferential CO allows your buyer to pay lower or no customs duty when you export your goods under a [Free Trade Agreement](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#){:target="_blank"} or Schemes of Preferences. To check whether the goods are covered under the Free Trade Agreement or Schemes of Preferences and the preferential tariffs, you may refer to Enterprise Singapore's [Tariff Finder](https://sg.mendel-online.com/){:target="_blank"} Tool to assist you.
-
-These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
- 
-- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf)
-    
-You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
-
-## Who can issue an Ordinary Certificate of Origin (OCO)?
-
-Ordinary COs are issued by Singapore Customs or any of the following authorised organisations:
+  <ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Who can issue an Ordinary CO?</label>
+    <div>
+      <p>Ordinary COs are issued by Singapore Customs or any of the following authorised organisations:
 
 -   [Singapore Chinese Chamber of Commerce and Industry](http://www.sccci.org.sg/){:target="_blank"}
     
@@ -74,9 +65,53 @@ Ordinary COs are issued by Singapore Customs or any of the following authorised 
     
 -   [Singapore Manufacturing Federation](http://www.smfederation.org.sg/){:target="_blank"}
     
-Singapore Customs only issues Ordinary COs for goods that are wholly obtained, produced or manufactured in Singapore. 
+Apart from Singapore Customs, these authorised organisations do also issue ordinary COs for locally manufactured or processed goods, and goods from other countries which are re-exported from Singapore. However, they do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.</p>
+    </div>
+  </li>
+		<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">How to Apply for Ordinary CO?</label>
+    <div>
+      <p>You may apply for an ordinary CO with any of the five authorised organisation through their website.
 
-Apart from Singapore Customs, the authorised organisations issue ordinary COs for locally manufactured or processed goods. In addition, the five authorised organisations issue ordinary COs for goods from other countries which are re-exported from Singapore. However, the five authorised organisations do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.
+To apply for an Ordinary CO with Singapore Customs, you may refer to the following guide on [How to apply for OCO or PCO with Singapore Customs](https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/){:target="_blank"}</p>
+    </div>
+  </li>
+	</ul>
+
+## Preferential Origin
+
+A preferential proof of origin allows your buyer to pay lower or no customs duty when you export your goods under a [Free Trade Agreement](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#){:target="_blank"}. You may refer to Enterprise Singapore's [Tariff Finder](https://sg.mendel-online.com/){:target="_blank"} Tool to assist you in the following:
+
+- Whether the goods are covered under Free Trade Agreement and the corresponding preferential tariffs.
+- Which Free Trade Agreement is most suitable for your goods.
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Who can issue a preferential proof of origin?</label>
+    <div>
+      <p></p>
+    </div>
+  </li>
+		<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">How to Apply for Ordinary CO?</label>
+    <div>
+      <p>You may apply for an ordinary CO with any of the five authorised organisation through their website.
+
+To apply for an Ordinary CO with Singapore Customs, you may refer to the following guide on [How to apply for OCO or PCO with Singapore Customs](https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/){:target="_blank"}</p>
+    </div>
+  </li>
+	</ul>
+These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
+ 
+- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf)
+    
+You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
+
+
+
 
 All Preferential COs are issued only by Singapore Customs. 
 
