@@ -133,7 +133,8 @@ For Free Trade Agreements that are under the Self-Certification regime, you may 
 {:.mobile-block}
 |  |   |   |   |
 |---|---|---|---|
-|[![](/images/picture4.jpg)](/businesses/certificates-of-origin/asw)|[![](/images/picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|[![](/images/picture3.jpg)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)| [![](/images/Picture5v3.png)](/businesses/certificates-of-origin/manualissuance)|
+|[![](/images/picture2.jpg)](/businesses/certificates-of-origin/how-to-apply-for-b2b/)|[![](/images/picture3.jpg)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)| [![](/images/picture4.jpg)](/businesses/certificates-of-origin/asw)|
+[![](/images/picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|[![](/images/Picture5v3.png)](/businesses/certificates-of-origin/manualissuance)|
 
 
 ## Best Practices
