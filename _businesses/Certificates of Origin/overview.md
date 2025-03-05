@@ -55,15 +55,15 @@ You may refer to this [handbook](/files/businesses/ttsb-roo/handbook_on_the_rule
     <div>
       <p>Ordinary COs are issued by Singapore Customs or any of the following authorised organisations:
 
-*  <a href="http://www.sccci.org.sg/">Singapore Chinese Chamber of Commerce and Industry</a>{:target="_blank"}
+*  <a href="http://www.sccci.org.sg/">Singapore Chinese Chamber of Commerce and Industry</a>
 
-* <a href="http://www.sicci.com/">Singapore Indian Chamber of Commerce and Industry</a>{:target="_blank"}
+* <a href="http://www.sicci.com/">Singapore Indian Chamber of Commerce and Industry</a>
 
-* <a href="http://www.sicc.com.sg/">Singapore International Chamber of Commerce</a>{:target="_blank"}
+* <a href="http://www.sicc.com.sg/">Singapore International Chamber of Commerce</a>
 
-* <a href="http://www.smcci.org.sg/">Singapore Malay Chamber of Commerce and Industry</a>{:target="_blank"}
+* <a href="http://www.smcci.org.sg/">Singapore Malay Chamber of Commerce and Industry</a>
 
-* <a href="http://www.smfederation.org.sg/">Singapore Manufacturing Federation</a>{:target="_blank"}
+* <a href="http://www.smfederation.org.sg/">Singapore Manufacturing Federation</a>
 
     
 Apart from Singapore Customs, these authorised organisations do also issue ordinary COs for locally manufactured or processed goods, and goods from other countries which are re-exported from Singapore. However, they do not issue ordinary COs for the export of Singapore-origin textiles and textile goods to the United States of America.</p>
@@ -86,8 +86,7 @@ A preferential proof of origin allows your buyer to pay lower or no customs duty
 
 - Whether the goods are covered under Free Trade Agreement and the corresponding preferential tariffs.
 - Which Free Trade Agreement is most suitable for your goods.
-
-<ul class="jekyllcodex_accordion">
+ <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Who can issue a preferential proof of origin?</label>
@@ -108,7 +107,7 @@ There are three different types of preferential proof of origin:
     <div>
        <p>**Certification by Customs Authority**
 				 
-For Free Trade Agreements that require Certification by Customs Authority, you may refer to the following guide on [How to apply for OCO or PCO with Singapore Customs](https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/). 
+For Free Trade Agreements that require Certification by Customs Authority, you may refer to the following guide on [How to apply for OCO or PCO with Singapore Customs](/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/). 
 				 
 You may refer to [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf) for more information on the rules of origin for preferential COs issued under Free Trade Agreements.
 
@@ -118,13 +117,13 @@ You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStateme
 
 To find out more about the Approved Exporter and/or Certified Exporter Scheme administered by Singapore Customs, you may refer to the following guide for more information. 
 				 
-[Approved Exporter and/or Certified Exporter Scheme](https://www.customs.gov.sg/businesses/certificates-of-origin/aece/)
+[Approved Exporter and/or Certified Exporter Scheme](/businesses/certificates-of-origin/aece/)
 			
 **Self-Certification Regime**
 	
 For Free Trade Agreements that are under the Self-Certification regime, you may refer to the following guide for more information.
 
-[Self-Certification Regime](https://www.customs.gov.sg/businesses/certificates-of-origin/sc/)</p>	   
+[Self-Certification Regime](/businesses/certificates-of-origin/sc/)</p>	   
     </div>
   </li>
 	</ul>
