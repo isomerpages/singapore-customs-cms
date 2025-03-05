@@ -91,37 +91,49 @@ A preferential proof of origin allows your buyer to pay lower or no customs duty
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Who can issue a preferential proof of origin?</label>
     <div>
-      <p></p>
+      <p>The type of preferential proof of origin applicable for your goods depends on the requirements under the specific Free Trade Agreement that you apply for. 
+			
+There are three different types of preferential proof of origin:
+1. Preferential CO issued by Singapore Customs 				
+2. Origin declaration by Approved/Certified Exporters
+3. Origin declaration by Exporter/Producer/Importer
+
+![](/images/Certificate%20of%20Origin/type_of_POO.png)</p>
     </div>
   </li>
 		<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">How to Apply for Ordinary CO?</label>
+    <label for="accordion2">How to obtain a preferential proof of origin?</label>
     <div>
-      <p>You may apply for an ordinary CO with any of the five authorised organisation through their website.
+       <p>**Certification by Customs Authority**
+				 
+For Free Trade Agreements that require Certification by Customs Authority, you may refer to the following guide on [How to apply for OCO or PCO with Singapore Customs](https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/). 
+				 
+You may refer to [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf) for more information on the rules of origin for preferential COs issued under Free Trade Agreements.
 
-To apply for an Ordinary CO with Singapore Customs, you may refer to the following guide on [How to apply for OCO or PCO with Singapore Customs](https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/){:target="_blank"}</p>
+You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
+			
+**Approved Exporter and/or Certified Exporter Scheme**
+
+To find out more about the Approved Exporter and/or Certified Exporter Scheme administered by Singapore Customs, you may refer to the following guide for more information. 
+				 
+[Approved Exporter and/or Certified Exporter Scheme](https://www.customs.gov.sg/businesses/certificates-of-origin/aece/)
+			
+	**Self-Certification Regime**
+	
+For Free Trade Agreements that are under the Self-Certification regime, you may refer to the following guide for more information.
+
+[Self-Certification Regime](https://www.customs.gov.sg/businesses/certificates-of-origin/sc/)</p>	   
     </div>
   </li>
 	</ul>
-These handbooks provide more information on the rules of origin for preferential COs issued under Free Trade Agreements and Schemes of Preferences:
- 
-- [Handbook on rules of origin for preferential Certificates of Origin](/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf)
-    
-You may use the [FTA Cost Statement Calculator](/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm) for a preliminary assessment of the qualifying value content and/or Change in Tariff Classification status of your manufactured good under a specific Free Trade Agreement, after you have identified the applicable origin criterion(a) for the good under the Agreement.
-
-
-
-
-All Preferential COs are issued only by Singapore Customs. 
-
+	
 ## For more information on:
 
 {:.mobile-block}
 |  |   |   |   |
 |---|---|---|---|
-|[![](/images/picture1.jpg)](/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco)|[![](/images/picture2.jpg)](/businesses/certificates-of-origin/how-to-apply-for-b2b)|[![](/images/picture4.jpg)](/businesses/certificates-of-origin/asw)|[![](/images/picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|
-|[![](/images/picture3.jpg)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)|[![](/images/aece.png)](/businesses/certificates-of-origin/aece)|[![](/images/self-certification3.png)](/businesses/certificates-of-origin/SC)| [![](/images/Picture5v3.png)](/businesses/certificates-of-origin/manualissuance)|
+|[![](/images/picture4.jpg)](/businesses/certificates-of-origin/asw)|[![](/images/picture5.jpg)](/businesses/certificates-of-origin/eodes-with-china)|[![](/images/picture3.jpg)](/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co)| [![](/images/Picture5v3.png)](/businesses/certificates-of-origin/manualissuance)|
 
 
 ## Best Practices
