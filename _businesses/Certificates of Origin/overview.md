@@ -40,15 +40,15 @@ variant: markdown
 
 Origin Documentation, also known as proof of origin, helps to attest to the origin of goods. Broadly, there are twp types of origin, namely **non-preferential origin** and **preferential origin**.
 
+![](/images/Certificate%20of%20Origin/origin_doc.png)
 
+## Non-Preferential Origin
 
-## What is an ordinary Certificate of Origin?
-
-A Certificate of Origin (CO) helps to attest the origin of goods. There are two types of COs, namely ordinary COs and preferential COs. 
-
-An ordinary CO, also known as a non-preferential CO, is a trade document that helps to identify the origin of the good. It does not enable your overseas buyers to claim preferential tariff treatment on your products (i.e. pay lower or no customs duty) when importing them as it is not issued due to any Free Trade Agreement.
+An ordinary Certificate of Origin (CO), also known as a non-preferential CO, is a trade document that helps to identify the origin of the good.
 
 You may refer to this [handbook](/files/businesses/ttsb-roo/handbook_on_the_rules_of_origin_for_oco__3_.pdf) for more information on the rules of origin for ordinary COs.
+
+
 
 ## What is a preferential Certificate of Origin (PCO)?
 
