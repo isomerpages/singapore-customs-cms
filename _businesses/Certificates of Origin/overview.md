@@ -50,28 +50,35 @@ more information on the rules of origin for ordinary COs.</p>
 <ul>
 <li>
 <p>Who can issue an Ordinary CO?</p>
+<p></p>
 <p>Ordinary COs are issued by Singapore Customs or any of the following authorised
 organisations:</p>
+<p></p>
 <ul>
 <li>
 <p><a href="http://www.sccci.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chinese Chamber of Commerce and Industry</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><a href="http://www.sicci.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Indian Chamber of Commerce and Industry</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><a href="http://www.sicc.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore International Chamber of Commerce</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><a href="http://www.smcci.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Malay Chamber of Commerce and Industry</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><a href="http://www.smfederation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Manufacturing Federation</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p>Apart from Singapore Customs, these authorised organisations do also issue
@@ -85,8 +92,10 @@ textile goods to the United States of America.</p>
 <p>How to Apply for Ordinary CO?</p>
 <p>You may apply for an ordinary CO with any of the five authorised organisation
 through their website.</p>
+<p></p>
 <p>To apply for an Ordinary CO with Singapore Customs, you may refer to the
-following guide on <a href="https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>{:target="_blank"}</p>
+following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>
+</p>
 <p></p>
 </li>
 </ul>
@@ -129,28 +138,38 @@ for.</p>
 </li>
 <li>
 <p>How to obtain a preferential proof of origin?</p>
-<p>**Certification by Customs Authority**</p>
+<p></p>
+<p><strong>Certification by Customs Authority</strong>
+</p>
+<p></p>
 <p>For Free Trade Agreements that require Certification by Customs Authority,
 you may refer to the following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>.</p>
 <p>You may refer to <a href="/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on rules of origin for preferential Certificates of Origin</a> for
 more information on the rules of origin for preferential COs issued under
 Free Trade Agreements.</p>
+<p></p>
 <p>You may use the <a href="/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm" rel="noopener noreferrer nofollow" target="_blank">FTA Cost Statement Calculator</a> for
 a preliminary assessment of the qualifying value content and/or Change
 in Tariff Classification status of your manufactured good under a specific
 Free Trade Agreement, after you have identified the applicable origin criterion(a)
 for the good under the Agreement.</p>
+<p></p>
 <p><strong>Approved Exporter and/or Certified Exporter Scheme</strong>
 </p>
+<p></p>
 <p>To find out more about the Approved Exporter and/or Certified Exporter
 Scheme administered by Singapore Customs, you may refer to the following
 guide for more information.</p>
+<p></p>
 <p><a href="/businesses/certificates-of-origin/aece/" rel="noopener noreferrer nofollow" target="_blank">Approved Exporter and/or Certified Exporter Scheme</a>
 </p>
+<p></p>
 <p><strong>Self-Certification Regime</strong>
 </p>
+<p></p>
 <p>For Free Trade Agreements that are under the Self-Certification regime,
 you may refer to the following guide for more information.</p>
+<p></p>
 <p><a href="/businesses/certificates-of-origin/sc/" rel="noopener noreferrer nofollow" target="_blank">Self-Certification Regime</a>
 </p>
 <p>
