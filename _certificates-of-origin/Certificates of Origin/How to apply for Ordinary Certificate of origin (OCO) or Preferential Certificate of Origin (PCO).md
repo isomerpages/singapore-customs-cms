@@ -34,11 +34,11 @@ The typical processing time for a Manufacturing Cost Statement is 7 working days
 
 Apply for a CO with export permit under the respective Free Trade Agreements or Schemes via TradeNet.
 
-You may refer to this [handbook](/files/businesses/ttsb-roo/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Jan_2025__clean_.pdf) for more information on how to apply for a CO and export permit via TradeNet.
+You may refer to this [handbook](/files/businesses/ttsb-roo/Handbook_on_the_Application_Procedures_for_a_Certificate_of_Origin_via_TradeNet_and_Related_Administrative_Matters_Feb_2025__clean_.pdf) for more information on how to apply for a CO and export permit via TradeNet.
     
 **Step 4: Collect the Certificate of Origin**
 
-The CO must be collected within 1 month from its approval date. The exporter may authorise a person to collect the CO on their behalf.
+The CO must be collected within 2 weeks from its approval date. The exporter may authorise a person to collect the CO on their behalf.
 
 The authorised person is required to produce the Letter of Authorisation **issued by the exporter** for verification during collection:
 
