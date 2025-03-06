@@ -202,20 +202,35 @@ you may refer to the following guide for more information.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-apply-for-b2b/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture2.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<a href="/businesses/certificates-of-origin/how-to-apply-for-b2b/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture2.jpg"></a>
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.customs.gov.sg/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture3.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<a href="/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture3.jpg"></a>
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.customs.gov.sg/businesses/certificates-of-origin/asw/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture4.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<a href="/businesses/certificates-of-origin/asw/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture4.jpg"></a>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.customs.gov.sg/businesses/certificates-of-origin/eodes-with-china/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture5.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<a href="/businesses/certificates-of-origin/eodes-with-china/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture5.jpg"></a>
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.customs.gov.sg/businesses/certificates-of-origin/manualissuance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5v3.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<a href="/businesses/certificates-of-origin/manualissuance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5v3.png"></a>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
