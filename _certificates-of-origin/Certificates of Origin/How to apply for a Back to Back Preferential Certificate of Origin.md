@@ -58,4 +58,4 @@ For back-to-back Form Ds, you may refer to an e-ATIGA Form D reference number is
     
 -   The e-ATIGA Form D from the ASEAN Member States has been successfully received.
     
-You may refer to **Electronic Exchange of Form D via the ASEAN Single Window** for more information.
+You may refer to [Electronic Exchange of Form D via the ASEAN Single Window](https://www.customs.gov.sg/businesses/certificates-of-origin/asw/) for more information.
