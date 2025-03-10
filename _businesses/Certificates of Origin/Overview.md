@@ -34,7 +34,7 @@ accordion:
       <br><br> ✖ Agree to requests from customers to make incorrect origin
       declarations. <br><br> ✖ Re-label the country of origin on the goods or
       its packaging. <br><br>
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h1>Origin Documentation</h1>
@@ -204,17 +204,17 @@ you may refer to the following guide for more information.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/how-to-apply-for-b2b/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture2.jpg"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture3.jpg"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/asw/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture4.jpg"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,12 +224,12 @@ you may refer to the following guide for more information.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/eodes-with-china/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture5.jpg"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/manualissuance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5v3.png"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5v3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,7 +279,7 @@ are involved in taking the goods out of Singapore for export and are willing
 to declare yourself as the exporter on behalf of the party that issues
 the export invoice, or you are acting as a consolidator for customers without
 a UEN. In doing so, you are responsible for complying with all the regulatory
-requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 12/2013</a> for
+requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 13/2021</a> for
 more information on the responsibilities of an exporter.</p>
 </li>
 </ul>
