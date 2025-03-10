@@ -204,17 +204,17 @@ you may refer to the following guide for more information.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture2.jpg">
+<a href="/businesses/certificates-of-origin/how-to-apply-for-b2b/"><img src="/images/picture2.jpg" alt="" width="100%" height="auto" style="width: 100%"></a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture3.jpg">
+<a href="/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co/"><img src="/images/picture3.jpg" alt="" width="100%" height="auto" style="width: 100%"></a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture4.jpg">
+<a href="/businesses/certificates-of-origin/asw/"><img src="/images/picture4.jpg" alt="" width="100%" height="auto" style="width: 100%"></a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,12 +224,12 @@ you may refer to the following guide for more information.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture5.jpg">
+<a href="/businesses/certificates-of-origin/eodes-with-china/"><img src="/images/picture5.jpg" alt="" width="100%" height="auto" style="width: 100%"></a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5v3.png">
+<a href="/businesses/certificates-of-origin/manualissuance/"><img src="/images/Picture5v3.png" alt="" width="100%" height="auto" style="width: 100%"></a>
 </div>
 </td>
 <td rowspan="1" colspan="1">
