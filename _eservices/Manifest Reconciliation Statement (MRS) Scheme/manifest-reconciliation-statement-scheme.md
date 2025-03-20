@@ -67,6 +67,8 @@ and authorised MRS user(s) via email.</p>
 permit and any other required document(s) to the owner, master or agent
 of the vessel&nbsp;<em>within 10 days after the arrival of the vessel.</em> 
 <br>
+</p>
+<p>
 <br>Owner, master or agent of the vessel is to submit MRS to Singapore Customs&nbsp;<em>within 17 days after the arrival of the vessel.</em>
 </p>
 </td>
@@ -87,6 +89,8 @@ to the owner, master or agent of the aircraft&nbsp;<em>within 10 days after the 
 and any other required document(s) to the owner, master or agent of the
 vessel&nbsp;<em>within 7 days after the departure of the vessel.</em> 
 <br>
+</p>
+<p>
 <br>Owner, master or agent of the vessel is to submit MRS to Singapore Customs&nbsp;<em>within 14 days after the departure of the vessel.</em>
 </p>
 </td>
