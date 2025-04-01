@@ -121,8 +121,8 @@ A bona fide traveller who is the holder of a visit pass or bona fide crew member
 
 -   That such person satisfies the proper officer of customs that: 
 	-   The person is the owner of the pets imported;
-	-   The person is temporarily importing the personal pets to travel with the person for the whole or part of the duration of person’s stay in Singapore; and<br>
- 	-   The person intends to re-export the personal pets when the person leaves Singapore.
+	-   The person is temporarily importing the personal pets to travel with the person for the whole or part of the duration of person’s stay in Singapore; and
+-   The person intends to re-export the personal pets when the person leaves Singapore.
 -   That the pets are re-exported within 6 months beginning on the date of the person’s arrival in Singapore; and
 -   That the tax is payable if the pets are sold, disposed of or transferred locally.
 
