@@ -74,7 +74,7 @@ description: ""
 | 11. | Application for Secure Trade Partnership (STP) | [Web Link](https://go.gov.sg/stpapplication)
 | 12. | Application for Valuation of Tax-Exempted Motor Vehicles | [Web Link](https://go.gov.sg/val-exempt-veh)|
 | 13. | Declaration of Facts for Motor Vehicles (Individuals) | [Web Link](https://go.gov.sg/dof-singpass)
-| 14. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://go.gov.sg/dof-corporate)
+| 14. | Declaration of Facts for Motor Vehicles (Parallel Importers) | [Web Link](https://go.gov.sg/dof-pi)
 | 15. | e-Inventory Control System  | [Web Link](https://inventory.customs.gov.sg/)|
 | 16. | Status Enquiry on Application for GST Relief on Used Household Articles, Personal Effects and Personal Pets | [Web Link](https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP)|
 | 17. | TradeFirst Self-Assessment Checklist | [Web Link](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/trade-first)
