@@ -122,11 +122,11 @@ A bona fide traveller who is the holder of a visit pass or bona fide crew member
 -   That such person satisfies the proper officer of customs that: 
 	-   The person is the owner of the pets imported;
 	-   The person is temporarily importing the personal pets to travel with the person for the whole or part of the duration of person’s stay in Singapore; and
- 	-   The person intends to re-export the personal pets when the person leaves Singapore.
-	-   That the pets are re-exported within 6 months beginning on the date of the person’s arrival in Singapore; and
+	-   The person intends to re-export the personal pets when the person leaves Singapore.
+-   That the pets are re-exported within 6 months beginning on the date of the person’s arrival in Singapore; and
 -   That the tax is payable if the pets are sold, disposed of or transferred locally.
 
-A bona fide traveller or crew member who is resident in Singapore may be granted GST relief on the importation of his / her personal pets subject to the following conditions::
+A bona fide traveller or crew member who is resident in Singapore may be granted GST relief on the importation of his / her personal pets subject to the following conditions:
 
 -   That such person satisfies the proper officer of customs that: 
 	-   The personal pets were temporarily exported to travel with the person for the whole or part of the duration of the person’s overseas travel;
@@ -137,7 +137,7 @@ A bona fide traveller or crew member who is resident in Singapore may be granted
 
 <b> Procedures for Personal Pets</b>
 
-For personal pets that are accompanied by the pet owner on the same conveyance, the pet owner must obtain NParks AVS’ <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/general-information">approval</a>, before completing an “<a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links/">Application for GST Relief for Personal Pets (where there is overseas travel)</a>" form. The application form must be submitted at least 5 working days before the pet’s arrival in Singapore with the following supporting documents for verification:
+For importation of the personal pets for overseas travel, the pet owner must obtain NParks AVS’ <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/general-information">approval</a>, before completing an “<a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links/">Application for GST Relief for Personal Pets (where there is overseas travel)</a>" form. The application form must be submitted at least 5 working days before the pet’s arrival in Singapore with the following supporting documents for verification:
 
 -   Bona fide traveller who is the holder of a visit pass or bona fide crew member who is not resident in Singapore:
 	-   Copy of passport;
