@@ -66,7 +66,7 @@ The importation of goods, including pets, incurs Goods and Services Tax (GST). T
 GST relief may be granted on the importation of personal pets if:
 
 -   The pet owner is changing his place of residence to Singapore and qualifies for GST relief. Please refer to the  **Importing Personal Pets for Transfer of Residence**  section below for the procedures to apply for GST relief; or
--   The pet owner is a bona fide traveller or crew member and qualifies for GST relief. Please refer to the Importing Personal Pets for Overseas Travel section below for the procedures to apply for GST relief; or
+-   The pet owner is a bona fide traveller or crew member and qualifies for GST relief. Please refer to the <b>Importing Personal Pets for Overseas Travel</b> section below for the procedures to apply for GST relief; or
 -   The pet is imported by  **air** as manifested cargoes and the  **total CIF value does not exceed S$400**. The table below illustrates the procedures and requirements for importing personal pets.
 
 The National Parks Board (NParks)  [Animal and Veterinary Service](https://www.nparks.gov.sg/avs){:target="_blank"} (AVS) regulates all importation of live pets. Importers must comply with NParks' AVS' [import licence and pet quarantine requirements](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/general-information){:target="_blank"} and obtain approval  **before** importing the pets from overseas.
@@ -96,7 +96,7 @@ An importer who is transferring residence to Singapore (including returning Sing
     <input type="checkbox" id="accordion2">
     <label for="accordion2"> Procedures for import of Accompanied Personal Pets </label>
     <div>
-      <br> For personal pets that are accompanied by the pet owner on the same conveyance, the pet owner must obtain NParks AVS’ <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/general-information">approval</a>, before completing an “<a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links">Application for GST Relief for Hand-Carried Used Household Articles, Hand-Carried Personal Effects, or Accompanied Personal Pets</a>" form. The application form must be submitted at least 5 working days before the pet’s arrival in Singapore with the following supporting documents for verification:
+      <br> For personal pets that are accompanied by the pet owner on the same conveyance, the pet owner must obtain NParks AVS’ <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/general-information">approval</a>, before completing an “<a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links">Application for GST Relief for Hand-Carried Used Household Articles, Hand-Carried Personal Effects, or Accompanied Personal Pets</a>(where there is change in residence)" form. The application form must be submitted at least 5 working days before the pet’s arrival in Singapore with the following supporting documents for verification:
       <br><br>- NParks AVS’ approval for the importation of personal pets; and
 				<br>- Personal identification and pass details.
 			<br><br><b>Returning Singaporeans &amp; Permanent Residents working/studying overseas</b>
@@ -123,7 +123,7 @@ A bona fide traveller who is the holder of a visit pass or bona fide crew member
 	-   The person is the owner of the pets imported;
 	-   The person is temporarily importing the personal pets to travel with the person for the whole or part of the duration of person’s stay in Singapore; and
  	-   The person intends to re-export the personal pets when the person leaves Singapore.
--   That the pets are re-exported within 6 months beginning on the date of the person’s arrival in Singapore; and
+	-   That the pets are re-exported within 6 months beginning on the date of the person’s arrival in Singapore; and
 -   That the tax is payable if the pets are sold, disposed of or transferred locally.
 
 A bona fide traveller or crew member who is resident in Singapore may be granted GST relief on the importation of his / her personal pets subject to the following conditions::
