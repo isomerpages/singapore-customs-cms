@@ -129,11 +129,10 @@ A bona fide traveller who is the holder of a visit pass or bona fide crew member
 A bona fide traveller or crew member who is resident in Singapore may be granted GST relief on the importation of his / her personal pets subject to the following conditions:
 
 -   That such person satisfies the proper officer of customs that: 
+	-   The person is the owner of the pets imported;
 	-   The personal pets were temporarily exported to travel with the person for the whole or part of the duration of the person’s overseas travel;
 	-   The personal pets were supplied in or imported into Singapore before their export; and
-	-   The personal pets are being re-imported upon completion of overseas travel; and
-	-   That the pets are re-exported within 6 months beginning on the date of the person’s arrival in Singapore; and
-	-   The person is the owner of the pets imported.
+	-   The personal pets are being re-imported upon completion of overseas travel.
 
 <b> Procedures for Personal Pets</b>
 
