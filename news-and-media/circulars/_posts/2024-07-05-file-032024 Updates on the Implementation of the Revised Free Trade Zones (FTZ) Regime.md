@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/news-and-media/Circular_03_2024.pdf
+file_url: /files/news-and-media/Circular_03_2024__Ver2_.pdf
 ---
