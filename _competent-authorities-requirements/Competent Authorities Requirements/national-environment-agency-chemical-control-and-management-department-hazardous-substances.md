@@ -3,6 +3,7 @@ title: National Environment Agency - Chemical Control and Management Department
   (Hazardous Substances)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/hazardous-substances/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
 # National Environment Agency - Chemical Control and Management Department (Hazardous Substances)
 
@@ -47,5 +48,4 @@ Note:
 
 1.  A customs permit must be obtained through TradeNet before the goods arrive in/depart from Singapore.
 2.  The list of chemicals controlled by CCMD and the corresponding exclusions can be found in the Part I of the Second Schedule of the Environmental Protection And Management Act (EPMA). General Exemptions can be found in Part II of the same Schedule. Both the EPMA and its Regulations can be found on the NEA or AGC website.
-3.  If importers or exporters do not have the required Hazardous Substances Licence, please contact Development Control and Licensing Division (DCLD) at 67319641 or write in to NEA_HSlicence@nea.gov.sg for advice.
-
+3.  If importers or exporters do not have the required Hazardous Substances Licence, please contact Development Control and Licensing Division (DCLD) by filling in the [online feedback form](https://www.nea.gov.sg/corporate-functions/feedback) and/or calling NEA hotline at 6225 5632 for advice.
