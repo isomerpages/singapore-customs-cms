@@ -1,5 +1,5 @@
 ---
-title: IPMs Imported by Air/Sea Frieght or By Land
+title: IPMs Imported by Air/Sea Freight or By Land
 permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/ipms-imported-by-air-sea-freight-or-land/
 third_nav_title: Importing Investment Precious Metals IPM
 variant: markdown
