@@ -32,6 +32,10 @@ FedEx China
 Second Deputy Chairman  
 SAAA@Singapore
 
+**Mr Bo Wegener** <br>
+Chief Executive Officer <br>
+CMA CGM Asia Pacific Limited <br>
+
 **Mr Dave Ng Wee Peng**  
 Chairman  
 Singapore Logistics Association
