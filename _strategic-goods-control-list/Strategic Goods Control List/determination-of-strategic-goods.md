@@ -20,7 +20,7 @@ _Disclaimer:_ _The determination of strategic goods provided here is for general
 
 If you are unable to determine whether your product is controlled as strategic goods after going through the Strategic Goods Control List and Determination Database, you may submit an  [Application for Determination of Strategic Goods](https://go.gov.sg/strat-goods-determination){:target="_blank"} to Singapore Customs for advice on the product determination.
 
-Please note it is not necessary to submit this application if you are able to classify your products. It is a quicker option for you to carry out your own determination.
+Please note it is not necessary to submit this application if you are able to determine the control status of your products. It is a quicker option for you to carry out your own determination.
 
 ## What do I need to take note for my application?
 
@@ -35,6 +35,8 @@ In addition to the basic information of the applicant, please also:
 -   Describe in detail the intended end-use of the next higher assembly if your product is a component of a system or used to make or repair another product
 -   Indicate the part/component description and its corresponding Strategic Goods Product Code if you know that your product contains any parts/components that are controlled under the SGCA
 -   Indicate if your product is specially designed for any specific equipment
+
+The determination process may take up to 30 days, depending on the complexity of the product and the completeness of the information furnished.
 
 To minimise any delay in processing your application, please provide the required information and ensure your application is completed properly and accompanied by all supporting documents.
 
