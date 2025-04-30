@@ -7,14 +7,14 @@ variant: markdown
 
 The Customs Advisory Council advises on strategic directions to advance Singapore Customs as a world-class customs organisation. The Council also functions as an active platform for Singapore Customs to solicit feedback and advice on industry trends, government policies and other matters that may affect Singapore Customs.
 
-Established in March 2000, the Council is chaired by Permanent Secretary (Development), Ministry of Finance and consists of key representatives from the trade associations, the industry and the public sector.
+Established in March 2000, the Council is chaired by Permanent Secretary (Finance), Ministry of Finance and consists of key representatives from the trade associations, the industry and the public sector.
 
 ## Customs Advisory Council Members
 
 ### Chairman
 
 **Mr Lai Chung Han**  
-Permanent Secretary (Development)<br>
+Permanent Secretary (Finance)<br>
 Ministry of Finance
 
 
