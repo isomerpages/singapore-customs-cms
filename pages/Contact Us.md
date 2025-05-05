@@ -40,7 +40,7 @@ Our operating hours: <br>8am to 6pm (Monday to Friday)<br>8am to 12pm (Saturday)
 ### Report to Us<br>
 **[Report duty/Goods and Services Tax (GST) Evasion and Other Illicit Trade](https://www.customs.gov.sg/news-and-media/advisories/permalink/)**<br>
 
-If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the [reporting template](https://form.gov.sg/64e554f0ffdaa600136b17e1). 
+If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the [reporting template](https://go.gov.sg/reportcustomsoffence). 
 
 **Report a scam**<br>Please fill in the online form to [report a customs-related scam](https://go.gov.sg/report-customs-scam).<br>
 
