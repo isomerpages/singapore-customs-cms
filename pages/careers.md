@@ -3,7 +3,7 @@ title: Careers
 permalink: /careers/
 variant: markdown
 ---
-# Careers
+# Careers 
 *If you're seeking a rewarding career with plentiful opportunities for personal and professional growth, you've come to the right place.*
 
 At Singapore Customs, you can make a difference by tackling roles as diverse as Trade Facilitator, Trade Regulator, or Law Enforcer. Your work will help to uphold our nation’s trusted trade hub status.
