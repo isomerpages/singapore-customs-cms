@@ -1,15 +1,16 @@
 ---
 title: Strategic Goods Control
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/strategic-goods-control/
+permalink: /businesses/strategic-goods-control/overview/
 third_nav_title: Competent Authorities Requirements
+variant: tiptap
+description: ""
 ---
-
 ## Strategic Goods Control List
 
 | **No.** | **Date** | **Title** | **Related Link** |
 |--|--|--|--|
 | 1. | 13 Sep 2016 | Changes to the Strategic Goods Control List and Brokering Order | [Circular](/news-and-media/circulars/2016-09-13-Circular102016.pdf) <br> [FAQ](/files/about-us/sgco-2016-faqs.pdf) |
-| 2. | 4 Sep 2015 | Changes to the Strategic Goods Control List, Brokering Order, and Transhipment & Transit Controls. | [Circular](/news-and-media/circulars/2015-09-04-Circular122015.pdf) <br> [FAQ](/files/about-us/public-faqs-sgco-2015.pdf) |
+| 2. | 4 Sep 2015 | Changes to the Strategic Goods Control List, Brokering Order, and Transhipment &amp; Transit Controls. | [Circular](/news-and-media/circulars/2015-09-04-Circular122015.pdf) <br> [FAQ](/files/about-us/public-faqs-sgco-2015.pdf) |
 | 3. | 11 Jan 2013 | Gazette of the Strategic Goods (Control) Order 2013. | [PDF](/files/about-us/strategicgoodscontrolorder2013.pdf) |
 | 4. | 29 Dec 2011 | Gazette of the Strategic Goods (Control) (Amendment) Order 2011. | [PDF](/files/about-us/strategicgoodscontrolamendmentorder2011.pdf) |
 | 5. | 20 Apr 2011 | Gazette of the Strategic Goods (Control) Order 2010 (Corrigenda). | [PDF](/files/about-us/strategicgoodscontrolorder2010.pdf) |
@@ -32,7 +33,7 @@ third_nav_title: Competent Authorities Requirements
 | **No.** | **Date** | **Title** | **Related Link** |
 |--|--|--|--|
 | 1. | 29 Oct 2010 | Singapore Tightens Controls on Strategic Trade with North Korea and Iran. | [PDF](/files/about-us/pressrelease_final_website4.pdf) |
-| 2. | 20 Oct 2009 | Singapore and Japan Reinforce Export Controls for Strategic Goods & Technology. | [PDF](/files/about-us/ca-pressrelease_final1.pdf) |
+| 2. | 20 Oct 2009 | Singapore and Japan Reinforce Export Controls for Strategic Goods &amp; Technology. | [PDF](/files/about-us/ca-pressrelease_final1.pdf) |
 | 3. | 15 Jul 2009 | Singapore Customs and US Department of Commerce in bilateral talks to foster closer cooperation on export controls for strategic goods | [PDF](/files/about-us/ca-pressrelease-final4.pdf)  |
 
 ## Circulars/Notices
@@ -40,7 +41,7 @@ third_nav_title: Competent Authorities Requirements
 | **No.** | **Date** | **Title** | **Related Link** |
 |--|--|--|--|
 | 1. | 6 Oct 2015 | Additional Awareness Briefings on Changes to the Strategic Goods Control List. | [Circular](/files/about-us/notice-13-2015.pdf) |
-| 2. | 4 Sep 2015 | Changes to the Strategic Goods Control List, Brokering Order, and Transhipment & Transit Controls. | [Circular](/files/about-us/notice-12-2015.pdf) <br> [FAQ](/files/about-us/public-faqs-sgco-2015b.pdf)|
+| 2. | 4 Sep 2015 | Changes to the Strategic Goods Control List, Brokering Order, and Transhipment &amp; Transit Controls. | [Circular](/files/about-us/notice-12-2015.pdf) <br> [FAQ](/files/about-us/public-faqs-sgco-2015b.pdf)|
 | 3. | 19 Aug 2015 | Awareness Briefings on Changes to the Strategic Goods Control List. | [Circular](/files/about-us/notice-12-2015.pdf) |
 | 4. | 1 Dec 2014 | Gazette of the Strategic Goods (Control) (Amendment) Regulations 2014. | [Circular](/news-and-media/circulars/2014-12-01-Circular142014.pdf) |
 | 5. | 1 Sep 2014 | Changes to Permit Exemptions under Regulation 13(2) of the Strategic Goods (Control) Regulations. | [Circular](/news-and-media/circulars/2014-09-01-Circular122014.pdf) <br> [FAQ](/files/about-us/faqs-on-enhanced-transhipment-and-transit-controls-final.pdf) |
