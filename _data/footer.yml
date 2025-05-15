@@ -1,0 +1,9 @@
+contact_us: /contact-us/
+show_reach: true
+feedback: /feedback/
+social_media:
+  facebook: https://www.facebook.com/SingaporeCustoms
+links:
+  - title: Careers
+    url: /careers/
+faq: https://ask.gov.sg/customs

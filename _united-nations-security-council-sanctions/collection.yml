@@ -1,0 +1,10 @@
+collections:
+  united-nations-security-council-sanctions:
+    output: true
+    order:
+      - United Nations Security Council Sanctions/.keep
+      - United Nations Security Council Sanctions/list-of-prohibited-imports-and-inward-transhipment-or-goods-in-transit-from-the-dprk.md
+      - United Nations Security Council Sanctions/list-of-prohibited-exports-and-outward-transhipment-or-goods-in-transit-to-the-dprk.md
+      - United Nations Security Council Sanctions/list-of-prohibited-imports-and-inward-transhipment-or-goods-in-transit-from-iran.md
+      - United Nations Security Council Sanctions/list-of-prohibited-exports-and-outward-transhipment-or-goods-in-transit-to-iran.md
+      - United Nations Security Council Sanctions/list-of-prohibited-items-to-or-from-other-countries-pursuant-to-unsc-sanctions-or-resolutions.md
