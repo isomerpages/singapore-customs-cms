@@ -80,9 +80,9 @@ Examples:
 **12) Singapore Customs (Customs)**
 
 -   [Chewing Gum (HS Code 17041000)](/businesses/national-single-window/tradenet/competent-authorities-requirements/chewing-gum)
--   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](https://www.customs.gov.sg/businesses/strategic-goods-control/import-certificate-and-delivery-verification/)
+-   [Import and Export of Goods Covered under Import Certificate and Delivery Verification (ICDV)](/businesses/strategic-goods-control/import-certificate-and-delivery-verification/)
 -   [Import of Mastering Equipment and Replication Equipment](/businesses/national-single-window/tradenet/competent-authorities-requirements/singapore-customs---import-of-mastering-equipment-and-replication-equipment)
--   [Kimberley Process Certification Scheme](https://www.customs.gov.sg/businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme/)
+-   [Kimberley Process Certification Scheme](/businesses/customs-schemes-licences-framework/kimberley-process-certification-scheme/)
 -   [National Authority (Chemical Weapons Convention)](/businesses/chemical-weapons-convention/controlled-chemicals)
 -   [Strategic Goods Control](/businesses/strategic-goods-control/overview)
 -   [United Nations Security Council (UNSC) Sanctions](/businesses/united-nations-security-council-sanctions/)
