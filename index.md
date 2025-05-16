@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Customs
-description: test test
+description: 
 permalink: /
 notification: Use our digital services when transacting with us! We encourage
   businesses to submit trade declarations via TradeNet and access our eServices
@@ -11,7 +11,7 @@ notification: Use our digital services when transacting with us! We encourage
   visit the ICA website (https://safetravel.ica.gov.sg/).
 sections:
   - hero:
-      background: /images/banner_resized_911.png
+      background: images/31Dec24_Website_Hero_Banner.png
       key_highlights:
         - title: Duty-Free Concession and GST Relief
           url: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
@@ -24,12 +24,13 @@ sections:
   - infopic:
       title: Networked Trade Platform
       subtitle: OUR SERVICES
+      id: infopic
       description: Find out more about the NTP to advance your business and improve
         your trade operations.
       button: More info on NTP
       url: /businesses/national-single-window/networked-trade-platform
       image: /images/ntp.png
-      alt: More information on the NTP.
+      alt: Image alt text
   - resources:
       title: News and Media
       subtitle: Media Releases

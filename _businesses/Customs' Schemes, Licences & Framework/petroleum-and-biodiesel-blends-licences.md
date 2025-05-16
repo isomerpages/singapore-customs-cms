@@ -89,4 +89,4 @@ For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:cu
 
 ## Application for Changes to Schemes for Existing Licensees
 
-You may complete your [applications for changes to schemes for existing licensees or to update records](https://form.gov.sg/#!/605462a0f26f5c0012448021) online.
+You may complete your [applications for changes to schemes for existing licensees or to update records](https://go.gov.sg/licensed-for-changes) online.

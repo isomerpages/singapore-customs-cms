@@ -64,7 +64,7 @@ pay-outs in your 4th, 7th, and 10th year in Customs scheme of service.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$4,020 - $4,510</p>
+<p>$4,020 - $5,036</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ pay-outs in your 4th, 7th, and 10th year in Customs scheme of service.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,800 - $2,760</p>
+<p>$1,820 - $2,888</p>
 </td>
 </tr>
 </tbody>
@@ -93,7 +93,7 @@ Leave)</p>
 <p>Subsidised medical and dental fees</p>
 </li>
 <li>
-<p>Training and Personal Development Fund</p>
+<p>Training</p>
 </li>
 <li>
 <p>Long Service Recognition</p>

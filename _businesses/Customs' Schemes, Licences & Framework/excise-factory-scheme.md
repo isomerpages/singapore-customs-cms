@@ -99,7 +99,7 @@ For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:cu
 
 ## Application for Changes to Schemes for Existing Licensees
 
-You may complete your [applications for changes to schemes for existing licensees or to update records](https://form.gov.sg/#!/605462a0f26f5c0012448021) online.
+You may complete your [applications for changes to schemes for existing licensees or to update records](https://go.gov.sg/licensed-for-changes) online.
 
 ## Frequently Asked Questions (FAQs)
 
@@ -141,4 +141,4 @@ Find out more about  [Permit Declaration](/businesses/new-traders-and-registrati
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
-Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/businesses/seb/04092023%20excise%20factory%20scheme%20(microbrewery)%20handbook%20(fifth%20ed).pdf) for more information.
+Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/29082023_Excise_Factory_Scheme__Microbrewery__Handbook__Sixth_Ed__.pdf) for more information.

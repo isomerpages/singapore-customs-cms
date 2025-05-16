@@ -149,9 +149,9 @@ The importer or the appointed freight handling agent should follow the steps in 
   </li>  
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">No GST Relief for Importing Non-Dutiable Shut-out Goods ( Including those previously imported under the Temporary Import Scheme) into Customs Territory</label>
+    <label for="accordion5">No GST Relief for Re-Importing Non-Dutiable Shut-out Goods Previously Imported under the Temporary Import Scheme into Customs Territory</label>
     <div>
-<br>1) Non-dutiable shut-out goods will not have GST relief upon re-importation or importation into Customs territory.
-	<p>2) The importer or his agent is required to obtain an In-Payment (GST) permit for non-dutiable goods via TradeNet before the re-importation or importation.</p>
+<br>1) Non-dutiable shut-out goods previously imported under the Temporary Import Scheme will not have GST relief upon re-importation or importation into Customs territory.
+	<p>2) The importer or his agent is required to obtain an In-Payment (GST) permit for non-dutiable goods via TradeNet before the re-importation.</p>
     </div>
   </li></ul>

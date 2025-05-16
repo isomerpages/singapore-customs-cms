@@ -29,13 +29,13 @@ variant: markdown
 **Australia**
 
 -   [Australian Customs](http://www.customs.gov.au/default.asp){:target="_blank"}
--   [Australian Defence Export Control Office](http://www.defence.gov.au/deco/){:target="_blank"}
+-   [Australian Defence Export Control Office](https://www.defence.gov.au/business-industry/exporting){:target="_blank"}
 -   [Australian Safeguards and Non-Proliferation Office](http://www.dfat.gov.au/asno/){:target="_blank"}
 
 **Canada**
 
 -   [Department of Foreign Affairs and International Trade (Export and Import Controls Bureau)](http://www.international.gc.ca/controls-controles/index.aspx){:target="_blank"}
--   [The Controlled Goods Program](https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/index-eng.html){:target="_blank"}
+-   [The Controlled Goods Program](https://www.canada.ca/en/public-services-procurement/services/industrial-security/controlled-goods.html){:target="_blank"}
 
 **China**
 
@@ -88,7 +88,7 @@ variant: markdown
 
 **United Kingdom (UK)**
 
--   [UK Export Controls and Licensing](http://www.bis.gov.uk/Policies/export-control-organisation){:target="_blank"}
+-   [UK Export Controls and Licensing](https://www.gov.uk/business-and-industry/export-controls){:target="_blank"}
 -   [UK Sanctions Guidance ](https://www.gov.uk/guidance/uk-sanctions){:target="_blank"}
 
 **United Arab Emirates (UAE)**

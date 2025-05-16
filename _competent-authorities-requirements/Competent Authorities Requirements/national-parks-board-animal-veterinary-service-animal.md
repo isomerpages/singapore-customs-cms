@@ -2,6 +2,7 @@
 title: National Parks Board/Animal & Veterinary Service (Animal)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/avs-animals/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
 # National Parks Board/Animal & Veterinary Service (Animal)
 
@@ -22,4 +23,4 @@ third_nav_title: Competent Authorities Requirements
 
 Refer to  [HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="blank"} for the Controlled Product Code List.
 
-3) For more information on permit and licence requirements, please visit [Pets (nparks.gov.sg)](https://www.nparks.gov.sg/avs/pets) or contact animal_feedback@nparks.gov.sg.
+3) For more information on permit and licence requirements, please visit [Pets (nparks.gov.sg)](https://www.nparks.gov.sg/avs/pets) or contact us via our [feedback form](https://www.nparks.gov.sg/contact-us){:target="blank"}.

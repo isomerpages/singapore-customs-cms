@@ -3,10 +3,13 @@ title: How to apply for a Back to Back Preferential Certificate of Origin
 permalink: /businesses/certificates-of-origin/how-to-apply-for-b2b/
 third_nav_title: Certificates of Origin
 description: ""
+variant: markdown
 ---
 ## How to apply for back-to-back preferential Certificate of Origin with Singapore Customs?
 
 The back-to-back preferential CO is issued by Singapore Customs for the re-export of goods based on the preferential CO issued by the first exporting party. The goods must be imported into Singapore and meet the conditions for it to be issued.
+
+![Back-to-Back CO](/images/Certificate%20of%20Origin/back_to_back_co.png)
 
 In general, the re-export may be eligible for a back-to-back preferential CO issued under a specific Free Trade Agreement (FTA), under the following conditions:
 
@@ -55,4 +58,4 @@ For back-to-back Form Ds, you may refer to an e-ATIGA Form D reference number is
     
 -   The e-ATIGA Form D from the ASEAN Member States has been successfully received.
     
-You may refer to **Electronic Exchange of Form D via the ASEAN Single Window** for more information.
+You may refer to [Electronic Exchange of Form D via the ASEAN Single Window](https://www.customs.gov.sg/businesses/certificates-of-origin/asw/) for more information.

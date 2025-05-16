@@ -1,9 +1,9 @@
 ---
-title: IPMs Imported by Air/Sea Frieght or By Land
+title: IPMs Imported by Air/Sea Freight or By Land
 permalink: /businesses/importing-goods/import-procedures/importing-investment-precious-metals-ipms/ipms-imported-by-air-sea-freight-or-land/
 third_nav_title: Importing Investment Precious Metals IPM
+variant: markdown
 ---
-
 # IPMs Imported by Air/Sea Freight or by Land
 
 Import of IPMs by **air freight**, of a **total [Cost, Insurance and Freight (CIF) value](/businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports)** **not exceeding** **S$400**, do not require a Customs permit**.**

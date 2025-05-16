@@ -26,7 +26,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the [Zero-GST Warehouse Scheme Handbook](/files/businesses/seb/Zero_GST_Warehouse_Scheme_Handbook__Aug_2024_.pdf) (Chapter 2.10).
+A summary of the benefits for the 3 zero-GST warehouse licence types can be found in the [Zero-GST Warehouse Scheme Handbook](/files/Zero_GST_Warehouse_Scheme_Handbook__Dec_2024_.pdf).
 
 ## How to Qualify?
 
@@ -136,7 +136,7 @@ For further assistance on the application or if you have any feedback relating t
 
 ## Application for Changes to Schemes for Existing Licensees
 
-You may complete your [applications for changes to schemes for existing licensees or to update records](https://form.gov.sg/#!/605462a0f26f5c0012448021) online.
+You may complete your [applications for changes to schemes for existing licensees or to update records](https://go.gov.sg/licensed-for-changes) online.
 
 ## Authorisation of Declaring Agent (DA) for Licensed Premises
 

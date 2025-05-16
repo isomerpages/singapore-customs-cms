@@ -46,8 +46,8 @@ Email:  [sales@innosys.com.sg](mailto:sales@innosys.com.sg)
 
 **KT Tech Pte Ltd**
 
-Tel: (65) 9380 9696 <br>
-Email:  [contact@ktt.sg](mailto:contact@ktt.sg)
+Tel: (65) 8691 5413 <br>
+Email:  [ravin@ktt.sg](mailto:ravin@ktt.sg)
 
 
 **Tradenet Services Pte Ltd (TNETS Global)**

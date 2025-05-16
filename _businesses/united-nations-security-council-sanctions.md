@@ -1,6 +1,7 @@
 ---
 title: United Nations Security Council Sanctions
 permalink: /businesses/united-nations-security-council-sanctions/
+variant: markdown
 ---
 # United Nations Security Council Sanctions
 
@@ -34,6 +35,8 @@ Please submit the following supporting documents together with your permit appli
 -   Sales contract;
 -   End-user certificate or statement; and
 -   Other relevant supporting documents
+
+The permit application will only be processed after all the required documents have been submitted to Singapore Customs. 
 
 You are also reminded to comply with any stipulated permit conditions.
 
@@ -75,6 +78,8 @@ Please submit the following supporting documents together with your permit appli
 -   End-user certificate; and
 -   Other relevant supporting documents
 
+The permit application will only be processed after all the required documents have been submitted to Singapore Customs. 
+
 You are also reminded to comply with any stipulated permit conditions.
 
 While Singapore does not enforce [unilateral sanctions](/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) imposed by other countries, you may wish to conduct proper due diligence checks to ensure that your business is not at risk. Where legal advice is required, please seek advice from your legal advisors.
@@ -101,5 +106,7 @@ Please submit the following supporting documents together with your permit appli
 -   Sales contract;
 -   End-user certificate; and
 -   Other relevant supporting documents
+
+The permit application will only be processed after all the required documents have been submitted to Singapore Customs. 
 
 Please note that Singapore does not enforce [unilateral sanctions](/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) imposed by other countries. You are advised to look out for [red flags](/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) to ensure your trading activities comply with Singapore’s domestic laws and the UNSC Resolutions.

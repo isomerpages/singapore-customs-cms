@@ -48,7 +48,7 @@ The level of facilitation accorded, as well as the criteria on the company’s r
 
 Type I and II licensees need to qualify for the “Standard” and “Intermediate” bands under the  [TradeFIRST](/businesses/customs-schemes-licences-framework/trade-first) framework respectively, while Type III licensees need to qualify for the “Enhanced” or the “Premium” bands.
 
-A summary of the benefits for the 3 LW licence types can be found in the [Licensed Warehouse Handbook](/files/businesses/seb/LW_Handbook_Jan_2024.pdf) (Chapter 2.8).
+A summary of the benefits for the 3 LW licence types can be found in the [Licensed Warehouse Handbook](/files/LW_Handbook_Dec_2024.pdf).
 
 ## How to Qualify?
 
@@ -130,7 +130,7 @@ For further assistance, please email  [customs_schemes@customs.gov.sg](mailto:cu
 
 ## Application for Changes to Schemes for Existing Licensees
 
-You may complete your [applications for changes to schemes for existing licensees or to update records](https://form.gov.sg/#!/605462a0f26f5c0012448021) online.
+You may complete your [applications for changes to schemes for existing licensees or to update records](https://go.gov.sg/licensed-for-changes) online.
 
 ## Authorisation of Declaring Agent (DA) for Licensed Premises
 

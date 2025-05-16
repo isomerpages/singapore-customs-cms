@@ -60,4 +60,4 @@ If the application is rejected, the importer or declarant is to check the follow
 -   CA/SC product quantity
 -   CA/SC product unit of quantity
 
-d. The list of Harmonised System (HS) Codes and Product Codes for SCDF controlled or jointly controlled (with other agencies) items can be found  [here](https://www.scdf.gov.sg/docs/default-source/scdf-library/p-fm/complete-list-of-licensable-p-fm-2018.pdf).
+d. The list of Harmonised System (HS) Codes and Product Codes for SCDF controlled or jointly controlled (with other agencies) items can be found  [here](https://hscodechecker.gobusiness.gov.sg/downloads).

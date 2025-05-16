@@ -110,7 +110,7 @@ requirements or the FTZ Operator Licencing conditions.</p>
 offences for a sum not exceeding S$5,000 per offence. Offenders may be
 prosecuted if the offences committed are of fraudulent or serious nature.</p>
 <h2>Further Information</h2>
-<p>If you require further assistance on the FTZ Operator Licence, <a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=18336588" rel="noopener noreferrer nofollow" target="_blank">you may refer to the FAQ</a> or
+<p>If you require further assistance on the FTZ Operator Licence, <a href="https://ask.gov.sg/customs" rel="noopener noreferrer nofollow" target="_blank">you may refer to the FAQ</a> or
 email <a href="mailto:customs_ftz@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_ftz@customs.gov.sg</a>.</p>
 <p></p>
 <p></p>

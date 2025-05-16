@@ -10,9 +10,9 @@ variant: markdown
 
 The Key Personnel or Authorised Personnel of a DA can [register an individual as a Declarant](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"} at the point of DA Account application or separately afterwards.
 
-The individual will receive an email requesting him to sign and acknowledge a set of [Terms and Conditions for Declarants](/files/businesses/tcs-declarant-final.pdf). The individual must ensure that he understands his roles and responsibilities as a Declarant before he signs and acknowledges on the Terms and Conditions for Declarants.
+The individual will receive an email requesting him to sign and acknowledge a set of [Terms and Conditions for Declarants](/files/businesses/Declarant___T_C__amended_2025_.pdf). The individual must ensure that he understands his roles and responsibilities as a Declarant before he signs and acknowledges on the Terms and Conditions for Declarants.
 
-The individual must also enrol for and pass the [Customs Competency Test for Declarants (SC 401)](https://go.gov.sg/sc401){:target="_blank"}. Upon registration and closing of the test session, we will send an invoice to the email address indicated in the application form. Payment must be made through AXS/e-AXS before the due date indicated in the invoice. Upon successful payment, we will send a confirmation of the registration to the same email address indicated in the application form. This is to ensure that Declarants possess adequate knowledge on Customs' documentation and procedures to better advise their clients. 
+The individual must also enrol for and pass the [Customs Competency Test for Declarants (SC 401)](https://cal.gov.sg/f1vcdb1csb2df3ym4vw1yzxb){:target="_blank"}. Upon registration and closing of the test session, we will send an invoice to the email address indicated in the application form. Payment must be made through AXS/e-AXS before the due date indicated in the invoice. Upon successful payment, we will send a confirmation of the registration to the same email address indicated in the application form. This is to ensure that Declarants possess adequate knowledge on Customs' documentation and procedures to better advise their clients. 
 
 To prepare for the Customs Competency Test, the individual should:
 -	Familiarise themselves with the various permit types and procedures available on Singapore Customs website;
@@ -25,7 +25,7 @@ If a Declarant has changed employment and wish to be registered under another DA
 
 ### More information on Customs Competency Test for Declarants (SC 401)
 
-Enrol for the competency test [here](https://go.gov.sg/sc401){:target="_blank"}.
+Enrol for the competency test [here](https://cal.gov.sg/f1vcdb1csb2df3ym4vw1yzxb){:target="_blank"}.
 
 |  |  |
 |--|--|

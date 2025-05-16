@@ -1,9 +1,10 @@
 ---
-title: National Environment Agency - Radiation Protection and Nuclear Science Division (RPNSD)
+title: National Environment Agency - Radiation Protection and Nuclear Science
+  Division (RPNSD)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency/radiation-protection-and-nuclear-science-division-rpnsd/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
-
 # National Environment Agency - Radiation Protection and Nuclear Science Division (RPNSD)
 
 A customs permit must be obtained through TradeNet before the goods arrive in/depart from Singapore. 
@@ -48,7 +49,7 @@ For the import/export of spare parts of a radiation (irradiating) equipment whic
 
 ## Import of New Items control by RPNSD
 
-A written request by the importer/exporter, together with the relevant documents is required to be submitted to RPNSD for the inclusion of new radioactive materials or new irradiating apparatus into a Dealer Licence so that a new Product Code can be generated for TradeNet auto-processing. Please inform RPNSD at least ten working days in advance to prevent any delay of approval. For more information on RPNSD, please click on this  [link](http://www.nea.gov.sg/anti-pollution-radiation-protection/radiation-protection){:target="_blank"}.
+A written request by the importer/exporter, together with the relevant documents is required to be submitted to RPNSD for the inclusion of new radioactive materials or new irradiating apparatus into a Dealer Licence so that a new Product Code can be generated for TradeNet auto-processing. Please inform RPNSD at least ten working days in advance to prevent any delay of approval. For more information on RPNSD, please click on this [link](https://www.nea.gov.sg/anti-pollution-radiation-protection/radiation-protection){:target="_blank"}.
 
 ## Import/Export items controlled by RPNSD and other competent authority
 

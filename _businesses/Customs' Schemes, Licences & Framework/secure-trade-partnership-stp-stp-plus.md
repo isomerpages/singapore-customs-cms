@@ -107,7 +107,7 @@ recognised by other partners through a mutual recognition arrangement</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Circular_06_2024__Ver2_.pdf" rel="noopener noreferrer nofollow" target="_blank">ASEAN (2024)</a>
+<p><a href="/files/businesses/seb/Circular_06_2024__Ver3_.pdf" rel="noopener nofollow" target="_blank">ASEAN (2024).</a>
 </p>
 </li>
 </ul>
@@ -116,16 +116,16 @@ be recognised as being of lower risk and can enjoy a higher level of facilitatio
 <p>Singapore Customs continues to engage like-minded customs administrations
 to expand our list of MRA partners, and bring about greater benefits to
 the trading community.</p>
-<p>Please refer to the <a href="/files/Latest_MRA_Factsheet_ASEAN.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
+<p>Please refer to the <a href="/files/businesses/seb/FACT_SHEET__FEB_2025_.pdf" rel="noopener nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
 more details on the procedures to enjoy the benefits under the MRAs.</p>
 <h2>STP and STP-Plus Certified Companies</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/businesses/seb/STP_Certified_Companies_18_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">STP Certified Companies</a>
+<p><a href="/files/businesses/SLMB/STP_Certified_Companies_20_Feb_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">STP Certified Companies</a>
 </p>
 </li>
 <li>
-<p><a href="/files/businesses/seb/STP_Plus_Certified_Companies_18_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">STP-Plus Certified Companies</a>
+<p><a href="/files/businesses/SLMB/STP_Plus_Certified_Companies_13_Feb_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">STP-Plus Certified Companies</a>
 </p>
 </li>
 </ul>
@@ -148,7 +148,7 @@ meet all the criteria</p>
 meet all the mandatory criteria and attain the “Premium” band</p>
 </li>
 </ul>
-<p>Click <a href="/files/businesses/seb/STP_Handbook__Oct_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/STP_Handbook__Dec_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Handbook on Secure Trade Partnership</p>
 <h2>How to Apply?</h2>
 <p><strong>Step 1a</strong>: For the STP application, complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> and
@@ -171,8 +171,8 @@ Protection Association (TAPA), ISO 28000)</p>
 Self-Assessment Checklist</p>
 </li>
 </ul>
-<p><strong>Step 2</strong>: Complete the <a href="https://form.gov.sg/5d2d7ffc690755001137c917" rel="noopener nofollow" target="_blank">Application form</a> for
-STP or STP Plus</p>
+<p><strong>Step 2</strong>: Complete the <a href="https://go.gov.sg/stpapplication" rel="noopener nofollow" target="_blank">Application form</a> for STP or
+STP Plus</p>
 <p><strong>Step 3: </strong>Submit the checklist and supporting documents
 to Singapore Customs via email: <a href="mailto:customs_schemes@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">customs_schemes@customs.gov.sg</a>
 </p>
@@ -187,7 +187,7 @@ STP certified companies are required to:</p>
 <p>ii) obtain the endorsement of an ACRA-listed director; and</p>
 <p>iii) submit a <a href="https://go.gov.sg/stpselfdeclaration" rel="noopener nofollow" target="_blank">FormSG declaration</a> to
 Singapore Customs by the last day of each calendar year (i.e 31 December).</p>
-<p>For more information, please refer to the <a href="/files/businesses/seb/FAQs_for_Streamlined_STP_renewal.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
+<p>For more information, please refer to the <a href="/files/FAQs_for_Streamlined_STP_renewal_Final_31_Dec_24.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
 <p>For the STP-Plus certification, a company must meet all the stipulated
 requirements in the STP guidelines and criteria, and achieve the “Premium”
 band under the TradeFIRST assessment. The STP-Plus certification will last

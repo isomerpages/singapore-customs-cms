@@ -11,10 +11,10 @@ variant: markdown
 
 **Enquiries on Customs Procedures** <br>[Chat with us now!](https://go.gov.sg/customs-live-chat)<br>Beyond this live-chat, you may reach us at [+65 6355 2000](tel:+6563552000).<br>
 
-Our operating hours:<br> 8am to 6pm (Monday to Friday)<br> 8am to 12pm (Saturday)<br>Closed on Sundays and public holidays.
+Our operating hours:<br> 8:30am to 5.30pm (Monday to Friday)<br>Closed on weekends and Public Holidays.
 
 Our peak hours are from 10am to 12pm, and 3pm to 5pm.
-You are always welcome to engage with us via live-chat. You may also leave a call-back request and we will aim to get back to you within 20 minutes.<br>
+You are always welcome to engage us via live-chat. You may also leave a call-back request and we will aim to get back to you within 30 minutes.<br>
 
 ---
 
@@ -25,7 +25,7 @@ You are always welcome to engage with us via live-chat. You may also leave a cal
 
 Operating hours: <br>8am to 6pm (Monday to Friday)<br>Closed on weekends and public holidays.<br>
 
-**Issued by Customs’ Suppression &amp; Community Engagement Branch or Special Investigation Branch**<br>Please fill in the [Customs Offence Appeal Form](https://form.gov.sg/5fab8747ec6c950011f3f82d).<br>
+**Issued by Customs’ Suppression &amp; Community Engagement Branch or Special Investigation Branch**<br>Please fill in the [Customs Offence Appeal Form](https://form.gov.sg/66ce980d21805ae7af787ff7).<br>
 
 ---
 
@@ -40,9 +40,9 @@ Our operating hours: <br>8am to 6pm (Monday to Friday)<br>8am to 12pm (Saturday)
 ### Report to Us<br>
 **[Report duty/Goods and Services Tax (GST) Evasion and Other Illicit Trade](https://www.customs.gov.sg/news-and-media/advisories/permalink/)**<br>
 
-If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the [reporting template](https://form.gov.sg/64e554f0ffdaa600136b17e1). 
+If you are aware of any individual or business which has evaded duty/GST or have information on any other illicit trade activities, you may provide information to Singapore Customs using the [reporting template](https://go.gov.sg/reportcustomsoffence). 
 
-**Report a scam**<br>Please fill in the online form to [report a customs-related scam](https://form.gov.sg/6302ffcdf87eed00124e0b2d).<br>
+**Report a scam**<br>Please fill in the online form to [report a customs-related scam](https://go.gov.sg/report-customs-scam).<br>
 
 ---
 

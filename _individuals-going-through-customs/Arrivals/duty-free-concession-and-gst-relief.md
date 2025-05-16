@@ -58,7 +58,7 @@ Important Notes:
 
 -   Duty-free concessions are granted on liquor products purchased outside Singapore as well as those purchased at Duty-Free Shops (DFS) Singapore.
     
--   Duty-free concessions are granted on liquor products for your personal consumption only. It is an offence to sell or give them away. It is an offence to sell, exchange or give them away.
+-   Duty-free concessions are granted on liquor products for your personal consumption only. It is an offence to sell or give them away.
   
 -   As such, duty-free liquors purchased by other travellers, friends or relatives and subsequently given to you would be subject to duty and Goods and Services Tax (GST).
 

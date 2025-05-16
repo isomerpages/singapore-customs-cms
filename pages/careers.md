@@ -24,14 +24,14 @@ You will then undergo targeted training to hone the necessary competencies to pe
 
 * **Sign-On Bonus**: Eligible officers who are newly appointed to the Public Service and Singapore Customs will receive a sign-on bonus of $8,000 paid in two tranches.
 
-* **Retention Bonus**: You will also receive attractive retention pay-outs in your 4th, 7th, and 10th year in service.
+* **Retention Bonus**: You will also receive attractive retention pay-outs in your 4th, 7th, and 10th year in Customs scheme of service.
 
 * **Starting Salary**:
 
 |Roles | Starting Monthly Salary*| 
 | -------- | -------- | 
-| **Customs officer (CUS Entry Grade 4)**| $4,020 - $4,510|
-|**Customs officer (CUS Entry Grade 1)**| $1,800 - $2,760|
+| **Customs officer (CUS Entry Grade 4)**| $4,020 - $5,036|
+|**Customs officer (CUS Entry Grade 1)**| $1,820 - $2,888|
 
 	*Starting monthly salary may vary based on a holistic assessment of academic qualifications, demonstration of relevant competencies, relevant work experience and completion of full-time National Service.
 
@@ -39,7 +39,7 @@ You will then undergo targeted training to hone the necessary competencies to pe
 	* 14 to 18 days of annual Vacation Leave
 	* 60 days of annual Hospitalisation Leave (inclusive of 14 days of Sick Leave)
 	* Subsidised medical and dental fees
-	* Training and Personal Development Fund 
+	* Training 
 	* Long Service Recognition
 	* Staff Recognition and Training Awards
 

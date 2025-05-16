@@ -4,7 +4,7 @@ permalink: /eservices/customs-sg-web-application/
 variant: tiptap
 ---
 <h1>Customs@SG</h1>
-<h1>About Customs@SG</h1>
+<h2>About Customs@SG</h2>
 <p>The <a href="https://m.customs.gov.sg/CustomsTravellerPortal" rel="noopener noreferrer nofollow" target="_blank">Custom@SG Web Application</a> is
 a convenient way for travellers to declare and pay duty and/or Goods and
 Services Tax (GST) on their overseas purchases anytime, anywhere, before

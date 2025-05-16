@@ -2,8 +2,8 @@
 title: Activate / Update / Terminate Customs Account
 permalink: /businesses/new-traders-and-registration-services/registration-services/activate-customs-account/
 third_nav_title: Registration Services
+variant: markdown
 ---
-
 # Activate Customs Account
 
 Declaring Entities that intend to engage in import and/or export activities in Singapore, or appoint a Declaring Agent to apply for customs import, export and transhipment permits or certificates through TradeNet have to:
@@ -70,4 +70,4 @@ The Key Personnel or Authorised Personnel authorised by the Key Personnel can al
 
 ## Terms and Conditions
 
-[Terms and Conditions for Declaring Entities](/files/businesses/tcsdefinal.pdf)
+[Terms and Conditions for Declaring Entities](/files/businesses/DE___T_C__amended_2025_.pdf)

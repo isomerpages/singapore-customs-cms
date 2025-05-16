@@ -2,7 +2,7 @@
 title: Overview
 permalink: /businesses/new-traders-and-registration-services/overview/
 third_nav_title: New Traders And Registration Services
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h1>Quick Guide for New Traders and Registration Services</h1>
@@ -32,10 +32,10 @@ obtain a UEN; and</p>
 Customs Account</p>
 </li>
 </ul>
-<p>You are also advised to look out for the <a href="/files/FATF.pdf" rel="noopener noreferrer nofollow" target="_blank">risk indicators </a>suggesting illicit trade, and
-file a Suspicious Transaction Report (STR) to the Suspicious Transaction
-Reporting Office (STRO) if you have reasonable grounds to suspect any suspicious
-trade activity.</p>
+<p>You are also advised to look out for the<a href="/files/Updated_TBML_risk_indicators.pdf" rel="noopener noreferrer nofollow" target="_blank"> risk indicators </a>suggesting 
+illicit trade, and file a Suspicious Transaction Report (STR) to the Suspicious
+Transaction Reporting Office (STRO) if you have reasonable grounds to suspect
+any suspicious trade activity.</p>
 <h2>Applying for Customs Permits</h2>
 <p>After activating your Customs Account, you may appoint a Declaring Agent
 to apply for customs permits via TradeNet on your behalf.</p>
@@ -61,7 +61,7 @@ import permit applications.</p>
 to make payment of duties, taxes, fees, penalties and other charges on
 services offered by Singapore from your bank account to Singapore Customs
 directly.</p>
-<p>To apply, mail the completed <a href="https://go.gov.sg/customs-ibg-form" rel="noopener noreferrer nofollow" target="_blank">Application for Inter-Bank GIRO form</a> to
+<p>To apply, mail the completed <a href="https://go.gov.sg/customs-ibg-app" rel="noopener noreferrer nofollow" target="_blank">Application for Inter-Bank GIRO form</a> to
 Singapore Customs’ address as indicated in the form.</p>
 <p>The IBG application usually requires 3 to 4 weeks for the bank’s approval.
 Once it is approved, you will receive a notification by email depending

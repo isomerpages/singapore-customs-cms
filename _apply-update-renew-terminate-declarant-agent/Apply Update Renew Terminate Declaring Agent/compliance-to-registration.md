@@ -2,12 +2,11 @@
 title: Compliance to Registration
 permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/compliance-to-registration/
 third_nav_title: Apply Update Renew Terminate Declaring Agent
+variant: markdown
 ---
-
-
 # Compliance to Registration Requirements
 
-   Registered DAs and Declarants must abide by the [Terms and Conditions for DAs](/files/businesses/tcsdafinal.pdf) and [Terms and Conditions for Declarants](/files/businesses/tcsdeclarantfinalwithoutacknowledgement.pdf) respectively. These terms and conditions set out the responsibilities and due diligence expected of DAs and Declarants. More information can be found on [Circular No. 10/2010](/news-and-media/circulars/2010-07-22-Circular102010.pdf) and [Circular No. 12/2013](/news-and-media/circulars/2013-10-07-Circular122013.pdf).
+   Registered DAs and Declarants must abide by the [Terms and Conditions for DAs](/files/businesses/DA___T_C__amended_2025_.pdf) and [Terms and Conditions for Declarants](/files/businesses/Declarant___T_C__amended_2025_.pdf) respectively. These terms and conditions set out the responsibilities and due diligence expected of DAs and Declarants. More information can be found on [Circular No. 10/2010](/news-and-media/circulars/2010-07-22-Circular102010.pdf) and [Circular No. 12/2013](/news-and-media/circulars/2013-10-07-Circular122013.pdf).
     
    Non-compliance to the terms and conditions is an offence. Singapore Customs may impose penalties in the form of suspension or revocation of an entity’s status, downgrading of banding and the associated benefits, composition sums, court fines and/or jail term.
     
@@ -26,4 +25,3 @@ third_nav_title: Apply Update Renew Terminate Declaring Agent
    -   Whether the DE, DA or Declarant has committed, or is suspected of having committed, any offence or breached any terms and conditions;
    -   Whether any Key Personnel of the DE or DA is a ‘fit and proper’ person (for example, whether the Key Personnel has committed, or is suspected of having committed, any offence or breached any terms and conditions); or
     -   Whether the Declarant possesses the requisite knowledge in his roles and responsibilities or the practical experience in making declarations;
-

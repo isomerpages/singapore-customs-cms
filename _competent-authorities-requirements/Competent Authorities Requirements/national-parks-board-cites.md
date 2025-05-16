@@ -2,6 +2,7 @@
 title: National Parks Board (CITES)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/nparks-cites/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
 # National Parks Board (CITES)
 
@@ -32,4 +33,4 @@ In the Product Information field, please indicate the following:
       
     
 
-You may refer to the [NParks website](https://www.nparks.gov.sg/biodiversity/cites/cites-classification-of-endangered-species){:target="_blank"} for more details.
+You may refer to the [NParks website](https://www.nparks.gov.sg/avs/animals/cites/cites-classification-of-endangered-species){:target="_blank"} for more details.

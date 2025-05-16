@@ -35,7 +35,7 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 
 ![](/images/step 2.png)
 
-Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://form.gov.sg/66f644faf68eca0fbadfd0e8)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://form.gov.sg/66f6459de8c347793a07c279).
+Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://go.gov.sg/certified-exporter)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://go.gov.sg/approved-exporter).
 
 The applicant/company will be informed of the outcome of the application within 7 working days from the date of receipt of the application form. If the application to be an AE and/or CE is successful, an Authorisation Letter will be issued to the company.
 
@@ -43,10 +43,14 @@ The applicant/company will be informed of the outcome of the application within 
 
 Upon successful registration as an AE/CE, the AE/CE may proceed to self-certify and make a Declaration of Origin/ Origin Declaration only for the goods that the AE/CE has been authorised to make for and fulfil the AE/CE obligations set out in the RCEP/ATIGA Operational Certification Procedures.
 
+## Renewal Procedure
+
+The approved AE/CE registration is valid for 3 years. Upon approval of the application as an AE/CE, the AE/CE will receive an approval letter indicating the validity period. For renewal of AE/CE registration, 3 months before expiry, the AE/CE will receive a letter from Singapore Customs to apply to renew the AE/CE status.
+
 ## Useful Resources
 
 Need more information on how the various scheme work, the benefits, and the criteria for companies to become an AE/CE. Here are some resources which might be useful: 
 
-- Our latest [handbook](/files/businesses/ttsb-roo/handbook%20on%20the%20implementation%20of%20the%20authorised%20self%20certification%20regime%20v3_clean%20(002).pdf). 
+- Our latest [handbook](/files/businesses/ttsb-roo/Handbook_on_the_implementation_of_the_Authorised_Self_Certification_Regime_V3_Dec2024.pdf). 
 
 -  [Infographic](https://asean.org/wp-content/uploads/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/wp-content/uploads/2012/05/04-AWSC-Brochure.pdf) by [ASEAN](https://app.awsc.asean.org/) on AWSC.
