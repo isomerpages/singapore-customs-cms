@@ -109,8 +109,15 @@ recognised by other partners through a mutual recognition arrangement</p>
 <li>
 <p><a href="/files/businesses/seb/Circular_06_2024__Ver3_.pdf" rel="noopener nofollow" target="_blank">ASEAN (2024).</a>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/businesses/SLMB/AAMRA_Guidelines_for_Import_Export_Declarations.pdf" rel="noopener nofollow" target="_blank">AAMRA Guideline for Import and Export Declarations</a>
+</p>
 </li>
 </ul>
+</li>
+</ul>
+<p></p>
 <p>Exports from an STP-Plus certified company to these MRA partners will
 be recognised as being of lower risk and can enjoy a higher level of facilitation.</p>
 <p>Singapore Customs continues to engage like-minded customs administrations
