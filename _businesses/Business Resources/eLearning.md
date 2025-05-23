@@ -291,7 +291,7 @@ information and updates.</p>
 <p>No.</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/businesses/certificates-of-origin/overview" rel="noopener noreferrer nofollow" target="_blank">Original CO</a>
+<p><a href="/businesses/certificates-of-origin/overview" rel="noopener noreferrer nofollow" target="_blank">Ordinary CO</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
