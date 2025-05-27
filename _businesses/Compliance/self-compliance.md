@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Self-Compliance
 
-Singapore Customs encourages traders to practise good corporate governance and implement robust internal controls, so that they are able to voluntarily comply with the relevant laws and regulations.
+Customs encourages traders to practise good corporate governance and implement robust internal controls, so that they are able to voluntarily comply with the relevant laws and regulations.
 
 Traders who are self-compliant will enjoy smoother business operations. For instance, shipments by compliant traders are subjected to fewer checks. Non-compliance can result in penalties, seizure and forfeiture of goods, reputational damage, suspended import/export/transhipment privileges for repeated non-compliance, and increased monitoring by Singapore Customs. By staying compliant, traders avoid risks and financial exposure, and stand to gain trade facilitation benefits.
 
