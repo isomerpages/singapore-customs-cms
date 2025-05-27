@@ -12,9 +12,9 @@ Traders who are self-compliant will enjoy smoother business operations. For inst
 
 ## Education & Outreach
 
-Singapore Customs holds regular dialogues with various segments of the trading community to understand their business needs and to keep them updated on regulatory developments. We also conduct outreach to specific traders to assist them in resolving compliance-related issues.
+Customs holds regular dialogues with various segments of the trading community to understand their business needs and to keep them updated on regulatory developments.
 
-Singapore Customs has appointed Nanyang Polytechnic (NYP) and Republic Polytechnic (RP) to provide a suite of specialised courses on customs requirements for the business community. Companies may visit [Nanyang Polytechnic website](https://www.nyp.edu.sg/adult-learner/course-types/short-courses/singapore-customs-courses-businesses){:target="_blank"}
+Customs also conducts outreach to specific traders to assist them in resolving compliance-related issues. Customs has appointed Nanyang Polytechnic (NYP) and Republic Polytechnic (RP) to provide a suite of specialised courses on customs requirements for the business community. Companies may visit [Nanyang Polytechnic website](https://www.nyp.edu.sg/adult-learner/course-types/short-courses/singapore-customs-courses-businesses){:target="_blank"}
 and [Republic Polytechnic website](https://www.rp.edu.sg/ace/course-summary?searchKeyword=customs){:target="_blank"}to register for the courses. 
  
 
