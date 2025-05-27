@@ -28,6 +28,9 @@ Singapore Customs.</p>
 production processes for the goods specified in your application to ensure
 that they meet the requirements. During such visits, financial and operation
 records may also be inspected.</p>
+<p>The typical processing time for a manufacturer's application is one month
+from the date of receipt provided the submission is complete and accurate
+with all supporting documents furnished.</p>
 <p>(You may skip this step if you are already registered with us as a manufacturer
 for the specific goods)</p>
 <h4><strong>Step 2: Submit the Manufacturing Cost Statement</strong></h4>
@@ -76,3 +79,5 @@ of undertaking (LOU) via <a href="http://eservices.customs.gov.sg/scripts/custom
 <p>The letter would declare the goods of all models still qualify at the
 prevailing origin criterion(a) under the respective Free Trade Agreements
 or Schemes previously approved.</p>
+<p>The typical processing time for an LOU application is two working days
+from the date of receipt provided the submission is complete and accurate.</p>
