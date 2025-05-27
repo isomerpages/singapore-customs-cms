@@ -2,13 +2,13 @@
 title: Offences & Penalties
 permalink: /businesses/compliance/offences-and-penalties/
 third_nav_title: Compliance
+variant: markdown
 ---
-
 # Offences & Penalties
 
 Common offences committed by traders include:
 
--   Producing expired or invalid Customs permit for the clearance of goods
+-   Producing expired Customs permit for the clearance of goods
 -   Failure to take up a Customs permit to cover the movement of goods
 -   Failure to produce goods and permits/Carnets at IN/OUT gate of the checkpoint for examination and/or obtain Customs endorsement
 -   Making an incorrect declaration, statement or information
@@ -21,7 +21,7 @@ Common offences committed by traders include:
 -   Failure to obtain Customs' supervision for unstuffing of container when required under permit conditions
 -   Unauthorised breaking of Customs container seal
 
-Penalties are shaped to encourage voluntary compliance and to deter recalcitrant and rogue traders. The legislative framework places the onus for compliance on the importer, exporter or their agent. Generally, warnings or composition sums may be issued for minor offences without fraudulent intent. Traders with fraudulent intent will be prosecuted in court.
+Customs will review each offence on a case-by-case basis. The outcome may include advisories, composition or prosecution in court.
 
 Traders may refer to the links below for information on specific offences and the corresponding penalties upon conviction for:
 
