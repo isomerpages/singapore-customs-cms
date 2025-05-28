@@ -151,8 +151,8 @@ description: ""
 |--|--|--|
 | 1. | Monthly Statement of Stores and Jet Fuel Supplied to Aircraft | [Excel Doc](https://www.customs.gov.sg/files/eservices/ExcelDoc2.xls)|
 | 2. | Monthly Statement of Stores Supplied to Vessels | [Excel Doc](https://www.customs.gov.sg/files/eservices/ExcelDoc3.xls)|
-| 3. | Voluntary Disclosure Programme (VDP) – For UEN entities | [Web Link](https://form.gov.sg/#!/5cc8267f09313a001745d0eb)|
-| 4. | Voluntary Disclosure Programme (VDP) – For individuals or self-registered traders with no UEN | [Web Link](https://form.gov.sg/#!/5f43857c9abaf400115f7194)|
+| 3. | Voluntary Disclosure Programme (VDP) – For UEN entities | [Web Link](https://go.gov.sg/vdp-uen)|
+| 4. | Voluntary Disclosure Programme (VDP) – For individuals or self-registered traders with no UEN | [Web Link](https://go.gov.sg/vdp-ind)|
 
 [Back to Top](/eservices/customs-forms-and-service-links)
 
