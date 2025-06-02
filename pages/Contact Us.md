@@ -2,22 +2,22 @@
 title: Contact Us
 permalink: /contact-us/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h1>Get in touch with Singapore Customs</h1>
 <h3>Enquiries</h3>
-<p><strong>Enquiries on Customs Procedures</strong> 
-<br><a href="https://go.gov.sg/customs-live-chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us now!</a>
-<br>Beyond this live-chat, you may reach us at <a href="tel:+6563552000" rel="noopener noreferrer nofollow" target="_blank">+65 6355 2000</a>.
+<p><strong>Enquiries on Customs Documentation</strong> 
+<br><a href="https://go.gov.sg/customs-live-chat" rel="noopener noreferrer nofollow" target="_blank">a. Live Chat with our Customer Service Officer!</a>
+<br>b. Request for a call-back at +65 6355 2000
+<br>c.	Use our online enquiry form at <a href="https://go.gov.sg/customs-doc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/customs-doc</a> <i>(you will be redirected to our authorised partner’s site)</i>.
+The form allows you to submit a written enquiry or request a call-back from a Customer Service Officer during the Contact Centre’s operating hours. 
 <br>
 </p>
 <p>Our operating hours:
 <br>8:30am to 5.30pm (Monday to Friday)
 <br>Closed on weekends and Public Holidays.</p>
 <p>Our peak hours are from 10am to 12pm, and 3pm to 5pm. You are always welcome
-to engage us via live-chat. You may also leave a call-back request and
-we will aim to get back to you within 30 minutes.
-<br>
+to engage us via live-chat. You may wish to leave a call-back request and we will aim to get back to you within 30 minutes.<br>
 </p>
 <hr>
 <h3>Appeals Pertaining to Notice of Customs Offence <br></h3>
