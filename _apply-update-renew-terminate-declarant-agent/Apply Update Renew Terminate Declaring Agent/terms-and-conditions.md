@@ -6,5 +6,5 @@ variant: markdown
 ---
 # Terms and Conditions for DAs and Declarants 
 
--   [Terms and Conditions for DAs](/files/businesses/DA___T_C__amended_2025_.pdf)
+-   [Terms and Conditions for DAs](https://go.gov.sg/customs-da-tnc)
 -   [Terms and Conditions for Declarants](/files/businesses/Declarant___T_C__amended_2025_.pdf)
