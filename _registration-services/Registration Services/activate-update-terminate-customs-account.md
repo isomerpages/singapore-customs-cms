@@ -70,4 +70,4 @@ The Key Personnel or Authorised Personnel authorised by the Key Personnel can al
 
 ## Terms and Conditions
 
-[Terms and Conditions for Declaring Entities](/files/businesses/DE___T_C__amended_2025_.pdf)
+ [Terms and Conditions for Declaring Entities](https://go.gov.sg/customs-de-tnc){:target="_blank"}.
