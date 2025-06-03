@@ -182,7 +182,7 @@ for them to receive the notifications.
 <p>1. Quote your existing Bank Guarantee reference
 <br>2. Indicate the new expiry date
 <br>3. Inform the bank that you wish to extend your guarantee under eGuarantee@Gov
-programme, with template reference “CUSTOMS_REG"</p>
+programme, with template reference “GOV_UT"</p>
 <p>Once the eGuarantee has been received and successfully registered by Singapore
 Customs, we will send an email notification to the primary and secondary
 contact registered in your entity’s Customs Account as per the current
