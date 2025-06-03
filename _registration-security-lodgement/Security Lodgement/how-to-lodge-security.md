@@ -24,7 +24,7 @@ issued to Singapore Customs. You may refer to <a href="https://www.customs.gov.s
 <p><strong><em>How to apply for eGuarantee</em></strong> 
 <br>The template for the guarantee that you are required to lodge can be found
 on the <a href="http://www.eguarantee.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">eGuarantee@Gov</a> website.
-You may refer to the template S/N 11 titled, "CUSTOMS_REG".</p>
+You may refer to the template titled "GOV_UT".</p>
 <p>You are required to approach any of the participating financial institutions
 listed <a href="https://www.eguarantee.gov.sg/financial-institutions/" rel="noopener noreferrer nofollow" target="_blank">here</a> and
 provide the following information below, which is to be read against the
@@ -53,7 +53,7 @@ guarantee template:</p>
 <p>Guarantee Template Reference Code</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please indicate [CUSTOMS_REG]</p>
+<p>Please indicate [GOVT_UT]</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ DD/MM/YYYY E.g. 16/10/2022</p>
 <td rowspan="1" colspan="1">
 <p>Please indicate the expiry date of the security in the format DD/MM/YYYY
 E.g. 31/12/2022
-<br><strong>Note: There will be a claim period of 90 days after the guarantee expiry date</strong>.</p>
+<br><strong>Note: Please lodge for a minimum period of 15 months.</strong></p>
 </td>
 </tr>
 </tbody>
@@ -178,11 +178,7 @@ for them to receive the notifications.
 <ul>
 <li>
 <p>2) Extension of existing guarantees lodged with Singapore Customs</p>
-<p>For eGuarantees: If you had previously applied for an e-Banker’s Guarantee
-(eBG) under Singapore Customs’ Electronic Banker’s Guarantee Programme
-(BNPP, DBS, HSBC, OCBC and UOB), and wish to extend the validity of your
-eBG, you can similarly approach the bank that previously issued the eBG,
-to extend it through the eGuarantee@Gov programme. To extend, simply:</p>
+<p>To extend, simply:</p>
 <p>1. Quote your existing Bank Guarantee reference
 <br>2. Indicate the new expiry date
 <br>3. Inform the bank that you wish to extend your guarantee under eGuarantee@Gov
