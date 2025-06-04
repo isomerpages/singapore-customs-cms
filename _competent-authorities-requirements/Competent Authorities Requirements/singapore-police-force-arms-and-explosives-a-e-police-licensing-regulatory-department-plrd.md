@@ -96,7 +96,7 @@ Any person who contravenes subsection (1) shall be guilty of an offence and shal
 
 ## TradeNet Requirements
 
-When declaring TradeNet Permit, the declarant is required to upload the following documents via the TradeNet portal to AED PLRD to support the application:
+When applying for a Customs permit:
 
 -   For import - Bill of Lading/ Air Waybill, invoice
 -   For export - Bill of Lading/ Air Waybill, invoice, End-User Certificate and Import Licence from the authorities of the final destination.
