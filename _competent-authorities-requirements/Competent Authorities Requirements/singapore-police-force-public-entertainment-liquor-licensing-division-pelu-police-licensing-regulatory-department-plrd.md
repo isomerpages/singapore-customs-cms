@@ -1,5 +1,6 @@
 ---
-title: Singapore Police Force - Public Entertainment & Liquor Licensing Division (PELLD) - Police Regulatory Department (PRD)
+title: Singapore Police Force - Public Entertainment & Liquor Licensing Division
+  (PELLD) - Police Regulatory Department (PRD)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-public-entertainment-liquor-licensing/
 third_nav_title: Competent Authorities Requirements
 variant: markdown
@@ -10,4 +11,4 @@ Police Regulatory Department (PRD) regulates the importation and use of amusemen
 
 Operators of such game machines will have to obtain a separate public entertainment licence from PRD to allow public to access such games. The operators can apply for Public Entertainment licence online via [GoBusiness Licensing webpage](http://licence1.business.gov.sg/).
 
-The list of PLRD Harmonised System Codes and Product Codes can be found [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
+The list of PRD Harmonised System Codes and Product Codes can be found [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
