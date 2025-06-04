@@ -105,7 +105,7 @@ When applying for a Customs permit, the declarant is required to upload the foll
 
 In addition to the GEWD product codes, you are also required to declare the Dealer Licence Number issued by GEWD in the "Licence Number" field of your permit application.
 
-The submissions of supporting documents via fax or email is not accepted.
+The submission of supporting documents via fax or email is not accepted.
 
 For HS codes controlled by GEWD, the Product Codes have to be declared with the Product Code Quantity and Unit, which should align with the declared HS Unit of Quantity.
 
