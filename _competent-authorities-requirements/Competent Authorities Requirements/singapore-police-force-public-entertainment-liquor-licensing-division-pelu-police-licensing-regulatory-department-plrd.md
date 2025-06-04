@@ -1,6 +1,5 @@
 ---
-title: Singapore Police Force - Public Entertainment & Liquor Licensing Division
-  (PELU) - Police Licensing & Regulatory Department (PLRD)
+title: Singapore Police Force - Public Entertainment & Liquor Licensing Division (PELLD) - Police Regulatory Department (PRD)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-public-entertainment-liquor-licensing/
 third_nav_title: Competent Authorities Requirements
 variant: markdown
