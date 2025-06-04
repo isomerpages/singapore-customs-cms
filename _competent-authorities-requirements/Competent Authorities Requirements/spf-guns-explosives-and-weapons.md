@@ -1,5 +1,5 @@
 ---
-title:Singapore Police Force - Guns Explosives and Weapons Division (GEWD) - Police Regulatory Department (PRD)
+title: Singapore Police Force - Guns Explosives and Weapons Division (GEWD) - Police Regulatory Department (PRD)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-guns-explosives-and-weapons/
 third_nav_title: Competent Authorities Requirements
 variant: markdown
