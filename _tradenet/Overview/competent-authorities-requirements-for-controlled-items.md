@@ -98,5 +98,5 @@ Examples:
 
 **14) Singapore Police Force (SPF)**
 
--   [Arms and Explosives](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-arms-and-explosives)
+-   [Guns, Explosives and Weapons](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-guns-explosives-and-weapons)
 -   [Public Entertainment & Liquor Licensing](/businesses/national-single-window/tradenet/competent-authorities-requirements/spf-public-entertainment-liquor-licensing)
