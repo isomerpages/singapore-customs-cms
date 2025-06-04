@@ -1,7 +1,7 @@
 ---
 title: Singapore Police Force - Arms and Explosives (A&E) - Police Licensing &
   Regulatory Department (PLRD)
-permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-arms-and-explosives/
+permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-guns-explosives-and-weapons/
 third_nav_title: Competent Authorities Requirements
 variant: markdown
 ---
