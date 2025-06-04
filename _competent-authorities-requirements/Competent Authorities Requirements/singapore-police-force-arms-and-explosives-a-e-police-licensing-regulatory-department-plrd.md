@@ -96,30 +96,30 @@ Any person who contravenes subsection (1) shall be guilty of an offence and shal
 
 ## TradeNet Requirements
 
-When applying for a Customs permit:
+When applying for a Customs permit, the declarant is required to upload the following supporting documents to TradeNet as part of the permit application:
 
 -   For import - Bill of Lading/ Air Waybill, invoice
 -   For export - Bill of Lading/ Air Waybill, invoice, End-User Certificate and Import Licence from the authorities of the final destination.
 -   For transhipment - Bill of Lading/Air Waybill, invoice, Import Licence or End-User Certificate from the Authorities of final destination.
--   Valid Dealer Licence in arms, explosives and explosives precursors issued by AED PLRD.
+-   Valid Dealer Licence in arms, explosives and explosives precursors issued by GEWD.
 
-In addition to the AED PLRD product codes, you are also required to declare the Dealer Licence Number issued by AED PLRD in the "Licence Number" field of your permit application.
+In addition to the GEWD product codes, you are also required to declare the Dealer Licence Number issued by GEWD in the "Licence Number" field of your permit application.
 
-Kindly note that AED PLRD no longer accepts submissions of supporting documents via fax or email.
+The submissions of supporting documents via fax or email is not accepted.
 
-The Product Code for HS codes controlled by AED (PLRD) have to be declared with the Product Code Quantity and Unit. Please note that the Product Code Quantity and Unit for AED (PLRD)’s product codes will be in accordance to the declared HS Unit of Quantity.
+For HS codes controlled by GEWD, the Product Codes have to be declared with the Product Code Quantity and Unit, which should align with the declared HS Unit of Quantity.
 
-The list of AED PLRD regulated Harmonised System Codes and Product Codes can be found  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
+The list of GEWD regulated Harmonised System Codes and Product Codes can be found  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
 
-When you are importing, exporting or transhipping non-controlled goods which are classified under AED PLRD’s controlled HS codes, you shall declare the product code as “MISC” for these HS codes.
+When you are importing, exporting or transhipping non-controlled goods which are classified under GEWD’s controlled HS codes, you shall declare the product code as “MISC” for these HS codes.
 
-The permit application submitted for AED PLRD controlled items may be combined with the following types of HS codes:
+The permit application submitted for GEWD controlled items may be combined with the following types of HS codes:
 
 -   Non-controlled HS codes;
--   AED PLRD controlled HS code declared with Product code "MISC"; and
+-   GEWD controlled HS code declared with Product code "MISC"; and
 -   other CA controlled HS codes declared with Product code "MISC".
 
-In addition to the AED (PLRD) product codes, you are also required to declare the Dealer Licence Number issued by AED (PLRD) in the "Licence Number" field of your permit application.
+In addition to the GEWD product codes, you are also required to declare the Dealer Licence Number issued by GEWD in the "Licence Number" field of your permit application.
 
 If the Dealer Licence is for your company, you are required to specify the "Arms Dealer Licence" and/or "Explosive Dealer Licence" in the "Licence Number" field.
 
@@ -127,15 +127,15 @@ If you do not require a Dealer Licence, please specify "N.A." in the "Licence Nu
 
 ## On-line processing of Permit Applications
 
-All permit applications containing AED PLRD controlled items will be routed to AED PLRD for online processing. To facilitate the processing of your permit applications, you are required to upload the relevant abovementioned documents via the TradeNet portal to AED PLRD.
+All permit applications containing GEWD controlled items will be routed to GEWD for online processing. To facilitate the processing of your permit applications, you are required to upload the relevant abovementioned documents together with your permit applications for submission via TradeNet.
 
-All declarations received will be processed according to the sequence which they are received in TradeNet. Traders are encouraged to submit their declarations early (at least 5 working days before the import, export or transhipment) to avoid delay in the permit approval.
+GEWD will process all declarations in the order they are received in TradeNet and is unable to expedite processing upon a trader's request. Traders are encouraged to submit their permit applications early (at least five working days before the intended import, export or transhipment date) to avoid delays in the permit approval.
 
-After declaring the permits, the declarant shall check the status of his/her permit application on TradeNet.
+After submitting the permit application, the declarant shall track and check the status of his/her permit application on TradeNet. Please do not contact GEWD to check on the status of application.
 
-If an individual receives queries from AED (PLRD), the declarant shall answer the queries promptly to avoid delay in the permit approval. Generally, AED (PLRD) will process all declarations within 5 working days.
+If the declarant receives queries from GEWD, he shall answer the queries promptly to avoid delay in the permit approval. Generally, GEWD will process all permit applications within five working days.
 
-For the export of arms, explosives or explosive precursors, a customs permit must be obtained through TradeNet before the goods depart from Singapore. AED (PLRD) will not approve the permit application of any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all exportation cases of AED (PLRD)’s controlled goods that were conducted without prior approval and export licence.
+For the export of arms, explosives or explosive precursors, a customs permit must be obtained through TradeNet before the goods depart from Singapore. GEWD will not approve the permit application of any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all exportation cases of GEWD’s controlled goods that were conducted without prior approval and export licence.
 
 ## Approval Messages
 
@@ -143,4 +143,4 @@ Once the import, export or transhipment permit application is approved, the impo
 
 ## Enquiries
 
-For more information, please visit AED PLRD's  [website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact us at 6835 0000 or email to SPF_Licensing_Feedback@spf.gov.sg.
+For more information, please visit GEWD's  [website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact GEWD through PRD's [Enquiry Form](https://www.go.gov.sg/spf-prd) or at PRD's hotline (6835 0000).
