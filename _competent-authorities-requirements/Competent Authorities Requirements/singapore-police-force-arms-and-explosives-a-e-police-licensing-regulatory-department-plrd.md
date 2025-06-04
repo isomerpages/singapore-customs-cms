@@ -5,11 +5,11 @@ permalink: /businesses/national-single-window/tradenet/competent-authorities-req
 third_nav_title: Competent Authorities Requirements
 variant: markdown
 ---
-# Singapore Police Force - Arms and Explosives (A&E) - Police Licensing & Regulatory Department (PLRD)
+# Singapore Police Force - Guns Explosives and Weapons Division (GEWD) - Police Regulatory Department (PRD)
 
 ## Arms and Explosives Act 1913
 
-The import, export and transhipment of arms, explosives and explosives precursors are regulated under the Arms and Explosives Act 1913.
+The Guns Explosives and Weapons Division (GEWD) of the Police Regulatory Department (PRD) regulates the import, export and transhipment of arms, explosives and explosives precursors under the Arms and Explosives Act 1913.
 
 “Arms” is defined as:
 
@@ -25,11 +25,11 @@ The import, export and transhipment of arms, explosives and explosives precursor
 
 (c) includes sand crackers, and any substance declared to be deemed an explosive by notification under section 10(1)(a) of the Arms and Explosives Act.
 
-The definition of "explosive precursors" us defined as any substance specified in the Second Schedule of the Arms and Explosive Act.
+The definition of "explosive precursors" is defined as any substance specified in the Second Schedule of the Arms and Explosives Act.
 
 ## Regulation of Imports and Exports Regulation
 
-PLRD also regulates the following items under Regulation of Imports and Exports Regulations:
+PRD also regulates the following items under Regulation of Imports and Exports Regulations:
 
 
 *Controlled Imports, Exports and Transhipment*
@@ -40,13 +40,13 @@ PLRD also regulates the following items under Regulation of Imports and Exports 
 (d) Toy or replica explosives, grenades, ammunitions or improvised explosive devices (IED)  
 (e) Handcuffs
 
-## Functions of AED (PLRD)
+## Functions of GEWD of the PRD
 
-The function of AED (PLRD) is to regulate the dealing in, manufacture, possession or control, storage, import, export and transhipment of arms, explosives and explosive precursors.
+The function of GEWD is to regulate the dealing in, manufacture, possession or control, storage, import, export and transhipment of arms, explosives and explosive precursors.
 
 ## Types of Licences
 
-AED PLRD issues two types of licences – long term (valid for a period of up to two years) and short term (valid for a period of 30 days).
+GEWD issues two types of licences – long term (valid for a period of up to two years) and short term (valid for a period of 30 days).
 
 **Long Term Licences**
 
@@ -90,9 +90,9 @@ Under Section 21A (1) of the Arms and Explosives Act 1913, no person shall, unle
 
 Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction:
 
-in the case of a body corporate, to a fine not exceeding $100,000; and
+- in the case of a body corporate, to a fine not exceeding $100,000; and
 
-in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+- in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 ## TradeNet Requirements
 
