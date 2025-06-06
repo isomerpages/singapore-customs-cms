@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Free Trade Zones Act
 
-The Free Trade Zones Act 1966 is an Act to provide for the establishment of free trade zones in Singapore and for matters incidental thereto.
+The Free Trade Zones Act 1966 is an Act to provide for the establishment of free trade zones in Singapore and the regulation of activities in those free trade zones, and for matters incidental thereto.
 
 Click on the links below to view the Free Trade Zones Act and selected subsidiary legislation:
 
