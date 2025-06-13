@@ -1,0 +1,7 @@
+collections:
+  registration-security-lodgement:
+    output: true
+    order:
+      - Security Lodgement/.keep
+      - Security Lodgement/what-is-the-amount-of-security-required.md
+      - Security Lodgement/how-to-lodge-security.md

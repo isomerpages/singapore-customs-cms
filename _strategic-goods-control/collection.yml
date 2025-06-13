@@ -1,0 +1,8 @@
+collections:
+  strategic-goods-control:
+    output: true
+    order:
+      - Overview/.keep
+      - Overview/legislation.md
+      - Overview/scope-of-control.md
+      - Overview/enforcement.md

@@ -1,0 +1,13 @@
+contact_us: /contact-us/
+show_reach: true
+feedback: /feedback/
+social_media:
+  facebook: https://www.facebook.com/SingaporeCustoms
+  linkedin: https://www.linkedin.com/company/ministry-of-finance-singapore-customs/
+  youtube: https://www.youtube.com/user/SingaporeCustoms
+  instagram: https://www.instagram.com/singaporecustoms/
+  tiktok: https://www.tiktok.com/@singaporecustoms
+links:
+  - title: Careers
+    url: /careers/
+faq: https://ask.gov.sg/customs
