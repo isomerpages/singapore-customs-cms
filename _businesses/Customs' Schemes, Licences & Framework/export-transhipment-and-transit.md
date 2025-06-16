@@ -39,7 +39,7 @@ The 7 ICP elements are:
 
 *The appointed strategic goods control officer(s)/administrator(s) must be based in Singapore or remain contactable via a Singapore contact. The personnel must also be familiar with the SGCA and its Regulations and other related domestic legislations.
 
-You may refer to Annex A of the [STS handbook] (/files/businesses/SLMB/STS_Handbook___updated_June_2025.pdf) for more details.
+You may refer to Annex A of the [STS handbook](/files/businesses/SLMB/STS_Handbook___updated_June_2025.pdf) for more details.
 
 ## Applying for Bulk Permit
 
@@ -65,6 +65,6 @@ A Bulk Permit holder must:
 -   Ensure that any goods or technology transfer made under the Bulk Permit is not transferred to United Nations Security Council–sanctioned countries or entities
 -   Maintain records of strategic goods transactions for at least 5 years
 
-Please refer to Section 4.9 of the [STS handbook] (/files/businesses/SLMB/STS_Handbook___updated_June_2025.pdf)
+Please refer to Section 4.9 of the [STS handbook](/files/businesses/SLMB/STS_Handbook___updated_June_2025.pdf)
 
 *Local registered entities are required to take up their own Bulk Permit and the Bulk Permit shall not be transferred to any other person/company.
