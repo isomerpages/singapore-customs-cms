@@ -53,7 +53,7 @@ If the documents are in order, we will deduct the processing fee via IBG.
 
 A S$10 processing fee is payable for each IC application.
 
-Please note that each application will typically be processed within 2 working days upon receipt of the completed application with all relevant supporting documents, and payment of processing fee.  
+Please note that each application will typically be processed within two working days upon receipt of the completed application with all relevant supporting documents, and payment of processing fee.  
 
 
 ## Approval of IC
@@ -112,7 +112,7 @@ If you are selling or transferring the imported goods to another person, please 
 The new owner of the goods should also submit a  [New Ownership Declaration Letter](/files/businesses/PSB/New Ownership Declaration Letter.docx) that the goods are for their use only.
 
 ## Cancelling your IC
-If you decide not to import the goods after obtaining the IC, you should notify us via the [online application form](https://go.gov.sg/icdv) found on the [NTP website](https://www.ntp.gov.sg/home) for cancellation at least 14 days before the IC expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore
+If you decide not to import the goods after obtaining the IC, you should notify us via the [online application form](https://go.gov.sg/icdv) found on the [NTP website](https://www.ntp.gov.sg/home) for cancellation at least 14 days before the IC expires. Please also provide an exporter's declaration to confirm the goods have not been exported to Singapore. Each application will typically be processed within two working days upon receipt of the completed application with all relevant supporting documents.
 
 ## Penalties
 
