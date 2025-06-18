@@ -2,8 +2,8 @@
 title: Importing Empty Freight Containers, Pallets and Packing
 permalink: /businesses/importing-goods/import-procedures/importing-empty-freight-containers-pallets-and-packing/
 third_nav_title: Import Procedures
+variant: markdown
 ---
-
 # Importing Empty Freight Containers, Pallets and Packing
 
 This page provides information on the Goods and Services Tax (GST) and permit requirements
@@ -18,8 +18,8 @@ obtain an In-Payment (GST) permit to account for the GST payment and import of s
 freight containers.
 
 The import of empty freight containers is granted GST relief, if they are for use in the international
-conveyance of goods and are intended to be re-exported as soon as possible. No Customs permit is
-required for the importation of these empty freight containers. GST is payable if the freight
+conveyance of goods and are intended to be re-exported as soon as possible. Customs waived the requirement to apply for a relief certificate (i.e. no Customs permit is
+required) for the importation of these empty freight containers. GST is payable if the freight
 containers are sold, disposed of or transferred locally.
 
 ## Import of Freight Pallets and Packing
@@ -55,4 +55,3 @@ and packings and presented at the checkpoint for clearance.
 
 No Customs permit is required if the freight pallets and packings are imported as un-manifested
 cargoes.
-
