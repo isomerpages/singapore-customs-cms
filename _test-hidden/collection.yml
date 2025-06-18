@@ -1,0 +1,6 @@
+collections:
+  test-hidden:
+    output: true
+    order:
+      - test 1a/test.md
+      - test 1a/.keep
