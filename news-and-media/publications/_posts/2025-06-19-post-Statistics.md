@@ -17,7 +17,7 @@ variant: markdown
 
 *The file format is to be opened using Microsoft Excel or Numbers application when viewed on an iPhone or iPad.
 
-## [Revenue Statistics*](files/news-and-media/TradeFacilitationStatsFY20FY24.pdf){:target="_blank"} 
+## [Trade Facilitation Statistics](/files/news-and-media/tradefacilitationstatsfy20fy24.pdf){:target="_blank"} 
 
 -   Number of TradeNet permits issued by Singapore Customs each year
 -   Number of Customs licences issued for licensed premises as at 31 March each year
