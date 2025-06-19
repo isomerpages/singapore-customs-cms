@@ -1,6 +1,6 @@
 ---
 title: Statistics
-date: 2025-05-23
+date: 2025-06-19
 permalink: /news-and-media/publications/statistics/
 layout: post
 description: ""
@@ -17,7 +17,7 @@ variant: markdown
 
 *The file format is to be opened using Microsoft Excel or Numbers application when viewed on an iPhone or iPad.
 
-## [Trade Facilitation Statistics](https://www.customs.gov.sg/files/news-and-media/tradefacilitationstatsfy19fy23.pdf){:target="_blank"} 
+## [Trade Facilitation Statistics](/files/news-and-media/tradefacilitationstatsfy20fy24.pdf){:target="_blank"} 
 
 -   Number of TradeNet permits issued by Singapore Customs each year
 -   Number of Customs licences issued for licensed premises as at 31 March each year
