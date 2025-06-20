@@ -36,7 +36,7 @@ Please submit the following supporting documents together with your permit appli
 -   End-user certificate or statement; and
 -   Other relevant supporting documents
 
-The permit application will only be processed after all the required documents have been submitted to Singapore Customs. 
+Your application should be processed within **three working days** if all required information and documents are complete. However, processing times may be longer for certain applications, depending on the nature of the item, destination or parties involved in the transaction.
 
 You are also reminded to comply with any stipulated permit conditions.
 
@@ -78,7 +78,7 @@ Please submit the following supporting documents together with your permit appli
 -   End-user certificate; and
 -   Other relevant supporting documents
 
-The permit application will only be processed after all the required documents have been submitted to Singapore Customs. 
+Your application should be processed within **three working days** if all required information and documents are complete. However, processing times may be longer for certain applications, depending on the nature of the item, destination or parties involved in the transaction.
 
 You are also reminded to comply with any stipulated permit conditions.
 
@@ -107,6 +107,6 @@ Please submit the following supporting documents together with your permit appli
 -   End-user certificate; and
 -   Other relevant supporting documents
 
-The permit application will only be processed after all the required documents have been submitted to Singapore Customs. 
+Your application should be processed within **three working days** if all required information and documents are complete. However, processing times may be longer for certain applications, depending on the nature of the item, destination or parties involved in the transaction.
 
 Please note that Singapore does not enforce [unilateral sanctions](/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) imposed by other countries. You are advised to look out for [red flags](/businesses/strategic-goods-control/sanctioned-lists-and-red-flags) to ensure your trading activities comply with Singapore’s domestic laws and the UNSC Resolutions.
