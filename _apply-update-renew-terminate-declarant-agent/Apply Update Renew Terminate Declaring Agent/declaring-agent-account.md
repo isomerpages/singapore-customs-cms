@@ -2,8 +2,8 @@
 title: Declaring Agent Account
 permalink: /businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account/
 third_nav_title: Apply Update Renew Terminate Declaring Agent
+variant: markdown
 ---
-
 # Declaring Agent Account
 
 ## Application / Renewal Process
@@ -12,11 +12,12 @@ third_nav_title: Apply Update Renew Terminate Declaring Agent
 
 ‘Authorised Personnel’ refers to an individual authorised by an entity’s Key Personnel to help manage the entity’s Customs Account and/or DA Account including Declarant details.
 
-The Key Personnel or Authorised Personnel of a DA can log in to [apply for or renew the DA Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}. Singapore Customs will inform the Key Personnel of the application outcome and the validity period of the DA Account.
+The Key Personnel or Authorised Personnel of a DA can log in to [apply for or renew the DA Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}. Singapore Customs will inform the Key Personnel of the application outcome and the validity period of the DA Account. The processing of the application takes three working days, upon receipt of complete supporting documents for straightforward cases while complex cases might take longer to review. 
 
 All DAs are required to maintain a valid Inter-bank GIRO (IBG) with Singapore Customs to make the payment of duties,taxes, fees, penalties and other charges on services offered by Singapore Customs from your bank account to Singapore Customs directly. The IBG application usually requires 3 to 4 weeks for the bank's approval. The IBG application procedures can be found  [here](/businesses/new-traders-and-registration-services/registration-services/apply-for-inter-bank-giro).
 
 Depending on your DA Account registration validity, you are required to renew your DA Account every 1, 2 or 3 years. The entity’s Key Personnel and Primary Contact Person will receive a reminder at least 1 month before the expiry date to renew the account.
+
 
 ### Update / Termination Process
 
