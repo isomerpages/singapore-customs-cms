@@ -2,6 +2,7 @@
 title: Cargo Agent's Import Authorisation Scheme
 permalink: /businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme/
 third_nav_title: Customs' Schemes, Licences & Framework
+variant: markdown
 ---
 # Cargo Agent's Import Authorisation Scheme
 
@@ -28,6 +29,9 @@ To qualify for the scheme, the cargo agent must meet the following criteria:
 Cargo agents should complete the [Application for Cargo Agent's Import Authorisation (CAIA)](https://www.customs.gov.sg/eservices/customs-forms-and-service-links) via the online application form found on  the [Networked Trade Platform (NTP) website](http://www.ntp.gov.sg/).
 
 The one-time registration fee for the CAIA Scheme is $240, which includes two CAIA cards. A $10.50 fee (including Goods and Services Tax) is payable for each additional CAIA card.
+
+The processing of the application takes three working days, upon receipt of complete supporting documents for straightforward cases while complex cases might take longer to review. 
+
 
 ## Key Responsibilities
 
