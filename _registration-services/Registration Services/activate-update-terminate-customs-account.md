@@ -19,7 +19,7 @@ The activation of Customs Account does not require the payment of any fees to Si
 
 Notification of the application outcome is within:
  
-- four working hours if supporting documents are not required; or 
+- four working hours if supporting documents are not required; <b>or</b> 
 
 - three working days upon receipt of complete supporting documents. 
 
@@ -53,7 +53,7 @@ For payment permits, you will also be notified of the total duty and/or GST paya
 To sign up for the free Trader Notification Service, the Key Personnel (e.g. owner, partner, or director) whose record is registered with the Accounting and Corporate Regulatory Authority (ACRA), relevant UEN Issuance Agency, or the Authorised Personnel in Customs Account can log in to the  [Activate / Update / Terminate Customs Account e-Service](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}
   to sign up for the service and provide the details of the designated contact.
 
-In addition, you may also obtain details of your past permit application for reconciliation purposes by  [Registering as a TradeNet User](https://www.tradenet.gov.sg/oratxweb/pfk/PfkMainServlet?pAction=FIRST&pStd=YES&pPortalId=ORATX&pContents=ora/HomeServlet?pTarget=registration){:target="_blank"}
+In addition, you may also obtain details of your past permit application for reconciliation purposes by  [Registering as a TradeNet User](https://www.tradenet.gov.sg/oratxweb/pfk/PfkMainServlet?pAction=FIRST&amp;pStd=YES&amp;pPortalId=ORATX&amp;pContents=ora/HomeServlet?pTarget=registration){:target="_blank"}
 .
 
 ## Update of Particulars and Printing of Approval letter
