@@ -14,6 +14,8 @@ You will need to complete the following application forms:
 
 Upon registration, Singapore Customs will issue a Trader Identification Number (TIN) to the registered ACTS trader (also known as Principal) and a Personal ID to each registered employee(s) for the submission of declarations in ACTS. A Principal can also authorise a different legal entity to submit the ACTS declaration on their behalf by submitting a [Broker/Declarant Authorisation Letter](https://go.gov.sg/acts-broker-rep-aut). Both the employee of the Principal Trader and the representative/broker authorised by the Principal Trader can submit the declaration in ACTS.
 
+The processing of the application takes three working days, upon receipt of complete supporting documents.
+
 ## Step 2: Obtain a Guarantee
 
 Before the commencement of a transit journey, ACTS traders are required to lodge a single journey or multiple journey guarantee in the country of departure where the goods are loaded:<br>
