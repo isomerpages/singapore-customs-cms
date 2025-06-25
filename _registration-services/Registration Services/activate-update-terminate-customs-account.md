@@ -17,6 +17,12 @@ Only the Key Personnel (e.g. owner, partner or director) of an entity whose reco
 
 The activation of Customs Account does not require the payment of any fees to Singapore Customs.
 
+Notification of the application outcome is within:
+ 
+	(i)	four working hours if supporting documents are not required; or 
+
+	(ii)	three working days upon receipt of complete supporting documents. 
+
 ## How to Activate a Customs Account
 
 **For Newly Registered Business Entities**
