@@ -19,9 +19,9 @@ The activation of Customs Account does not require the payment of any fees to Si
 
 Notification of the application outcome is within:
  
-(i) four working hours if supporting documents are not required; or 
+- four working hours if supporting documents are not required; or 
 
-(ii) three working days upon receipt of complete supporting documents. 
+- three working days upon receipt of complete supporting documents. 
 
 ## How to Activate a Customs Account
 
