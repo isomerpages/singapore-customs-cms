@@ -32,8 +32,7 @@ Email: [helpdesk@clord.com](mailto:helpdesk@clord.com)
 
 **CrimsonLogic eTrade (Asia) Pte Ltd**
 
-Tel: (65) 6887 7333  
-Fax: (65) 6887 7429  
+Tel: (65) 6887 7880 (Ext. 2 for Sales)  
 Email:  [insidesales@crimsonlogic.com](mailto:insidesales@crimsonlogic.com)
 
 
