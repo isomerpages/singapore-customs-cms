@@ -52,6 +52,6 @@ Approval of a TradeNet permit application must be obtained prior to the export, 
 
 1.  [Supporting documents required for HS Codes and Product Codes under the purview of NEA-CCMD](https://www.nea.gov.sg/docs/default-source/tiw/ccmd-basel-product-codes.pdf).
 
-2.  [CECWG guidance on country requirements for transboundary movement of plastic waste for recycling within ASEAN](https://kbscustoms.asean.org/publication-of-asean-member-states-ams-administrative-and-technical-requirements-as-well-as-practices-on-plastic-waste-control-for-ams-awareness/). 
+2.  [CECWG guidance on country requirements for transboundary movement of plastic waste for recycling within ASEAN](https://kbscustoms.asean.org/wp-content/uploads/2025/02/Publication-of-AMS-Administrative-and-Technical-Requirements-as-well-as-Practices-on-Plastic-Waste-Control-for-AMS-Awareness.pdf). 
 
 3.  Please submit any query through [NEA Online Feedback/Enquiry Form](http://www.nea.gov.sg/feedback).
