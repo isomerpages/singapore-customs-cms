@@ -1,7 +1,7 @@
 ---
 title: New Chemicals and Mercury–Added Products to be Controlled under the EPMA
   and EPM(HS) Regs
-date: 2025-06-17
+date: 2025-06-27
 layout: file
 description: ""
 image: ""
