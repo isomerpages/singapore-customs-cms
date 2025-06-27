@@ -1,6 +1,6 @@
 ---
 title: Statistics
-date: 2025-06-19
+date: 2025-06-27
 permalink: /news-and-media/publications/statistics/
 layout: post
 description: ""
@@ -9,7 +9,7 @@ variant: markdown
 ---
 # Statistics
 
-## [Revenue Statistics*](https://go.gov.sg/revenuestats-apr25){:target="_blank"} 
+## [Revenue Statistics*](https://go.gov.sg/revenuestats-may25){:target="_blank"} 
 
 -   Yearly and monthly customs and excise duties collection for liquor, tobacco, motor vehicles and petroleum products and duty-paid releases for these products
 -   Goods and Services Tax (GST) collection for imported and locally manufactured goods
