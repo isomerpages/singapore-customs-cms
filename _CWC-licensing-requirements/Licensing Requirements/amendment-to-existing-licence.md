@@ -33,4 +33,6 @@ Licensees may amend their existing licence to:
     National Authority (Chemical Weapons Convention)  
     55 Newton Road #06-02  
     Revenue House  
-    Singapore 307987
+Singapore 307987
+
+Note: Each application will be processed within seven working days upon receipt of the duly completed application with all relevant supporting documents.
