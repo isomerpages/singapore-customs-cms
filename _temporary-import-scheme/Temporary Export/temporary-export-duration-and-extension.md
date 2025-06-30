@@ -16,4 +16,4 @@ You are required to provide the following documentary proof that the goods were 
 -   Temporary export permit
 -   Both sets of import and export commercial invoices, bills of lading/air waybills and packing lists (if any);
 -   Documentation to substantiate that the temporarily exported goods are locally produced, or payment permit for the goods if they are sourced overseas; and
--   Any other documents as specified by Customs.
+-   Any other supporting documents as requested by Customs.
