@@ -14,7 +14,7 @@ In addition to the CWC licence, an approved permit is required before every expo
 
 If the export is not subject to the restrictions below, you may apply for an export permit via TradeNet.
 
-**Note:** The permit application will only be processed after all the required documents have been submitted to Singapore Customs.
+**Note:** The permit application will only be processed after the duly completed application and all required documents have been submitted to Singapore Customs. Each application will be processed within two working days.
 
 **Export Permit**
 
