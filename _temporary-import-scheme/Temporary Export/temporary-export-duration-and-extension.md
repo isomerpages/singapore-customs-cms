@@ -2,6 +2,7 @@
 title: Temporary Export Duration and Extension
 permalink: /businesses/importing-goods/temporary-import-scheme/duration-and-extention-export/
 third_nav_title: Temporary Export
+variant: markdown
 ---
 # Temporary Export Duration and Extension
 
@@ -11,8 +12,8 @@ For goods temporarily exported as trade samples or for repair purposes, these go
 
 You are required to provide the following documentary proof that the goods were GST-paid and previously temporarily exported from Singapore under an [Out (TCI)](https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits) permit:
 
--   Letter of explanation for goods re-imported into Singapore after three months (if applicable);
+-   Cover letter stating the purpose of the re-importation;
 -   Temporary export permit
--   Import and export commercial invoices, bills of lading/air waybills and packing list;
--   Documentation to substantiate that the temporarily exported goods are locally produced or payment permit to state that the item is GST paid if the item is sourced overseas; and
+-   Both sets of import and export commercial invoices, bills of lading/air waybills and packing lists (if any);
+-   Documentation to substantiate that the temporarily exported goods are locally produced, or payment permit for the goods if they are sourced overseas; and
 -   Any other documents as specified by Customs.
