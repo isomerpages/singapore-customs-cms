@@ -2,6 +2,7 @@
 title: Additional Requirements
 permalink: /businesses/importing-goods/temporary-import-scheme/additional-requirements-import/
 third_nav_title: Temporary Import
+variant: markdown
 ---
 # Additional Requirements
 
@@ -54,3 +55,9 @@ The organiser/local Declaring Agent or exhibitor must [e-file](http://eservices.
 -   **Unauthorised Breakage of Customs Seals**
 
 It is an offence to break or tamper with a Customs seal affixed onto a package or container. The Declarant of the Customs permit and the person who has custody of the sealed package or container should take measures to safeguard the Customs seal.
+
+Officers at the entry points may affix a seal onto a package or container before releasing the goods. The sealed goods would be unstuffed under Customs supervision.
+
+## Motor Vehicles for Temporary Use
+
+Temporary import of foreign-registered vehicles, regardless of purpose of use, should additionally comply with the Land Transport Authority’s (LTA) requirements on [OneMotoring website](https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore.html){:target="_blank"} to obtain the additional permit(s) from LTA before entering Singapore.
