@@ -11,14 +11,13 @@ Travellers who wish to hand-carry items belonging to an organisation for activit
 ## Application Procedures
 
 1.  Seek approval from the Competent Authority if you are temporarily importing or exporting controlled goods. Please refer to the  [controlled goods for import](/businesses/importing-goods/controlled-and-prohibited-goods-for-import)  and  [controlled goods for export](/businesses/exporting-goods/controlled-and-prohibited-goods-for-export).
-2.  Submit the following documents at least 5 working days before the date of arrival to/departure from Singapore:
+
+2.  Submit a [Declaration of Non-Commercial Goods](https://go.gov.sg/non-comm-goods) with the following supporting documents, at least 5 working days before the date of arrival to/departure from Singapore, for Singapore Customs’ assessment:
     
     -   Cover letter detailing the purpose of temporary import/export
     -   Invitation letter/event advertisement/other documents to substantiate participation in the event
     -   Hotel reservation confirmation
     -   Any other documents as specified by Singapore Customs
-    
-    You may email the documents to [Customs Documentation Enquiry Form   ]( https://go.gov.sg/customs-doc) for assessment.
     
 3.  Upon receiving approval from Singapore Customs, please produce Singapore Customs' approved declaration and supporting documents with the hand-carried items to checkpoint officers for clearance on your arrival into Singapore or departure from Singapore.
 
