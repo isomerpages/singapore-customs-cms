@@ -521,6 +521,18 @@ Schedule 1 Chemical</p>
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Declaration of Non-Commercial Goods Eligible for GST Suspension</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/non-comm-goods" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">	
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Application for GST Relief for Hand-Carried Used Household Articles, Hand-Carried
 Personal Effects, or Accompanied Personal Pets (where there is change in
 residence)</p>
@@ -534,7 +546,7 @@ Singpass users)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for GST Relief on Importation of Unaccompanied Used Household
@@ -547,7 +559,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for GST Relief on Personal Pets (where there is overseas travel)</p>
@@ -559,7 +571,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Kimberley Process Licence (KPL)</p>
@@ -571,7 +583,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Kimberley Process Certificate</p>
@@ -583,7 +595,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Landing Certificate (LC)</p>
@@ -595,7 +607,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Licensed Premises</p>
@@ -607,7 +619,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Secure Trade Partnership (STP)</p>
@@ -619,7 +631,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Declaration of Facts for Motor Vehicles (Individuals)</p>
@@ -631,7 +643,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Declaration of Facts for Motor Vehicles (Parallel Importers)</p>
@@ -643,7 +655,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14.</p>
+<p>15.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>e-Inventory Control System</p>
@@ -655,7 +667,7 @@ Articles, Personal Effects or Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15.</p>
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Status Enquiry on Application for GST Relief on Used Household Articles,
@@ -668,7 +680,7 @@ Personal Effects and Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16.</p>
+<p>17.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TradeFirst Self-Assessment Checklist</p>
@@ -680,7 +692,7 @@ Personal Effects and Personal Pets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17.</p>
+<p>18.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Destruction of Duty/GST Suspended Goods, Denaturing of
@@ -694,7 +706,7 @@ Ethyl Alcohol, and Brew Sampling</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18.</p>
+<p>19.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reporting of Permit Discrepancy under the Approved Premises Schemes</p>
