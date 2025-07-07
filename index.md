@@ -6,7 +6,7 @@ permalink: /
 notification: Government officials will never ask for money or bank details via phone call, text message or email. Only trust SMSes from gov.sg SMS Sender ID. Unsure? Call ScamShield 1799 or visit the ScamShield website (https://www.scamshield.gov.sg/).<br> Use our digital services when transacting with us! We encourage businesses to submit trade declarations via TradeNet and access our eServices via the Networked Trade Platform (www.ntp.gov.sg).<br> Travellers may use the Customs@SG Web application via our eServices (www.customs.gov.sg/services) to make advance declarations and tax payments. <br> For immigration requirements, visit the ICA website (https://safetravel.ica.gov.sg/).
 sections:
   - hero:
-      background: images/31Dec24_Website_Hero_Banner.png
+      background: images/7jul25_customs_website_sg60.png
       key_highlights:
         - title: Duty-Free Concession and GST Relief
           url: /individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief
