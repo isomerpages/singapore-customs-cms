@@ -1,5 +1,5 @@
 ---
-title: CIRCULAR TO ALL TRADERS OF DESENSITISED EXPLOSIVES
+title: Circular To All Traders of Desensitised Explosives
 date: 2025-07-03
 layout: file
 description: ""
