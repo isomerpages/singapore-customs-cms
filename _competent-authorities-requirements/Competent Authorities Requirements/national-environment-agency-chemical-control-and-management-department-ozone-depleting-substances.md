@@ -3,8 +3,8 @@ title: National Environment Agency - Chemical Control and Management Department
   (Ozone Depleting Substances)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/national-environment-agency--chemical-control-and-management-department-ozone-depleting-substances/
 third_nav_title: Competent Authorities Requirements
+variant: markdown
 ---
-
 # National Environment Agency - Chemical Control and Management Department (Ozone Depleting Substances)
 
 The import and export of Ozone Depleting Substances (ODS) are subject to control by the Chemical Control and Management Department (CCMD). With effect from 1 Jan 2019, CCMD has also implemented licensing control for 18 types of hydrofluorocarbons (HFC) (inclusive of blends and mixtures). You are required to obtain a Hazardous Substances Licence for the import and/ or export of ODS/HFC listed under the Environmental Protection and Management Act (EPMA). 
@@ -73,7 +73,8 @@ For more information on the control of ODS/HFC in Singapore, please visit [NEA](
 
 **Additional Notes:**
 
-1. Please note that import/ export clearances for controlled ODS/HFC shall be obtained from CCMD in advance if the importing/ exporting countries requires Prior Informed Consent (PIC) Procedure ; and
+1. Please note that import/ export clearances for controlled ODS/HFC shall be obtained from CCMD in advance if the importing/ exporting countries requires Prior Informed Consent (PIC) Procedure.
 2. If the importers or exporters do not have the required Hazardous Substances Licence, please contact CCMD officer (darren_tay@nea.gov.sg) for advice.
+3. Permit applications are processed within five working days upon receipt of all required documents. Declarants are encouraged to submit their applications early and ensure all submissions in TradeNet (including supporting documents) are complete and accurate to avoid delays. Permit applications are considered complete when the trader has a valid Hazardous Substance licence and all relevant supporting documents are provided.
 
 Please refer to  [link](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do)  for product codes.
