@@ -200,7 +200,7 @@ to China</p>
 <p>Update to Manufacturer Registration Details</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/#!/5e129c85df378700118fba76" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+<p><a href="https://go.gov.sg/updatemanufacturerreg" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
 </p>
 </td>
 </tr>
