@@ -55,6 +55,6 @@ Please ensure the supporting documents are clear and properly numbered, with the
 
 ## How do I submit the application?
 
-Please submit your completed  [application](https://form.gov.sg/5d78b89628467500121ef098){:target="_blank"}  with the supporting documents.
+Please submit your completed  [application](https://go.gov.sg/strat-goods-determination){:target="_blank"}  with the supporting documents.
 
 The application will be processed when all supporting documents have been received. Additional information may be requested during the processing of application.
