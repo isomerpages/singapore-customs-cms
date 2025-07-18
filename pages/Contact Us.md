@@ -35,12 +35,14 @@ we will aim to get back to you within 30 minutes.
 <hr>
 <h3>Technical Issues<br></h3>
 <p><strong>Technical issues or enquiries on NTP</strong>
-<br><a href="https://go.gov.sg/customs-live-chat" rel="noopener noreferrer nofollow" target="_blank">Chat with us now!</a>
-<br>Beyond this live-chat, you may reach us at <a href="tel:+6563552000" rel="noopener noreferrer nofollow" target="_blank">+65 6355 2000</a>.</p>
-<p>Our operating hours:
-<br>8am to 6pm (Monday to Friday)
-<br>8am to 12pm (Saturday)
-<br>Closed on Sundays and public holidays.
+<br>Please&nbsp;<a href="https://go.gov.sg/customs-live-chat" rel="noopener noreferrer nofollow" target="_blank">chat with us now</a> or
+contact the Customs Contact Centre at&nbsp;<a href="https://www.ntp.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">+65 6355 2000</a>
+</p>
+<p>
+<br>Alternatively, you may use our online enquiry form at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/customs-doc</a>.
+The form allows you to submit a written enquiry or request a call-back
+from a Customer Service Officer during the Contact Centre’s operating hours*.</p>
+<p><em>* </em>Contact Centre’s operating hours:<em><br>8:30am to 5.30pm (Monday to Friday)<br>Closed on weekends and Public Holidays.</em>
 <br>
 <br><strong>Technical issues on TradeNet</strong>
 <br><a href="tel:+6568877888" rel="noopener noreferrer nofollow" target="_blank">+65 6887 7888</a> 
