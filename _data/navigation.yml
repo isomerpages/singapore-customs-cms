@@ -1,0 +1,37 @@
+logo: /images/2_7jul25_customs_website_sg60_2.png
+links:
+  - title: Home
+    url: /
+  - title: About Us
+    collection: about-us
+  - title: Individuals
+    collection: individuals
+  - title: Businesses
+    collection: businesses
+  - title: News And Media
+    resource_room: true
+  - title: E-Services
+    url: /services
+    sublinks:
+      - title: Overview
+        url: /services
+      - title: Customs Forms & Service Links
+        url: /eservices/customs-forms-and-service-links
+      - title: Harmonised System Competent Authority Product Code Search Engine
+        url: https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do
+      - title: Exchange Rates
+        url: /businesses/valuation-duties-taxes-fees/establishing-customs-value-for-imports/customs-exchange-rates
+      - title: Country/Region/Port Code Search Engine
+        url: /eservices/country-and-port-codes/
+      - title: Certificate of Origin Verification
+        url: https://www.ntp-ics.gov.sg/vp/
+      - title: Payment to Customs
+        url: /eservices/payment-to-customs/
+      - title: Customs@SG Web Application
+        url: /eservices/customs-sg-web-application/
+      - title: Manifest Reconciliation Statement (MRS) Scheme
+        url: /eservices/manifest-reconciliation-statement-scheme/
+  - title: Contact Us
+    url: /contact-us/
+  - title: FAQ
+    url: https://ask.gov.sg/customs
