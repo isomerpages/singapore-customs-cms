@@ -147,8 +147,11 @@ more details on the procedures to enjoy the benefits under the MRAs.</p>
 <p>Have good compliance records with Singapore Customs</p>
 </li>
 <li>
-<p>For STP certification, the applicant is required to complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> and
-meet all the criteria</p>
+<p>For STP certification, applicants must complete either:
+<br>The <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> (if
+applying for STP only), or The TradeFIRST Self-Assessment Checklist (if
+applying for STP alongside other schemes).</p>
+<p>All criteria in the relevant checklist must be met.</p>
 </li>
 <li>
 <p>For STP-Plus certification, the applicant is required to undergo <a href="/businesses/customs-schemes-licences-framework/trade-first" rel="noopener noreferrer nofollow" target="_blank">TradeFIRST</a> assessment,
@@ -189,10 +192,13 @@ to Singapore Customs via email: <a href="mailto:customs_schemes@customs.gov.sg" 
 <p>To attain the STP certification, a company has to meet all of the stipulated
 requirements in the STP guidelines and criteria. To renew your STP certificate,
 STP certified companies are required to:</p>
-<p>i) complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a>
-</p>
-<p>ii) obtain the endorsement of an ACRA-listed director; and</p>
-<p>iii) submit a <a href="https://go.gov.sg/stpselfdeclaration" rel="noopener nofollow" target="_blank">FormSG declaration</a> to
+<p>For STP certification, applicants must complete either:
+<br>The <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> (if
+applying for STP only), or The TradeFIRST Self-Assessment Checklist (if
+applying for STP alongside other schemes).</p>
+<p>All criteria in the relevant checklist must be met.</p>
+<p>i) obtain the endorsement of an ACRA-listed director; and</p>
+<p>ii) submit a <a href="https://go.gov.sg/stpselfdeclaration" rel="noopener nofollow" target="_blank">FormSG declaration</a> to
 Singapore Customs by the last day of each calendar year (i.e 31 December).</p>
 <p>For more information, please refer to the <a href="/files/FAQs_for_Streamlined_STP_renewal_Final_31_Dec_24.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>.</p>
 <p>For the STP-Plus certification, a company must meet all the stipulated
