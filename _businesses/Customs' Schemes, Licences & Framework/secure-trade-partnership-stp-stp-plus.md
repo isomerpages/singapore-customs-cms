@@ -161,8 +161,12 @@ meet all the mandatory criteria and attain the “Premium” band</p>
 <p>Click <a href="/files/STP_Handbook__Dec_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Handbook on Secure Trade Partnership</p>
 <h2>How to Apply?</h2>
-<p><strong>Step 1a</strong>: For the STP application, complete the <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> and
-relevant Annexes</p>
+<p><strong>Step 1a</strong>: For STP certification, applicants must complete
+either:
+<br>The <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> (if
+applying for STP only), or The TradeFIRST Self-Assessment Checklist (if
+applying for STP alongside other schemes).</p>
+<p>All criteria in the relevant checklist must be met.</p>
 <p><strong>Step 1b</strong>: For STP-Plus applications, complete the <a href="https://go.gov.sg/tradefirstchecklist" rel="noopener noreferrer nofollow" target="_blank">TradeFIRST Self-Assessment Checklist</a>,
 relevant Annexes and prepare these additional supporting documents:</p>
 <ul data-tight="true" class="tight">
