@@ -150,8 +150,8 @@ more details on the procedures to enjoy the benefits under the MRAs.</p>
 <p>For STP certification, applicants must complete either:
 <br>The <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> (if
 applying for STP only), or The TradeFIRST Self-Assessment Checklist (if
-applying for STP alongside other schemes).</p>
-<p>All criteria in the relevant checklist must be met.</p>
+applying for STP alongside other schemes). All criteria in the relevant
+checklist must be met.</p>
 </li>
 <li>
 <p>For STP-Plus certification, the applicant is required to undergo <a href="/businesses/customs-schemes-licences-framework/trade-first" rel="noopener noreferrer nofollow" target="_blank">TradeFIRST</a> assessment,
@@ -165,8 +165,8 @@ the Handbook on Secure Trade Partnership</p>
 either:
 <br>The <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> (if
 applying for STP only), or The TradeFIRST Self-Assessment Checklist (if
-applying for STP alongside other schemes).</p>
-<p>All criteria in the relevant checklist must be met.</p>
+applying for STP alongside other schemes). All criteria in the relevant
+checklist must be met.</p>
 <p><strong>Step 1b</strong>: For STP-Plus applications, complete the <a href="https://go.gov.sg/tradefirstchecklist" rel="noopener noreferrer nofollow" target="_blank">TradeFIRST Self-Assessment Checklist</a>,
 relevant Annexes and prepare these additional supporting documents:</p>
 <ul data-tight="true" class="tight">
@@ -199,8 +199,8 @@ STP certified companies are required to:</p>
 <p>For STP certification, applicants must complete either:
 <br>The <a href="https://go.gov.sg/stpselfassessmentchecklist" rel="noopener nofollow" target="_blank">STP Self-Assessment Checklist</a> (if
 applying for STP only), or The TradeFIRST Self-Assessment Checklist (if
-applying for STP alongside other schemes).</p>
-<p>All criteria in the relevant checklist must be met.</p>
+applying for STP alongside other schemes). All criteria in the relevant
+checklist must be met.</p>
 <p>i) obtain the endorsement of an ACRA-listed director; and</p>
 <p>ii) submit a <a href="https://go.gov.sg/stpselfdeclaration" rel="noopener nofollow" target="_blank">FormSG declaration</a> to
 Singapore Customs by the last day of each calendar year (i.e 31 December).</p>
