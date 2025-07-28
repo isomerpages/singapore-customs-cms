@@ -118,6 +118,7 @@ The TradeFIRST assessment process is shown in the following table:
 | **Step 3** | On-site assessment will be scheduled and conducted, upon receipt of relevant supporting documents. |
 | **Step 4** | The company receives its application outcome, the band it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement (if any). |
 
+![TradeFIRST Assessment Process](/images/TradeFIRST_assessment_process_Jul_25.png)
 Note: The TradeFIRST Self-Assessment Checklist would be used to assess all new (for new applicants), renewal (for existing licensees) and supplementary applications. The assessment would generally take about 3 to 4 months to process, upon complete submission of relevant documents. It may take longer for more complex cases.
 
 ## Renewal
