@@ -18,7 +18,7 @@ PRD also regulates the following items under Regulation of Imports and Exports R
 
 *Controlled Imports, Exports and Transhipment*
 
-(a) Articles of clothing intended as protection against attack, including bullet-proof vest  
+(a) Articles of clothing intended as protection against attack, including bullet-proof vests  
 (b) Helmets intended as protection in military combat  
 (c) Toy or replica guns  
 (d) Toy or replica explosives, grenades, ammunitions or improvised explosive devices (IED)  
