@@ -39,7 +39,7 @@ The 7 ICP elements are:
 
 *The appointed strategic goods control officer(s)/administrator(s) must be based in Singapore or remain contactable via a Singapore contact. The personnel must also be familiar with the SGCA and its Regulations and other related domestic legislations.
 
-You may refer to Annex A of the [STS handbook](/files/businesses/SLMB/STS_Handbook___updated_June_2025.pdf) for more details.
+You may refer to Annex A of the [STS Handbook Jul 2025](/files/STS_Handbook___updated_Jul_2025.pdf) for more details.
 
 ## Applying for Bulk Permit
 
