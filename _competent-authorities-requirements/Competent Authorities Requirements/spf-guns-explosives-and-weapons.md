@@ -42,7 +42,7 @@ When applying for a Customs permit for GEW, the declarant is required to fill in
 -   Quantity of CA/SC Product*
 -   Unit Measurement of Quantity of CA/SC Product*
 
-`*` Please ensure that the declared Quantity and Unit of Measurement for the Product Code is the same as the HS Code.
+\* Please ensure that the declared Quantity and Unit of Measurement for the Product Code is the same as the HS Code.
 
 **Documents Required**
 
