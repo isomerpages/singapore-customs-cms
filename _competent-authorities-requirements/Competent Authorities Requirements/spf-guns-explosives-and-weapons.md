@@ -68,8 +68,8 @@ For the export of GEW regulated under the GEWCA, a Customs permit with a licence
 
 ## Approval Requirements and Conditions
 
-Once the import, export or transhipment permit application is approved, the importer or exporter is required to comply with all the requirements and conditions stated in the approval message(s).
+Once the import, export or transhipment permit application is approved, the declarant must forward copies of both the Customs permit and the GEWCA Licence to the importer/exporter. The importer/exporter shall comply with all requirements and conditions stated in these documents. It is the responsibility of the importer/exporter to communicate these requirements and conditions to their cargo handling agent to ensure full compliance.
 
 ## Enquiries
 
-For more information, please visit GEWD's  [website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact GEWD through PRD's [Enquiry Form](https://www.go.gov.sg/spf-prd) or at PRD's hotline (6835 0000).
+For more information, please visit [GEWD's website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact GEWD through [PRD's Enquiry Form](https://www.go.gov.sg/spf-prd) or at PRD's hotline (6835 0000).
