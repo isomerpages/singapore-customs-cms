@@ -141,4 +141,4 @@ Find out more about  [Permit Declaration](/businesses/new-traders-and-registrati
 
 **7)** **What are the specific requirements to operate a Microbrewery in Singapore?**
 
-Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/29082023_Excise_Factory_Scheme__Microbrewery__Handbook__Sixth_Ed__.pdf) for more information.
+Please refer to the  [Excise Factory Scheme (Microbrewery) Handbook](/files/280725_Excise_Factory_Scheme__Microbrewery__Handbook__Seventh_Ed__.pdf) for more information.
