@@ -64,9 +64,9 @@ All permit applications received via TradeNet will be processed in the order in 
 
 After submitting the permit application, the declarant shall monitor and track the status of his permit application in TradeNet. If the declarant receives queries from GEWD in TradeNet, he shall respond promptly to GEWD, to avoid delay in the permit approval. Generally, GEWD will process all permit applications within five working days. Please do not contact GEWD to fast track the processing of application or check on the status of application.
 
-For the export of GEW regulated under the GEWCA, a Customs permit with a licence issued under the GEWCA must be obtained through TradeNet before the goods depart Singapore. GEWD will not approve the permit application submitted for any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all export of GEWD’s controlled goods without prior approval and export licence from GEWD. Violations involving unlicensed activities may result in imprisonment of up to five years and fines of up to $50,000 for
+For the export of GEW regulated under the GEWCA, a Customs permit with a licence issued under the GEWCA must be obtained through TradeNet before the goods depart Singapore. GEWD will not approve the permit application submitted for any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all export of GEWD’s controlled goods without prior approval and export licence from GEWD. Violations involving unlicensed activities may result in imprisonment of up to five years and fines of up to $50,000 for individuals and up to $100,000 for companies.
 
-## Approval Messages
+## Approval Requirements and Conditions
 
 Once the import, export or transhipment permit application is approved, the importer or exporter is required to comply with all the requirements and conditions stated in the approval message(s).
 
