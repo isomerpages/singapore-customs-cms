@@ -158,7 +158,7 @@ checklist must be met.</p>
 meet all the mandatory criteria and attain the “Premium” band</p>
 </li>
 </ul>
-<p>Click <a href="/files/STP_Handbook__Dec_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/STP_Handbook__Jul_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Handbook on Secure Trade Partnership</p>
 <h2>How to Apply?</h2>
 <p><strong>Step 1a</strong>: For STP certification, applicants must complete
