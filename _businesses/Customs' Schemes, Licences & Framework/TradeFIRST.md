@@ -21,7 +21,7 @@ Participation in [ASEAN Customs Transit System (ACTS)](https://www.customs.gov.s
 
 We adopt a risk management approach to classify the level of facilitation into 5 bands - Basic, Standard, Intermediate, Enhanced and Premium.
 
-![tradefirst1 - Copy](/images/tradefirst1%20-%20copy.jpg)
+![TradeFIRST bands](/images/TradeFIRST_Bands.png)
 
 **The higher your TradeFIRST band, the greater the facilitation accorded to you.**
 
@@ -118,6 +118,7 @@ The TradeFIRST assessment process is shown in the following table:
 | **Step 3** | On-site assessment will be scheduled and conducted, upon receipt of relevant supporting documents. |
 | **Step 4** | The company receives its application outcome, the band it is placed in that determines the facilitation and schemes the company can enjoy, and the areas for improvement (if any). |
 
+![TradeFIRST Assessment Process](/images/TradeFIRST_assessment_process_Jul_25.png)
 Note: The TradeFIRST Self-Assessment Checklist would be used to assess all new (for new applicants), renewal (for existing licensees) and supplementary applications. The assessment would generally take about 3 to 4 months to process, upon complete submission of relevant documents. It may take longer for more complex cases.
 
 ## Renewal

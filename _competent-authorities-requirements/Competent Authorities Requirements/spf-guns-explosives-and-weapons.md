@@ -1,30 +1,15 @@
 ---
-title: Singapore Police Force - Guns Explosives and Weapons Division (GEWD) - Police Regulatory Department (PRD)
+title: Singapore Police Force - Guns Explosives and Weapons Division (GEWD) -
+  Police Regulatory Department (PRD)
 permalink: /businesses/national-single-window/tradenet/competent-authorities-requirements/spf-guns-explosives-and-weapons/
 third_nav_title: Competent Authorities Requirements
 variant: markdown
 ---
 # Singapore Police Force - Guns Explosives and Weapons Division (GEWD) - Police Regulatory Department (PRD)
 
-## Arms and Explosives Act 1913
+## Guns, Explosives and Weapons Control Act 2021
 
-The Guns Explosives and Weapons Division (GEWD) of the Police Regulatory Department (PRD) regulates the import, export and transhipment of arms, explosives and explosives precursors under the Arms and Explosives Act 1913.
-
-“Arms” is defined as:
-
-(a) Firearms, air-guns, air-pistols, stun guns, electronic dart guns, automatic guns, automatic pistols, guns or any other kind of gun from which any shot, bullet or other missiles can be discharged or noxious fumes or noxious substance can be emitted, and any component part of any such arms; and
-
-(b) bayonets, swords, daggers, spears and spearheads.
-
-“Explosives” is defined as:
-
-(a) Gunpowder, nitro-glycerine, dynamite, gun-cotton, blasting powder, fulminate of mercury or of other metals, coloured fires and every other substance, whether similar to those abovementioned or not, used or manufactured with a view to produce a practical effect by explosion or a pyrotechnic effect;
-
-(b) includes fog signals, fireworks, fuses, rockets, percussion-caps, detonators, cartridges and ammunition of all descriptions, and every adaptation of preparation of an explosive as above defined; and
-
-(c) includes sand crackers, and any substance declared to be deemed an explosive by notification under section 10(1)(a) of the Arms and Explosives Act.
-
-The definition of "explosive precursors" is defined as any substance specified in the Second Schedule of the Arms and Explosives Act.
+The Guns Explosives and Weapons Division (GEWD) of the Police Regulatory Department (PRD) regulates the import, export and transhipment of guns, explosives, explosive precursors, weapons and noxious substances (collectively known as GEW), under the Guns, Explosives and Weapons Control Act 2021 (GEWCA). For details of the regulatory regime, please visit PRD's website on [Overview of Gun Explosive Weapon Licences](https://www.police.gov.sg/e-Services/Police-Licences/Overview-of-Gun-Explosive-Weapon-Licences).
 
 ## Regulation of Imports and Exports Regulation
 
@@ -33,113 +18,58 @@ PRD also regulates the following items under Regulation of Imports and Exports R
 
 *Controlled Imports, Exports and Transhipment*
 
-(a) Articles of clothing intended as protection against attack, including bullet-proof vest  
+(a) Articles of clothing intended as protection against attack, including bullet-proof vests  
 (b) Helmets intended as protection in military combat  
 (c) Toy or replica guns  
 (d) Toy or replica explosives, grenades, ammunitions or improvised explosive devices (IED)  
 (e) Handcuffs
 
-## Functions of GEWD of the PRD
-
-The function of GEWD is to regulate the dealing in, manufacture, possession or control, storage, import, export and transhipment of arms, explosives and explosive precursors.
-
-## Types of Licences
-
-GEWD issues two types of licences – long term (valid for a period of up to two years) and short term (valid for a period of 30 days).
-
-**Long Term Licences**
-
--   Licence to possess arms, explosives or explosive precursors
--   Licence to deal in arms, explosives or explosive precursors
--   Licence to manufacture arms, explosives or explosive precursors
--   Licence to store arms, explosives or explosive precursors
--   Licence to repair arms
-
-**Short Term Licences**
-
--   Licence to import arms, explosives or explosives precursors
--   Licence to export arms, explosives or explosive precursors
--   Licence to remove explosives
-
-## Offences
-
-Under Section 13(1) of the Arms and Explosives Act 1913, no person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed:
-
--   have in his possession or under his control any gun, arms, explosives, poisonous or noxious gas or noxious substance;
-    
--   import any gun, arms, explosives, poisonous or noxious gas or noxious substance;
-    
--   export any gun, arms, explosives, naval or military stores, poisonous or noxious gas or noxious substance; or
-    
--   manufacture or deal in guns, arms, explosives, poisonous or noxious gas or noxious substance.
-    
-
-Any person who, in contravention of this section:
-
--   imports any gun, arms, explosives, poisonous or noxious gas or noxious substance;
-    
--   exports any gun, arms, explosives, naval or military stores, poisonous or noxious gas or noxious substance; or
-    
--   manufactures or deals in guns, arms, explosives, poisonous or noxious gas or noxious substance,
-    
--   shall be guilty of an offence and be liable on conviction to a fine not exceeding $10,000 and imprisonment for a term not exceeding 3 years.
-    
-
-Under Section 21A (1) of the Arms and Explosives Act 1913, no person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed, have in his possession or under his control, import, export, manufacture or deal in any explosive precursor.
-
-Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction:
-
-- in the case of a body corporate, to a fine not exceeding $100,000; and
-
-- in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
-
 ## TradeNet Requirements
 
-When applying for a Customs permit, the declarant is required to upload the following supporting documents to TradeNet as part of the permit application:
+When applying for a Customs permit for GEW, the declarant is required to fill in the following mandatory fields:
 
--   For import - Bill of Lading/ Air Waybill, invoice
--   For export - Bill of Lading/ Air Waybill, invoice, End-User Certificate and Import Licence from the authorities of the final destination.
--   For transhipment - Bill of Lading/Air Waybill, invoice, Import Licence or End-User Certificate from the Authorities of final destination.
--   Valid Dealer Licence in arms, explosives and explosives precursors issued by GEWD.
+-   Importer Name & UEN
+-   Licence No. (enter the relevant Licence Number issued by GEWD for import/export or "N.A." for transhipment in this field)
+-   Place of Receipt Code & Name/Address
+-   Place of Release Code & Name/Address
+-   Country/Region of Origin and/or Country/Region of Final Destination
+-   Port of Loading & Release
+-   Transport Mode
+-   Date of Arrival / Departure
+-   Goods Description (enter the Product Description required by GEWD in this field)
+-   Harmonised System (HS) Code*
+-   CA/SC Product Code*
+-   Quantity of CA/SC Product*
+-   Unit Measurement of Quantity of CA/SC Product*
 
-In addition to the GEWD product codes, you are also required to declare the Dealer Licence Number issued by GEWD in the "Licence Number" field of your permit application.
+\* Please ensure that the declared Quantity and Unit of Measurement for the Product Code is the same as the HS Code.
 
-The submission of supporting documents via fax or email is not accepted.
+**Documents Required**
 
-For HS codes controlled by GEWD, the Product Codes have to be declared with the Product Code Quantity and Unit, which should align with the declared HS Unit of Quantity.
+Declarant must also upload the following supporting documents (where applicable) to TradeNet as part of the permit application:
 
-The list of GEWD regulated Harmonised System Codes and Product Codes can be found  [here](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="_blank"}.
+-   For Import – Bill of Lading/ Air Waybill, Invoice, Packing list and End-User Certificate
+-   For Export – Bill of Lading/ Air Waybill, Invoice, End-User Certificate and Import Licence from the Authorities of the final destination
+-   For Transhipment – Bill of Lading/Air Waybill, Invoice, Import Licence or End-User Certificate from the Authorities of final destination
 
-When you are importing, exporting or transhipping non-controlled goods which are classified under GEWD’s controlled HS codes, you shall declare the product code as “MISC” for these HS codes.
+Refer to the [GEWD-regulated HS and Product Codes list](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do) for the full listing.
 
-The permit application submitted for GEWD controlled items may be combined with the following types of HS codes:
-
--   Non-controlled HS codes;
--   GEWD controlled HS code declared with Product code "MISC"; and
--   other CA controlled HS codes declared with Product code "MISC".
-
-In addition to the GEWD product codes, you are also required to declare the Dealer Licence Number issued by GEWD in the "Licence Number" field of your permit application.
-
-If the Dealer Licence is for your company, you are required to specify the "Arms Dealer Licence" and/or "Explosive Dealer Licence" in the "Licence Number" field.
-
-If you do not require a Dealer Licence, please specify "N.A." in the "Licence Number" field and the "Name" and "NRIC/Passport Number" of the individual or name of company in the "General/Traders' Remarks" field of your permit application.
+When importing, exporting or transhipping non-controlled goods which are classified under GEWD’s controlled HS codes, the declarant shall declare the product code as “MISC” for these HS codes.
 
 ## On-line processing of Permit Applications
 
-All permit applications containing GEWD controlled items will be routed to GEWD for online processing. To facilitate the processing of your permit applications, you are required to upload the relevant abovementioned documents together with your permit applications for submission via TradeNet.
+All permit applications containing controlled items under GEWD will be routed to GEWD for online processing. To facilitate the processing of your permit applications, you must ensure that the application is submitted correctly, with all mandatory fields completed and the the required documents uploaded. Incomplete or incorrect applications will be rejected and result in an unnecessary delay.
 
-GEWD will process all declarations in the order they are received in TradeNet and is unable to expedite processing upon a trader's request. Traders are encouraged to submit their permit applications early (at least five working days before the intended import, export or transhipment date) to avoid delays in the permit approval.
+All permit applications received via TradeNet will be processed in the order in which they are received. GEWD is unable to expedite processing upon request. Declarants are encouraged to submit the permit applications promptly (at least five working days before the intended import, export or transhipment date) to avoid delays in the permit approval.
 
-After submitting the permit application, the declarant shall track and check the status of his/her permit application on TradeNet. Please do not contact GEWD to check on the status of application.
+After submitting the permit application, the declarant shall monitor and track the status of his permit application in TradeNet. If the declarant receives queries from GEWD in TradeNet, he shall respond promptly to GEWD, to avoid delay in the permit approval. Generally, GEWD will process all permit applications within five working days. Please do not contact GEWD to fast track the processing of application or check on the status of application.
 
-If the declarant receives queries from GEWD, he shall answer the queries promptly to avoid delay in the permit approval. Generally, GEWD will process all permit applications within five working days.
+For the export of GEW regulated under the GEWCA, a Customs permit with a licence issued under the GEWCA must be obtained through TradeNet before the goods depart Singapore. GEWD will not approve the permit application submitted for any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all export of GEWD’s controlled goods without prior approval and export licence from GEWD. Violations involving unlicensed activities may result in imprisonment of up to five years and fines of up to $50,000 for individuals and up to $100,000 for companies.
 
-For the export of arms, explosives or explosive precursors, a customs permit must be obtained through TradeNet before the goods depart from Singapore. GEWD will not approve the permit application of any controlled goods that have departed Singapore. Investigation will be carried out against the exporter for all exportation cases of GEWD’s controlled goods that were conducted without prior approval and export licence.
+## Approval Requirements and Conditions
 
-## Approval Messages
-
-Once the import, export or transhipment permit application is approved, the importer or exporter is required to comply with all the requirements and conditions stated in the approval message(s).
+Once the import, export or transhipment permit application is approved, the declarant must forward copies of both the Customs permit and the GEWCA Licence to the importer/exporter. The importer/exporter shall comply with all requirements and conditions stated in these documents. It is the responsibility of the importer/exporter to communicate these requirements and conditions to their cargo handling agent to ensure full compliance.
 
 ## Enquiries
 
-For more information, please visit GEWD's  [website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact GEWD through PRD's [Enquiry Form](https://www.go.gov.sg/spf-prd) or at PRD's hotline (6835 0000).
+For more information, please visit [GEWD's website](https://www.police.gov.sg/e-services){:target="_blank"}. For further enquiries, you may contact GEWD through [PRD's Enquiry Form](https://www.go.gov.sg/spf-prd) or at PRD's hotline (6835 0000).
