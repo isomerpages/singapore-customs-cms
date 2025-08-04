@@ -58,7 +58,7 @@ When importing, exporting or transhipping non-controlled goods which are classif
 
 ## On-line processing of Permit Applications
 
-All permit applications containing controlled items under GEWD will be routed to GEWD for online processing. To facilitate the processing of your permit applications, you must ensure that the application is submitted correctly, with all mandatory fields completed and the the required documents uploaded. Incomplete or incorrect applications will be rejected and result in an unnecessary delay.
+All permit applications containing controlled items under GEWD will be routed to GEWD for online processing. To facilitate the processing of your permit applications, you must ensure that the application is submitted correctly, with all mandatory fields completed and the required documents uploaded. Incomplete or incorrect applications will be rejected and result in an unnecessary delay.
 
 All permit applications received via TradeNet will be processed in the order in which they are received. GEWD is unable to expedite processing upon request. Declarants are encouraged to submit the permit applications promptly (at least five working days before the intended import, export or transhipment date) to avoid delays in the permit approval.
 
