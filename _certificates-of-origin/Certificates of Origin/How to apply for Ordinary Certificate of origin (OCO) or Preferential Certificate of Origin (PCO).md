@@ -8,7 +8,7 @@ variant: tiptap
 ---
 <h2><strong>How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Applying For OCO/PCO" src="/images/Certificate%20of%20Origin/Applying_for_PCO.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Certificate of Origin/Application_Process__7_.png">
 </div>
 <h4><strong>Step 1: Register your Manufacturing Premises/New Product Line</strong></h4>
 <p>Register using the <a href="https://go.gov.sg/mfr" rel="noopener nofollow" target="_blank">manufacturer's application form</a>.</p>
