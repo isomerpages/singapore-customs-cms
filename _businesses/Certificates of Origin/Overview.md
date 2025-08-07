@@ -46,7 +46,7 @@ the origin of goods. Broadly, there are two types of origin, namely <strong>non-
 <h2>Non-Preferential Origin</h2>
 <p>An ordinary Certificate of Origin (CO), also known as a non-preferential
 CO, is a trade document that helps to identify the origin of the good.</p>
-<p>You may refer to this <a href="/files/businesses/ttsb-roo/handbook_on_the_rules_of_origin_for_oco__3_.pdf" rel="noopener noreferrer nofollow" target="_blank">handbook</a> for
+<p>You may refer to this <a href="/files/businesses/ttsb-roo/Handbook_on_the_Non_Preferential_Rules_of_Origin.pdf" rel="noopener noreferrer nofollow" target="_blank">handbook</a> for
 more information on the rules of origin for ordinary COs.</p>
 <ul>
 <li>

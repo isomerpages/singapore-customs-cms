@@ -8,7 +8,7 @@ variant: tiptap
 ---
 <h2><strong>How to apply for ordinary or preferential Certificate of Origin for locally manufactured goods with Singapore Customs?</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Applying For OCO/PCO" src="/images/Certificate%20of%20Origin/Applying_for_PCO.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Certificate of Origin/Application_Process__7_.png">
 </div>
 <h4><strong>Step 1: Register your Manufacturing Premises/New Product Line</strong></h4>
 <p>Register using the <a href="https://go.gov.sg/mfr" rel="noopener nofollow" target="_blank">manufacturer's application form</a>.</p>
@@ -22,7 +22,7 @@ the company’s Authorised Person listed in the account a month prior to
 the expiry of the registration. The Authorised Person is required to follow
 the instructions in the notice should they wish to renew the Manufacture’s
 Registration.</p>
-<p>You may update the company’s contact details or Authorised Person, <a href="https://https://go.gov.sg/updatemanufacturerreg" rel="noopener noreferrer nofollow" target="_blank">via the online application form</a> to
+<p>You may update the company’s contact details or Authorised Person, <a href="https://go.gov.sg/updatemanufacturerreg" rel="noopener noreferrer nofollow" target="_blank">via the online application form</a> to
 Singapore Customs.</p>
 <p>*Note: Singapore Customs may arrange to visit your factory to verify the
 production processes for the goods specified in your application to ensure
