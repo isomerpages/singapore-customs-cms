@@ -10,7 +10,7 @@ Established on 1 November 2019, the EODES enables the electronic submission of P
 
 With effect from 1 May 2020, China has implemented full transmission of electronic PCO. This eliminates the need for hard copy PCO or CNM to be dispatched overseas. 
 
-EODES shortens the transmission lead time and assues PCO authenticity, thus reducing the goods’ time-to-market through faster Customs clearance. 
+EODES shortens the transmission lead time and assures PCO authenticity, thus reducing the goods’ time-to-market through faster Customs clearance. 
 
 Exporters and their appointed declaring agents/freight forwarders should leverage on the e-service available on the Networked Trade Platform (NTP). ["Electronic Preferential Certificate of Origin transmitted to The People's Republic of China" > Government Services > e-service > outbound enquiry > Submit SG PCO ("ePCO")]
 
