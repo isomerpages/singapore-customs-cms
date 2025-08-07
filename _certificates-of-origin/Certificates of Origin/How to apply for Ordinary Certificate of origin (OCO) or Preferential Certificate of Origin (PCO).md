@@ -22,7 +22,7 @@ the company’s Authorised Person listed in the account a month prior to
 the expiry of the registration. The Authorised Person is required to follow
 the instructions in the notice should they wish to renew the Manufacture’s
 Registration.</p>
-<p>You may update the company’s contact details or Authorised Person, <a href="https://https://go.gov.sg/updatemanufacturerreg" rel="noopener noreferrer nofollow" target="_blank">via the online application form</a> to
+<p>You may update the company’s contact details or Authorised Person, <a href="https://go.gov.sg/updatemanufacturerreg" rel="noopener noreferrer nofollow" target="_blank">via the online application form</a> to
 Singapore Customs.</p>
 <p>*Note: Singapore Customs may arrange to visit your factory to verify the
 production processes for the goods specified in your application to ensure
