@@ -88,7 +88,7 @@ field respectively under the “Item Details” section.</p>
 </li>
 <li>
 <p>For any import queries, please contact Mr Nelson Yap (<a href="mailto:Nelson_YAP@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nelson_YAP@imda.gov.sg</a> or
-Mr Lim Chee Gee (<a href="mailto:LIM_Chee_Gee@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Chee_Gee@imda.gov.sg</a>).</p>
+Mr Yeo Yong Siah (<a href="mailto:YEO_Yong_Siah@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YEO_Yong_Siah@imda.gov.sg</a>).</p>
 </li>
 </ul>
 <p></p>
