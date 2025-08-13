@@ -2,6 +2,7 @@
 title: Types of Import Permits
 permalink: /businesses/importing-goods/import-procedures/types-of-import-permits/
 third_nav_title: Import Procedures
+variant: markdown
 ---
 # Types of Import Permits
 
@@ -16,7 +17,7 @@ third_nav_title: Import Procedures
 
 | Declaration Type | Code |  
 |--|--|
-| **Approved Premises/Schemes** <br>  Movement of dutiable goods from Free Trade Zone (FTZ) or foreign territory into a licensed warehouse for storage <br>  Movement of non-dutiable goods from FTZ or foreign territory into a zero-GST warehouse for storage <br> Inward movement of goods exempted from GST under IRAS’ Major Exporter Scheme, Import Deferment GST Scheme or Approved Import GST Suspension Scheme | APS |
+| **Approved Premises/Schemes** <br>  Movement of dutiable goods from Free Trade Zone (FTZ) or foreign territory into a licensed warehouse for storage <br>  Movement of non-dutiable goods from FTZ or foreign territory into a zero-GST warehouse for storage <br> Inward movement of goods exempted from GST under IRAS’ Major Exporter Scheme, Import GST Deferment Scheme or Approved Import GST Suspension Scheme | APS |
 | **Storage in FTZ** <br>   Inward movement of goods for storage in first or second FTZ | SFZ |  
 | **GST Relief and/or Duty Exemption** <br> Inward movement of goods exempted from duty and/or GST for entitled persons (for example, embassies, high commissions and consulates) | GTR |  
 | **Temporary Consignments** | |
@@ -55,6 +56,6 @@ Certain import situations do not require customs permits. These include, but not
 
 ## Further information
 
-You may access Module 5 of the online e-Learning [Guide to Customs’ Procedures](/businesses/business-resources/elearning) for more information on ‘Important Permit Fields table’, ‘List of Message and Declaration Types for permit applications’ and ‘Types of Permit Applications’ via **Resources** > Module 5.
+You may access Module 5 of the online e-Learning [Guide to Customs’ Procedures](/businesses/business-resources/elearning) for more information on ‘Important Permit Fields table’, ‘List of Message and Declaration Types for permit applications’ and ‘Types of Permit Applications’ via **Resources** &gt; Module 5.
 
 Declarants may also attend the [course](/businesses/business-resources/courses-and-events) SC 111 – Hands-On TradeNet Declaration which provides participants with an overview on the various TradeNet messages and declaration types and a guided practical session on preparing and submitting a permit application via TradeNet.
