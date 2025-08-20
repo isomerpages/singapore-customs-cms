@@ -8,6 +8,8 @@ variant: markdown
 
 At Singapore Customs, you can make a difference by tackling roles as diverse as Trade Facilitator, Trade Regulator, or Law Enforcer. Your work will help to uphold our nation’s trusted trade hub status.
 
+To find out more about the exciting career opportunities at Singapore Customs, you may also read our [career brochure.](/files/careers/Employer_Branding_Career_Fair__edited_18_Aug___24_x_48_in__exported.pdf)
+
 ##### **Take charge and steer your career!**
 We ensure that all our officers have opportunities for career advancement and development under the **Customs Unified Scheme of Service (CUS)**. With their drive and aspirations, officers will experience unique professional development within various Singapore Customs roles.
 
