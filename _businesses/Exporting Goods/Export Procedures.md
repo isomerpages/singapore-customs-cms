@@ -409,6 +409,7 @@ declared.</p>
 for endorsement at the checkpoint if the permit bears such a condition.</p>
 <p>✔ Ensure that you accurately declare the Country/Region of Origin. For
 more information, you may refer to <a href="customs.gov.sg/files/news-and-media/Circular_06_2025.pdf" rel="noopener nofollow" target="_blank">Customs Circular No. 06/2025</a>.</p>
+	
 </li>
 <li>
 <p>Do Not</p>
