@@ -116,6 +116,9 @@ recognised by other partners through a mutual recognition arrangement</p>
 </li>
 </ul>
 </li>
+<li>
+<p>India (2025)</p>
+</li>
 </ul>
 <p></p>
 <p>Exports from an STP-Plus certified company to these MRA partners will
