@@ -117,7 +117,8 @@ recognised by other partners through a mutual recognition arrangement</p>
 </ul>
 </li>
 <li>
-<p>India (2025)</p>
+<p><a href="/files/businesses/SLMB/MRA_Factsheet__Aug_2025__v3.pdf" rel="noopener noreferrer nofollow" target="_blank">India (2025)</a>
+</p>
 </li>
 </ul>
 <p></p>
