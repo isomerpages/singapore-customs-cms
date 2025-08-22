@@ -268,7 +268,7 @@ after departure of vessel or aircraft</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Declaring the wrong country of origin on export permit. Please refer to
-<a href="customs.gov.sg/files/news-and-media/Circular_06_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 06/2025</a> to find out how to accurately declare
+<a href="https://www.customs.gov.sg/files/news-and-media/Circular_06_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 06/2025</a> to find out how to accurately declare
 the Country/Region of Origin.</p>
 </li>
 </ul>
