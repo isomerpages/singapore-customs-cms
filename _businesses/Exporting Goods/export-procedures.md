@@ -35,6 +35,7 @@ accordion:
       with all the regulatory requirements.  Please refer to [Customs Circular
       No. 12/2013](/news-and-media/circulars) for more information on the
       responsibilities of an exporter. <br>
+variant: markdown
 ---
 # Export Procedures
 
@@ -48,9 +49,9 @@ Generally, the exporter will be the party that issues the commercial invoice to 
 
 2.	acting as a consolidator for customers without a UEN.
 
-The exporter is also required to declare the Free on Board (FOB) value of the goods in the export permit application.
+The exporter is also required to accurately declare the Free on Board (FOB) value of the goods and the 'Country/Region of Origin' field in the export permit application.
 
-Please refer to [Customs Circular No. 13/2021](/files/2021-11-12-circular132021ver%201.pdf) for more information on the responsibilities of an exporter.
+Please refer to [Customs Circular No. 13/2021](/files/2021-11-12-circular132021ver%201.pdf) and Customs Circular No. 06/2025 for more information on the responsibilities of an exporter.
 
 A Customs export permit is required for:
 
@@ -124,7 +125,7 @@ The table shows the period to submit your export permit application for the vari
     
 **Visit links below for more information on exporting requirements:** 
 
--   [Controlled & Prohibited Goods](/businesses/exporting-goods/export-procedures/controlled-prohibited-goods)
+-   [Controlled &amp; Prohibited Goods](/businesses/exporting-goods/export-procedures/controlled-prohibited-goods)
     
 -   [Permit Exemptions](/businesses/exporting-goods/export-procedures/permit-exemptions)
     
@@ -139,7 +140,7 @@ The table shows the period to submit your export permit application for the vari
 -   [Return of Permit](/businesses/exporting-goods/export-procedures/return-of-permit)
 
 
-## Errors & Offences
+## Errors &amp; Offences
 
 Exporters may be penalised if they do not comply with the requirements and conditions imposed under the Customs Act, the Regulation of Imports and Exports Act (RIEA), and their subsidiary legislation such as the Regulation of Imports and Exports Regulations (RIER).
 
@@ -226,4 +227,4 @@ You are accountable as an exporter or declaring agent for the export of your goo
 |   |   |   |   |
 |---|---|---|---|
 |[![](/images/export-procedures/ep1.jpg)](/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods) |[![](/images/export-procedures/ep2.jpg)](/businesses/exporting-goods/export-procedures/types-of-export-permits)  |[![](/images/export-procedures/ep3.jpg)](/businesses/exporting-goods/export-procedures/permit-validity-and-error-messages)  |[![](/images/export-procedures/ep4.jpg)](/businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation)  |
-|[![](/images/export-procedures/ep7.jpg)](/businesses/exporting-goods/export-procedures/exporting-trade-samples) |[![](/images/export-procedures/ep5.jpg)](/businesses/exporting-goods/export-procedures/exporting-pets)  | [![](/images/export-procedures/ep6.jpg)](/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores) |[![](/images/export-procedures/ep8.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places)|
+|[![](/images/export-procedures/ep7.jpg)](/businesses/exporting-goods/export-procedures/exporting-trade-samples) |[![](/images/export-procedures/ep5.jpg)](/businesses/exporting-goods/export-procedures/exporting-pets)  | [![](/images/export-procedures/ep6.jpg)](/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores) |[![](/images/export-procedures/ep8.jpg)](/businesses/importing-goods/import-procedures/authorised-piers-places)|</sup>
