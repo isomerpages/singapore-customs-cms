@@ -403,7 +403,7 @@ the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener
 				<p> ✔ Ensure product details (for example, HS code, quantity) are correctly declared. </p>
 				<p> ✔ Ensure you comply with all permit conditions stated in the permit. </p>
 				<p> ✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition. </p>
-				<p>✔ Ensure that you accurately declare the Country/Region of Origin. For more information, you may refer to Customs Circular No. 06/2025[Customs Circular No. 06/2025](/files/news-and-media/Circular_06_2025.pdf). </p>
+				<p>✔ Ensure that you accurately declare the Country/Region of Origin. For more information, you may refer to [Customs Circular No. 06/2025](https://www.customs.gov.sg/files/news-and-media/Circular_06_2025.pdf). </p>
 				</div>
 				</li>
 				<li>
@@ -414,7 +414,7 @@ the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener
 					<p> ✖ Make a declaration without verifying the authenticity of all supporting documents. </p>
 					<p> ✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status. </p>
 					<p> ✖ Share your TradeNet user ID and password with other persons. </p>
-					<p> ✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements. Please refer to [Customs Circular No. 12/2013](/news-and-media/circulars/)Customs Circular No. 12/2013 for more information on the responsibilities of an exporter.</p>
+					<p> ✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements. Please refer to [Customs Circular No. 12/2013](https://www.customs.gov.sg/news-and-media/circulars/) for more information on the responsibilities of an exporter.</p>
 		</div>
 	</li>
 	</ul>
