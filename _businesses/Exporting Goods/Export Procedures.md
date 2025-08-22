@@ -403,7 +403,7 @@ the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener
 				<p> ✔ Ensure product details (for example, HS code, quantity) are correctly declared. </p>
 				<p> ✔ Ensure you comply with all permit conditions stated in the permit. </p>
 				<p> ✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition. </p>
-				<p>✔ Ensure that you accurately declare the Country/Region of Origin. For more information, you may refer to <a href="customs.gov.sg/files/news-and-media/Circular_06_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 06/2025</a>. </p>
+				<p>✔ Ensure that you accurately declare the Country/Region of Origin. For more information, you may refer to <a href="https://www.customs.gov.sg/files/news-and-media/Circular_06_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 06/2025</a>. </p>
 				</div>
 				</li>
 				<li>
