@@ -51,7 +51,7 @@ Generally, the exporter will be the party that issues the commercial invoice to 
 
 The exporter is also required to accurately declare the Free on Board (FOB) value of the goods and the 'Country/Region of Origin' field in the export permit application.
 
-Please refer to [Customs Circular No. 13/2021](/files/2021-11-12-circular132021ver%201.pdf) and Customs Circular No. 06/2025 for more information on the responsibilities of an exporter.
+Please refer to [Customs Circular No. 13/2021](/files/2021-11-12-circular132021ver%201.pdf) and [Customs Circular No. 06/2025](customs.gov.sg/files/news-and-media/Circular_06_2025.pdf) for more information on the responsibilities of an exporter.
 
 A Customs export permit is required for:
 
@@ -168,7 +168,7 @@ For minor offences, Singapore Customs may compound offences for a sum not more t
 
 -   Making a false declaration
     
-    -   Declaring the wrong country of origin on export permit
+    -   Declaring the wrong country of origin on export permit. Please refer to [Customs Circular No. 06/2025](customs.gov.sg/files/news-and-media/Circular_06_2025.pdf) to find out how to accurately declare the Country/Region of Origin.
 
 **Penalties upon conviction for key offences**
 
