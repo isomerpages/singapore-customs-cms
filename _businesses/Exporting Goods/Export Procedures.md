@@ -60,7 +60,7 @@ issues the commercial invoice to the overseas buyer; or</p>
 (FOB) value of the goods and the 'Country/Region of Origin' field in the
 export permit application.</p>
 <p>Please refer to <a href="/files/2021-11-12-circular132021ver%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 13/2021</a> and
-<a href="customs.gov.sg/files/news-and-media/Circular_06_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 06/2025</a>for more information on the responsibilities
+<a href="customs.gov.sg/files/news-and-media/Circular_06_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 06/2025</a> for more information on the responsibilities
 of an exporter.</p>
 <p>A Customs export permit is required for:</p>
 <ul>
