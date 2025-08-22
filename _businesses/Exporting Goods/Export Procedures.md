@@ -419,7 +419,7 @@ the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener
 	</li>
 	</ul>
 <h2>For more information on:</h2>
-<p>{:.mobile-block}</p>
+
 <table style="minWidth: 100px">
 <colgroup>
 <col>
