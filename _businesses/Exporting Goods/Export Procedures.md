@@ -400,6 +400,7 @@ the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener
 				<p> ✔ Know the contents of each consignment you export and clarify with relevant parties if needed. </p>
 				<p> ✔ Keep your supporting documents for a minimum of 5 years.</p>
 				<p> ✔ Check with the relevant Competent Authority on their requirements to export controlled items. </p>
+				<p> ✔ Ensure product details (for example, HS code, quantity) are correctly declared. </p>
 				<p> ✔ Ensure you comply with all permit conditions stated in the permit. </p>
 				<p> ✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition. </p>
 				<p>✔ Ensure that you accurately declare the Country/Region of Origin. For more information, you may refer to Customs Circular No. 06/2025[Customs Circular No. 06/2025](/files/news-and-media/Circular_06_2025.pdf). </p>
