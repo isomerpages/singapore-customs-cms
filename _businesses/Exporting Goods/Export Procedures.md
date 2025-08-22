@@ -385,50 +385,39 @@ is greater, or imprisonment not exceeding 3 years, or both.</p>
 <p>Learn more about the prescribed offences and penalties under the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener noreferrer nofollow" target="_blank">Customs Act</a> and
 the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener noreferrer nofollow" target="_blank">RIEA</a>.</p>
 <h2>Best Practices</h2>
-<p>You are accountable as an exporter or declaring agent for the export of
-your goods. We encourage you to take note of the following Dos and Don’ts:</p>
-<ul>
-<li>
-<p>Do</p>
-<p>✔ Inform Singapore Customs if there is any change in your company’s particulars
-to ensure you receive timely updates on regulatory changes.</p>
-<p>✔ Know the export procedures and declaration requirements before you export.</p>
-<p>✔ Ensure you provide the necessary supporting documents and information
-for permit declarations to your declaring agents and freight forwarders.</p>
-<p>✔ Ensure your declaring agents and freight forwarders understand and properly
-execute your instructions.</p>
-<p>✔ Know the contents of each consignment you export and clarify with relevant
-parties if needed.</p>
-<p>✔ Keep your supporting documents for a minimum of 5 years.</p>
-<p>✔ Check with the relevant Competent Authority on their requirements to
-export controlled items.</p>
-<p>✔ Ensure product details (for example, HS code, quantity) are correctly
-declared.</p>
-<p>✔ Ensure you comply with all permit conditions stated in the permit.</p>
-<p>✔ Ensure your driver or transport service provider produces the permit
-for endorsement at the checkpoint if the permit bears such a condition.</p>
-<p>✔ Ensure that you accurately declare the Country/Region of Origin. For
-more information, you may refer to <a href="customs.gov.sg/files/news-and-media/Circular_06_2025.pdf" rel="noopener nofollow" target="_blank">Customs Circular No. 06/2025</a>.</p>
-	
-</li>
-<li>
-<p>Do Not</p>
-<p>✖ Deny Singapore Customs officers’ requests to enter your premises or
-to check your documents.</p>
-<p>✖ Make a declaration without verifying the authenticity of all supporting
-documents.</p>
-<p>✖ Declare that goods are of Singapore origin when they were only imported
-and re-exported from Singapore without qualifying for their origin status.</p>
-<p>✖ Share your TradeNet user ID and password with other persons.</p>
-<p>✖ Use your company’s UEN to export goods not belonging to you unless you
-are involved in taking the goods out of Singapore for export and are willing
-to declare yourself as the exporter on behalf of the party that issues
-the export invoice, or you are acting as a consolidator for customers without
-a UEN. In doing so, you are responsible for complying with all the regulatory
-requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 12/2013</a> for
-more information on the responsibilities of an exporter.</p>
-</li>
-</ul>
+
+<p>You are accountable as an exporter or declaring agent for the export of your goods. We encourage you to take note of the following Dos and Don’ts:</p>
+
+<ul class="jekyllcodex_accordion">
+	<li>                                                                 
+			<input type="checkbox" id="accordion9">
+			<label for="accordion9">Do</label>
+			<div>
+					<p>	✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
+				<p> ✔ Know the export procedures and declaration requirements before you export. </p>
+				<p> ✔ Ensure you provide the necessary supporting documents and information for permit declarations to your declaring agents and freight forwarders. </p>
+				<p> ✔ Ensure your declaring agents and freight forwarders understand and properly execute your instructions. </p>
+				<p> ✔ Know the contents of each consignment you export and clarify with relevant parties if needed. </p>
+				<p> ✔ Keep your supporting documents for a minimum of 5 years.</p>
+				<p> ✔ Check with the relevant Competent Authority on their requirements to export controlled items. </p>
+				<p> ✔ Ensure you comply with all permit conditions stated in the permit. </p>
+				<p> ✔ Ensure your driver or transport service provider produces the permit for endorsement at the checkpoint if the permit bears such a condition. </p>
+				<p>✔ Ensure that you accurately declare the Country/Region of Origin. For more information, you may refer to Customs Circular No. 06/2025 </p>
+				</div>
+				</li>
+				<li>
+				<input type="checkbox" id="accordion10">
+				<label for="accordion10">Do Not</label>
+				<div>
+				<p>✖ Deny Singapore Customs officers’ requests to enter your premises or to check your documents. </p>
+					<p> ✖ Make a declaration without verifying the authenticity of all supporting documents. </p>
+					<p> ✖ Declare that goods are of Singapore origin when they were only imported and re-exported from Singapore without qualifying for their origin status. </p>
+					<p> ✖ Share your TradeNet user ID and password with other persons. </p>
+					<p> ✖ Share your TradeNet user ID and password with other persons. </p>
+					<p> ✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements. Please refer to Customs Circular No. 12/2013 for more information on the responsibilities of an exporter.</p>
+		</div>
+	</li>
+	</ul>
 <h2>For more information on:</h2>
 <p>{:.mobile-block}</p>
 <table style="minWidth: 100px">
