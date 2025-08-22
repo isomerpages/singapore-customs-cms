@@ -116,6 +116,9 @@ recognised by other partners through a mutual recognition arrangement</p>
 </li>
 </ul>
 </li>
+<li>
+<p>India (2025)</p>
+</li>
 </ul>
 <p></p>
 <p>Exports from an STP-Plus certified company to these MRA partners will
@@ -123,7 +126,7 @@ be recognised as being of lower risk and can enjoy a higher level of facilitatio
 <p>Singapore Customs continues to engage like-minded customs administrations
 to expand our list of MRA partners, and bring about greater benefits to
 the trading community.</p>
-<p>Please refer to the <a href="/files/businesses/seb/FACT_SHEET__FEB_2025_.pdf" rel="noopener nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
+<p>Please refer to the <a href="/files/businesses/SLMB/MRA_Factsheet__Aug_2025__v3.pdf" rel="noopener nofollow" target="_blank">Factsheet on Mutual Recognition</a> for
 more details on the procedures to enjoy the benefits under the MRAs.</p>
 <h2>STP and STP-Plus Certified Companies</h2>
 <ul data-tight="true" class="tight">
