@@ -1,0 +1,60 @@
+title: Singapore Customs
+url: https://customs.gov.sg
+favicon: /images/31Dec24_Version_D.png
+colors:
+  primary-color: "#071d49"
+  secondary-color: "#009cde"
+  media-colors:
+    - title: media-color-one
+      color: "#4d4d4f"
+    - title: media-color-two
+      color: "#00b0b9"
+    - title: media-color-three
+      color: "#071d49"
+    - title: media-color-four
+      color: "#a2aaad"
+    - title: media-color-five
+      color: "#009cde"
+resources_name: news-and-media
+google_analytics: UA-70503404-1
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+description: ""
+staging: https://staging.d2y2jvgj8f3vk2.amplifyapp.com/
+prod: https://master.d2y2jvgj8f3vk2.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: true
+google_analytics_ga4: G-H1PFEMRWTQ
+linkedin-insights: ""

@@ -1,0 +1,8 @@
+collections:
+  authorised-piers-places:
+    output: true
+    order:
+      - Authorised Piers and Places/.keep
+      - Authorised Piers and Places/other-authorised-piers-and-places.md
+      - Authorised Piers and Places/other-piers-and-places.md
+      - Authorised Piers and Places/permit-and-clearance-requirements.md

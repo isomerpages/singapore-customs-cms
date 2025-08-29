@@ -1,0 +1,8 @@
+collections:
+  organisation-overview:
+    output: true
+    order:
+      - customs-crest.md
+      - organisation-structure.md
+      - divisions-and-structure.md
+      - rank-structure.md

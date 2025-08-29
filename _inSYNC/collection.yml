@@ -1,0 +1,6 @@
+collections:
+  inSYNC:
+    output: true
+    order:
+      - insync55-p12.md
+      - insync58-p11.md

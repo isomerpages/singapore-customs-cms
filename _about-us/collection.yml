@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - overview.md
+      - customs-advisory-council.md
+      - our-commitment-to-quality-service.md
+      - our-international-participation.md
+      - careers.md
+      - awards-achievements.md

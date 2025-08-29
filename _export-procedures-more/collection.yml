@@ -1,0 +1,12 @@
+collections:
+  export-procedures-more:
+    output: true
+    order:
+      - Export Procedures/.keep
+      - Export Procedures/exporting-hand-carried-commercial-goods.md
+      - Export Procedures/types-of-export-permits.md
+      - Export Procedures/permit-validity-and-error-messages.md
+      - Export Procedures/permit-amendments-and-cancellation.md
+      - Export Procedures/exporting-trade-samples.md
+      - Export Procedures/exporting-pets.md
+      - Export Procedures/supply-of-air-sea-stores.md

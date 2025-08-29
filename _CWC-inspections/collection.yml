@@ -1,0 +1,6 @@
+collections:
+  CWC-inspections:
+    output: true
+    order:
+      - Inspections/opcw-inspection-process.md
+      - Inspections/notification-period.md

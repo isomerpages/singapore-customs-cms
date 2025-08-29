@@ -1,0 +1,7 @@
+collections:
+  import-certificate-and-delivery-verification:
+    output: true
+    order:
+      - Import Certificate and Delivery Verification/.keep
+      - Import Certificate and Delivery Verification/import-certificate.md
+      - Import Certificate and Delivery Verification/delivery-verification.md
