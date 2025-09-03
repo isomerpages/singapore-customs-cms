@@ -1,9 +1,9 @@
 ---
 title: Enquiries
 permalink: /businesses/importing-goods/import-procedures/importing-by-post-or-courier-service/enquiries/
-third_nav_title: Importing by Post or Courier Service 
+third_nav_title: Importing by Post or Courier Service
+variant: markdown
 ---
-
 # Enquiries
 
 ## For Postal Parcels
@@ -21,7 +21,7 @@ In the event that your postal parcel has been held by ICA/SingPost, you will rec
 
 ## For Courier Parcels
 
-For enquiries on the tracking or delivery of courier parcels, please contact the respective courier service provider. Singapore Customs does not have information on the status of courier parcels, as the tracking and/or delivery of such parcels are handled by the respective courier service providers. Please note that your courier parcel may be detained by Customs or one of the regulatory authorities in Singapore for the following reasons:
+For enquiries on the tracking or delivery of courier parcels, please contact the respective courier service provider. Singapore Customs does not have information on the status of courier parcels, as the tracking and/or delivery of such parcels are handled by the respective courier service providers. Please note that your courier parcel may be detained by ICA or one of the regulatory authorities in Singapore for the following reasons:
 
 -   the courier parcel contains dutiable goods;
 -   the courier parcel contains controlled goods;
