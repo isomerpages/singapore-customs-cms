@@ -8,7 +8,7 @@ variant: markdown
 
 | **S/N** | **Type of Goods** | **Purpose** |
 |--|--|--|
-| 1 | All goods# including spare parts imported for use in goods to be repaired, modified or treated<br><br> #Excludes dutiable goods such as intoxicating liquor, tobacco products, motor vehicles, petroleum products and biodiesel blends. Refer to S/N 5 for motor vehicles | For repair, modification or treatment purposes |
+| 1 | All goods <sup>#</sup>including spare parts imported for use in goods to be repaired, modified or treated<br><br> <sup>#</sup>Excludes dutiable goods such as intoxicating liquor, tobacco products, motor vehicles, petroleum products and biodiesel blends. Refer to S/N 5 for motor vehicles | For repair, modification or treatment purposes |
 | 2 | Professional equipment, including spare parts | Goods to be used by person established outside Singapore to perform a job or work in Singapore |
 | 3 | Live animals | For dressage, training, breeding, veterinary treatment or grazing purposes |
 | 4 | Teaching aids and scientific equipment, including spare parts and tools specifically designed for the maintenance, checking, gauging or repair of such equipment | For education, vocational training or scientific research purposes |
