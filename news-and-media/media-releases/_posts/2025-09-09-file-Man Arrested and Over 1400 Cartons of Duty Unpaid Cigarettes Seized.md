@@ -1,5 +1,5 @@
 ---
-title: Man Arrested and Over 1400 Cartons of Duty Unpaid Cigarettes Seized
+title: Man Arrested and Over 1,400 Cartons of Duty-Unpaid Cigarettes Seized
 date: 2025-09-09
 layout: file
 description: ""
