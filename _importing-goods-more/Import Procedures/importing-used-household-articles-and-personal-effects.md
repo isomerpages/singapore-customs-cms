@@ -144,7 +144,18 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <p> Please note that certain items require proper authorisation from the Competent Authorities (CAs) before they may be imported into, or transhipped via, or exported from Singapore. To determine if your item is controlled, you may do a search via the  <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do">HS/CA Product Code search engine</a> by entering a description of the item, Harmonised System (HS) code or CA product code. If the item is subject to control, the name and contact person of the CA will be indicated next to the HS code description in the hyperlinks under the “import”, “export” and “transhipment" columns in the search results. You can liaise directly with the contact person of the CA(s) for their additional licensing requirements.</p>
     </div>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects </li>
-	  <li>
+<li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects. </li>
+<p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
+    <div>
+      <ul>
+        <li> A copy of your work pass application received by MOM; </li>
+        <li> A letter from your employer confirming your employment; together with</li>
+        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your work pass is not approved or if you subsequently did not take up the employment.</li>
+      </ul>
+    </div>
+<p> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
+			</ol></div>
+	  </li><li>
 <input id="accordion2" type="checkbox">
     <label for="accordion2"> Unaccompanied Personal Effects (Imports via postal parcel)</label>
     <div>
@@ -219,4 +230,4 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
 <p>Owners who fail to get the necessary approval for GST relief before arriving in Singapore are required to pay GST for their hand-carried items via the <a href="https://www.customs.gov.sg/eservices/customs-sg-web-application/">Customs@SG web application.</a> GST relief applications made after arrival will not be entertained.</p>
       </div></ul>
     </div>
-	</li></ol></div></li></ul>
+	</li></ul>
