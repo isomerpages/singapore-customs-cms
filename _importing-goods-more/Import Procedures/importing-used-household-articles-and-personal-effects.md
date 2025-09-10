@@ -152,11 +152,11 @@ Before you import your goods, please also see the lists of [controlled and prohi
 			 <p> This refers to shipments that are imported by post or Speedpost services.</p>
 			 <p>To apply, you or your appointed agent should:</p>
       <ol>
-        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">Declaration of Facts (DOF) </a>** with the following supporting documents to Singapore Customs for an assessment of your eligibility for GST relief:</li>
+        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">Declaration of Facts (DOF) </a>* with the following supporting documents to Singapore Customs for an assessment of your eligibility for GST relief:</li>
     <div>
       <ul>
         <li> Copy of passport and/or identity card (NRIC)</li>
-        <li> Proof of transfer of residence to Singapore. For example, Work Pass*, Dependant Pass, In-Principle Approval from the Ministry of Manpower (MOM)</li>
+        <li> Proof of transfer of residence to Singapore. (e.g., employment pass*, dependant pass, student pass or In-Principle Approval letter from the Ministry of Manpower (MOM)</li>
         <li> ICA Re-Entry permit (for Permanent Resident)</li>
         <li> Shipping documents to substantiate tracking numbers (Please note that only one DOF can be applied for each tracking number)</li>
       </ul>
