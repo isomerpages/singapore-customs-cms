@@ -156,7 +156,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
     <div>
       <ul>
         <li> Copy of passport and/or identity card (NRIC)</li>
-        <li> Proof of transfer of residence to Singapore. (e.g., employment pass*, dependant pass, student pass or In-Principle Approval letter from the Ministry of Manpower (MOM)</li>
+        <li> Proof of transfer of residence to Singapore. (e.g., employment pass*, dependant pass, student pass or In-Principle Approval letter from the Ministry of Manpower (MOM))</li>
         <li> ICA Re-Entry permit (for Permanent Resident)</li>
         <li> Shipping documents to substantiate tracking numbers (Please note that only one DOF can be applied for each tracking number)</li>
       </ul>
