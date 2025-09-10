@@ -119,7 +119,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
     <div>
       <ul>
         <li> Copy of passport and/or identity card (NRIC)</li>
-        <li> Proof of transfer of residence to Singapore. For example, Work Pass*, Dependant Pass, In-Principle Approval from the Ministry of Manpower (MOM)</li>
+        <li> Proof of transfer of residence to Singapore. (e.g., employment pass, dependent pass, student pass, or In-Principle Approval letter from the Ministry of Manpower (MOM)</li>
         <li> ICA Re-Entry permit (for Permanent Resident)</li>
         <li> Bill of lading/air waybill</li>
       </ul>
