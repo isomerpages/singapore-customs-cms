@@ -121,18 +121,18 @@ Before you import your goods, please also see the lists of [controlled and prohi
         <li> Copy of passport and/or identity card (NRIC)</li>
         <li> Proof of transfer of residence to Singapore. (e.g., employment pass, dependent pass, student pass, or In-Principle Approval letter from the Ministry of Manpower (MOM)</li>
         <li> ICA Re-Entry permit (for Permanent Resident)</li>
-        <li> Bill of lading/air waybill</li>
+        <li> Bill of Lading/Air Waybill (Please note that only one DOF can be applied for each Airway Bill or Bill of Lading)</li>
       </ul>
     </div>  
 	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP">TradeNet</a></li>
 <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 10 working days of receiving Customs’ approval of GST relief.</li>
-<p>** Please note that you or your appointed agent need not apply for the DOF if the goods have already entered Customs Territory and GST would be payable.</p>
+<p>* Please note that the DOF must be applied before the importation and clearance of the goods into Customs Territory. DOF applications for goods that are already imported into Customs Territory will not be accepted and GST will be payable on these goods.</p>
 <p>The following fields should be declared in the In-Non-Payment (GST Relief) permit application:</p>
     <div>
       <ul>
         <li> Claimant UEN </li>
         <li> Claimant Organisation Name </li>
-        <li> Claimant name</li>
+        <li> Claimant Name</li>
         <li> Claimant Code</li>
         <li> Importer UEN</li>
         <li> Importer Name</li>
