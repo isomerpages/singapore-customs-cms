@@ -106,7 +106,7 @@ An importer who is transferring residence to Singapore (including returning Sing
 				<br><br><b>Foreign citizens transferring residence</b>
 			<br>- Copy of passport or identity card (FIN);
 				<br>- Proof of transfer of residence to Singapore (e.g., employment pass, dependent pass, student pass); and
-				<br>- Other supporting documents (e.g. letter of employment or letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower).
+				<br>- Other supporting documents (e.g. letter of employment from the local employer or in-principle approval from the Ministry of Manpower).
 			<br><br><b> Clearance of Accompanied Personal Pets </b>
 			<br><br> If the application is approved, the pet owner will receive an approval email on his / her successful GST relief application, which must be presented to the checkpoint officer at the Red Channel for their verification on the day of collection of the pets.
 			<br><br> If the pet owner does not have an approval email from Singapore Customs (e.g. pet owner did not submit the full set of supporting documents at least 5 working days before the pet’s arrival in Singapore or does not qualify for GST relief), he / she   must obtain a Customs In-Payment (GST) permit to pay the GST to import the pet instead. For more details, please refer to the <b> table </b> below on the <b>Procedures and Requirements for Importing Personal Pets</b>
