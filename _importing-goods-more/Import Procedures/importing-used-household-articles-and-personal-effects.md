@@ -119,20 +119,20 @@ Before you import your goods, please also see the lists of [controlled and prohi
     <div>
       <ul>
         <li> Copy of passport and/or identity card (NRIC)</li>
-        <li> Proof of transfer of residence to Singapore. For example, Work Pass*, Dependant Pass, In-Principle Approval from the Ministry of Manpower (MOM)</li>
+        <li> Proof of transfer of residence to Singapore. (e.g., employment pass, dependent pass, student pass, or In-Principle Approval letter from the Ministry of Manpower (MOM)</li>
         <li> ICA Re-Entry permit (for Permanent Resident)</li>
-        <li> Bill of lading/air waybill</li>
+        <li> Bill of Lading/Air Waybill (Please note that only one DOF can be applied for each Airway Bill or Bill of Lading)</li>
       </ul>
     </div>  
 	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP">TradeNet</a></li>
 <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 10 working days of receiving Customs’ approval of GST relief.</li>
-<p>** Please note that you or your appointed agent need not apply for the DOF if the goods have already entered Customs Territory and GST would be payable.</p>
+<p>* Please note that the DOF must be applied before the importation and clearance of the goods into Customs Territory. DOF applications for goods that are already imported into Customs Territory will not be accepted and GST will be payable on these goods.</p>
 <p>The following fields should be declared in the In-Non-Payment (GST Relief) permit application:</p>
     <div>
       <ul>
         <li> Claimant UEN </li>
         <li> Claimant Organisation Name </li>
-        <li> Claimant name</li>
+        <li> Claimant Name</li>
         <li> Claimant Code</li>
         <li> Importer UEN</li>
         <li> Importer Name</li>
@@ -143,17 +143,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
       </ul>
 <p> Please note that certain items require proper authorisation from the Competent Authorities (CAs) before they may be imported into, or transhipped via, or exported from Singapore. To determine if your item is controlled, you may do a search via the  <a href="https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do">HS/CA Product Code search engine</a> by entering a description of the item, Harmonised System (HS) code or CA product code. If the item is subject to control, the name and contact person of the CA will be indicated next to the HS code description in the hyperlinks under the “import”, “export” and “transhipment" columns in the search results. You can liaise directly with the contact person of the CA(s) for their additional licensing requirements.</p>
     </div>
-<li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
-<li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects. </li>
-<p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
-    <div>
-      <ul>
-        <li> A copy of your work pass application received by MOM; </li>
-        <li> A letter from your employer confirming your employment; together with</li>
-        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your work pass is not approved or if you subsequently did not take up the employment.</li>
-      </ul>
-    </div>
-<p> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
+<li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects </li>
 			</ol></div>
 	  </li><li>
 <input id="accordion2" type="checkbox">
@@ -162,11 +152,11 @@ Before you import your goods, please also see the lists of [controlled and prohi
 			 <p> This refers to shipments that are imported by post or Speedpost services.</p>
 			 <p>To apply, you or your appointed agent should:</p>
       <ol>
-        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">Declaration of Facts (DOF) </a>** with the following supporting documents to Singapore Customs for an assessment of your eligibility for GST relief:</li>
+        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">Declaration of Facts (DOF) </a>* with the following supporting documents to Singapore Customs for an assessment of your eligibility for GST relief:</li>
     <div>
       <ul>
         <li> Copy of passport and/or identity card (NRIC)</li>
-        <li> Proof of transfer of residence to Singapore. For example, Work Pass*, Dependant Pass, In-Principle Approval from the Ministry of Manpower (MOM)</li>
+        <li> Proof of transfer of residence to Singapore. (e.g., employment pass*, dependant pass, student pass or In-Principle Approval letter from the Ministry of Manpower (MOM))</li>
         <li> ICA Re-Entry permit (for Permanent Resident)</li>
         <li> Shipping documents to substantiate tracking numbers (Please note that only one DOF can be applied for each tracking number)</li>
       </ul>
@@ -175,16 +165,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <li> Upon approval of your application, you should immediately inform SingPost of Singapore Customs’ approval granted on your personal effects. You do not have to apply for an In-Non Payment (GST relief) permit if your personal effects contain non-controlled goods and are imported via postal parcel.</li>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
 <li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You are required to pay GST to import your personal effects. </li>
-<p>** Please note that you or your appointed agent need not apply for the DOF if the goods have already entered Customs Territory and GST would be payable.</p>
-<p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
-    <div>
-      <ul>
-        <li> A copy of your work pass application received by MOM; </li>
-        <li> A letter from your employer confirming your employment; together with</li>
-        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your work pass is not approved or if you subsequently did not take up the employment.</li>
-      </ul>
-    </div>
-<p> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
+<p>* Please note that the DOF must be applied before the importation and clearance of the goods into Customs Territory. DOF applications for goods that are already imported into Customs Territory will not be accepted and GST will be payable on these goods.</p>
 	</ol></div>
 	  </li><li>
     <input id="accordion3" type="checkbox">
@@ -203,13 +184,13 @@ Taking Delivery of the Personal Effects</label>
 			<p>This refers to goods that are hand-carried in the owner’s accompanied baggage upon his or her arrival in Singapore.
 
 To apply for GST relief, the owner should complete the "<a href="https://www.customs.gov.sg/eservices/customs-forms-and-service-links">
-				Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets</a>" form with the following supporting documents for assessment of eligibility for at least 3 working days before arriving in Singapore.</p>
+				Application for GST Relief for Hand-Carried Used Household Articles and Personal Effects and Personal Pets (where there is change in residence)</a>" form with the following supporting documents for assessment of eligibility for at least 5 working days before arriving in Singapore.</p>
       <ul>
 				<li><b>Returning Singaporeans, Singapore Permanent Residents (PRs) working overseas, or new PRs</b></li>
     <div>
       <ul>
         <li>Copy of passport or identity card (NRIC)</li>
-        <li>Proof of employment overseas (e.g., work permit visa, employment pass or letter of appointment)</li>
+        <li>Proof of employment overseas (e.g., work permit visa, employment pass or employment letter)</li>
       </ul>
     </div>
 <li><b>Returning Singaporeans &amp; Permanent Residents studying overseas</b></li>
@@ -223,8 +204,7 @@ To apply for GST relief, the owner should complete the "<a href="https://www.cus
    <div>
       <ul>
         <li>Copy of passport</li>
-        <li>Proof of transfer of residence to Singapore (e.g., employment pass, dependant pass or student pass)</li>
-				<li>Other supporting documents [e.g., letter of employment or a letter of undertaking from the local employer or in-principle approval from the Ministry of Manpower (MOM)]</li> 
+        <li>Proof of transfer of residence to Singapore (e.g., employment pass, dependant pass, student pass or In-Principle Approval letter from Ministry of Manpower))</li> 
 				</ul></div>
 <div>
 <p>Owners who fail to get the necessary approval for GST relief before arriving in Singapore are required to pay GST for their hand-carried items via the <a href="https://www.customs.gov.sg/eservices/customs-sg-web-application/">Customs@SG web application.</a> GST relief applications made after arrival will not be entertained.</p>
