@@ -165,16 +165,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 <li> Upon approval of your application, you should immediately inform SingPost of Singapore Customs’ approval granted on your personal effects. You do not have to apply for an In-Non Payment (GST relief) permit if your personal effects contain non-controlled goods and are imported via postal parcel.</li>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. </li>
 <li> If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You are required to pay GST to import your personal effects. </li>
-<p>** Please note that you or your appointed agent need not apply for the DOF if the goods have already entered Customs Territory and GST would be payable.</p>
-<p>*If your work pass is still being processed by MOM, you should still complete the <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">DOF</a> and submit to Singapore Customs</p>
-    <div>
-      <ul>
-        <li> A copy of your work pass application received by MOM; </li>
-        <li> A letter from your employer confirming your employment; together with</li>
-        <li> A letter of undertaking from your employer to pay Singapore Customs the GST involved in the event your work pass is not approved or if you subsequently did not take up the employment.</li>
-      </ul>
-    </div>
-<p> If you are not in Singapore, your employer or next-of-kin can provide a letter of undertaking to Singapore Customs stating that GST will be paid to Customs in the event that it is established (post-import) that you are not eligible for GST relief.</p>
+<p>* Please note that the DOF must be applied before the importation and clearance of the goods into Customs Territory. DOF applications for goods that are already imported into Customs Territory will not be accepted and GST will be payable on these goods.</p>
 	</ol></div>
 	  </li><li>
     <input id="accordion3" type="checkbox">
