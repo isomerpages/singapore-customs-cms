@@ -553,7 +553,7 @@ Singpass users)</p>
 Articles, Personal Effects or Personal Pets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+<p><a href="https://go.gov.sg/pe-dof" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
 </p>
 </td>
 </tr>
@@ -674,7 +674,7 @@ Articles, Personal Effects or Personal Pets</p>
 Personal Effects and Personal Pets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+<p><a href="https://go.gov.sg/pe-dof-enq" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
 </p>
 </td>
 </tr>
