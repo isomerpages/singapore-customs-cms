@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Controlled & Prohibited Goods for Transhipment
 
-Controlled goods require proper authorisation (advance notification, licence or certificate approval) from  **Competent Authorities (CA)**  before they may be transhipped through Singapore. You are advised to check if the goods are controlled using the description of the goods, Harmonized System (HS) or CA product code via the [HS/CA Product Code Checker](https://hscodechecker.gobusiness.gov.sg/){:target="_blank"}. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements. You may download the list of CAs' contact information via the HS/CA Product Code Search Engine.
+Controlled goods require proper authorisation (advance notification, licence or certificate approval) from  **Competent Authorities (CA)**  before they may be transhipped through Singapore. You are advised to check if the goods are controlled using the description of the goods, Harmonized System (HS) or CA product code via the [HS/CA Product Code Checker](https://hscodechecker.gobusiness.gov.sg/){:target="_blank"}. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements. You may download the list of CAs' contact information via the HS/CA Product Code Checker.
 
 ## List of Prohibited Goods for Transhipment
 
