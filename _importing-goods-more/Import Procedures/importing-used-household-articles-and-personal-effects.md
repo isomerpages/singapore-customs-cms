@@ -115,7 +115,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
 			 <p> This refers to shipments that are arranged for delivery by the shipping, airline or forwarding agent appointed by the owner of the personal effects.</p>
 			 <p>To apply, you or your appointed agent should:</p>
       <ol>
-        <li>Submit an online <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=formPrepareSTDAlone&amp;APPLICATION_ID=TXWP">Declaration of Facts (DOF) </a>* with the following supporting documents to Singapore Customs for an assessment of your eligibility for GST relief:</li>
+        <li>Submit an online <a href="https://go.gov.sg/pe-dof">Declaration of Facts (DOF)</a>* with the following supporting documents to Singapore Customs for an assessment of your eligibility for GST relief:</li>
     <div>
       <ul>
         <li> Copy of passport and/or identity card (NRIC)</li>
@@ -124,7 +124,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
         <li> Bill of Lading/Air Waybill (Please note that only one DOF can be applied for each Airway Bill or Bill of Lading)</li>
       </ul>
     </div>  
-	<li>Check the status of your DOF application via <a href="https://www.tradenet.gov.sg/TN41/tds/pe/appFormPEServlet.do?action=enquire&amp;APPLICATION_ID=TXWP">TradeNet</a></li>
+	<li>Check the status of your DOF application via <a href="https://go.gov.sg/pe-dof-enq">TradeNet</a>.</li>
 <li> Obtain a Customs In-Non Payment (GST relief) permit via TradeNet within 10 working days of receiving Customs’ approval of GST relief.</li>
 <p>* Please note that the DOF must be applied before the importation and clearance of the goods into Customs Territory. DOF applications for goods that are already imported into Customs Territory will not be accepted and GST will be payable on these goods.</p>
 <p>The following fields should be declared in the In-Non-Payment (GST Relief) permit application:</p>
