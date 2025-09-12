@@ -141,7 +141,7 @@ Before you import your goods, please also see the lists of [controlled and prohi
        <li> Place of Receipt code </li>
         <li> Trader’s remarks (PE reference number)</li>
       </ul>
-<p> Please note that certain items require proper authorisation from the Competent Authorities (CAs) before they may be imported into, or transhipped via, or exported from Singapore. To determine if your item is controlled, you may do a search via the  <a href="https://hscodechecker.gobusiness.gov.sg/">HS/CA Product Code Checker</a>. </p>
+<p> Please note that certain items require proper authorisation from the Competent Authorities (CAs) before they may be imported into, or transhipped via, or exported from Singapore. To determine if your item is controlled, you may do a search via the  <a href="https://hscodechecker.gobusiness.gov.sg/">HS/CA Product Code Checker</a> by entering a description of the item, Harmonised System (HS) code or CA product code. If the item is subject to control, you may check directly with the respective CAs on their licensing requirements.</p>
     </div>
 <li> If there are dutiable items in your shipment of personal effects, please obtain an In-Payment (Duty and GST) permit. If you are assessed to be not eligible for GST relief, your DOF application will be rejected. You should inform your appointed agent to obtain the In-Payment (GST) permit to import your personal effects </li>
 			</ol></div>
