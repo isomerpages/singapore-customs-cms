@@ -13,7 +13,7 @@ are controlled using the description of the goods, Harmonized System (HS)
 code or CA product code via the <a href="https://hscodechecker.gobusiness.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HS/CA Product Code Checker</a>.
 If the item is subject to control, you may check directly with the respective
 CAs on their licensing requirements. You may download the list of CAs'
-contact information via the HS/CA Product Code Search Engine.</p>
+contact information via the HS/CA Product Code Checker.</p>
 <p>Please refer to the table below for the list of prohibited goods that
 you are not allowed to bring to Singapore.</p>
 <h2>List of Prohibited Goods for Imports</h2>
