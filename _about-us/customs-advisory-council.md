@@ -13,8 +13,8 @@ Established in March 2000, the Council is chaired by Permanent Secretary (Financ
 
 ### Chairman
 
-**Mr Lai Chung Han**  
-Permanent Secretary (Finance)<br>
+**Ms Ngiam Siew Ying**  
+Second Permanent Secretary (Finance)<br>
 Ministry of Finance
 
 
