@@ -445,9 +445,9 @@ the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep1.jpg">
-</div>
-</td>
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep1.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods/">
+</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep2.jpg">
