@@ -417,7 +417,7 @@ the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener
 					<p> ✖ Use your company’s UEN to export goods not belonging to you unless you are involved in taking the goods out of Singapore for export and are willing to declare yourself as the exporter on behalf of the party that issues the export invoice, or you are acting as a consolidator for customers without a UEN. In doing so, you are responsible for complying with all the regulatory requirements. Please refer to <a href="https://www.customs.gov.sg/news-and-media/circulars/" rel="noopener noreferrer nofollow" target="_blank">Customs Circular No. 12/2013</a> for more information on the responsibilities of an exporter.</p>
 		</div>
 	</li>
-	</ul>
+</ul>
 <h2>For more information on:</h2>
 
 <table style="minWidth: 100px">
@@ -445,47 +445,45 @@ the <a href="/businesses/acts-and-subsidiary-legislation/overview" rel="noopener
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep1.jpg">
-</div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods/">
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep1.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-hand-carried-commercial-goods/">
 </a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep2.jpg">
-</div>
-</td>
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep2.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/types-of-export-permits/">
+</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep3.jpg">
-</div>
-</td>
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/permit-validity-and-error-messages/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep3.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/permit-validity-and-error-messages/">
+</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep4.jpg">
-</div>
-</td>
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep4.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/permit-amendments-and-cancellation/">
+</a></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep7.jpg">
-</div>
-</td>
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-trade-samples/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep7.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-trade-samples/">
+</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep5.jpg">
-</div>
-</td>
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-pets/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep5.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/exporting-pets/">
+</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep6.jpg">
-</div>
-</td>
+<a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep6.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/exporting-goods/export-procedures/supply-of-air-sea-stores/">
+</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep8.jpg">
-</div>
-</td>
+<a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/authorised-piers-places/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/export-procedures/ep8.jpg">
+</a></div><a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedures/authorised-piers-places/">
+</a></td>
 </tr>
-</tbody>
-</table>
-<p></p>
+</tbody></table>
