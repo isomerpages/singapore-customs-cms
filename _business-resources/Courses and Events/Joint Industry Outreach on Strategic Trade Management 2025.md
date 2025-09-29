@@ -10,7 +10,7 @@ third_nav_title: Courses and Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jio2024.png">
 </div>
-<h4><strong>REGISTRATION IS NOW CLOSED</strong></h4>
+<h4><strong>REGISTRATION IS NOW OPENED</strong></h4>
 <p><strong>The 12th Joint Industry Outreach Seminar on Strategic Trade Management</strong>
 </p>
 <p><strong>Co-organised by Singapore, United States and Japan</strong>
