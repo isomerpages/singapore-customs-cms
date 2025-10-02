@@ -16,19 +16,17 @@ The  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002)
 
 **Strategic Goods (Control) Regulations**
 
-The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SGCA2002-RG1?DocDate=20180904#legis){:target="_blank"}  spell out the procedural guidelines to support the implementation of the SGCA – including facilitative permit procedures for legitimate activities and the conditions for approval, revocation, or suspension of the permits.
+The  [Strategic Goods (Control) Regulations (SGCR)](https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/661.pdf){:target="_blank"}  spell out the procedural guidelines to support the implementation of the SGCA – including facilitative permit procedures for legitimate activities and the conditions for approval, revocation, or suspension of the permits.
 
 **Strategic Goods (Control) Order**
 
-Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2024](https://sso.agc.gov.sg/SL/SGCA2002-S641-2024?DocDate=20240801){:target="_blank"}, effective from 1 October 2024. 
+Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2025](https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/660.pdf){:target="_blank"}, effective from 1 December 2025. 
 
-You may refer to the [amendment table](/files/businesses/tssb/SGCO_2024___Amendments_Table_26_8_24.pdf){:target="_blank"} for more information on the changes made.
-
-You may also wish to visit our [Frequently Asked Questions](/files/businesses/tssb/Frequently_Asked_Questions_SGCO2024.pdf){:target="_blank"} on the updates to the Strategic Goods (Control) Order 2024.
+You may also wish to visit our [Frequently Asked Questions](/files/Frequently_Asked_Questions_SGCO2025.pdf){:target="_blank"} on the updates to the Strategic Goods (Control) Order 2025.
 
 **Strategic Goods (Control) (Brokering) Order**
 
-Singapore has updated the categories of goods and technology which require a brokering registration in the  [Strategic Goods (Brokering) (Control) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20190801){:target="_blank"}, effective from 1 October 2019.
+Singapore has updated the categories of goods and technology which require a brokering registration in the  [Strategic Goods (Brokering) (Control) Order 2019](https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/662.pdf){:target="_blank"}, effective from 1 October 2019.
 
 **Useful Resources:**
 

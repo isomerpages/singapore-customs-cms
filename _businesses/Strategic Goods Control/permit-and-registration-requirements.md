@@ -33,7 +33,7 @@ For more information on STS, please refer to the [Strategic Trade Scheme Handboo
 
 ## Brokering
 
-A  **[brokering registration](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering){:target="_blank"}** is to be applied _at least 14 working days_  before the brokering of items and technology listed in the  [Strategic Goods (Control) (Brokering) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20190801=20190801){:target="_blank"}. A  [brokering permit](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering){:target="_blank"}  is also required under certain circumstances.
+A  **[brokering registration](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering){:target="_blank"}** is to be applied _at least 14 working days_  before the brokering of items and technology listed in the  [Strategic Goods (Control) (Brokering) Order 2019](https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/662.pdf){:target="_blank"}. A  [brokering permit](/businesses/strategic-goods-control/permit-and-registration-requirements/brokering){:target="_blank"}  is also required under certain circumstances.
 
 
 ## For more information on:
