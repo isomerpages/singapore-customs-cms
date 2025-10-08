@@ -19,7 +19,7 @@ Singapore Customs actively conducts seminars to update the industry on the lates
 
 | Year | Events |
 | ------ | ------ |
-| 2025  | [Joint Industry Outreach on Strategic Trade Management 2025](/joint-industry-outreach-on-strategic-trade-management-2025/)| by Japan, Singapore and the United States. 4 November 2025, Shangri-La Singapore
+| 2025  | [Joint Industry Outreach on Strategic Trade Management 2025](/joint-industry-outreach-on-strategic-trade-management-2025/) {:target="_blank"} by Japan, Singapore and the United States. 4 November 2025, Shangri-La Singapore
 
 ## Past Events
 
