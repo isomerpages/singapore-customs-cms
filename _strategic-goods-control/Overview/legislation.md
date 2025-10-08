@@ -22,6 +22,8 @@ The  [Strategic Goods (Control) Regulations (SGCR)](https://assets.egazette.gov.
 
 Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2025](https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/660.pdf){:target="_blank"}, effective from 1 December 2025. 
 
+You may refer to the [amendment table](/files/amendment_table.pdf){:target="_blank"} for more information on the changes made.
+
 You may also wish to visit our [Frequently Asked Questions](/files/Frequently_Asked_Questions_SGCO2025.pdf){:target="_blank"} on the updates to the Strategic Goods (Control) Order 2025.
 
 **Strategic Goods (Control) (Brokering) Order**
