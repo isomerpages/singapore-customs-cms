@@ -21,3 +21,7 @@ This guide outlines the Intangible Transfer of Technology (ITT) in the context o
 **[Guidebook on the Determination of Strategic Goods](https://go.gov.sg/strategic-goods-guidebook)** 
 
 This guidebook advises readers on the Strategic Goods Control List, and provides guidance on the determination of strategic goods. It also includes cases studies and frequently asked questions on strategic goods control.
+
+**Amendment to the Strategic Goods Control List** 
+
+This [document](/files/amendment_table.pdf) provides updates on the amendments to the Strategic Goods Control List 2025 (effective on 1 December 2025), in particular details on changes from Strategic Goods (Control) Order 2024 to Strategic Goods (Control) Order 2025.
