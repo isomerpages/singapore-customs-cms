@@ -17,8 +17,8 @@ variant: markdown
 
 -   [Biological Weapons Convention (BWC)](https://disarmament.unoda.org/biological-weapons/){:target="_blank"}
 -   [Chemical Weapons Convention (CWC)](http://www.opcw.org/){:target="_blank"}
--   [Nuclear Non-Proliferation Treaty (NPT)](https://www.un.org/disarmament/wmd/nuclear/npt/){:target="_blank"}
--   [UN Register of Conventional Arms](http://www.un.org/disarmament/convarms/Register/){:target="_blank"}
+-   [Nuclear Non-Proliferation Treaty (NPT)](https://disarmament.unoda.org/en/our-work/weapons-mass-destruction/nuclear-weapons/treaty-non-proliferation-nuclear-weapons){:target="_blank"}
+-   [UN Register of Conventional Arms](https://disarmament.unoda.org/en/our-work/cross-cutting-issues/military-confidence-building-measures/register-conventional-arms){:target="_blank"}
 -   [United Nations Security Council (UNSC) Resolutions](https://www.un.org/securitycouncil/content/resolutions-0){:target="_blank"}
 -   [United Nations Security Council (UNSC) Sanctions Committees](https://www.un.org/securitycouncil/content/repertoire/sanctions-and-other-committees){:target="_blank"}
 -   [United Nations Security Council (UNSC) Consolidated Sanctions List](https://www.un.org/sc/suborg/en/sanctions/un-sc-consolidated-list){:target="_blank"}
