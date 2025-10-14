@@ -31,8 +31,8 @@ are encouraged to attend the seminar.&nbsp;&nbsp;&nbsp;</p>
 <p>Registration for the in-person seminar is now closed. Due to overwhelming
 response, a virtual session will be available. Participants may register
 for the virtual session by clicking on the <a href="https://go.gov.sg/registration-jio-2025" class="Hyperlink SCXW79659585 BCX0" rel="noreferrer noopener" target="_blank"><u>registration link</u></a> and
-enter the passcode<strong> <u>JIO2025</u>. </strong>The registration deadline
-is 25 October 2025.</p>
+enter the passcode<strong> <u>JIO2025</u>. </strong>The deadline for the
+virtual registration is 25 October 2025.</p>
 <p>&nbsp;</p>
 <p>All successful and approved registrants will be notified via email and
 will receive an updated schedule and venue information.&nbsp;</p>
