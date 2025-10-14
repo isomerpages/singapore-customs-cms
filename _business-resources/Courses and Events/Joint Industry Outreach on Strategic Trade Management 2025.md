@@ -9,7 +9,7 @@ third_nav_title: Courses and Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="JIO 2025" src="/images/Joint_Industry_Outreach_on_Strategic_Trade_Management_2025.png">
 </div>
-<h4><strong>REGISTRATION IS NOW CLOSED</strong></h4>
+<h4><strong>REGISTER NOW FOR THE VIRTUAL SESSION!</strong></h4>
 <p><strong>The 13th Joint Industry Outreach Seminar on Strategic Trade Management</strong>
 </p>
 <p><strong>Co-organised by Singapore, United States and Japan</strong>
@@ -28,9 +28,11 @@ and best practices, current threats, and due diligence.&nbsp;</p>
 <p>Manufacturers, exporters, logistics providers, freight forwarders, academics
 and researchers dealing with strategic goods or strategic goods technology
 are encouraged to attend the seminar.&nbsp;&nbsp;&nbsp;</p>
-<p>Registration is <strong><u>free</u></strong>. Participants can register
-for the Seminar by clicking on the <a href="https://llnl.cventevents.com/5qNQyL" class="Hyperlink SCXW79659585 BCX0" rel="noreferrer noopener" target="_blank"><u>registration link</u></a> and
-enter the passcode<strong> <u>JIO2025</u>. The registration deadline is 6 October 2025</strong>.&nbsp;&nbsp;</p>
+<p>Registration for the in-person seminar is now closed. Due to overwhelming
+response, a virtual session will be available. Participants may register
+for the virtual session by clicking on the <a href="https://go.gov.sg/registration-jio-2025" class="Hyperlink SCXW79659585 BCX0" rel="noreferrer noopener" target="_blank"><u>registration link</u></a> and
+enter the passcode<strong> <u>JIO2025</u>. </strong>
+</p>
 <p>&nbsp;</p>
 <p>All successful and approved registrants will be notified via email and
 will receive an updated schedule and venue information.&nbsp;</p>
