@@ -1,6 +1,6 @@
 ---
 title: 242025 TradeNet Extended Downtime
-date: 2025-10-23
+date: 2025-10-24
 layout: file
 description: ""
 image: ""
