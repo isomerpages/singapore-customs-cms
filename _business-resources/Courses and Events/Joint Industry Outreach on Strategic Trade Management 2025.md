@@ -6,21 +6,21 @@ description: ""
 third_nav_title: Courses and Events
 ---
 <h3><strong>Joint Industry Outreach on Strategic Trade Management 2025</strong></h3>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="JIO 2025" src="/images/Joint_Industry_Outreach_on_Strategic_Trade_Management_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/updated_JIO_2025.jpg">
 </div>
 <h4><strong>REGISTER NOW FOR THE VIRTUAL SESSION!</strong></h4>
 <p><strong>The 13th Joint Industry Outreach Seminar on Strategic Trade Management</strong>
 </p>
-<p><strong>Co-organised by Singapore, United States and Japan</strong>
+<p><strong>Co-organised by Singapore and Japan</strong>
 </p>
 <p><strong>Date</strong>: 4 November 2025</p>
 <p><strong>Venue</strong>: Shangri-La Singapore</p>
 <p><strong>Time</strong>: 9.00am - 5.00pm (Registration starts at 8am)</p>
-<p>The U.S. Department of State (DOS), the U.S. Department of Energy (DOE),
-the U.S. Department of Commerce (DOC), and Japan’s Ministry of Economy,
-Trade and Industry (METI) and Singapore Customs will be organising a one-day
-strategic trade control seminar on 4 November 2025.</p>
+<p>Japan’s Ministry of Economy, Trade and Industry (METI) and Singapore Customs
+will be organising a one-day strategic trade control seminar on 4 November
+2025.</p>
 <p>The event will feature experts and practitioners of strategic trade and
 export control, including Government representatives who will be providing
 regulatory updates. Additionally, speakers will present on compliance challenges
