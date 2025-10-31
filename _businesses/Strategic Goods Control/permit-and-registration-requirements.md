@@ -29,7 +29,7 @@ The permit procedures under the STS consist of:
 
 **Note:** The permit application will only be processed after all the required documents have been submitted to Singapore Customs.
 
-For more information on STS, please refer to the [Strategic Trade Scheme Handbook](/files/businesses/seb/STS_Handbook___updated_1_Oct_2024.pdf).
+For more information on STS, please refer to the [Strategic Trade Scheme Handbook](/files/STS_Handbook___updated_Oct_2025.pdf).
 
 ## Brokering
 
