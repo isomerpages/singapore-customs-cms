@@ -6,6 +6,12 @@ variant: markdown
 ---
 # Announcement 
 
+**1 Nov 2025**
+
+**Chemical Weapons Convention Licence Renewal Exercise for Year 2026**
+
+The Chemical Weapons Convention (CWC) Licence Renewal Exercise for Year 2025 will commence from 1 Nov 2025 to 31 Dec 2025. Companies engaging in the controlled activities may submit the licence renewal applications by 31 Dec 2025. Please fill out the licence application forms which can be accessed from the [Chemical Weapons Convention Forms section on the Customs Forms and Service Links page](https://www.customs.gov.sg/eservices/customs-forms-and-service-links/).
+
 
 **18 Oct 2023**
 
