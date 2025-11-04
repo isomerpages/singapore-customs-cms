@@ -53,7 +53,7 @@ more information on Singapore’s non-preferential rules of origin, which
 also applies to the issuance of ordinary COs.</p>
 <h4><strong>Who can issue an Ordinary CO?</strong></h4>
 <ul>
-<li>
+
 <p>Ordinary COs are issued by Singapore Customs or any of the following authorised
 organisations:</p>
 <p></p>
@@ -90,56 +90,56 @@ other countries which are re-exported from Singapore. However, they do
 not issue ordinary COs for the export of Singapore-origin textiles and
 textile goods to the United States of America.</p>
 <p></p>
-</li>
+
 </ul>
 <h4><strong>How to Apply for Ordinary CO?</strong></h4>
 <ul>
-<li>
+
 <p>You may apply for an ordinary CO with any of the five authorised organisation
 through their website.</p>
 <p></p>
 <p>To apply for an Ordinary CO with Singapore Customs, you may refer to the
 following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>
 </p>
-</li>
+
 </ul>
 <h2><strong>Preferential Origin</strong></h2>
 <ul data-tight="true" class="tight">
-<li>
+
 <p>A preferential proof of origin allows your buyer to pay lower or no customs
 duty when you export your goods under a <a href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#" rel="noopener noreferrer nofollow" target="_blank">Free Trade Agreement</a>.
 You may refer to Enterprise Singapore's <a href="https://sg.mendel-online.com/" rel="noopener noreferrer nofollow" target="_blank">Tariff Finder</a> Tool to assist you
 in the following:</p>
-</li>
-<li>
+
+
 <p>Whether the goods are covered under Free Trade Agreement and the corresponding
 preferential tariffs.</p>
-</li>
-<li>
+
+
 <p>Which Free Trade Agreement is most suitable for your goods.</p>
-</li>
-<li>
+
+
 <p>Who can issue a preferential proof of origin?</p>
-</li>
-<li>
+
+
 <p>The type of preferential proof of origin applicable for your goods depends
 on the requirements under the specific Free Trade Agreement that you apply
 for.</p>
-</li>
-<li>
+
+
 <p>There are three different types of preferential proof of origin:</p>
 <ul data-tight="true" class="tight">
-<li>
+
 <p>1) Preferential CO issued by Singapore Customs</p>
-</li>
-<li>
+
+
 <p>2) Origin declaration by Approved/Certified Exporters</p>
-</li>
-<li>
+
+
 <p>3) Origin declaration by Exporter/Producer/Importer</p>
-</li>
+
 </ul>
-</li>
+
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Certificate%20of%20Origin/type_of_POO.png">
