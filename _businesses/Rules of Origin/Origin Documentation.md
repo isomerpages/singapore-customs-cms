@@ -37,21 +37,23 @@ accordion:
 variant: tiptap
 description: ""
 ---
-<h1>Origin Documentation</h1>
+<h1><strong>Origin Documentation</strong></h1>
 <p>Origin Documentation, also known as proof of origin, helps to attest to
 the origin of goods. Broadly, there are two types of origin, namely <strong>non-preferential origin</strong> and <strong>preferential origin</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Certificate%20of%20Origin/origin_doc.png">
 </div>
-<h2>Non-Preferential Origin</h2>
+<h2><strong>Non-Preferential Origin</strong></h2>
 <p>An ordinary Certificate of Origin (CO), also known as a non-preferential
-CO, is a trade document that helps to identify the origin of the good.</p>
+CO, is a trade document that helps to identify the origin of the good.
+It is an optional document which you may wish to obtain for commercial
+reasons.</p>
 <p>You may refer to this <a href="/files/businesses/ttsb-roo/Handbook_on_the_Non_Preferential_Rules_of_Origin.pdf" rel="noopener noreferrer nofollow" target="_blank">handbook</a> for
-more information on the rules of origin for ordinary COs.</p>
+more information on Singapore’s non-preferential rules of origin, which
+also applies to the issuance of ordinary COs.</p>
+<h4><strong>Who can issue an Ordinary CO?</strong></h4>
 <ul>
 <li>
-<p>Who can issue an Ordinary CO?</p>
-<p></p>
 <p>Ordinary COs are issued by Singapore Customs or any of the following authorised
 organisations:</p>
 <p></p>
@@ -89,8 +91,10 @@ not issue ordinary COs for the export of Singapore-origin textiles and
 textile goods to the United States of America.</p>
 <p></p>
 </li>
+</ul>
+<h4><strong>How to Apply for Ordinary CO?</strong></h4>
+<ul>
 <li>
-<p>How to Apply for Ordinary CO?</p>
 <p>You may apply for an ordinary CO with any of the five authorised organisation
 through their website.</p>
 <p></p>
@@ -99,12 +103,14 @@ following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-
 </p>
 </li>
 </ul>
-<h2>Preferential Origin</h2>
+<h2><strong>Preferential Origin</strong></h2>
+<ul data-tight="true" class="tight">
+<li>
 <p>A preferential proof of origin allows your buyer to pay lower or no customs
 duty when you export your goods under a <a href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/international-agreements/free-trade-agreements/find-an-fta#" rel="noopener noreferrer nofollow" target="_blank">Free Trade Agreement</a>.
 You may refer to Enterprise Singapore's <a href="https://sg.mendel-online.com/" rel="noopener noreferrer nofollow" target="_blank">Tariff Finder</a> Tool to assist you
 in the following:</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Whether the goods are covered under Free Trade Agreement and the corresponding
 preferential tariffs.</p>
@@ -112,72 +118,60 @@ preferential tariffs.</p>
 <li>
 <p>Which Free Trade Agreement is most suitable for your goods.</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Who can issue a preferential proof of origin?</p>
+</li>
+<li>
 <p>The type of preferential proof of origin applicable for your goods depends
 on the requirements under the specific Free Trade Agreement that you apply
 for.</p>
+</li>
+<li>
 <p>There are three different types of preferential proof of origin:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
-<p>Preferential CO issued by Singapore Customs</p>
+<p>1) Preferential CO issued by Singapore Customs</p>
 </li>
 <li>
-<p>Origin declaration by Approved/Certified Exporters</p>
+<p>2) Origin declaration by Approved/Certified Exporters</p>
 </li>
 <li>
-<p>Origin declaration by Exporter/Producer/Importer</p>
+<p>3) Origin declaration by Exporter/Producer/Importer</p>
 </li>
-</ol>
+</ul>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Certificate%20of%20Origin/type_of_POO.png">
 </div>
 <p></p>
-</li>
-<li>
-<p>How to obtain a preferential proof of origin?</p>
-<p></p>
+<h4><strong>How to obtain a preferential proof of origin?</strong></h4>
 <p><strong>Certification by Customs Authority</strong>
 </p>
-<p></p>
 <p>For Free Trade Agreements that require Certification by Customs Authority,
 you may refer to the following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>.</p>
 <p>You may refer to <a href="/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on rules of origin for preferential Certificates of Origin</a> for
 more information on the rules of origin for preferential COs issued under
 Free Trade Agreements.</p>
-<p></p>
 <p>You may use the <a href="/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm" rel="noopener noreferrer nofollow" target="_blank">FTA Cost Statement Calculator</a> for
 a preliminary assessment of the qualifying value content and/or Change
 in Tariff Classification status of your manufactured good under a specific
 Free Trade Agreement, after you have identified the applicable origin criterion(a)
 for the good under the Agreement.</p>
-<p></p>
 <p><strong>Approved Exporter and/or Certified Exporter Scheme</strong>
 </p>
-<p></p>
 <p>To find out more about the Approved Exporter and/or Certified Exporter
 Scheme administered by Singapore Customs, you may refer to the following
 guide for more information.</p>
-<p></p>
 <p><a href="/businesses/certificates-of-origin/aece/" rel="noopener noreferrer nofollow" target="_blank">Approved Exporter and/or Certified Exporter Scheme</a>
 </p>
-<p></p>
 <p><strong>Self-Certification Regime</strong>
 </p>
-<p></p>
 <p>For Free Trade Agreements that are under the Self-Certification regime,
 you may refer to the following guide for more information.</p>
-<p></p>
 <p><a href="/businesses/certificates-of-origin/sc/" rel="noopener noreferrer nofollow" target="_blank">Self-Certification Regime</a>
 </p>
-<p>
-<br>
-</p>
 <p></p>
-</li>
-</ul>
 <h2>For more information on:</h2>
 <table style="minWidth: 100px">
 <colgroup>
@@ -204,17 +198,17 @@ you may refer to the following guide for more information.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/how-to-apply-for-b2b/"><img src="/images/picture2.jpg" alt="" width="100%" height="auto" style="width: 100%"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/how-to-cancel-or-amend-a-co/"><img src="/images/picture3.jpg" alt="" width="100%" height="auto" style="width: 100%"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/asw/"><img src="/images/picture4.jpg" alt="" width="100%" height="auto" style="width: 100%"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,12 +218,12 @@ you may refer to the following guide for more information.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/eodes-with-china/"><img src="/images/picture5.jpg" alt="" width="100%" height="auto" style="width: 100%"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/manualissuance/"><img src="/images/Picture5v3.png" alt="" width="100%" height="auto" style="width: 100%"></a>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5v3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
