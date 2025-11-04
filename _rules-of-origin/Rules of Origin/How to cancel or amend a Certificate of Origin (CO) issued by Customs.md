@@ -1,8 +1,9 @@
 ---
 title: How to cancel or amend a Certificate of Origin (CO) issued by Customs
-permalink: /businesses/certificates-of-origin/how-to-cancel-or-amend-a-co/
-third_nav_title: Certificates of Origin
+permalink: /businesses/rules-of-origin/how-to-cancel-or-amend-a-co/
+third_nav_title: Rules of Origin
 variant: markdown
+description: ""
 ---
 ## How to cancel a Certificate of Origin?
 

@@ -1,9 +1,8 @@
 ---
 title: Best Practices and Offences
 permalink: /businesses/certificates-of-origin/best-practices-and-offences/
-third_nav_title: Certificates of Origin
+third_nav_title: Rules of Origin
 ---
-
 ## Best Practices
 
 You are accountable as an exporter or declaring agent for the export of goods and compliance with the Rules of Origin requirements. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements:
@@ -40,7 +39,3 @@ For minor offences under the RIEA, Singapore Customs may offer to compound the o
 | **Incorrect trade descriptions** <br>(Section 28A(1)(a) of the RIEA)<br><br> **Failure to comply with requirements of the Director-General for the issue of preferential CO** <br>(Regulation 24B(4) of the RIER) | First conviction:<br>A fine not exceeding S$100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 2 years or to both.<br><br>Second or subsequent conviction:<br>A fine not exceeding S$200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is greater, or imprisonment for a term not exceeding 3 years or to both. |
 
 You may view more information on the prescribed offences and penalties under the [RIEA and RIER](/businesses/acts-and-subsidiary-legislation/overview).
-
-
-
-

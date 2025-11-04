@@ -1,8 +1,9 @@
 ---
 title: Electronic Origin Data Exchange System (EODES) with China
-permalink: /businesses/certificates-of-origin/eodes-with-china/
-third_nav_title: Certificates of Origin
+permalink: /businesses/rules-of-origin/eodes-with-china/
+third_nav_title: Rules of Origin
 variant: markdown
+description: ""
 ---
 # Electronic Origin Data Exchange System (EODES) with China
 

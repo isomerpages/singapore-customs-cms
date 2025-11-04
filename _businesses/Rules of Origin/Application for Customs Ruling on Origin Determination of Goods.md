@@ -1,7 +1,7 @@
 ---
 title: Application for Customs Ruling on Origin Determination of Goods
-permalink: /businesses/certificates-of-origin/application-for-customs-ruling-on-origin-determination-of-goods/
-third_nav_title: Certificates of Origin
+permalink: /businesses/rules-of-origin/application-for-customs-ruling-on-origin-determination-of-goods/
+third_nav_title: Rules of Origin
 accordion:
   - title: Who can apply?
     content: <br> If you are an importer importing stout/porter, beer including ale,
@@ -49,6 +49,7 @@ accordion:
       The issued Customs ruling may also be withdrawn or rescinded on the
       grounds stated in paragraph 7(9) of the Schedule to the Customs Act.
 variant: markdown
+description: ""
 ---
 **Application for Customs Ruling on Origin Determination of Goods**
 

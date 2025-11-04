@@ -1,9 +1,9 @@
 ---
 title: Manual Issuance of CO when TradeNet is Unavailable
-permalink: /businesses/certificates-of-origin/manualissuance/
+permalink: /businesses/rules-of-origin/manualissuance/
 variant: tiptap
 description: ""
-third_nav_title: Certificates of Origin
+third_nav_title: Rules of Origin
 ---
 <h2>Manual Issuance of Certificate of Origin</h2>
 <h4>When TradeNet is Not Available</h4>

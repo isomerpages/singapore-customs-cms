@@ -1,7 +1,7 @@
 ---
 title: Approved Exporter and Certified Exporter Scheme
-permalink: /businesses/certificates-of-origin/aece/
-third_nav_title: Certificates of Origin
+permalink: /businesses/rules-of-origin/aece/
+third_nav_title: Rules of Origin
 description: ""
 variant: markdown
 ---

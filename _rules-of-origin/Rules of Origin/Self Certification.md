@@ -1,8 +1,8 @@
 ---
 title: Self Certification
-permalink: /businesses/certificates-of-origin/sc/
+permalink: /businesses/rules-of-origin/sc/
 description: ""
-third_nav_title: Certificates of Origin
+third_nav_title: Rules of Origin
 variant: markdown
 ---
 # Free Trade Agreements under Self-Certification regime

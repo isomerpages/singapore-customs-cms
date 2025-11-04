@@ -1,0 +1,19 @@
+collections:
+  rules-of-origin:
+    output: true
+    order:
+      - Rules of Origin/.keep
+      - Rules of Origin/How to apply for Ordinary Certificate of origin (OCO) or
+        Preferential Certificate of Origin (PCO).md
+      - Rules of Origin/How to apply for a Back to Back Preferential Certificate
+        of Origin.md
+      - Rules of Origin/Electronic Exchange of Form D via the ASEAN Single
+        Window (ASW).md
+      - Rules of Origin/Electronic Origin Data Exchange System (EODES) with
+        China.md
+      - Rules of Origin/How to cancel or amend a Certificate of Origin (CO)
+        issued by Customs.md
+      - Rules of Origin/Approved Exporter and Certified Exporter Scheme.md
+      - Rules of Origin/Self Certification.md
+      - Rules of Origin/Manual Issuance of CO when TradeNet is Unavailable.md
+      - Rules of Origin/best-practices-and-offences.md

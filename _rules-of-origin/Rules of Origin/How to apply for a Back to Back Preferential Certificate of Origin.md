@@ -1,7 +1,7 @@
 ---
 title: How to apply for a Back to Back Preferential Certificate of Origin
-permalink: /businesses/certificates-of-origin/how-to-apply-for-b2b/
-third_nav_title: Certificates of Origin
+permalink: /businesses/rules-of-origin/how-to-apply-for-b2b/
+third_nav_title: Rules of Origin
 description: ""
 variant: markdown
 ---

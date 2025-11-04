@@ -1,8 +1,8 @@
 ---
 title: How to apply for Ordinary Certificate of origin (OCO) or Preferential
   Certificate of Origin (PCO)
-permalink: /businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/
-third_nav_title: Certificates of Origin
+permalink: /businesses/rules-of-origin/how-to-apply-for-oco-or-pco/
+third_nav_title: Rules of Origin
 description: ""
 variant: tiptap
 ---
