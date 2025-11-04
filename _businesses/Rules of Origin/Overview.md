@@ -20,11 +20,11 @@ goods are produced or manufactured.</p>
 (i.e. for goods that are not seeking preferential tariff treatment), the
 following origin criteria apply:</p>
 <ul data-tight="true" class="tight">
-<li>
+
 <p>a) Be wholly obtained (i.e. wholly grown or produced entirely in Singapore);
 or</p>
-</li>
-<li>
+
+
 <p>b) Have undergone substantial transformation in Singapore by meeting any
 of the following criteria:</p>
 <ul data-tight="true" class="tight">
@@ -41,7 +41,7 @@ Change in Tariff Sub-Heading); or</p>
 to 40).</p>
 </li>
 </ul>
-</li>
+
 </ul>
 <p>Goods which have only undergone minimal processing in Singapore, would
 not qualify as Singapore-originating.</p>
