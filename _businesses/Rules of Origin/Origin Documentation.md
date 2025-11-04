@@ -99,7 +99,7 @@ textile goods to the United States of America.</p>
 through their website.</p>
 <p></p>
 <p>To apply for an Ordinary CO with Singapore Customs, you may refer to the
-following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>
+following guide on <a href="/businesses/rules-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>
 </p>
 
 </ul>
@@ -149,7 +149,7 @@ for.</p>
 <p><strong>Certification by Customs Authority</strong>
 </p>
 <p>For Free Trade Agreements that require Certification by Customs Authority,
-you may refer to the following guide on <a href="/businesses/certificates-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>.</p>
+you may refer to the following guide on <a href="/businesses/rules-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>.</p>
 <p>You may refer to <a href="/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on rules of origin for preferential Certificates of Origin</a> for
 more information on the rules of origin for preferential COs issued under
 Free Trade Agreements.</p>
@@ -163,13 +163,13 @@ for the good under the Agreement.</p>
 <p>To find out more about the Approved Exporter and/or Certified Exporter
 Scheme administered by Singapore Customs, you may refer to the following
 guide for more information.</p>
-<p><a href="/businesses/certificates-of-origin/aece/" rel="noopener noreferrer nofollow" target="_blank">Approved Exporter and/or Certified Exporter Scheme</a>
+<p><a href="/businesses/rules-of-origin/aece/" rel="noopener noreferrer nofollow" target="_blank">Approved Exporter and/or Certified Exporter Scheme</a>
 </p>
 <p><strong>Self-Certification Regime</strong>
 </p>
 <p>For Free Trade Agreements that are under the Self-Certification regime,
 you may refer to the following guide for more information.</p>
-<p><a href="/businesses/certificates-of-origin/sc/" rel="noopener noreferrer nofollow" target="_blank">Self-Certification Regime</a>
+<p><a href="/businesses/rules-of-origin/sc/" rel="noopener noreferrer nofollow" target="_blank">Self-Certification Regime</a>
 </p>
 <p></p>
 <h2>For more information on:</h2>
