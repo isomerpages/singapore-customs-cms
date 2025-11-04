@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /businesses/rules-of-origin/overview/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Rules of Origin
 ---
@@ -19,25 +19,39 @@ goods are produced or manufactured.</p>
 <p>To qualify as goods of Singapore origin for non-preferential purposes
 (i.e. for goods that are not seeking preferential tariff treatment), the
 following origin criteria apply:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>a) Be wholly obtained (i.e. wholly grown or produced entirely in Singapore);
 or</p>
+</li>
+<li>
 <p>b) Have undergone substantial transformation in Singapore by meeting any
 of the following criteria:</p>
-<p>i) Manufactured in Singapore with minimum 25% of Local Content based on
-the ex- factory price of the finished goods;</p>
-<p>ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attained a Change in Tariff Classification
-at the 6-digit level (i.e. Change in Tariff Sub-Heading); or</p>
-<p>iii)&nbsp;&nbsp;&nbsp;&nbsp; Undergone a Chemical Reaction (only for products
-under HS Chapters 27 to 40).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Manufactured in Singapore with minimum 25% of Local Content based on the
+ex- factory price of the finished goods;</p>
+</li>
+<li>
+<p>Attained a Change in Tariff Classification at the 6-digit level (i.e.
+Change in Tariff Sub-Heading); or</p>
+</li>
+<li>
+<p>Undergone a Chemical Reaction (only for products under HS Chapters 27
+to 40).</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>Goods which have only undergone minimal processing in Singapore, would
 not qualify as Singapore-originating.</p>
-<h4><strong><u>Simple/Minimal processes:</u></strong></h4>
-<ol data-tight="true" class="tight">
+<h4>Simple/Minimal processes:</h4>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>&nbsp;</strong>Operations to ensure the preservation of products
-in good condition during transport and storage (ventilation, spreading
-out, drying, chilling, placing in salt, sulphur dioxide or other aqueous
-solutions, removal of damaged parts, and like operations);</p>
+<p>Operations to ensure the preservation of products in good condition during
+transport and storage (ventilation, spreading out, drying, chilling, placing
+in salt, sulphur dioxide or other aqueous solutions, removal of damaged
+parts, and like operations);</p>
 </li>
 <li>
 <p>Simple operations consisting of removal of dust, sifting or screening,
@@ -65,10 +79,10 @@ or their packaging;</p>
 <li>
 <p>Slaughter of animals.</p>
 </li>
-</ol>
+</ul>
 <p>You may refer to this <a href="https://www.customs.gov.sg/files/businesses/ttsb-roo/Handbook_on_the_Non_Preferential_Rules_of_Origin.pdf" rel="noopener noreferrer nofollow" target="_blank">handbook</a> for
 more information on Singapore’s non-preferential ROO. They also apply to
-the issuance of <a href="https://www.customs.gov.sg/businesses/certificates-of-origin/overview/" rel="noopener noreferrer nofollow" target="_blank">ordinary (non-preferential) Certificates of Origin</a>,
+the issuance of <a href="https://www.customs.gov.sg/businesses/rules-of-origin/origin-documentation/" rel="noopener noreferrer nofollow" target="_blank">ordinary (non-preferential) Certificates of Origin</a>,
 which you may wish to obtain for commercial reasons.</p>
 <p>For the purposes of Singapore’s import, export and transhipment permit
 applications, the “Country/Region of Origin” of a good refers to the country/region
@@ -84,4 +98,4 @@ tariff treatment when goods are exported from Singapore to an FTA partner
 country/region, your goods must meet the specific origin criteria set out
 in the relevant FTA that is in force. You may use the <a href="https://www.enterprisesg.gov.sg/grow-your-business/go-global/international-agreements/free-trade-agreements/find-an-fta" rel="noopener noreferrer nofollow" target="_blank">EnterpriseSG FTA search engine</a> to
 identify the applicable origin criteria for your goods. There are three
-types of <a href="https://www.customs.gov.sg/businesses/certificates-of-origin/overview/" rel="noopener noreferrer nofollow" target="_blank">preferential proof of origin</a>.</p>
+types of <a href="https://www.customs.gov.sg/businesses/rules-of-origin/origin-documentation/" rel="noopener noreferrer nofollow" target="_blank">preferential proof of origin</a>.</p>
