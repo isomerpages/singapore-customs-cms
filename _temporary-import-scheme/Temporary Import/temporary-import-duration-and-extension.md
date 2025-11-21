@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Temporary Import Duration and Extension
 
-Goods may be temporarily imported into Singapore for a maximum of 6 months. If additional time is needed request, an extension may be applied through TradeNet. A maximum of 3 months may be applied for each extension request. Traders are required to provide reason(s) for extensions and relevant documents to support the requests.
+Goods may be temporarily imported into Singapore for a maximum of 6 months. If additional time is needed, an extension may be applied through TradeNet. A maximum of 3 months may be applied for each extension request. Traders are required to provide reason(s) for extensions and relevant documents to support the requests.
 
 ## How to Apply for Extension
 
