@@ -105,22 +105,28 @@ More information on the offences and penalties under the Customs Act [here](/ind
 
 ## Best Practices
 
-You are accountable as a trader or Declaring Agent for the goods imported under the TIS. You are encouraged to observe the following Dos and Don’ts to improve your compliance with regulatory requirements.
+You are accountable as a trader or Declaring Agent for the goods imported under the TIS. You must observe the following Dos and Don’ts and adhere to regulatory requirements.
 
  <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Do</label>
     <div>
-      <p>✔ Check if goods are controlled by any Competent Authority and seek their approval before the temporary importation of goods.This is a simple one line item</p>
+      <p>✔ Check if goods are controlled by any Competent Authority and seek their approval before the temporary importation of goods.This is a simple one-line item.</p>
 			<p>✔  Ensure you <a href="https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/security-lodgement">lodge sufficient security</a> in the form of Banker’s Guarantee (BG), Finance Company Guarantee or an Insurance Bond to cover the amount of security required and the security has sufficient validity to cover the total temporary import period declared.</p>
-			<p>✔ Ensure goods brought in under the TIS are re-exported no later than the temporary importation End-Date indicated on the approved Singapore Customs Inward permit or the final date allowed for re-exportation/re-importation under the ATA Carnet.</p>
-			<p>✔ Ensure that you comply with the permit condition</p>
-			<p>- D6 condition - “An E-file application must be made to Company Compliance Branch for supervision of stuffing/unstuffing of container.”</p>
+			<p>✔ Ensure that permits applied under TCS have details of the exhibition and exhibitor(s) declared in the permit [i.e. name and year of the exhibition and name of the exhibitor(s) should be indicated in “Remarks” field, exhibition location name and address should be indicated in “Place of Receipt Name and Address” field].</p>
+			<p>✔ For temporary imports that are hand-carried, please indicate the name and passport number of the person hand-carrying the goods in the “Remarks” field.</p>
+			<p>✔ Ensure that the information or supporting documents (e.g. Commercial Invoice/ Packing List) provided in the permit application allows Customs to identify the goods declared during clearance or inspections. </p>
+			<p> ✔ Ensure that goods are only imported into Singapore under a qualifying purpose under the TIS, and that the correct permit type for the temporary import is declared.</p>
+			<p>✔ Ensure that extension (if required) of the temporary import permit is taken up before the expiry of the temporary import period, with submission of the relevant supporting documents.</p>
+			<p> ✔ Ensure that a payment permit is taken up within 3 working days of any sale, disposal, transfer or expiry of the temporary import period (whichever is earlier).</p>
+			<p>✔ Ensure goods brought in under the TIS are re-exported no later than the temporary importation End-Date indicated on the approved Customs inward permit.</p>
+			<p>✔ Ensure that you comply with the permit conditions:</p>
+			<p>- DD condition – “Goods must be re-exported under a Customs ‘OO’, ‘OU’ or ‘XO’ permit before the stipulated deadline".</p>
+			<p> - D6 condition – “An E-file application must be made to Company Compliance Branch for supervision of stuffing of containers for export.”</p>
+			<p> - D7 condition – “An E-file application must be made to Company Compliance Branch for inspection of the goods.”</p>
 			<p>✔ Ensure you declare the correct permit type for goods to be re-exported under the TIS with the relevant supporting documents.</p>
-			<p>✔ Ensure there is sufficient number of vouchers and counterfoils attached together with the ATA Carnet to cover the movement of the goods.</p>
-			<p>✔ Ensure there is proper endorsement on the front page and the counterfoils of the ATA Carnet.</p>
-			<p>✔ Ensure to apply for customs supervision of stuffing of the container containing goods exported under ATA Carnet or inspection of all goods exported under TIS (refer to permit conditions).</p>
+			<p>✔ Ensure to apply for customs supervision of stuffing of containers containing goods exported under ATA Carnet or inspection of all goods exported under TIS (refer to permit conditions).</p>
     </div>
   </li> 
 	  <li>
