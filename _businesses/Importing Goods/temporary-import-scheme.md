@@ -77,20 +77,31 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
 
 Traders may be penalised under the Customs Act if they do not comply with the requirements of the Temporary Import Scheme.
 
-**Examples of common offences**
+**Examples of non-compliance detected:**
 
-- Failure to re-export goods before the temporary importation end-date
--   Failure to request for extension of ATA Carnet before the due date for re-exportation
--   Failure to apply for Customs’ supervision for temporary imported goods
--   Exporting goods in container under a Customs Outward permit (OUT [TCR]) without applying for Customs’ supervision for the stuffing of container
--   Exporting goods under a local ATA Carnet without applying for Customs’ supervision
--   Failure to produce goods under TIS for customs clearance/endorsement
--   Exporting goods under a Customs Outward permit (OUT [TCR]) without producing the goods and permit for endorsement at the checkpoint
--   Exporting goods under the ATA Carnet without producing the goods and the ATA Carnet for endorsement at the checkpoint
--   Failure to obtain Customs Outward permit
--   Exporting goods under an OUT (Direct) permit with permit prefix “OD” instead of the correct Customs Outward permit OUT (TCR) with permit prefix “OO”
--   Making an incorrect declaration
--   Goods were temporarily imported under a Customs Inward permit (In-Non-Payment [TCS]). The same goods were then re-exported using a Customs Outward permit meant for Temporary export/re-import (OUT [TCI]) instead of the correct Customs Outward permit (Out [TCS])
+**Incorrect Declarations**
+
+- Application declared for non-qualifying goods (e.g. consumable goods) or non-qualifying purposes (e.g. rental).
+- Goods temporarily imported were declared under an incorrect declaration type (e.g. declared under INP(TCR) for repair instead of under INP(TCS) for goods for display at an exhibition).
+- Goods temporarily imported under a Customs inward permit for temporary import (e.g. INP[TCR]) were subsequently declared for re-export under an incorrect outward declaration type (e.g. OUT [Direct]), instead of the correct outward declaration type (e.g. OUT [TCR]).
+- Goods temporarily imported under a Customs inward permit for temporary import (e.g. INP[TCS]) were subsequently declared for re-export under an incorrect outward declaration for temporary export (i.e. OUT[TCI])), instead of the correct outward declaration type (e.g. OUT [TCS]). 
+
+**Export Without a Customs Outward Permit**
+
+- Failure to obtain a Customs outward permit before the temporary imported goods are re-exported from Singapore.
+
+**Failure to Obtain Approval for Extension to Temporary Import Period**
+
+- Failure to obtain approval for an extension to the temporary import period before the temporary importation end-date.
+
+**Breach of Permit Conditions**
+
+-  Failure to Re-export the Temporarily Imported Goods before the Temporary Importation End-date: DD permit condition states that the “goods must be re-exported by date”.
+-  Failure to Re-export the Temporarily Imported Goods Using the Correct Permit: DD permit condition states that the “goods must be exported under a Customs ‘OO’, ‘OU’ or ‘XO’ permit before the stipulated dateline”.
+- Failure to Apply for Customs Supervision for Customs Outward Permit Container: D6/D7 permit condition states that an E-file application must be made to Company Compliance &amp; Audit Branch for supervision of stuffing of containers for export or for inspection of the goods.
+- Failure to Produce Goods Imported under the Temporary Import Scheme for customs clearance/endorsement at the checkpoints during import and export:
+	- Permit and hand-carried goods were not presented at the airport for customs clearance/endorsement.
+	- Driver did not produce goods for customs clearance/endorsement at the respective cargo checkpoints.
 
 For minor offences under the Customs Act, Singapore Customs may compound the offences for a sum not exceeding S$5,000 per offence. Offenders may be prosecuted if the offence committed is of a fraudulent or serious nature.
 
@@ -126,7 +137,7 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
 			<p> - D6 condition – “An E-file application must be made to Company Compliance Branch for supervision of stuffing of containers for export.”</p>
 			<p> - D7 condition – “An E-file application must be made to Company Compliance Branch for inspection of the goods.”</p>
 			<p>✔ Ensure you declare the correct permit type for goods to be re-exported under the TIS with the relevant supporting documents.</p>
-			<p>✔ Ensure to apply for customs supervision of stuffing of containers containing goods exported under ATA Carnet or inspection of all goods exported under TIS (refer to permit conditions).</p>
+			<p>✔ Ensure to apply for customs supervision of stuffing of containers or inspection of goods exported under TIS (refer to permit conditions).</p>
     </div>
   </li> 
 	  <li>
@@ -135,7 +146,6 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
     <div>
       <p>✖ Remove any GST suspended goods for export or local consumption without the proper permits.</p>
 			<p>✖ Remove the Customs seal affixed to the container containing goods imported under the TIS without prior approval from Singapore Customs. You are required to apply for customs supervision of unstuffing of such sealed containers.</p>
-			<p>✖ Sell goods brought in under an ATA Carnet beyond the final date allowed for re-exportation without paying the GST to Singapore Customs.</p>
     </div>
   </li>
 	</ul>
