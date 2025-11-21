@@ -73,6 +73,7 @@ The Temporary Import/Export Scheme (TIS) is designed to allow traders to:
     
 -   [ATA Carnet](/businesses/importing-goods/temporary-import-scheme/ata-carnet)
 -   [Carnet de Passages en Douane](/businesses/importing-goods/temporary-import-scheme/carnet-de-passages-en-douane-cpd)
+
 ## Errors and Offences
 
 Traders may be penalised under the Customs Act if they do not comply with the requirements of the Temporary Import Scheme.
