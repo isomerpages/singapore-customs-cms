@@ -31,7 +31,7 @@ GST and/or duties are payable on any item that is temporarily imported if the go
 -   Transferred locally; or
 -   Not exported out of Singapore upon expiry of the temporary import period.
 
-You must obtain a Customs In-Payment GST permit and indicate the previous temporary import permit number in the “Previous Permit No.” field.
+You must obtain a Customs In-Payment permit within 3 working days of the sale, disposal, transfer, or expiry of the temporary import period (whichever is earlier). You are required to indicate the previous temporary import permit number in the “Previous Permit No.” field.
 
 ## Import & Export Permits
 
