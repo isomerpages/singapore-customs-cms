@@ -97,8 +97,8 @@ Traders may be penalised under the Customs Act if they do not comply with the re
 
 **Breach of Permit Conditions**
 
--  Failure to Re-export the Temporarily Imported Goods before the Temporary Importation End-date: DD permit condition states that the “goods must be re-exported by date”.
--  Failure to Re-export the Temporarily Imported Goods Using the Correct Permit: DD permit condition states that the “goods must be exported under a Customs ‘OO’, ‘OU’ or ‘XO’ permit before the stipulated dateline”.
+-  Failure to Re-export the Temporarily Imported Goods before the Temporary Importation End-date: DD permit condition states that the “goods must be re-exported by (date)”.
+-  Failure to Re-export the Temporarily Imported Goods Using the Correct Permit: DD permit condition states that the “goods must be exported under a Customs ‘OO’, ‘OU’ or ‘XO’ permit before the stipulated date”.
 - Failure to Apply for Customs Supervision for Customs Outward Permit Container: D6/D7 permit condition states that an E-file application must be made to Company Compliance &amp; Audit Branch for supervision of stuffing of containers for export or for inspection of the goods.
 - Failure to Produce Goods Imported under the Temporary Import Scheme for customs clearance/endorsement at the checkpoints during import and export:
 	- Permit and hand-carried goods were not presented at the airport for customs clearance/endorsement.
@@ -134,7 +134,7 @@ You are accountable as a trader or Declaring Agent for the goods imported under 
 			<p> ✔ Ensure that a payment permit is taken up within 3 working days of any sale, disposal, transfer or expiry of the temporary import period (whichever is earlier).</p>
 			<p>✔ Ensure goods brought in under the TIS are re-exported no later than the temporary importation End-Date indicated on the approved Customs inward permit.</p>
 			<p>✔ Ensure that you comply with the permit conditions:</p>
-			<p>- DD condition – “Goods must be re-exported under a Customs ‘OO’, ‘OU’ or ‘XO’ permit before the stipulated deadline".</p>
+			<p>- DD condition – “Goods must be re-exported under a Customs ‘OO’, ‘OU’ or ‘XO’ permit before the stipulated date".</p>
 			<p> - D6 condition – “An E-file application must be made to Company Compliance Branch for supervision of stuffing of containers for export.”</p>
 			<p> - D7 condition – “An E-file application must be made to Company Compliance Branch for inspection of the goods.”</p>
 			<p>✔ Ensure you declare the correct permit type for goods to be re-exported under the TIS with the relevant supporting documents.</p>
