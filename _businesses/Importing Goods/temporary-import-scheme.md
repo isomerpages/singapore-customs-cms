@@ -85,7 +85,7 @@ Traders may be penalised under the Customs Act if they do not comply with the re
 - Application declared for non-qualifying goods (e.g. consumable goods) or non-qualifying purposes (e.g. rental).
 - Goods temporarily imported were declared under an incorrect declaration type (e.g. declared under INP(TCR) for repair instead of under INP(TCS) for goods for display at an exhibition).
 - Goods temporarily imported under a Customs inward permit for temporary import [e.g. INP(TCR)] were subsequently declared for re-export under an incorrect outward declaration type [e.g. OUT (Direct)], instead of the correct outward declaration type [e.g. OUT (TCR)].
-- Goods temporarily imported under a Customs inward permit for temporary import [e.g. INP(TCS)] were subsequently declared for re-export under an incorrect outward declaration for temporary export (i.e. OUT[TCI]), instead of the correct outward declaration type [e.g. OUT (TCS)]. 
+- Goods temporarily imported under a Customs inward permit for temporary import [e.g. INP(TCS)] were subsequently declared for re-export under an incorrect outward declaration for temporary export [i.e. OUT(TCI)], instead of the correct outward declaration type [e.g. OUT (TCS)]. 
 
 **Export Without a Customs Outward Permit**
 
