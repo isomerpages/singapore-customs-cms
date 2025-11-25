@@ -78,7 +78,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<a href="/businesses/certificates-of-origin/overview"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/businesses-overview/overview8.jpg"></a>
+<a href="/businesses/rules-of-origin/overview"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/businesses-overview/overview8.jpg"></a>
 </div>
 <p></p>
 </td>
