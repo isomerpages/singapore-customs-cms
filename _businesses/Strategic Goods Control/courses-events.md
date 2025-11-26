@@ -18,13 +18,13 @@ Singapore Customs actively conducts seminars to update the industry on the lates
 
 
 | Year | Events |
-| ------ | ------ |
-| **2025**  | [Joint Industry Outreach on Strategic Trade Management 2025](/joint-industry-outreach-on-strategic-trade-management-2025/){:target="_blank"} by Japan, Singapore and the United States. 4 November 2025, Shangri-La Singapore
+|--|--|
 
 ## Past Events
 
 | Year | Events |
 |--|--|
+| **2025**  | [Joint Industry Outreach on Strategic Trade Management 2025](/joint-industry-outreach-on-strategic-trade-management-2025/){:target="_blank"} by Japan, Singapore and the United States. 4 November 2025, Shangri-La Singapore
 | **2024** | [Joint Industry Outreach Seminar on Strategic Trade Management 2024](/joint-industry-outreach-on-strategic-trade-management-2024/){:target="_blank"}  by Japan, Singapore and the United States. 29 October 2024, Shangri-La Singapore |
 | **2023** | [Joint Industry Outreach Seminar on Strategic Trade Management 2023](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2023){:target="_blank"}  by Japan, Singapore and the United States. 3 August 2023, Shangri-La Singapore |
 | **2022** | [Joint Industry Outreach Seminar on Strategic Trade Management 2022](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2022){:target="_blank"}  by Japan, Singapore and the United States. 12 September 2022 - 13 September 2022, Shangri-La Singapore |
