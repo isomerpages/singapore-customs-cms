@@ -10,7 +10,7 @@ third_nav_title: Courses and Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/updated_JIO_2025.jpg">
 </div>
-<h4><strong>REGISTER NOW FOR THE VIRTUAL SESSION!</strong></h4>
+<h4><strong>REGISTER IS NOW CLOSED</strong></h4>
 <p><strong>The 13th Joint Industry Outreach Seminar on Strategic Trade Management</strong>
 </p>
 <p><strong>Co-organised by Singapore and Japan</strong>
