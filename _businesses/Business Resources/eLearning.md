@@ -410,7 +410,7 @@ information and updates.</p>
 <p>Free Trade Agreement (FTAs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/free-trade-agreements/ftas/overview" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+<p><a href="https://www.enterprisesg.gov.sg/grow-your-business/go-global/international-agreements/free-trade-agreements" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
 </p>
 <p></p>
 </td>
