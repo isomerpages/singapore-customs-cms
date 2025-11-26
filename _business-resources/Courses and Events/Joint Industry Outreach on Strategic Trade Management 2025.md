@@ -37,4 +37,79 @@ virtual registration is 25 October 2025.</p>
 <p>All successful and approved registrants will be notified via email and
 will receive an updated schedule and venue information.&nbsp;</p>
 <p></p>
+<h4>Presentation Materials:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/jio2025agenda" rel="noopener nofollow" target="_blank">Agenda</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><strong>Panel 1: Southeast Asian Regulatory Updates</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/jio2025my" rel="noopener nofollow" target="_blank">Malaysia's Regulatory Updates</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/jio2025sg" rel="noopener nofollow" target="_blank">Updates to Singapore’s Strategic Trade Controls</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/jio2025th" rel="noopener nofollow" target="_blank">Thailand’s Strategic Trade Control Regulatory Updates</a>
+</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Panel 2: Singapore Industry – Challenges and Best Practices</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/jio2025panel2" rel="noopener nofollow" target="_blank">Singapore IndustryChallenges and Best Practices</a>
+</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Panel 3: International Regulatory Updates</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/jio2025jp" rel="noopener nofollow" target="_blank">Update on Japan’s Export Controls</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/jio2025eu" rel="noopener nofollow" target="_blank">Update on EU Strategic Trade Controls</a>
+</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Full Videos of the Seminar</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.youtube.com/watch?v=irL8mawbhQw" rel="noopener nofollow" target="_blank">Welcome Speech + Panel 1</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Es6jQEJNoFU" rel="noopener nofollow" target="_blank">Panel 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=-Vv1L9acytU" rel="noopener nofollow" target="_blank">Panel 3</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=D-46jNsuvG4" rel="noopener nofollow" target="_blank">Closing</a>
+</p>
+</li>
+</ul>
+</li>
+</ol>
 <p></p>
