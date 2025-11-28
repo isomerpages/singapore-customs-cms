@@ -31,6 +31,7 @@ Companies may visit the  [Nanyang Polytechnic website](https://www.nyp.edu.sg/ad
 
 | Date | Title | Related Link |
 |---|---|---|
+|4 Nov 2025|Joint Industry Outreach Seminar on Strategic Trade Management 2025|[Web Link](/joint-industry-outreach-on-strategic-trade-management-2025/)|
 |29 Oct 2024|Joint Industry Outreach Seminar on Strategic Trade Management 2024|[Web Link](/joint-industry-outreach-on-strategic-trade-management-2024/)|
 |3 Aug 2023|Joint Industry Outreach Seminar on Strategic Trade Management 2023|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2023)|
 |12 Sep 2022 - 13 Sep 2022|Joint Industry Outreach Seminar on Strategic Trade Management 2022|[Web Link](/business-resources/courses-and-events/joint-industry-outreach-on-strategic-trade-management-2022)|
