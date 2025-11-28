@@ -17,8 +17,6 @@ Singapore Customs actively conducts seminars to update the industry on the lates
 ## Upcoming Events
 
 
-| Year | Events |
-|--|--|
 
 ## Past Events
 
