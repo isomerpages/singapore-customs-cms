@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Export of Rubber
 
-Companies that wish to deal, ship and/or pack rubber must apply for a rubber licence from Enterprise Singapore. To apply for a Rubber Licence, please visit [GoBusiness](https://gobusiness.gov.sg/login){:target="_blank"}.
+Companies that wish to deal, ship and/or pack rubber must apply for a rubber licence from Enterprise Singapore. To apply for a Rubber Licence, please visit [GoBusiness](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}.
 
 To export goods from Singapore, including rubber and rubber latex, companies must obtain a customs permit through TradeNet before the goods depart from Singapore. When submitting a customs permit application through TradeNet, all rubber shippers must indicate their valid rubber licence number in the “Licence” field. You must key in the number correctly, e.g. SS999 or DD999. If you declare through a freight forwarder, you should inform him of your valid rubber licence number.
 
