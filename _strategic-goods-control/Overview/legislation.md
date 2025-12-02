@@ -28,7 +28,7 @@ You may also wish to visit our [Frequently Asked Questions](/files/Frequently_As
 
 **Strategic Goods (Control) (Brokering) Order**
 
-Singapore has updated the categories of goods and technology which require a brokering registration in the  [Strategic Goods (Brokering) (Control) Order 2019](https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/662.pdf){:target="_blank"}, effective from 1 October 2019.
+Singapore has updated the categories of goods and technology which require a brokering registration in the  [Strategic Goods (Brokering) (Control) Order 2019](https://sso.agc.gov.sg/SL/SGCA2002-S534-2019?DocDate=20251001){:target="_blank"}, effective from 1 October 2019.
 
 **Useful Resources:**
 
