@@ -6,6 +6,12 @@ variant: markdown
 ---
 # Announcement 
 
+**2 Dec 2025**
+
+**Annual Declaration of Past Activities (ADPA) Exercise for Year 2025**
+
+The (ADPA) Exercise for Year 2025 will commence from 2 December 2025 to 31 January 2026. Companies that have engaged in controlled activities involving Schedule 1, 2, 3 and Unscheduled Discrete Organic Chemicals are required to submit their ADPA by 31 January 2026. Please complete the Declaration Cover for Reporting Template and the relevant declaration templates, which can be accessed from the [Chemical Weapons Convention Forms section on the Customs Forms and Service Links page](https://www.customs.gov.sg/eservices/customs-forms-and-service-links/).
+
 **1 Nov 2025**
 
 **Chemical Weapons Convention Licence Renewal Exercise for Year 2026**
