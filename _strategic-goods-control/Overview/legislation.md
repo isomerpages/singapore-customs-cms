@@ -16,11 +16,11 @@ The  [Strategic Goods (Control) Act (SGCA)](https://sso.agc.gov.sg/Act/SGCA2002)
 
 **Strategic Goods (Control) Regulations**
 
-The  [Strategic Goods (Control) Regulations (SGCR)](https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/661.pdf){:target="_blank"}  spell out the procedural guidelines to support the implementation of the SGCA – including facilitative permit procedures for legitimate activities and the conditions for approval, revocation, or suspension of the permits.
+The  [Strategic Goods (Control) Regulations (SGCR)](https://sso.agc.gov.sg/SL/SGCA2002-RG1?DocDate=20251001){:target="_blank"}  spell out the procedural guidelines to support the implementation of the SGCA – including facilitative permit procedures for legitimate activities and the conditions for approval, revocation, or suspension of the permits.
 
 **Strategic Goods (Control) Order**
 
-Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2025](https://assets.egazette.gov.sg/2025/Legislative%20Supplements/Subsidiary%20Legislation%20Supplement/660.pdf){:target="_blank"}, effective from 1 December 2025. 
+Singapore has updated its list of strategic goods and strategic goods technology in the [Strategic Goods (Control) Order 2025](https://sso.agc.gov.sg/SL/SGCA2002-S660-2025?DocDate=20251001){:target="_blank"}, effective from 1 December 2025. 
 
 You may refer to the [amendment table](/files/amendment_table.pdf){:target="_blank"} for more information on the changes made.
 
