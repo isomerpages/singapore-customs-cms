@@ -2,7 +2,7 @@
 title: Electronic Origin Data Exchange System (EODES) with China
 permalink: /businesses/rules-of-origin/eodes-with-china/
 third_nav_title: Rules of Origin
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h1>Electronic Origin Data Exchange System (EODES) with China</h1>
