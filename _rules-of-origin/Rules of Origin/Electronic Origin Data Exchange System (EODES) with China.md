@@ -30,6 +30,7 @@ the electronic PCO issued by China via the same e-service on NTP. ["Electronic
 Preferential Certificate of Origin transmitted to The People's Republic
 of China" &gt; inbound enquiry &gt; Electronic Preferential Certificate
 of origin ("ePCO")]</p>
-<p>For more information, please refer to Circular 19/2023 on the <a href="/files/news-and-media/Circular_19_2023_amended__29_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">updated procedure involving the Electronic Origin Data Exchange System (EODES)</a> between
-Singapore and China and the <a href="/files/businesses/ttsb-roo/Handbook_on_the_Transmission_and_Receipt_of_Electronic_Preferential_of_Origin_in_International_Connectivity_Service__ICS___14112025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on Transmission and Receipt of Electronic Preferential of Origin</a> via
+<p>For more information, please refer to Circular 19/2023 on the <a href="/files/news-and-media/Circular_19_2023__Ver_3_.pdf" rel="noopener nofollow" target="_blank">updated procedure involving the Electronic Origin Data Exchange System (EODES)</a> between
+Singapore and China, Circular 10/2025 on the <a href="/files/news-and-media/Circular_10_2025__Ver_1_.pdf" rel="noopener nofollow" target="_blank">Implementation of EODES between Singapore and China under the Regional Comprehensive Economic Partnership (RCEP)</a> and
+the <a href="/files/businesses/ttsb-roo/Handbook_on_the_Transmission_and_Receipt_of_Electronic_Preferential_of_Origin_in_International_Connectivity_Service__ICS___14112025_.pdf" rel="noopener nofollow" target="_blank">Handbook on Transmission and Receipt of Electronic Preferential of Origin</a> via
 Networked Trade Platform’s International Connectivity Service (ICS).</p>
