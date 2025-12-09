@@ -189,6 +189,7 @@ Refer to the [GEWD-regulated HS and Product Codes list](https://hscodechecker.go
 **Note:** GEWD will not approve permit applications submitted for any regulated &nbsp;goods that have already arrived in or departed from Singapore.
 
 **Penalties:** Unlicensed activities may result in imprisonment of up to five years and fines of up to $50,000 for individuals and up to $100,000 for companies.
+
 ***
 ### After Permit Application Approval
 
