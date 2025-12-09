@@ -163,6 +163,7 @@ q)&nbsp;&nbsp;&nbsp;&nbsp; CA/SC Product Quantity Unit
 **For non-GEWD regulated goods:** When importing, exporting or transhipping goods which are classified under GEWD's regulated HS Codes but are not regulated by GEWD, declare the relevant CA Product Code if the goods are regulated by another CA, or declare “MISC” if the goods are not regulated by any CA.
 
 Refer to the [GEWD-regulated HS and Product Codes list](https://hscodechecker.gobusiness.gov.sg/) for the full listing.
+
 ***
 
 ### Application Processing
