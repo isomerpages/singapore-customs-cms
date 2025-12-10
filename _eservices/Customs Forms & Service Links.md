@@ -124,7 +124,7 @@ Customs</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application Form to be an Approved Exporter</p>
+<p>Application Form to be an Approved Exporter under RCEP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/approved-exporter" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
@@ -144,8 +144,20 @@ Customs</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+	<td rowspan="1" colspan="1">
 <p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application Form to be an Approved Exporter under AANZFTA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/aanzfta-ae-reg" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Letter of Undertaking for Manufacturing Cost Statement</p>
@@ -157,7 +169,7 @@ Customs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Manufacturing Cost Statement Format</p>
@@ -169,7 +181,7 @@ Customs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for Manufacturer/New Product Line</p>
@@ -181,7 +193,7 @@ Customs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Authorisation to Declare and Transmit Certificate of Origin via EODES
@@ -194,7 +206,7 @@ to China</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Update to Manufacturer Registration Details</p>
@@ -744,32 +756,6 @@ Ethyl Alcohol, and Brew Sampling</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application for Certificate of Free Sale (CFS)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/cfsapplicationupdated" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CFS Application Form</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/cfsapplicationupdated" rel="noopener noreferrer nofollow" target="_blank">Word Doc</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Application for Customs Ruling on Classification of Goods</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -779,19 +765,19 @@ Ethyl Alcohol, and Brew Sampling</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.</p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Customs Ruling on Origin Determination of Imported Goods</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/#!/5cb03416bc22ae0010760c72" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
+<p><a href="https://go.gov.sg/origindetermination" rel="noopener noreferrer nofollow" target="_blank">Web Link</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Customs Ruling on Valuation</p>
@@ -803,7 +789,7 @@ Ethyl Alcohol, and Brew Sampling</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for Supervision Operations</p>
@@ -815,7 +801,7 @@ Ethyl Alcohol, and Brew Sampling</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Template for Letter of Undertaking for TradeNet Unavailability</p>

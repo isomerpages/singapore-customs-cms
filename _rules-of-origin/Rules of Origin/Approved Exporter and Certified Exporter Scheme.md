@@ -8,9 +8,10 @@ variant: markdown
 # Authorised Self -Certification Regimes 
 The authorised self-certification regime is a trade facilitation initiative under the selected Free Trade Agreements (FTA) which allow authorised exporters who have demonstrated their capacity to comply with the origin requirements to self-certify the originating status of their goods. This would bring about greater convenience to businesses by saving time and eliminating the need to obtain a Certificate of Origin (CO). 
  
-There are currently 2 authorised self-certification regimes administered by Singapore Customs. 
+There are currently 3 authorised self-certification regimes administered by Singapore Customs. 
 -	ASEAN Wide Self Certification (AWSC) scheme under the ASEAN Trade in Good Agreement (ATIGA)
 -	Approved Exporter Scheme under the Regional Comprehensive Economic Partnership Agreement (RCEP)
+-	Approved Exporter Scheme under 2nd Protocol of the ASEAN-Australia-New Zealand Free Trade Area (AANZFTA)
 
 # Benefits of Authorised Self-Certification Regimes
 
@@ -24,18 +25,18 @@ Exporters are required to apply to be part of the Authorised Self- Certification
 ## Step 1 – Eligibility 
 
 -	Exporters and exporters exporting goods in a back-to-back arrangement (B2B);
--	Know and understand the Rules of Origin in the RCEP and ATIGA and has shown a substantial amount of experience in export procedures;
+-	Know and understand the Rules of Origin in the RCEP, AANZFTA and ATIGA and has shown a substantial amount of experience in export procedures;
 -	Has no record of any Rules of Origin fraud and at the same time, has shown good compliance as measured by risk management rules;
 -	Has a sound bookkeeping and record-keeping system;
 -	Exporter must have a “manufacturer’s declaration”, and the manufacturer must be ready for a retroactive check and verification should the need arise.
 
-*For more details, please refer to the [ATIGA Operational Certification Procedures (OCP) Rule 12A Article 2](https://www.enterprisesg.gov.sg/-/media/esg/files/non-financial-assistance/for-companies/free-trade-agreements/asean-fta/legal-text/AFTA_Annex8_Amended_ATIGA_OCP_to_allow_AWSC_from_20Sep2020.pdf) and [RCEP Operational Certification Procedures (OCP) Article 3.21](https://www.mti.gov.sg/-/media/MTI/Microsites/RCEP/All-Chapters-and-Market-Access-Annexes/Chapter-Text/Chapter-3.pdf?la=en&hash=766D21BE82A0AF4073B5902A6A489BEEFBEC62DB)*
+*For more details, please refer to the [ATIGA Operational Certification Procedures (OCP) Rule 12A Article 2](https://www.enterprisesg.gov.sg/-/media/esg/files/non-financial-assistance/for-companies/free-trade-agreements/asean-fta/legal-text/AFTA_Annex8_Amended_ATIGA_OCP_to_allow_AWSC_from_20Sep2020.pdf), [RCEP Operational Certification Procedures (OCP) Article 3.21](/files/businesses/ttsb-roo/RCEP_Chapter_3__1_.pdf) and [AANZFTA Operational Certification Procedures Rule 15 Annex 3A ](https://www.enterprisesg.gov.sg/-/media/esg/files/non-financial-assistance/for-companies/free-trade-agreements/AANZFTA/AANZFTA-2nd-Protocol-Annex-3-A)*
 
 ## Step 2 – Apply and register with us as an Approved/Certified Exporter
 
 ![](/images/step 2.png)
 
-Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://go.gov.sg/certified-exporter)to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://go.gov.sg/approved-exporter).
+Submit the [“Application Form to be a AE/CE under RCEP/AWSC”](https://go.gov.sg/certified-exporter) to Singapore Customs. Please note that all CE under AWSC are auto approved to be an AE under RCEP. If you wish to be only authorized as an AE under RCEP, you may wish to submit the [“Application Form to be an Approved Exporter”](https://go.gov.sg/approved-exporter). If you wish to be only authorized as an AE under 2nd Protocol of the AANZFTA, you may wish to submit via ["Application Form to be an Approved Exporter under AANZFTA"](https://go.gov.sg/aanzfta-ae-reg).
 
 The applicant/company will be informed of the outcome of the application within 7 working days from the date of receipt of the application form. If the application to be an AE and/or CE is successful, an Authorisation Letter will be issued to the company.
 
