@@ -136,7 +136,7 @@ for.</p>
 </p>
 <p>For Free Trade Agreements that require Certification by Customs Authority,
 you may refer to the following guide on <a href="/businesses/rules-of-origin/how-to-apply-for-oco-or-pco/" rel="noopener noreferrer nofollow" target="_blank">How to apply for OCO or PCO with Singapore Customs</a>.</p>
-<p>You may refer to <a href="/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2024__clean_.pdf" rel="noopener noreferrer nofollow" target="_blank">Handbook on rules of origin for preferential Certificates of Origin</a> for
+<p>You may refer to <a href="/files/businesses/ttsb-roo/Handbook_on_ROO_for_PCO_Dec2025__clean_.pdf" rel="noopener nofollow" target="_blank">Handbook on rules of origin for preferential Certificates of Origin</a> for
 more information on the rules of origin for preferential COs issued under
 Free Trade Agreements.</p>
 <p>You may use the <a href="/files/businesses/FTACostStatementCalculatorBetaVer30112015.xlsm" rel="noopener noreferrer nofollow" target="_blank">FTA Cost Statement Calculator</a> for
