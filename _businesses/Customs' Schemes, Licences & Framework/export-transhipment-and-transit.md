@@ -77,8 +77,8 @@ enjoy greater certainty and efficiency in their operations.</p>
 <p>To qualify for the Bulk Permit, you must:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Be a <a href="https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct" rel="noopener noreferrer nofollow" target="_blank">registered</a>{:target="_blank"}
-trader with Singapore Customs</p>
+<p>Be a <a href="https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct" rel="noopener noreferrer nofollow" target="_blank">registered</a> trader
+with Singapore Customs</p>
 </li>
 <li>
 <p>Have good compliance records</p>
