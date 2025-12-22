@@ -52,6 +52,6 @@ The approved AE/CE registration is valid for 3 years. Upon approval of the appli
 
 Need more information on how the various scheme work, the benefits, and the criteria for companies to become an AE/CE. Here are some resources which might be useful: 
 
-- Our latest [handbook](/files/businesses/ttsb-roo/Handbook_on_the_implementation_of_the_Authorised_Self_Certification_Regime_V3_Dec2024.pdf). 
+- Our latest [handbook](/files/businesses/ttsb-roo/Handbook_on_the_implementation_of_the_Authorised_Self_Certification_Regime_V3.pdf). 
 
 -  [Infographic](https://asean.org/wp-content/uploads/2012/05/SCAROO33_anx11b_ag05.1.3d_AWSC-Infographics-14042020.pdf) and [brochure](https://asean.org/wp-content/uploads/2012/05/04-AWSC-Brochure.pdf) by [ASEAN](https://app.awsc.asean.org/) on AWSC.
