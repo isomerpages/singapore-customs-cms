@@ -291,7 +291,7 @@ information and updates.</p>
 <p>No.</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/businesses/certificates-of-origin/overview" rel="noopener noreferrer nofollow" target="_blank">Ordinary CO</a>
+<p><a href="/businesses/rules-of-origin/overview" rel="noopener noreferrer nofollow" target="_blank">Ordinary CO</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -386,7 +386,7 @@ information and updates.</p>
 <p>Application for Registration as a Manufacturer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/eservices/SC-A-006_v11.doc" rel="noopener noreferrer nofollow" target="_blank">PDF</a>
+<p><a href="https://go.gov.sg/mfr" rel="noopener noreferrer nofollow" target="_blank">Word Doc</a>
 </p>
 </td>
 </tr>
