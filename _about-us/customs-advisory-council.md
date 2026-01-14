@@ -32,7 +32,7 @@ SAAA@Singapore
 Chief Executive Officer <br>
 CMA CGM Asia Pacific Limited <br>
 
-**Mr Goh Puay Guan**  
+**Dr Goh Puay Guan**  
 Associate Professor  
 National University of Singapore
 
