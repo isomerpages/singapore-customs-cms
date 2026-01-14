@@ -35,7 +35,7 @@ This list shows the various Customs facilitation and schemes under each TradeFIR
     -   [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
     -   [TradeNet Account](/businesses/national-single-window/overview/what-you-need-to-know-about-tradenet)
     -   [Cargo Agent’s Import Authorisation Scheme](/businesses/customs-schemes-licences-framework/cargo-agents-import-authorisation-caia-scheme)
-    -   [Certificate of Origin](/businesses/certificates-of-origin/overview)
+    -   [Certificate of Origin](https://www.customs.gov.sg/businesses/rules-of-origin/how-to-apply-for-oco-or-pco/)
     
 -   **Standard Band**
 
