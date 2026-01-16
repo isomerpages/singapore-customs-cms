@@ -25,7 +25,7 @@ Traders may refer to the following information to develop or improve their busin
 -   [Importing of Goods](/businesses/importing-goods/import-procedures/)
 -   [Exporting of Goods](/businesses/exporting-goods/export-procedures)
 -   [Transhipment of Goods](/businesses/transhipping-goods/transhipment-procedures)
--   [Rules of Origin](/businesses/certificates-of-origin/overview)
+-   [Rules of Origin](/businesses/rules-of-origin/how-to-apply-for-oco-or-pco/)
 -   [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
 -   [Licensed Warehouse Scheme](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
 -   [Chemical Weapons (Prohibition) Act](/businesses/chemical-weapons-convention/offences)

@@ -28,7 +28,7 @@ Traders may refer to the links below for information on specific offences and th
 -   [Importing of Goods](/businesses/importing-goods/import-procedures/)
 -   [Exporting of Goods](/businesses/exporting-goods/export-procedures)
 -   [Transhipping of Goods](/businesses/transhipping-goods/transhipment-procedures)
--   [Rules of Origin](/businesses/certificates-of-origin/overview)
+-   [Rules of Origin](/businesses/rules-of-origin/how-to-apply-for-oco-or-pco/)
 -   [Temporary Import Scheme](/businesses/importing-goods/temporary-import-scheme)
 -   [Licensed Warehouse Scheme](/businesses/customs-schemes-licences-framework/licensed-warehouse-scheme)
 -   [Strategic Goods (Control) Act](/businesses/strategic-goods-control-1/overview/enforcement)
