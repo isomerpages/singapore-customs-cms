@@ -33,4 +33,4 @@ Please obtain written approval from NParks/AVS prior to the import of geneticall
 
 Please comply with all conditions stated in the Cargo Clearance Permit (CCP).
 
-4) You may refer to [Ornamental fish (nparks.gov.sg)](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish){:target="_blank"} for more details on the import or export of ornamental fish and the Ornamental Fish Product Code List.
+4) You may refer to [AVS website](https://avs.nparks.gov.sg/businesses/commercial-importers-exporters/animals/ornamental-fish/){:target="_blank"} for more details on the import or export of ornamental fish and the Ornamental Fish Product Code List.
