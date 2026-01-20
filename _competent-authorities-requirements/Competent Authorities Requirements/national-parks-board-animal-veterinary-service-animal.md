@@ -23,4 +23,4 @@ variant: markdown
 
 Refer to  [HS/CA Product Code Search Engine](https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do){:target="blank"} for the Controlled Product Code List.
 
-3) For more information on permit and licence requirements, please visit [Pets (nparks.gov.sg)](https://www.nparks.gov.sg/avs/pets) or contact us via our [feedback form](https://www.nparks.gov.sg/contact-us){:target="blank"}.
+3) For more information on permit and licence requirements, please visit [AVS website](https://avs.nparks.gov.sg/pets/) or contact us via our [feedback form](https://www.nparks.gov.sg/contact-us){:target="blank"}.
