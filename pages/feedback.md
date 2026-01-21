@@ -9,7 +9,7 @@ variant: markdown
 
 | *For Traders* | *For Travellers* | *General Enquiries & Feedback*|
 |---------|---------|----------|
-| [Certificate of Origin](https://form.gov.sg/5e7025bbbce24a0011937cbd) |[Singapore Customs Feedback Form for Travellers](https://go.gov.sg/travellers-feedback)   | [Networked Trade Platform](https://www.ntp.gov.sg/public/helpdesk/singapore-customs) |  
+| [For certificate of origin matters, please email customs_roo@customs.gov.sg] |[Singapore Customs Feedback Form for Travellers](https://go.gov.sg/travellers-feedback)   | [Networked Trade Platform](https://www.ntp.gov.sg/public/helpdesk/singapore-customs) |  
 | [Classification of Goods](https://go.gov.sg/classification-of-goods-enquiries) | [Travellers entering Singapore](https://go.gov.sg/travellers)   |   [Career with Customs](https://form.gov.sg/#!/5e95759978a996001146a677)   | 
 |  [Refunds](https://go.gov.sg/feedback-refund)       | [Tourist Refund](https://go.gov.sg/tourist-refund) | [Subscribe/Unsubscribe to Strategic Trade Control Mailing List](https://form.gov.sg/687f01902c4323d9f3d86d35)| 
 |  [Schemes & Licences](https://form.gov.sg/5e9e51cf1e9ed20011c75f2a)  | | [Enquiries on Customs Documentation]( https://go.gov.sg/customs-doc)|  
