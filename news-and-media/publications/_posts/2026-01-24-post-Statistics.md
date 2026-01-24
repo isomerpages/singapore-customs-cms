@@ -1,6 +1,6 @@
 ---
 title: Statistics
-date: 2026-01-09
+date: 2026-01-24
 permalink: /news-and-media/publications/statistics/
 layout: post
 description: ""
