@@ -6,7 +6,7 @@ variant: markdown
 ---
 # National Parks Board/Animal & Veterinary Service (Ornamental Fish)
 
-1) The National Parks Board (NParks)/Animal & Veterinary Service (AVS), Industry Standards & Regulatory Division, Licensing Branch regulates the import and export of ornamental fish. The import of piranhas into Singapore is prohibited.
+1) The National Parks Board (NParks)/Animal & Veterinary Service (AVS) regulates the import and export of ornamental fish. The import of piranhas into Singapore is prohibited.
 
 2) Please follow the steps below for the import and export of ornamental fish:
 
