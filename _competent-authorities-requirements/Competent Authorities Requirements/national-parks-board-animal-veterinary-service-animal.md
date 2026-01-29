@@ -6,7 +6,7 @@ variant: markdown
 ---
 # National Parks Board/Animal & Veterinary Service (Animal)
 
-1) The National Parks Board (NParks)/Animal & Veterinary Service (AVS), Industry Standards & Regulatory Division, Licensing Branch regulates the import, export and transhipment of live animals, birds, veterinary biologics, animal feed for non-food producing animals and animal products.
+1) The National Parks Board (NParks)/Animal & Veterinary Service (AVS) regulates the import, export and transhipment of live animals, birds, veterinary biologics, animal feed for non-food producing animals and animal products.
 
 2) TradeNet Declaration
 
