@@ -126,9 +126,7 @@ the various types of goods:</p>
 <td rowspan="1" colspan="1">
 <p><strong>All other goods excluding those listed below:</strong> 
 <br>
-<br>Goods under Hand-Carried Exports Scheme (HCES) exempted by Comptroller
-of GST from advance submission of export permit
-<br>
+
 <br>Bulk petroleum products and chemicals by sea
 <br>
 <br>Steel bars</p>
