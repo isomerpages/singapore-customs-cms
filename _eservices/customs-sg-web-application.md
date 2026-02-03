@@ -4,7 +4,7 @@ permalink: /eservices/customs-sg-web-application/
 variant: tiptap
 ---
 <h1>Customs@SG</h1>
-<h2>About Customs@SG</h2>
+<h4>The Customs@SG web app will be undergoing scheduled maintenance on 12 February 2026, Thursday, from 2.30pm to 7.30pm. You will not be able to submit any declaration during this time. We apologise for any inconvenience caused.</h4>
 <p>The <a href="https://m.customs.gov.sg/CustomsTravellerPortal" rel="noopener noreferrer nofollow" target="_blank">Custom@SG Web Application</a> is
 a convenient way for travellers to declare and pay duty and/or Goods and
 Services Tax (GST) on their overseas purchases anytime, anywhere, before
