@@ -31,7 +31,7 @@ variant: markdown
 | **Re-Export** <br>   Re-exportation of the entire import consignment via the same or different FTZ (not applicable to goods subject to export control by Competent Authorities) | REX | 
 | **Shut-Out** <br>  Return of shut-out dutiable and non-dutiable cargoes from a FTZ to licensed warehouse and zero-GST warehouse respectively <br>  Return of local, GST-paid shut-out non-dutiable cargoes from a FTZ to local warehouse | SHO | 
 
-You may also wish to view the [complete list](http://www.customs.gov.sg/files/businesses/PSB/TN Team/Types_of_Permit_Applications__updated_1_Jan_2025_.pdf) of permit declaration types.
+You may also wish to view the [complete list](http://www.customs.gov.sg/files/businesses/PSB/TNTeam/Types_of_Permit_Applications__updated_1_Jan_2025_.pdf) of permit declaration types.
 
 ## TradeNet Unavailability
 
