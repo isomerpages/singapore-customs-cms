@@ -13,7 +13,7 @@ variant: markdown
 |              | Temporary Consignments <br>Export of Goods under Temporary Import Scheme \(TIS\)<br>- For exhibition with sales or auctions <br>- For other purposes <br>- For repair <br>- Re-imported goods      | <br><br>TCS<br>TCO<br> TCR<br> TCI |
 
 
-Obtain a  [complete list](http://www.customs.gov.sg/files/businesses/PSB/TNTeam/Types_of_Permit_Applications__updated_1_Jan_2025_.pdf) of TradeNet permit declaration types.
+Obtain a  [complete list](https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/Types_of_Permit_Applications__updated_1_Jan_2025_.pdf) of TradeNet permit declaration types.
 
 All Customs permit applications must be submitted via TradeNet, accessible through:
 
