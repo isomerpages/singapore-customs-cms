@@ -32,6 +32,10 @@ SAAA@Singapore
 Chief Executive Officer <br>
 CMA CGM Asia Pacific Limited <br>
 
+**Ms Doreen Chai** <br>
+Vice President, Business Development &amp; Customer Service<br>
+GKE, Logistics Division <br>
+
 **Dr Goh Puay Guan**  
 Associate Professor  
 National University of Singapore
