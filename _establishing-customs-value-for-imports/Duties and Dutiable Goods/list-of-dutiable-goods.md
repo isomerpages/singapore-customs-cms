@@ -1222,7 +1222,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$491.00 per kgm</p>
+<p>$589.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1307,7 +1307,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$491.00 per kgm</p>
+<p>$589.00 per kgm</p>
 </td>
 </tr>
 <tr>
