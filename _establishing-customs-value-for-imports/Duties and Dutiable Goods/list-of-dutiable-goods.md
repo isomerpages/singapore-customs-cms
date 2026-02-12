@@ -9,7 +9,7 @@ variant: tiptap
 respective duty rates imposed on the goods.</p>
 <p>The listing of duty rates is not an indication of the possible prohibitions
 placed on the goods. For list of Prohibited and Controlled Goods, please
-click <a href="/individuals/going-through-customs/arrivals/prohibited-and-controlled-goods" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+click <a href="https://www.customs.gov.sg/individuals/going-through-customs/arrivals/prohibited-and-controlled-goods" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -950,7 +950,7 @@ strength exceeding 1.14% vol but less than 80% vol</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -965,7 +965,7 @@ cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -979,7 +979,7 @@ cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -993,7 +993,7 @@ cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1007,7 +1007,7 @@ cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1022,7 +1022,7 @@ flue cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1037,7 +1037,7 @@ not flue cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1051,7 +1051,7 @@ not flue cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1065,7 +1065,7 @@ not flue cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1080,7 +1080,7 @@ cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1095,7 +1095,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1109,7 +1109,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1123,7 +1123,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1137,7 +1137,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1151,7 +1151,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$454.00 per kgm</p>
+<p>$378.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1165,7 +1165,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>58.9 cents for every gram or part thereof of each stick of cigarette</p>
+<p>49.1 cents for every gram or part thereof of each stick of cigarette</p>
 </td>
 </tr>
 <tr>
@@ -1179,7 +1179,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>58.9 cents for every gram or part thereof of each stick of cigarette</p>
+<p>49.1 cents for every gram or part thereof of each stick of cigarette</p>
 </td>
 </tr>
 <tr>
@@ -1193,7 +1193,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1207,7 +1207,7 @@ flue-cured</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>58.9 cents for every gram or part thereof of each stick of cigarette</p>
+<p>49.1 cents for every gram or part thereof of each stick of cigarette</p>
 </td>
 </tr>
 <tr>
@@ -1222,7 +1222,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1237,7 +1237,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1251,7 +1251,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$454.00 per kgm</p>
+<p>$378.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1265,7 +1265,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1279,7 +1279,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$535.00 per kgm</p>
+<p>$446.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1293,7 +1293,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$454.00 per kgm</p>
+<p>$378.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1307,7 +1307,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1321,7 +1321,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1335,7 +1335,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1349,7 +1349,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1363,7 +1363,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1377,7 +1377,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$454.00 per kgm</p>
+<p>$378.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1391,7 +1391,7 @@ for retail sale</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1406,7 +1406,7 @@ without combustion</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -1421,7 +1421,7 @@ combustion</p>
 <p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$589.00 per kgm</p>
+<p>$491.00 per kgm</p>
 </td>
 </tr>
 <tr>
@@ -9137,5 +9137,5 @@ and electric motor</p>
 </tr>
 </tbody>
 </table>
-<p>Download full List of Dutiable Goods <a href="https://go.gov.sg/dutiableitems" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Download full List of Dutiable Goods <a href="https://go.gov.sg/dutiableitems" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
